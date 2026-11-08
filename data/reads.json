@@ -912,5 +912,25 @@
 "people": [],
 "model": "gemini-3.5-flash-lite",
 "ts": "2026-10-30T23:50:10"
+},
+"106838688": {
+"category": "management_change",
+"headline": "Sanjay D’Souza retires as Group Head – Business Banking, Emerging & Micro Enterprises Group",
+"why": "Departure of a key executive responsible for the bank's SME business after 27 years of service.",
+"materiality": 40,
+"amount_cr": null,
+"people": [
+{
+"name": "Sanjay D’Souza",
+"role": "Group Head – Business Banking, Emerging & Micro Enterprises Group",
+"change": "retired",
+"effective": "2026-10-31",
+"background": "Associated with the bank for nearly 27 years, serving as a key architect of the bank's SME business across Credit and Business functions.",
+"previous": "Group Head – Business Banking, Emerging & Micro Enterprises Group",
+"reason": "superannuation"
+}
+],
+"model": "gemini-3.1-flash-lite",
+"ts": "2026-10-31T22:16:44"
 }
 }

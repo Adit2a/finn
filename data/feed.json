@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T22:49:22",
+ "generated_at": "2026-11-08T17:20:27",
  "window_days": 30,
  "holdings": [
   {
@@ -11564,24 +11564,6 @@
    "label": "Management"
   },
   {
-   "id": "106838688",
-   "symbol": "HDFCBANK",
-   "company": "HDFC Bank Limited",
-   "category": "management_change",
-   "headline": "Change in Management",
-   "why": null,
-   "score": 55,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK3_31102026221631_SE_INTIMATION-_Sanjay_Dsouza.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Change in Management",
-   "ts": "2026-10-31T22:16:44",
-   "related": [],
-   "tier": "glance",
-   "label": "Management"
-  },
-  {
    "id": "106818480",
    "symbol": "TCS",
    "company": "Tata Consultancy Services Limited",
@@ -11616,6 +11598,34 @@
    "related": [],
    "tier": "glance",
    "label": "Fund raise"
+  },
+  {
+   "id": "106838688",
+   "symbol": "HDFCBANK",
+   "company": "HDFC Bank Limited",
+   "category": "management_change",
+   "headline": "Sanjay D’Souza retires as Group Head – Business Banking, Emerging & Micro Enterprises Group",
+   "why": "Departure of a key executive responsible for the bank's SME business after 27 years of service.",
+   "score": 49,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK3_31102026221631_SE_INTIMATION-_Sanjay_Dsouza.pdf",
+   "people": [
+    {
+     "name": "Sanjay D’Souza",
+     "role": "Group Head – Business Banking, Emerging & Micro Enterprises Group",
+     "change": "retired",
+     "effective": "2026-10-31",
+     "background": "Associated with the bank for nearly 27 years, serving as a key architect of the bank's SME business across Credit and Business functions.",
+     "previous": "Group Head – Business Banking, Emerging & Micro Enterprises Group",
+     "reason": "superannuation"
+    }
+   ],
+   "read_by": "gemini-3.1-flash-lite",
+   "subject": "Change in Management",
+   "ts": "2026-10-31T22:16:44",
+   "related": [],
+   "tier": "glance",
+   "label": "Management"
   },
   {
    "id": "106832710",
@@ -15619,13 +15629,13 @@
   ]
  },
  "llm": {
-  "calls": 50,
-  "cached": 50,
-  "in": 100782,
-  "out": 8627,
+  "calls": 1,
+  "cached": 1,
+  "in": 1116,
+  "out": 218,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.1-flash-lite"
   ],
-  "remembered": 0
+  "remembered": 50
  }
 }
