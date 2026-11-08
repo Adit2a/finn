@@ -1,0 +1,15 @@
+# Render Blueprint: free web service built from the Dockerfile.
+# Render redeploys automatically on every push, including the daily data refresh.
+services:
+  - type: web
+    name: finn
+    runtime: docker
+    plan: free
+    region: singapore
+    autoDeploy: true
+    healthCheckPath: /api/status
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false   # entered once in the Render dashboard; never stored in the repo
+      - key: GROQ_API_KEY
+        sync: false

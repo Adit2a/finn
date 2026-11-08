@@ -1,7 +1,7 @@
 name: Daily refresh
 
 # After every NSE session: rebuild the brief, send Telegram alerts, save the new data to the
-# repo (so nothing is lost when the free host restarts) and redeploy the Space with it.
+# repo (so nothing is lost when the free host restarts); the push triggers a redeploy on Render.
 on:
   schedule:
     - cron: "15 11 * * 1-5"   # 16:45 IST, Monday-Friday
@@ -33,7 +33,7 @@ jobs:
           key: finn-cache-${{ github.run_id }}
           restore-keys: finn-cache-
 
-      - run: pip install -r requirements.txt huggingface_hub
+      - run: pip install -r requirements.txt
 
       - name: Rebuild brief and send alerts
         env:
@@ -51,9 +51,3 @@ jobs:
           git add data/
           git diff --cached --quiet || git commit -m "data: refresh $(date -u +%F)"
           git push
-
-      - name: Redeploy the Space with fresh data
-        if: ${{ vars.HF_SPACE != '' }}
-        env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: python scripts/deploy_hf.py --space "${{ vars.HF_SPACE }}"
