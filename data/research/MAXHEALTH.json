@@ -1,0 +1,1219 @@
+{
+ "symbol": "MAXHEALTH",
+ "name": "Max Healthcare Institute Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:34:20",
+ "latest_call": "Aug 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 90130.0,
+   "pe": 63.4,
+   "roce": 14.7,
+   "roe": 14.7,
+   "ttm_revenue": 9146.0,
+   "ttm_pat": 1381.0,
+   "margin_latest_q": 28.0,
+   "de": 0.33,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 1868.0,
+    "rev_yoy": 39.9,
+    "op_profit": 499.0,
+    "margin": 27.0,
+    "ebit_margin": 21.5,
+    "pat": 239.0,
+    "pat_yoy": -17.3
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 1910.0,
+    "rev_yoy": 34.2,
+    "op_profit": 512.0,
+    "margin": 27.0,
+    "ebit_margin": 21.5,
+    "pat": 319.0,
+    "pat_yoy": 26.6
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 2028.0,
+    "rev_yoy": 31.4,
+    "op_profit": 523.0,
+    "margin": 26.0,
+    "ebit_margin": 20.7,
+    "pat": 308.0,
+    "pat_yoy": 30.5
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 2135.0,
+    "rev_yoy": 25.1,
+    "op_profit": 575.0,
+    "margin": 27.0,
+    "ebit_margin": 21.9,
+    "pat": 491.0,
+    "pat_yoy": 74.1
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 2068.0,
+    "rev_yoy": 10.7,
+    "op_profit": 538.0,
+    "margin": 26.0,
+    "ebit_margin": 20.6,
+    "pat": 301.0,
+    "pat_yoy": 25.9
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 2143.0,
+    "rev_yoy": 12.2,
+    "op_profit": 606.0,
+    "margin": 28.0,
+    "ebit_margin": 22.5,
+    "pat": 342.0,
+    "pat_yoy": 7.2
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 2366.0,
+    "rev_yoy": 16.7,
+    "op_profit": 598.0,
+    "margin": 25.0,
+    "ebit_margin": 19.7,
+    "pat": 323.0,
+    "pat_yoy": 4.9
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 2569.0,
+    "rev_yoy": 20.3,
+    "op_profit": 711.0,
+    "margin": 28.0,
+    "ebit_margin": 22.3,
+    "pat": 414.0,
+    "pat_yoy": -15.7
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 1059.0,
+    "op_profit": 94.0,
+    "margin": 9.0,
+    "pat": 59.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 2508.0,
+    "op_profit": 407.0,
+    "margin": 16.0,
+    "pat": -138.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 3937.0,
+    "op_profit": 951.0,
+    "margin": 24.0,
+    "pat": 605.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 4563.0,
+    "op_profit": 1241.0,
+    "margin": 27.0,
+    "pat": 1104.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 5406.0,
+    "op_profit": 1493.0,
+    "margin": 28.0,
+    "pat": 1058.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 7028.0,
+    "op_profit": 1849.0,
+    "margin": 26.0,
+    "pat": 1076.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 8373.0,
+    "op_profit": 2243.0,
+    "margin": 27.0,
+    "pat": 1442.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 22.4,
+   "rev_cagr_5y": 27.3,
+   "pat_cagr_3y": 9.3,
+   "pat_cagr_5y": null,
+   "margin_change_3y_bps": 0
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 913.0,
+    "equity": 6283.0,
+    "de": 0.15
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 689.0,
+    "equity": 7410.0,
+    "de": 0.09
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 1299.0,
+    "equity": 8408.0,
+    "de": 0.15
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 3010.0,
+    "equity": 9381.0,
+    "de": 0.32
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 3478.0,
+    "equity": 10747.0,
+    "de": 0.32
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 3795.0,
+    "equity": 11332.0,
+    "de": 0.33
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     53.0
+    ],
+    [
+     "Mar 2022",
+     36.0
+    ],
+    [
+     "Mar 2023",
+     27.0
+    ],
+    [
+     "Mar 2024",
+     31.0
+    ],
+    [
+     "Mar 2025",
+     36.0
+    ],
+    [
+     "Mar 2026",
+     42.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     34.0
+    ],
+    [
+     "Mar 2022",
+     24.0
+    ],
+    [
+     "Mar 2023",
+     30.0
+    ],
+    [
+     "Mar 2024",
+     26.0
+    ],
+    [
+     "Mar 2025",
+     26.0
+    ],
+    [
+     "Mar 2026",
+     23.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     274.0
+    ],
+    [
+     "Mar 2022",
+     174.0
+    ],
+    [
+     "Mar 2023",
+     212.0
+    ],
+    [
+     "Mar 2024",
+     207.0
+    ],
+    [
+     "Mar 2025",
+     198.0
+    ],
+    [
+     "Mar 2026",
+     175.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     -187.0
+    ],
+    [
+     "Mar 2022",
+     -114.0
+    ],
+    [
+     "Mar 2023",
+     -155.0
+    ],
+    [
+     "Mar 2024",
+     -149.0
+    ],
+    [
+     "Mar 2025",
+     -136.0
+    ],
+    [
+     "Mar 2026",
+     -110.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -44.0
+    ],
+    [
+     "Mar 2022",
+     -24.0
+    ],
+    [
+     "Mar 2023",
+     -46.0
+    ],
+    [
+     "Mar 2024",
+     -43.0
+    ],
+    [
+     "Mar 2025",
+     -46.0
+    ],
+    [
+     "Mar 2026",
+     -41.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 118.0,
+    "pat": -138.0,
+    "fcf": 1.0,
+    "conv": null
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 741.0,
+    "pat": 605.0,
+    "fcf": 192.0,
+    "conv": 1.22
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 1209.0,
+    "pat": 1104.0,
+    "fcf": 877.0,
+    "conv": 1.1
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 1122.0,
+    "pat": 1058.0,
+    "fcf": 342.0,
+    "conv": 1.06
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 1438.0,
+    "pat": 1076.0,
+    "fcf": 500.0,
+    "conv": 1.34
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 1633.0,
+    "pat": 1442.0,
+    "fcf": 165.0,
+    "conv": 1.13
+   }
+  ],
+  "cash_conv_5y": 1.16,
+  "flags": [
+   {
+    "tone": "bad",
+    "text": "Profit lagging sales over 3y (9.3% vs 22.4%): margins under pressure"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 116% of profit"
+   },
+   {
+    "tone": "bad",
+    "text": "Borrowings 2.9x in 3 years (₹1,299 → ₹3,795 cr)"
+   },
+   {
+    "tone": "bad",
+    "text": "Cash cycle stretched by 39 days in 2 years (-149 → -110)"
+   },
+   {
+    "tone": "good",
+    "text": "Revenue growth accelerating (11% → 12% → 17% → 20%)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7a905df4-c8df-4945-8494-e060944ce284.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b765c0b2-67cc-4aea-91e7-7bffcbeff79b.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=32d9c73a-07ea-42f8-bffa-14ed214222b7.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=922086cc-1e96-40b8-966b-547204ed8364.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ff687278-4b63-403b-ab82-e9ae0259eead.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7a905df4-c8df-4945-8494-e060944ce284.pdf",
+   "pages": 23,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Deploy around INR 1100 crore network capex in the second half of FY26",
+     "horizon": "H2 FY26",
+     "low": 1100,
+     "high": 1100,
+     "unit": "cr",
+     "quote": "A bit higher probably. Hopefully around INR 1,100 crore.",
+     "page": 20,
+     "speaker": "Yogesh Sareen",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "revenue",
+     "promise": "Expect a favourable revenue impact of over INR 200 crore from full implementation of CGHS price revisions",
+     "horizon": "FY27",
+     "low": 200,
+     "high": 200,
+     "unit": "cr",
+     "quote": "we expect a favourable impact of over INR 200 crore once fully implemented.",
+     "page": 3,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "orders",
+     "promise": "Complete the Max Lucknow hospital capacity increase to 550 beds by end of this financial year",
+     "horizon": "End of FY26",
+     "low": 550,
+     "high": 550,
+     "unit": "units",
+     "quote": "we expect this to increase to 550 beds by end of this financial year.",
+     "page": 5,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "orders",
+     "promise": "Complete the 400 beds at Zirakpur, Mohali project by end of calendar year 2027",
+     "horizon": "End of CY 2027",
+     "low": 400,
+     "high": 400,
+     "unit": "units",
+     "quote": "Project is continuing faster than anticipated and is now expected to be completed by end of calendar year 2027.",
+     "page": 5,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g1.4"
+    },
+    {
+     "metric": "orders",
+     "promise": "Complete the 397 beds at Patparganj project by FY28",
+     "horizon": "FY28",
+     "low": 397,
+     "high": 397,
+     "unit": "units",
+     "quote": "The project is expected to be completed by FY '28.",
+     "page": 5,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g1.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Q2 FY26 revenue grew by 21% year-on-year, and operating EBITDA increased by 23%",
+     "quote": "For the second quarter, revenue grew by 21% year-on-year, while operating EBITDA increased by 23%",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Existing Units achieved 14% revenue growth and 19% EBITDA growth year-on-year",
+     "quote": "Existing Units achieving revenue growth of 14% and EBITDA growth of 19%.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Network operating EBITDA stood at INR 694 crore with a 26.9% margin",
+     "quote": "Network operating EBITDA stood at INR 694 crore, reflecting a growth of 23% year-on-year and 13% quarter-on-quarter.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Network generated free cash flows of INR 291 crore during the quarter",
+     "quote": "The Network generated free cash flows of INR 291 crore during the quarter.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Senior doctor departures and attrition rates in NCR hospitals",
+     "quote": "So what we have heard, there has been some senior doctor departure from your team in NCR hospitals. So first, have you rehired the required doctors? And what kind of impact was there, if any?",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Impasse and temporary suspension of cashless facilities by insurance players",
+     "quote": "My second question is on your settlement with issues on the insurance company. So has like all the matters now been put to rest and do you have any further contracts which are coming up for negotiations and there might be some updates there?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Slowing ARPOB growth rate across the network",
+     "quote": "My second question was, I wanted your view on ARPOB. Are you getting a feeling on what is the internal discussion in the company that the ARPOB is kind of -- the rate of growth of ARPOB is becoming slower, at least that is what optically it looks like?",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and optimistic regarding core operational momentum, brownfield expansions, and structural growth."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b765c0b2-67cc-4aea-91e7-7bffcbeff79b.pdf",
+   "pages": 23,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "Expect remaining beds at Nanavati Max and Max Mohali to be commissioned in Q4 FY26.",
+     "horizon": "Q4 FY26",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "The remaining beds at both hospitals are expected to be commissioned during the Q4 FY '26.",
+     "page": 2,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Expect occupancy certificate for Max Smart by the end of February.",
+     "horizon": "February 2026",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We are currently awaiting the occupancy certificate, which is expected by the end of February.",
+     "page": 3,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Develop a 450-bed hospital on a prime piece of land in Pune by 2030.",
+     "horizon": "2030",
+     "low": 450,
+     "high": 450,
+     "unit": "units",
+     "quote": "We also took an important step to expand our geographic presence in Western India to develop a 450-bed hospital on a prime piece of land in Pune by 2030.",
+     "page": 3,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Increase Max Lucknow capacity to around 500 beds by the end of this financial year.",
+     "horizon": "End of FY26",
+     "low": 500,
+     "high": 500,
+     "unit": "units",
+     "quote": "The current capacity of the hospital stands at 413 beds, and we expect this to increase to around 500 beds by the end of this financial year.",
+     "page": 5,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g2.4"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission the first phase of Sector-56 Gurgaon 500-bed project by end of H1 FY27.",
+     "horizon": "H1 FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We now expect to commission the first phase by end of H1 FY '27.",
+     "page": 5,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g2.5"
+    },
+    {
+     "metric": "other",
+     "promise": "Complete the 100-bed Nagpur project within 24 months.",
+     "horizon": "24 months",
+     "low": 100,
+     "high": 100,
+     "unit": "units",
+     "quote": "We expect to complete this project within 24 months, as communicated earlier.",
+     "page": 5,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g2.6"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission the 400-bed Zirakpur hospital in FY28.",
+     "horizon": "FY28",
+     "low": 400,
+     "high": 400,
+     "unit": "units",
+     "quote": "Project work continues to be on track, and we are scheduled to commission the hospital in FY '28.",
+     "page": 5,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g2.7"
+    },
+    {
+     "metric": "other",
+     "promise": "Hit 8,000 operational beds by FY28.",
+     "horizon": "FY28",
+     "low": 8000,
+     "high": 8000,
+     "unit": "units",
+     "quote": "and by FY '28, we should be hitting 8,000.",
+     "page": 23,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g2.8"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Network delivered 21st consecutive quarter of YoY revenue growth at 10%, with operating EBITDA growing 4%.",
+     "quote": "Revenue increased by 10% year-on-year, while operating EBITDA grew by 4%.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Commissioned 63 brownfield beds at Nanavati Max and 53 brownfield beds at Max Mohali during the period.",
+     "quote": "During the quarter, we commissioned 63 brownfield beds at Nanavati Max... At Max Mohali, 53 brownfield beds were commissioned in second quarter",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Network average occupancy stood at 74% with ARPOB at INR 77,900.",
+     "quote": "Average occupancy for the Network stood at 74%... ARPOB for the quarter was INR 77,900, registering a 3% growth year-on-year",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Generated free cash flows of INR 281 crore during the quarter, deploying INR 408 crore towards capacity expansion.",
+     "quote": "The Network generated free cash flows of INR 281 crore during the quarter. INR 408 crore was deployed towards ongoing capacity expansion projects",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Oncology revenue contribution and patented drug discontinuation",
+     "quote": "So during the quarter, obviously, we saw some softness, which you attributed to discontinuation of patented chemo drugs for institutional patients. So do you think you can go back to the prior level of contribution from oncology?",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Insurance contract renewals and tariff disputes",
+     "quote": "So have you like done renewing all the insurance contract for this cycle and you have nothing like pending on that part?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Competitive intensity and new capacity additions in Gurgaon",
+     "quote": "What is your take on it, right? Do you think that a lot of hospitals coming in Gurgaon can impact Saket or customer types are different?",
+     "page": 12,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and reassuring regarding temporary headwinds and strategic expansion execution."
+  },
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=32d9c73a-07ea-42f8-bffa-14ed214222b7.pdf",
+   "pages": 17,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Board approved an investment of INR 1,400 crore for a 700-bed greenfield hospital at Shaheed Path, Lucknow.",
+     "horizon": "next 3 years",
+     "low": null,
+     "high": 1400,
+     "unit": "cr",
+     "quote": "the Board has approved an investment of INR 1,400 crore for the construction of a 700-bed greenfield hospital at Shaheed Path, Lucknow.",
+     "page": 3,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Commission 500-bed greenfield hospital in Gurgaon during the year.",
+     "horizon": "FY27",
+     "low": null,
+     "high": 500,
+     "unit": "units",
+     "quote": "expect to add another 10% capacity once our 500-bed greenfield hospital in Gurgaon is commissioned during the year.",
+     "page": 2,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Commission 100 beds at Max Nagpur by FY28.",
+     "horizon": "FY28",
+     "low": null,
+     "high": 100,
+     "unit": "units",
+     "quote": "expect commissioning by FY28.",
+     "page": 4,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "volume",
+     "promise": "Commission 400 beds at Zirakpur, Mohali in FY28.",
+     "horizon": "FY28",
+     "low": null,
+     "high": 400,
+     "unit": "units",
+     "quote": "we are on schedule to commission the hospitals in FY28.",
+     "page": 4,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g3.4"
+    },
+    {
+     "metric": "volume",
+     "promise": "Complete Max Dwarka project in 24 months.",
+     "horizon": "next 24 months",
+     "low": null,
+     "high": 260,
+     "unit": "units",
+     "quote": "building plan submission is underway and the project is expected to take 24 months to complete.",
+     "page": 5,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g3.5"
+    },
+    {
+     "metric": "volume",
+     "promise": "Complete Max Vaishali project in 24 months post receipt of approvals.",
+     "horizon": "next 24 months",
+     "low": null,
+     "high": 200,
+     "unit": "units",
+     "quote": "Project is expected to take 24 months post receipt of approvals.",
+     "page": 5,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g3.6"
+    },
+    {
+     "metric": "volume",
+     "promise": "Commission 400 beds at Max Patparganj by FY29.",
+     "horizon": "FY29",
+     "low": null,
+     "high": 400,
+     "unit": "units",
+     "quote": "D-wall construction has started, and we expect commissioning by FY29.",
+     "page": 5,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g3.7"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Network delivered 22nd consecutive quarter of year-on-year growth with 10% revenue increase.",
+     "quote": "the Network delivered its 22nd consecutive quarter of year-on-year growth, with the revenue increasing by 10% and operating EBITDA by 8%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Completed the acquisition of a controlling stake in Kalinga Hospital Limited in Bhubaneswar.",
+     "quote": "we have completed the acquisition of a controlling stake in Kalinga Hospital Limited this month.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "PAT for the Network increased to INR 1,631 crore in FY26, registering 22% growth.",
+     "quote": "Profit after tax (PAT) for the Network increased to INR 1,631 crore compared to INR 1,336 crore in FY25, registering a growth of 22%.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Network operating EBITDA margin was 26.8% for the quarter.",
+     "quote": "Network operating EBITDA margin was 26.8% for the quarter, compared to 27.2% in Q4 FY '25 and 26.1% in the trailing quarter.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Oncology revenue decline from chemo drug discontinuation",
+     "quote": "While clearly, the reason highlighted is a discontinuation of chemo drugs, but it still feels a bit sharp, given we had quantified onco drug impact to be about INR80-odd crore.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Gurugram greenfield hospital project delays",
+     "quote": "And we should not be expecting any further delay on that because that is been pushed out a few times now.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Phased bed rollout and rising Average Length of Stay",
+     "quote": "In the past, whenever you have opened or commissioned brownfield facility, I understand the ramp-up happened much faster than what we are seeing right now.",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and optimistic regarding expansion pipelines and operational leverage despite short-term headwinds."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=922086cc-1e96-40b8-966b-547204ed8364.pdf",
+   "pages": 20,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Capital expenditure of INR 425 crore for a new brownfield tower at Max Vaishali commissioned before FY30",
+     "horizon": "before FY30",
+     "low": 425,
+     "high": null,
+     "unit": "cr",
+     "quote": "To further strengthen our existing Network, the board has approved a capital expenditure of INR 425 crore for a new brownfield tower at Max Vaishali. ... The project is expected to be commissioned before FY30.",
+     "page": 3,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Turn around Max Bhubaneswar over the next 12 months",
+     "horizon": "next 12 months",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "Going forward, our focus is on integrating operations, renovating infrastructure, upgrading technology, and enhancing clinical programs to turn around the hospital over the next 12 months.",
+     "page": 3,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission 100 additional beds at Max Lucknow over the next two quarters",
+     "horizon": "next two quarters",
+     "low": 100,
+     "high": null,
+     "unit": "units",
+     "quote": "100 beds at Max Lucknow: Additional 100 beds in the existing 468-bed facility will be commissioned over the next two quarters.",
+     "page": 5,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Start phased commissioning of Sector 56 Gurgaon facility by end of this year",
+     "horizon": "end of this year",
+     "low": 500,
+     "high": null,
+     "unit": "units",
+     "quote": "500 beds at Sector 56 Gurgaon: We expect to start phased commissioning of this facility by end of this year.",
+     "page": 5,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g4.4"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission Nagpur project by FY28",
+     "horizon": "FY28",
+     "low": 100,
+     "high": null,
+     "unit": "units",
+     "quote": "100 beds at Nagpur: Project work continues to be on track and we expect commissioning by FY28.",
+     "page": 6,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g4.5"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission Zirakpur, Mohali project in FY28",
+     "horizon": "FY28",
+     "low": 400,
+     "high": null,
+     "unit": "units",
+     "quote": "400 beds at Zirakpur, Mohali: Project is on schedule and we expect to commission it in FY28.",
+     "page": 6,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g4.6"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission Pitampura project in FY29",
+     "horizon": "FY29",
+     "low": 200,
+     "high": null,
+     "unit": "units",
+     "quote": "200 beds at Pitampura: Project is on track and we expect commissioning in FY29.",
+     "page": 6,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g4.7"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission Pune project by FY30",
+     "horizon": "FY30",
+     "low": 450,
+     "high": null,
+     "unit": "units",
+     "quote": "450 beds at Pune: We have received IOD, project is expected to be commissioned by FY30.",
+     "page": 6,
+     "speaker": "Abhay Soi",
+     "verified": true,
+     "id": "g4.8"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Network recorded year-on-year growth of 16% in revenue and 15% in operating EBITDA.",
+     "quote": "We started the financial year with healthy momentum across the Network, recording year-on-year growth of 16% in revenue and 15% in operating EBITDA.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Network gross revenue stood at INR 2,982 crore, an increase of 16% year-on-year.",
+     "quote": "Network gross revenue stood at INR 2,982 crore compared to INR 2,574 crore in Q1 last year... This reflects an increase of 16% year-on-year",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Network operating EBITDA stood at INR 704 crore with an operating EBITDA margin of 24.8%.",
+     "quote": "Network operating EBITDA stood at INR 704 crore, reflecting a growth of 15% year-on-year and 3% quarter-on-quarter. Network operating EBITDA margin was 24.8% for the quarter",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Network generated free cash flows of INR 397 crore during the quarter.",
+     "quote": "Network generated free cash flows of INR 397 crore during the quarter.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Parliamentary Committee recommendations and healthcare viability",
+     "quote": "My first question is, Abhay, if you can share your thought around the recent Parliamentary Standing Committee recommendation for the healthcare sector.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Oncology segment underperformance and revenue drop",
+     "quote": "IP revenue growth actually, if we look at non-onco business has done well, but onco business continues to remain under pressure and some kind of challenges.",
+     "page": 13,
+     "verified": true
+    },
+    {
+     "topic": "Increase in operating expenses and net debt levels",
+     "quote": "Sir, we have seen a sharp sequential increase in operating expenses even if we adjust for Bhubaneswar.",
+     "page": 19,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and optimistic about expansion, integration of acquisitions, and new medical education business."
+  }
+ ],
+ "business": {
+  "what_it_does": "Provides healthcare services, operating hospitals, diagnostics, and home healthcare.",
+  "segments": [
+   {
+    "name": "Revenue from healthcare services",
+    "revenue": 799067,
+    "unit": "lakh",
+    "what": "Healthcare services to patients",
+    "page": 294,
+    "share_pct": 97
+   },
+   {
+    "name": "Sale of drugs and pharmaceuticals supplies",
+    "revenue": 23476,
+    "unit": "lakh",
+    "what": "Drugs and pharmaceutical supplies to patients",
+    "page": 294,
+    "share_pct": 3
+   }
+  ],
+  "mix_note": "Revenues are entirely from India.",
+  "risks_mgmt_flags": [],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ff687278-4b63-403b-ab82-e9ae0259eead.pdf",
+  "pages_read": [
+   41,
+   69,
+   99,
+   126,
+   128,
+   132,
+   203,
+   225,
+   242,
+   273,
+   294,
+   308
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Deploy around INR 1100 crore network capex in H2 FY26",
+    "made_in": "Q2 FY26",
+    "delivered": "Reported FY26 full year free cash flow was INR 165 crore, while borrowings rose to INR 3,478 crore.",
+    "verdict": "missed",
+    "checked_against": "FY26 borrowings of INR 3,478 crore and free cash flow of INR 165 crore",
+    "quote": "A bit higher probably. Hopefully around INR 1,100 crore.",
+    "page": 20,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7a905df4-c8df-4945-8494-e060944ce284.pdf"
+   },
+   {
+    "ref": "g2.4",
+    "promise": "Increase Max Lucknow capacity to around 500 beds by end of FY26",
+    "made_in": "Q3 FY26",
+    "delivered": "Management later stated on Q1 FY27 call that the facility has 468 beds with 100 more planned.",
+    "verdict": "missed",
+    "checked_against": "Q1 FY27 call statement regarding 468-bed capacity",
+    "quote": "The current capacity of the hospital stands at 413 beds, and we expect this to increase to around 500 beds by the end of this financial year.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b765c0b2-67cc-4aea-91e7-7bffcbeff79b.pdf"
+   },
+   {
+    "ref": "g2.8",
+    "promise": "Hit 8,000 operational beds by FY28",
+    "made_in": "Q3 FY26",
+    "delivered": "Target horizon is FY28; currently unquantified in the latest reported numbers.",
+    "verdict": "too_early",
+    "checked_against": "FY28 timeline horizon",
+    "quote": "and by FY '28, we should be hitting 8,000.",
+    "page": 23,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b765c0b2-67cc-4aea-91e7-7bffcbeff79b.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "Invest INR 1,400 crore for a 700-bed greenfield hospital at Shaheed Path, Lucknow",
+    "made_in": "Q4 FY26",
+    "delivered": "Board approval reported in Q4 FY26; project horizon spans the next 3 years.",
+    "verdict": "too_early",
+    "checked_against": "Q4 FY26 Board approval disclosure",
+    "quote": "the Board has approved an investment of INR 1,400 crore for the construction of a 700-bed greenfield hospital at Shaheed Path, Lucknow.",
+    "page": 3,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=32d9c73a-07ea-42f8-bffa-14ed214222b7.pdf"
+   },
+   {
+    "ref": "g4.2",
+    "promise": "Turn around Max Bhubaneswar over the next 12 months",
+    "made_in": "Q1 FY27",
+    "delivered": "Acquisition completed in Q4 FY26; 12-month turnaround horizon extends into FY28.",
+    "verdict": "too_early",
+    "checked_against": "Q1 FY27 call guidance horizon",
+    "quote": "Going forward, our focus is on integrating operations, renovating infrastructure, upgrading technology, and enhancing clinical programs to turn around the hospital over the next 12 months.",
+    "page": 3,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=922086cc-1e96-40b8-966b-547204ed8364.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 5,
+   "line": "Management delivers steady revenue growth, but capex targets and bed rollout schedules face repeated delays."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Revenue growth accelerated from 11% to 20% YoY, matching management's narrative of consecutive growth quarters."
+   },
+   {
+    "agree": false,
+    "point": "Borrowings surged 2.9x from INR 1,299 crore in Mar 2024 to INR 3,795 crore in Sep 2026."
+   },
+   {
+    "agree": true,
+    "point": "Cash conversion remained robust, with 5-year operating cash flow at 116% of profit."
+   }
+  ],
+  "bull": [
+   "Revenue growth accelerated over four quarters from 10.7% in Dec 2025 to 20.3% in Sep 2026.",
+   "Annual PAT reached INR 1,442 crore in FY26, up from INR 1,076 crore in FY25.",
+   "Operating cash flow reached INR 1,633 crore in FY26, supporting a 1.13 OCF/PAT ratio."
+  ],
+  "bear": [
+   "Borrowings increased significantly to INR 3,795 crore by Sep 2026 compared to INR 1,299 crore in Mar 2024.",
+   "Profit growth lagged sales over 3 years (9.3% vs 22.4%), indicating ongoing margin pressure.",
+   "Cash cycle stretched by 39 days over 2 years, moving from -149 to -110 days."
+  ],
+  "watch": [
+   "Debt levels and borrowing trends against INR 3,795 crore reported in Sep 2026.",
+   "Execution progress on greenfield projects in Gurgaon, Lucknow, and Pune.",
+   "Operating EBITDA and EBIT margins against reported Q2 FY27 figures."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14085,
+   "out": 1212,
+   "secs": 4.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14613,
+   "out": 1560,
+   "secs": 9.7,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13342,
+   "out": 1384,
+   "secs": 11.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12649,
+   "out": 1548,
+   "secs": 4.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12760,
+   "out": 177,
+   "secs": 33.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 4608,
+   "out": 1073,
+   "secs": 24.2,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 72057,
+  "tokens_out": 6954,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 92.9
+ }
+}

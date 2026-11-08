@@ -1,0 +1,974 @@
+{
+ "symbol": "ASTRAL",
+ "name": "Astral Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T20:20:52",
+ "latest_call": "Aug 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 33839.0,
+   "pe": 57.2,
+   "roce": 19.2,
+   "roe": 13.9,
+   "ttm_revenue": 7196.0,
+   "ttm_pat": 568.0,
+   "margin_latest_q": 13.0,
+   "de": 0.08,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 1397.0,
+    "rev_yoy": 2.0,
+    "op_profit": 219.0,
+    "margin": 16.0,
+    "ebit_margin": 11.2,
+    "pat": 113.0,
+    "pat_yoy": 0.0
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 1681.0,
+    "rev_yoy": 3.4,
+    "op_profit": 302.0,
+    "margin": 18.0,
+    "ebit_margin": 14.1,
+    "pat": 178.0,
+    "pat_yoy": -1.7
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 1361.0,
+    "rev_yoy": -1.7,
+    "op_profit": 185.0,
+    "margin": 14.0,
+    "ebit_margin": 8.3,
+    "pat": 79.0,
+    "pat_yoy": -34.2
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 1577.0,
+    "rev_yoy": 15.1,
+    "op_profit": 257.0,
+    "margin": 16.0,
+    "ebit_margin": 11.7,
+    "pat": 135.0,
+    "pat_yoy": 23.9
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 1542.0,
+    "rev_yoy": 10.4,
+    "op_profit": 237.0,
+    "margin": 15.0,
+    "ebit_margin": 10.6,
+    "pat": 108.0,
+    "pat_yoy": -4.4
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 2088.0,
+    "rev_yoy": 24.2,
+    "op_profit": 383.0,
+    "margin": 18.0,
+    "ebit_margin": 14.8,
+    "pat": 213.0,
+    "pat_yoy": 19.7
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 1578.0,
+    "rev_yoy": 15.9,
+    "op_profit": 231.0,
+    "margin": 15.0,
+    "ebit_margin": 9.9,
+    "pat": 120.0,
+    "pat_yoy": 51.9
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 1988.0,
+    "rev_yoy": 26.1,
+    "op_profit": 260.0,
+    "margin": 13.0,
+    "ebit_margin": 9.1,
+    "pat": 127.0,
+    "pat_yoy": -5.9
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 2578.0,
+    "op_profit": 442.0,
+    "margin": 17.0,
+    "pat": 250.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 3176.0,
+    "op_profit": 638.0,
+    "margin": 20.0,
+    "pat": 408.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 4394.0,
+    "op_profit": 754.0,
+    "margin": 17.0,
+    "pat": 490.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 5158.0,
+    "op_profit": 810.0,
+    "margin": 16.0,
+    "pat": 472.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 5641.0,
+    "op_profit": 925.0,
+    "margin": 16.0,
+    "pat": 546.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 5832.0,
+    "op_profit": 946.0,
+    "margin": 16.0,
+    "pat": 519.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 6569.0,
+    "op_profit": 1062.0,
+    "margin": 16.0,
+    "pat": 535.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 8.4,
+   "rev_cagr_5y": 15.6,
+   "pat_cagr_3y": 4.3,
+   "pat_cagr_5y": 5.6,
+   "margin_change_3y_bps": 0
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 98.0,
+    "equity": 2336.0,
+    "de": 0.04
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 87.0,
+    "equity": 2711.0,
+    "de": 0.03
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 119.0,
+    "equity": 3188.0,
+    "de": 0.04
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 233.0,
+    "equity": 3617.0,
+    "de": 0.06
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 250.0,
+    "equity": 4058.0,
+    "de": 0.06
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 333.0,
+    "equity": 4239.0,
+    "de": 0.08
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     32.0
+    ],
+    [
+     "Mar 2022",
+     22.0
+    ],
+    [
+     "Mar 2023",
+     25.0
+    ],
+    [
+     "Mar 2024",
+     24.0
+    ],
+    [
+     "Mar 2025",
+     27.0
+    ],
+    [
+     "Mar 2026",
+     26.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     88.0
+    ],
+    [
+     "Mar 2022",
+     91.0
+    ],
+    [
+     "Mar 2023",
+     96.0
+    ],
+    [
+     "Mar 2024",
+     100.0
+    ],
+    [
+     "Mar 2025",
+     109.0
+    ],
+    [
+     "Mar 2026",
+     107.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     96.0
+    ],
+    [
+     "Mar 2022",
+     93.0
+    ],
+    [
+     "Mar 2023",
+     88.0
+    ],
+    [
+     "Mar 2024",
+     95.0
+    ],
+    [
+     "Mar 2025",
+     92.0
+    ],
+    [
+     "Mar 2026",
+     110.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     23.0
+    ],
+    [
+     "Mar 2022",
+     20.0
+    ],
+    [
+     "Mar 2023",
+     33.0
+    ],
+    [
+     "Mar 2024",
+     29.0
+    ],
+    [
+     "Mar 2025",
+     44.0
+    ],
+    [
+     "Mar 2026",
+     23.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     12.0
+    ],
+    [
+     "Mar 2022",
+     13.0
+    ],
+    [
+     "Mar 2023",
+     17.0
+    ],
+    [
+     "Mar 2024",
+     16.0
+    ],
+    [
+     "Mar 2025",
+     25.0
+    ],
+    [
+     "Mar 2026",
+     11.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 664.0,
+    "pat": 408.0,
+    "fcf": 493.0,
+    "conv": 1.63
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 543.0,
+    "pat": 490.0,
+    "fcf": 198.0,
+    "conv": 1.11
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 557.0,
+    "pat": 472.0,
+    "fcf": 247.0,
+    "conv": 1.18
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 823.0,
+    "pat": 546.0,
+    "fcf": 273.0,
+    "conv": 1.51
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 630.0,
+    "pat": 519.0,
+    "fcf": 90.0,
+    "conv": 1.21
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 1117.0,
+    "pat": 535.0,
+    "fcf": 661.0,
+    "conv": 2.09
+   }
+  ],
+  "cash_conv_5y": 1.43,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 143% of profit"
+   },
+   {
+    "tone": "bad",
+    "text": "Borrowings 2.8x in 3 years (₹119 → ₹333 cr)"
+   },
+   {
+    "tone": "good",
+    "text": "Practically debt-free (D/E 0.08)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.astralltd.com/wp-content/uploads/2025/11/Transcript.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://nsearchives.nseindia.com/corporate/ASTRAL_05022026201047_Earning_Call.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.astralltd.com/wp-content/uploads/2026/05/Analysts-Meet-2026-Transcript.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.astralltd.com/wp-content/uploads/2026/08/Equirus-Astral-Aug12-2026-1.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5772a6ee-bd33-47d5-bbd1-85b269bd26c3.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Nov 2025",
+   "url": "https://www.astralltd.com/wp-content/uploads/2025/11/Transcript.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "UK business EBITDA margin to return to double digits next year",
+     "horizon": "next year",
+     "low": 10,
+     "high": null,
+     "unit": "%",
+     "quote": "what Sandeep bhai said we are confident that we will come back to our original double digit kind of EBITDA margin in the next year.",
+     "page": 4,
+     "speaker": "Hiranand Savlani",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Paint business full year growth guidance of 20%",
+     "horizon": "full year FY26",
+     "low": 20,
+     "high": 20,
+     "unit": "%",
+     "quote": "This year we have given a guidance of 20% growth for the full year and we are going to achieve it as per the guidance given by us.",
+     "page": 3,
+     "speaker": "Sandeep Engineer",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "capex",
+     "promise": "Full year capex between Rs. 300 to Rs. 350 crores",
+     "horizon": "full year FY26",
+     "low": 300,
+     "high": 350,
+     "unit": "cr",
+     "quote": "So for full layer Rs. 300 crores-Rs. 350 crores that previously we guided that remains the same?... So whatever we have given the guidance it is going to remain same.",
+     "page": 13,
+     "speaker": "Hiranand Savlani",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "margin",
+     "promise": "Paint business margin to reach single digit in FY27",
+     "horizon": "FY27",
+     "low": 0,
+     "high": 9,
+     "unit": "%",
+     "quote": "It should be single digit margin in FY27.",
+     "page": 13,
+     "speaker": "Hiranand Savlani",
+     "verified": true,
+     "id": "g1.4"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Bathware business to grow at 20-25% for the next 5 years",
+     "horizon": "next 5 years",
+     "low": 20,
+     "high": 25,
+     "unit": "%",
+     "quote": "Bathware we will aim to grow at about 20%-25% for the next 5 years.",
+     "page": 13,
+     "speaker": "Kairav Engineer",
+     "verified": true,
+     "id": "g1.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered 20% volume growth and 15% value growth in Q2 FY26",
+     "quote": "delivered a very healthy 20% volume growth and 15% value growth and above the guided margin range of 15% to 16% EBITDA on a consolidated basis.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "UK adhesive business grew 5% in topline with 7.33% EBITDA",
+     "quote": "We have grown 5% in topline and with 7.33% in EBITDA. 7.33 from a (-2).",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Paint business recorded 19% growth in H1",
+     "quote": "first time after acquisition of Gem paint we are seeing a 19% growth in H1 and it is continuously growing at a good pace",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Volume and value gap and realization trends",
+     "quote": "Sir so far sir October have you seen the same momentum what we have seen in the 2Q the same momentum is there on the growth front?",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "topic": "EBITDA per kg fluctuations and pricing aggression",
+     "quote": "If we see your EBITDA per kg so which is still flat year on year in spite there was a Rs. 2-Rs. 3 per kg loss in September '24 quarter.",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "CPVC sourcing and rationale for in-house manufacturing vs outsourcing",
+     "quote": "why don't we choose an option to opt for the whole capacity being able to cater by Lubrizol or one of the capacities should be catered by Lubrizol",
+     "page": 15,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic about new plant scaling and margin improvements, transparent about strategy."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/ASTRAL_05022026201047_Earning_Call.pdf",
+   "pages": 1,
+   "scanned": true,
+   "guidance": [],
+   "claims": [],
+   "pushback": [],
+   "tone": "Not applicable as the document is a submission letter with no transcript text."
+  },
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.astralltd.com/wp-content/uploads/2026/05/Analysts-Meet-2026-Transcript.pdf",
+   "pages": 31,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "FY27 capex targeted around 300 crores",
+     "horizon": "FY27",
+     "low": 300,
+     "high": 300,
+     "unit": "cr",
+     "quote": "this year we are targeting somewhere around 300 cr. Last year we spent I think 360 crores or something.",
+     "page": 18,
+     "speaker": "Mr. Hiranand Savlani",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "volume growth",
+     "promise": "Piping industry volume growth expected around 8% in FY27",
+     "horizon": "FY27",
+     "low": 8,
+     "high": 8,
+     "unit": "%",
+     "quote": "we are expecting that the industry should be growing somewhere around 8% kind of volume in FY27",
+     "page": 11,
+     "speaker": "Mr. Hiranand Savlani",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Adhesive division India to grow 20% and UK to grow 10%",
+     "horizon": "FY27",
+     "low": 10,
+     "high": 20,
+     "unit": "%",
+     "quote": "so India you can consider 20%. UK will be 10%.",
+     "page": 24,
+     "speaker": "Mr. Hiranand Savlani",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "margin",
+     "promise": "Paints business to be EBITDA positive with 25 to 30% growth",
+     "horizon": "FY27",
+     "low": 25,
+     "high": 30,
+     "unit": "%",
+     "quote": "Not only growth but we are going to be a positive EBITA company next year... with a 25 to 30% kind of growth.",
+     "page": 15,
+     "speaker": "Mr. Hiranand Savlani",
+     "verified": true,
+     "id": "g3.4"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Paint segment targeting 1000 crores in next 3 to 4 years",
+     "horizon": "next 3 to 4 years",
+     "low": 1000,
+     "high": 1000,
+     "unit": "cr",
+     "quote": "and we are targeting to reach 1,000 crores in next 3 to four years and even cross that.",
+     "page": 4,
+     "speaker": "Mr. Sandeep Engineer",
+     "verified": true,
+     "id": "g3.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Crossed 100 crores in construction chemicals after Resinova acquisition",
+     "quote": "this is the first year after our acquisition of Resinova we have crossed 100 crores in construction chemicals",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Delivered 23% growth in the paint industry for the full year and 31% in the last quarter",
+     "quote": "first time after acquisition we have delivered 23% growth into the paint industry for the full year and the last quarter it was 31%.",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "claim": "Delivered 22.9% growth in Bondit products in UK with 6.5% positive EBITDA",
+     "quote": "last quarter we have delivered 22.9% growth in bond product in UK and not only that but we were into the negative Zone of EBITA we have converted into 6.5% positive EBITA",
+     "page": 11,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "CPVC backward integration and current vs future contribution",
+     "quote": "Hi sir Pravin from PL Capital. so first question is related to the CPVC backward integration.so how much is the CPVC current contribution with this backward integration? Do you believe this contribution to increase in the piping segment.",
+     "page": 17,
+     "verified": true
+    },
+    {
+     "topic": "Capital allocation and cash deployment on balance sheet",
+     "quote": "so how do you think about capital allocation in terms of you know this cash in the balance sheet",
+     "page": 19,
+     "verified": true
+    },
+    {
+     "topic": "Lower return ratios compared to industry leaders",
+     "quote": "sir I have another question another question is on the return ratio side so if you see our product mix is quite superior compared to any other listed plastic pipe company. we are also generating the highest EBITA margin but on the return ratios if we compare with the industry leader uh it is consistently on a lower side.",
+     "page": 29,
+     "verified": true
+    }
+   ],
+   "tone": "Optimistic, transparent, and confident about multi-year vision, backward integration, and scaling new businesses."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.astralltd.com/wp-content/uploads/2026/08/Equirus-Astral-Aug12-2026-1.pdf",
+   "pages": 29,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "FY27 capex budget of 300 to 350 crores",
+     "horizon": "FY27",
+     "low": 300,
+     "high": 350,
+     "unit": "cr",
+     "quote": "I think we have said, 300 kind of level, 300 to 350 level kind of level will be there.",
+     "page": 16,
+     "speaker": "Hiranand Savlani",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Plumbing volume growth of minimum double-digit for full year",
+     "horizon": "FY27",
+     "low": 10,
+     "high": null,
+     "unit": "%",
+     "quote": "So we have given the guidance of minimum double-digit growth for volume. And EBITDA, we have given 16% to 18%.",
+     "page": 17,
+     "speaker": "Hiranand Savlani",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Plumbing EBITDA margin guidance of 16% to 18%",
+     "horizon": "FY27",
+     "low": 16,
+     "high": 18,
+     "unit": "%",
+     "quote": "right now, our guidance will remain to 16% to 18%. We will change our guidance if needed post Q2.",
+     "page": 9,
+     "speaker": "Hiranand Savlani",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Paint top line growth of 20% to 25% for full year",
+     "horizon": "FY27",
+     "low": 20,
+     "high": 25,
+     "unit": "%",
+     "quote": "Paint, we have given guidance of 20% to 25% kind of top line growth.",
+     "page": 17,
+     "speaker": "Hiranand Savlani",
+     "verified": true,
+     "id": "g4.4"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Adhesive top line growth of 15% to 20% for full year",
+     "horizon": "FY27",
+     "low": 15,
+     "high": 20,
+     "unit": "%",
+     "quote": "And adhesive we have given 15% to 20% kind of growth.",
+     "page": 17,
+     "speaker": "Hiranand Savlani",
+     "verified": true,
+     "id": "g4.5"
+    },
+    {
+     "metric": "margin",
+     "promise": "Adhesive EBITDA margin guidance of 15%",
+     "horizon": "FY27",
+     "low": 15,
+     "high": 15,
+     "unit": "%",
+     "quote": "And adhesive, we have given 15% kind of guidance.",
+     "page": 17,
+     "speaker": "Hiranand Savlani",
+     "verified": true,
+     "id": "g4.6"
+    },
+    {
+     "metric": "margin",
+     "promise": "U.K. adhesive EBITDA margin of 8% to 10% for full year",
+     "horizon": "FY27",
+     "low": 8,
+     "high": 10,
+     "unit": "%",
+     "quote": "No, for the full year.",
+     "page": 21,
+     "speaker": "Hiranand Savlani",
+     "verified": true,
+     "id": "g4.7"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered flat volume growth and 10% value growth in plumbing during Q1.",
+     "quote": "with a flat volume growth against market reporting almost 10% negative. And also we have delivered a 10% value growth with an 18.9% EBITDA",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Achieved record 48.7% growth in paint business in Q1.",
+     "quote": "First time after acquisition of Gem, we are seeing a history high growth of 48.7% in this vertical.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Plumbing margin guidance upgrade",
+     "quote": "why -- what is stopping us still to not increase that upper band of the guidance, why 16% to 18%?",
+     "page": 27,
+     "verified": true
+    },
+    {
+     "topic": "Demerger of chemical business",
+     "quote": "What was the entire thought process? And how should we see, let's say, a few years down the line whether demerger will be again on card?",
+     "page": 19,
+     "verified": true
+    },
+    {
+     "topic": "July volume growth vs destocking",
+     "quote": "how much of it do you think is driven mostly by destocking? And how is the end-use demand and which segments are actually contributing",
+     "page": 13,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and cautious about upgrading quarterly guidance prematurely."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company manufactures and distributes building materials including pipes, fittings, water tanks, bathware, valves, infrastructure solutions, adhesives, sealants, paints, and construction chemicals.",
+  "segments": [
+   {
+    "name": "Plumbing",
+    "revenue": 46787,
+    "unit": "million",
+    "what": "Plumbing and piping products sold to residential and commercial markets.",
+    "page": 218,
+    "share_pct": 71
+   },
+   {
+    "name": "Paints and Adhesives",
+    "revenue": 18899,
+    "unit": "million",
+    "what": "Paints and adhesives sold to customers.",
+    "page": 218,
+    "share_pct": 29
+   }
+  ],
+  "mix_note": "Revenue is concentrated in India with 60,385 million out of 65,686 million coming from within India.",
+  "risks_mgmt_flags": [
+   "Interest rate risk on discount rate linked to government securities affecting gratuity liability.",
+   "Salary risk where salary increases higher than assumed levels increase plan liabilities.",
+   "Investment risk where returns on plan assets below the discount rate create deficits."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5772a6ee-bd33-47d5-bbd1-85b269bd26c3.pdf",
+  "pages_read": [
+   3,
+   22,
+   27,
+   121,
+   144,
+   164,
+   184,
+   188,
+   207,
+   212,
+   218,
+   219
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g4.2",
+    "promise": "Plumbing volume growth minimum double-digit FY27",
+    "made_in": "Q1 FY27 call",
+    "delivered": "Overall revenue YoY 26.1% in Q2 FY27 suggests strong growth but segment not disclosed",
+    "verdict": "too_early",
+    "checked_against": "Q2 FY27 revenue YoY%",
+    "quote": "So we have given the guidance of minimum double-digit growth for volume. And EBITDA, we have given 16% to 18%.",
+    "page": 17,
+    "verified": true,
+    "url": "https://www.astralltd.com/wp-content/uploads/2026/08/Equirus-Astral-Aug12-2026-1.pdf"
+   },
+   {
+    "ref": "g4.3",
+    "promise": "Plumbing EBITDA margin 16-18% FY27",
+    "made_in": "Q1 FY27 call",
+    "delivered": "Overall EBITDA% 13% in Q2 FY27, below guidance range",
+    "verdict": "missed",
+    "checked_against": "Q2 FY27 EBITDA%",
+    "quote": "right now, our guidance will remain to 16% to 18%. We will change our guidance if needed post Q2.",
+    "page": 9,
+    "verified": true,
+    "url": "https://www.astralltd.com/wp-content/uploads/2026/08/Equirus-Astral-Aug12-2026-1.pdf"
+   },
+   {
+    "ref": "g4.4",
+    "promise": "Paint top line growth 20-25% FY27",
+    "made_in": "Q1 FY27 call",
+    "delivered": "Overall revenue YoY 26.1% in Q2 FY27 exceeds range",
+    "verdict": "delivered",
+    "checked_against": "Q2 FY27 revenue YoY%",
+    "quote": "Paint, we have given guidance of 20% to 25% kind of top line growth.",
+    "page": 17,
+    "verified": true,
+    "url": "https://www.astralltd.com/wp-content/uploads/2026/08/Equirus-Astral-Aug12-2026-1.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 3,
+   "line": "Guidance often lacks segment data; few promises verifiable, raising doubt."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Management touts double-digit margins but overall EBITDA fell to 13% in Q2 FY27"
+   },
+   {
+    "agree": true,
+    "point": "Paint growth claim aligns with 26.1% revenue YoY in Q2 FY27"
+   },
+   {
+    "agree": false,
+    "point": "Plumbing margin guidance of 16-18% not met by overall 13% EBITDA%"
+   }
+  ],
+  "bull": [
+   "Paint revenue growth 26.1% YoY in Q2 FY27 exceeds guidance",
+   "EBITDA% 18% in Mar 2026 shows strong profitability",
+   "Operating cash flow 1117 crore in FY26 indicates cash strength"
+  ],
+  "bear": [
+   "Overall EBITDA% dropped to 13% in Q2 FY27, below margin guidance",
+   "Plumbing EBITDA margin guidance missed with 13% overall",
+   "Borrowings rose to 333 crore, increasing leverage"
+  ],
+  "watch": [
+   "Segment-level margins for UK adhesive and plumbing",
+   "Actual capex spend vs FY27 target 300-350 crore"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14371,
+   "out": 1108,
+   "secs": 4.4,
+   "cached": true
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 1008,
+   "out": 39,
+   "secs": 8.7,
+   "cached": true
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 23273,
+   "out": 1163,
+   "secs": 5.7,
+   "cached": true
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14966,
+   "out": 1226,
+   "secs": 4.4,
+   "cached": true
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 9785,
+   "out": 275,
+   "secs": 2.7,
+   "cached": true
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 3144,
+   "out": 2695,
+   "secs": 15.0,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 1,
+  "tokens_in": 66547,
+  "tokens_out": 6506,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 15.5
+ }
+}

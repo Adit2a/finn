@@ -1,0 +1,985 @@
+{
+ "symbol": "DRREDDY",
+ "name": "Dr Reddys Laboratories Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:20:33",
+ "latest_call": "Oct 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 114582.0,
+   "pe": 40.9,
+   "roce": 13.0,
+   "roe": 11.2,
+   "ttm_revenue": 33097.0,
+   "ttm_pat": 2760.0,
+   "margin_latest_q": 20.0,
+   "de": 0.19,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 8381.0,
+    "rev_yoy": 15.8,
+    "op_profit": 2273.0,
+    "margin": 27.0,
+    "ebit_margin": 21.5,
+    "pat": 1404.0,
+    "pat_yoy": 1.7
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 8528.0,
+    "rev_yoy": 19.9,
+    "op_profit": 1998.0,
+    "margin": 23.0,
+    "ebit_margin": 18.1,
+    "pat": 1587.0,
+    "pat_yoy": 21.1
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 8572.0,
+    "rev_yoy": 11.4,
+    "op_profit": 2174.0,
+    "margin": 25.0,
+    "ebit_margin": 19.8,
+    "pat": 1410.0,
+    "pat_yoy": 1.3
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 8828.0,
+    "rev_yoy": 9.8,
+    "op_profit": 2010.0,
+    "margin": 23.0,
+    "ebit_margin": 17.0,
+    "pat": 1337.0,
+    "pat_yoy": -0.4
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 8753.0,
+    "rev_yoy": 4.4,
+    "op_profit": 1888.0,
+    "margin": 22.0,
+    "ebit_margin": 15.6,
+    "pat": 1190.0,
+    "pat_yoy": -15.2
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 7546.0,
+    "rev_yoy": -11.5,
+    "op_profit": 382.0,
+    "margin": 5.0,
+    "ebit_margin": -2.3,
+    "pat": 221.0,
+    "pat_yoy": -86.1
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 8100.0,
+    "rev_yoy": -5.5,
+    "op_profit": 860.0,
+    "margin": 11.0,
+    "ebit_margin": 4.0,
+    "pat": 436.0,
+    "pat_yoy": -69.1
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 8698.0,
+    "rev_yoy": -1.5,
+    "op_profit": 1723.0,
+    "margin": 20.0,
+    "ebit_margin": 13.8,
+    "pat": 913.0,
+    "pat_yoy": -31.7
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 17517.0,
+    "op_profit": 2477.0,
+    "margin": 14.0,
+    "pat": 2026.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 19048.0,
+    "op_profit": 3874.0,
+    "margin": 20.0,
+    "pat": 1952.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 21545.0,
+    "op_profit": 3768.0,
+    "margin": 17.0,
+    "pat": 2182.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 24670.0,
+    "op_profit": 6470.0,
+    "margin": 26.0,
+    "pat": 4507.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 28011.0,
+    "op_profit": 7933.0,
+    "margin": 28.0,
+    "pat": 5578.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 32644.0,
+    "op_profit": 8547.0,
+    "margin": 26.0,
+    "pat": 5725.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 33700.0,
+    "op_profit": 6454.0,
+    "margin": 19.0,
+    "pat": 4158.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 11.0,
+   "rev_cagr_5y": 12.1,
+   "pat_cagr_3y": -2.7,
+   "pat_cagr_5y": 16.3,
+   "margin_change_3y_bps": -700
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 3384.0,
+    "equity": 19212.0,
+    "de": 0.18
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 1347.0,
+    "equity": 23286.0,
+    "de": 0.06
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 2002.0,
+    "equity": 28254.0,
+    "de": 0.07
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 4677.0,
+    "equity": 33549.0,
+    "de": 0.14
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 7734.0,
+    "equity": 37892.0,
+    "de": 0.2
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 7229.0,
+    "equity": 38808.0,
+    "de": 0.19
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     95.0
+    ],
+    [
+     "Mar 2022",
+     113.0
+    ],
+    [
+     "Mar 2023",
+     107.0
+    ],
+    [
+     "Mar 2024",
+     105.0
+    ],
+    [
+     "Mar 2025",
+     101.0
+    ],
+    [
+     "Mar 2026",
+     110.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     273.0
+    ],
+    [
+     "Mar 2022",
+     250.0
+    ],
+    [
+     "Mar 2023",
+     232.0
+    ],
+    [
+     "Mar 2024",
+     283.0
+    ],
+    [
+     "Mar 2025",
+     260.0
+    ],
+    [
+     "Mar 2026",
+     228.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     109.0
+    ],
+    [
+     "Mar 2022",
+     111.0
+    ],
+    [
+     "Mar 2023",
+     108.0
+    ],
+    [
+     "Mar 2024",
+     116.0
+    ],
+    [
+     "Mar 2025",
+     97.0
+    ],
+    [
+     "Mar 2026",
+     91.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     259.0
+    ],
+    [
+     "Mar 2022",
+     252.0
+    ],
+    [
+     "Mar 2023",
+     231.0
+    ],
+    [
+     "Mar 2024",
+     271.0
+    ],
+    [
+     "Mar 2025",
+     264.0
+    ],
+    [
+     "Mar 2026",
+     247.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     57.0
+    ],
+    [
+     "Mar 2022",
+     61.0
+    ],
+    [
+     "Mar 2023",
+     84.0
+    ],
+    [
+     "Mar 2024",
+     118.0
+    ],
+    [
+     "Mar 2025",
+     69.0
+    ],
+    [
+     "Mar 2026",
+     68.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 3570.0,
+    "pat": 1952.0,
+    "fcf": 2323.0,
+    "conv": 1.83
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 2811.0,
+    "pat": 2182.0,
+    "fcf": 1238.0,
+    "conv": 1.29
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 5888.0,
+    "pat": 4507.0,
+    "fcf": 4009.0,
+    "conv": 1.31
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 4543.0,
+    "pat": 5578.0,
+    "fcf": 1908.0,
+    "conv": 0.81
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 4643.0,
+    "pat": 5725.0,
+    "fcf": 1327.0,
+    "conv": 0.81
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 5674.0,
+    "pat": 4158.0,
+    "fcf": 2004.0,
+    "conv": 1.36
+   }
+  ],
+  "cash_conv_5y": 1.06,
+  "flags": [
+   {
+    "tone": "bad",
+    "text": "Profit lagging sales over 3y (-2.7% vs 11.0%): margins under pressure"
+   },
+   {
+    "tone": "bad",
+    "text": "Operating margin down 700 bps over 3 years"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 106% of profit"
+   },
+   {
+    "tone": "bad",
+    "text": "Borrowings 3.6x in 3 years (₹2,002 → ₹7,229 cr)"
+   },
+   {
+    "tone": "good",
+    "text": "Cash cycle tightened by 24 days in 2 years (271 → 247)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.drreddys.com/cms/sites/default/files/2026-05/DRL_Q4FY26EarningsCall%20Transcript_12May2026.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=974a472a-c74c-4d8e-9572-168c04c00281.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=23b55ad8-a0ce-4573-b27a-d0d83f618ae5.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.drreddys.com/cms/sites/default/files/2026-10/EarningsCallTranscriptQ2FY27.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b4d586a3-1dea-4aca-9bdc-143fa8564ad1.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.drreddys.com/cms/sites/default/files/2026-05/DRL_Q4FY26EarningsCall%20Transcript_12May2026.pdf",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Expect margins to improve and be above 50% in FY27",
+     "horizon": "FY27",
+     "low": 50.0,
+     "high": null,
+     "unit": "%",
+     "quote": "Given our focus on cost efficiencies and productivity improvement, we expect the margins to improve and be above 50% in FY27.",
+     "page": 3,
+     "speaker": "M. V. Narasimham",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Expect effective tax rate to be 24 to 25% for fiscal FY27",
+     "horizon": "FY27",
+     "low": 24.0,
+     "high": 25.0,
+     "unit": "%",
+     "quote": "We expect the ETR to be 24 to 25% for fiscal FY27.",
+     "page": 4,
+     "speaker": "M. V. Narasimham",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Expect semaglutide volume sales between 6 to 7 million units until end of calendar 26",
+     "horizon": "End of calendar 26",
+     "low": 6000000.0,
+     "high": 7000000.0,
+     "unit": "units",
+     "quote": "Specifically, for the next, let's say, until the end of calendar ‘26, I believe that the number is somewhere between 6 to 7 million units.",
+     "page": 8,
+     "speaker": "Erez Israeli",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Expect R&D spend to be in the range of 7-8% in fiscal ahead",
+     "horizon": "FY27",
+     "low": 7.0,
+     "high": 8.0,
+     "unit": "%",
+     "quote": "We expect the spends to be in the range of 7-8% in the fiscal ahead.",
+     "page": 4,
+     "speaker": "M. V. Narasimham",
+     "verified": true,
+     "id": "g1.4"
+    },
+    {
+     "metric": "capex",
+     "promise": "Expect capex for next year to be around 2,000 crores",
+     "horizon": "FY27",
+     "low": null,
+     "high": 2000.0,
+     "unit": "cr",
+     "quote": "So, next year would be around ₹2,000 crores.",
+     "page": 17,
+     "speaker": "M. V. Narasimham",
+     "verified": true,
+     "id": "g1.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered highest ever annual revenues amid headwinds and one-time impacts",
+     "quote": "FY26 reflected a resilient operating performance, delivering highest ever annual revenues, amid product-specific headwinds and certain one-time impacts.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Base business delivered double-digit growth for the quarter and full year",
+     "quote": "The underlying base business continued to deliver double-digit growth for the quarter as well as for the full year, FY26.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Dr. Reddy's secured first regulatory approval of semaglutide injection in Canada",
+     "quote": "We are pleased to announce that Dr. Reddy’s became the first company to secure regulatory approval of semaglutide injection for Type 2 Diabetes in Canada",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Board recommended dividend of Rs 8 per equity share for FY26",
+     "quote": "Based on the company’s performance, the Board has recommended payment of a dividend of ₹8 per equity share of face value Re. 1/- each",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Revlimid shelf stock adjustment size",
+     "quote": "So, if you could just give us some colour in terms of why the shelf stock adjustment was so large, given that we knew they were expecting competition in January.",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Semaglutide guidance and Brazil setback",
+     "quote": "And, you know, given that we have had a setback in Brazil, are we still confident of the 12 million units of sale for semaglutide in fiscal ‘27",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Biosimilar business profitability and break-even timeline",
+     "quote": "just wanted to have a sense of what is the size of the biosimilar business right now, and whether it has already broken even, or it is loss making. If not, then, what is the timeline for break-even for this business?",
+     "page": 12,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and transparent, addressing headwinds directly while emphasizing long-term strategic growth drivers."
+  },
+  {
+   "n": 2,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=974a472a-c74c-4d8e-9572-168c04c00281.pdf",
+   "pages": 13,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Supply 6 to 7 million pens between Q3 and Q4 of FY27",
+     "horizon": "Q3-Q4 FY27",
+     "low": 6000000,
+     "high": 7000000,
+     "unit": "units",
+     "quote": "Subject to a successful validation, we will resume commercial supply to our long term partner, OneSource, and will be on track to supply, hopefully, 6-7 million pens between Q3 and Q4 of FY27.",
+     "page": 4,
+     "speaker": "Erez Israeli",
+     "verified": true,
+     "id": "g2.1"
+    }
+   ],
+   "claims": [],
+   "pushback": [
+    {
+     "topic": "Impurity root cause and process changes",
+     "quote": "Tushar, that, this impurity is coming from the raw material side, or because of the reaction, or is it to do with equipment-related issue? If you could highlight.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Inventory write-down impact",
+     "quote": "First question, would we have to write down any inventory lying with OneSource?",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Impact on annual targets",
+     "quote": "My question is, does this mean that Reddy’s is still on target to achieve its annual target that it has set earlier of 12 million pens in the first year of launch?",
+     "page": 12,
+     "verified": true
+    }
+   ],
+   "tone": "Transparent, calm, and forthcoming regarding a temporary supply halt while maintaining long-term confidence."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=23b55ad8-a0ce-4573-b27a-d0d83f618ae5.pdf",
+   "pages": 22,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "FY27 capex around ₹1,800 crores on a full-year basis",
+     "horizon": "FY27",
+     "low": 1800,
+     "high": 1800,
+     "unit": "cr",
+     "quote": "This year, I think around ₹1,800 crores on the full-year basis.",
+     "page": 13,
+     "speaker": "M. V. Narasimham",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Maintain EBITDA margin in the neighbourhood of 20% for upcoming quarters",
+     "horizon": "FY27",
+     "low": 20,
+     "high": 20,
+     "unit": "%",
+     "quote": "Still I maintain what we discussed a few weeks ago, that we are in the neighbourhood of the 20% and likely to stay.",
+     "page": 8,
+     "speaker": "Erez Israeli",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Supply 6 to 7 million semaglutide pens between November and March",
+     "horizon": "November to March",
+     "low": 6,
+     "high": 7,
+     "unit": "units",
+     "quote": "if everything will go well, we should be able to give to the market 6 to 7 million pens between November and March.",
+     "page": 10,
+     "speaker": "Erez Israeli",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "margin",
+     "promise": "EBITDA margin will be higher than high-teens once semaglutide supplies resume",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": "%",
+     "quote": "As we will resume, with the assumption that we will come back with semaglutide in November, of course, the margins will be higher than that.",
+     "page": 8,
+     "speaker": "Erez Israeli",
+     "verified": true,
+     "id": "g3.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenues declined 5.6% YoY to ₹8,071 crores due to lower lenalidomide and semaglutide provisions",
+     "quote": "Consolidated revenues stood at ₹8,071 crores, which is US$853 million, a decline of 5.6% YoY",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "EBITDA margin for the quarter was 12.5% impacted by semaglutide challenges and Middle East conflict",
+     "quote": "The business reported a revenue decline of 5.6% and an EBITDA margin of 12.5% for the quarter",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "India business recorded robust double-digit YoY growth of 17% reaching ₹1,718 crores",
+     "quote": "Our India business revenues were ₹1,718 crores, accounting for 21% of our overall revenues and delivering a robust, double-digit, year-on-year growth of 17%",
+     "page": 7,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Semaglutide supply timeline and impact",
+     "quote": "So, since you last addressed on the semaglutide situation, is there any progress in terms of root cause analysis, and how you see possibility of a resolution?",
+     "page": 12,
+     "verified": true
+    },
+    {
+     "topic": "US business growth and R&D productivity",
+     "quote": "So, despite these launches and Mayne acquisition, where have we struggled in terms of driving growth on the base US business?",
+     "page": 13,
+     "verified": true
+    },
+    {
+     "topic": "Abatacept inspection and BLA approval risk",
+     "quote": "First question on abatacept update. So, two aspects here. One on plant inspection... And, second aspect. From an ongoing dialogue perspective with the US FDA on the product approval, what are the types of queries we are receiving?",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and transparent regarding challenges, maintaining core growth and strategic priorities."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Oct 2026",
+   "url": "https://www.drreddys.com/cms/sites/default/files/2026-10/EarningsCallTranscriptQ2FY27.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "FY27 capex cash outflow around 1,600 to 1,700 crores",
+     "horizon": "FY27",
+     "low": 1600,
+     "high": 1700,
+     "unit": "cr",
+     "quote": "Earlier, we have guided around ₹1,800 crores. My view, it could be a little lower, but definitely, I expect around ₹1,600 to 1,700 crores.",
+     "page": 14,
+     "speaker": "M. V. Narasimham",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Gross margin to be in the range 50 to 55%",
+     "horizon": "coming quarters",
+     "low": 50,
+     "high": 55,
+     "unit": "%",
+     "quote": "Yeah, Neha, as we guided earlier, we want gross margin to be in the range 50 to 55%.",
+     "page": 7,
+     "speaker": "M. V. Narasimham",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "R&D spend to be in the range of 7 to 8%",
+     "horizon": "coming quarters",
+     "low": 7,
+     "high": 8,
+     "unit": "%",
+     "quote": "And then, in the coming quarters, we believe our R&D is going to be in the range of 7-8%.",
+     "page": 9,
+     "speaker": "M. V. Narasimham",
+     "verified": true,
+     "id": "g4.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered 1.5% year-over-year revenue decline and 20.6% EBITDA margin in Q2 FY27",
+     "quote": "The business reported a 1.5% year-over-year decline in revenue, while EBITDA margin was at 20.6% for the quarter.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated revenues stood at 8,671 crores or 905 million US dollars",
+     "quote": "Consolidated revenues stood at ₹8,671 crores, which is US$905 million, a decline of 1.5% year-over-year and a growth of 7.4% on sequential basis.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Operating working capital as of September 30, 2026 was 14,650 crores",
+     "quote": "Operating working capital as of 30th September 2026 was ₹14,650 crores, which is US$1.53 billion, an increase of ₹297 crores over 30th June 2026.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "CDMO business under Aurigene Pharmaceutical Services generated over $100 million in last 12 months",
+     "quote": "Our CDMO business under Aurigene Pharmaceutical Services generated revenues of over $100 million in the last 12 months.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Semaglutide API scaling and validation timelines",
+     "quote": "So, you mentioned you have already started supply of API to your fill and finish partner. However, what is remaining is the validation, so I actually am not clear.",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Abatacept approval probability and potential CRL risk",
+     "quote": "So, what kind of the chances that you have in terms of approval, or is there any possibility of getting CRL in December, and the approval may get delayed by a few months, etc.?",
+     "page": 15,
+     "verified": true
+    },
+    {
+     "topic": "Sustainability of 20% plus margins amid R&D increase",
+     "quote": "So, I'm just wondering if R&D spend goes up, some of these products, like bosutinib comes down, and in this quarter, you also had some impact of milestone incomes, etc., so, just trying to understand from where you are getting confidence",
+     "page": 16,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and transparent regarding operational execution, margins, and key pipeline assets."
+  }
+ ],
+ "business": {
+  "what_it_does": "Dr. Reddys Laboratories manufactures and markets prescription and over-the-counter finished pharmaceutical products, active pharmaceutical ingredients, and biologics.",
+  "segments": [
+   {
+    "name": "Global Generics",
+    "revenue": 299033,
+    "unit": "million",
+    "what": "Prescription and over-the-counter finished pharmaceutical products for patients.",
+    "page": 446,
+    "share_pct": 90
+   },
+   {
+    "name": "Pharmaceutical Services and Active Ingredients",
+    "revenue": 34773,
+    "unit": "million",
+    "what": "Active pharmaceutical ingredients and intermediates for pharmaceutical products.",
+    "page": 446,
+    "share_pct": 10
+   }
+  ],
+  "mix_note": "United States contributed 117,892 million, India 64,537 million, and Russia 34,786 million to revenues.",
+  "risks_mgmt_flags": [
+   "Information security and cybersecurity pose a significant risk to our industry.",
+   "Data privacy is a significant risk due to sensitive personal data."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b4d586a3-1dea-4aca-9bdc-143fa8564ad1.pdf",
+  "pages_read": [
+   28,
+   54,
+   56,
+   57,
+   87,
+   175,
+   219,
+   225,
+   226,
+   231,
+   253,
+   265
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g3.2",
+    "promise": "Maintain EBITDA margin around 20% for upcoming quarters",
+    "made_in": "Q1 FY27",
+    "delivered": "Q2 FY27 EBITDA margin was 20%",
+    "verdict": "delivered",
+    "checked_against": "Q2 FY27 EBITDA%",
+    "quote": "Still I maintain what we discussed a few weeks ago, that we are in the neighbourhood of the 20% and likely to stay.",
+    "page": 8,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=23b55ad8-a0ce-4573-b27a-d0d83f618ae5.pdf"
+   },
+   {
+    "ref": "g1.1",
+    "promise": "Margins to improve and be above 50% in FY27",
+    "made_in": "Q4 FY26",
+    "delivered": "No gross margin figure reported; cannot verify",
+    "verdict": "too_early",
+    "checked_against": "gross margin (not reported)",
+    "quote": "Given our focus on cost efficiencies and productivity improvement, we expect the margins to improve and be above 50% in FY27.",
+    "page": 3,
+    "verified": true,
+    "url": "https://www.drreddys.com/cms/sites/default/files/2026-05/DRL_Q4FY26EarningsCall%20Transcript_12May2026.pdf"
+   },
+   {
+    "ref": "g1.4",
+    "promise": "R&D spend 7-8% in fiscal ahead (FY27)",
+    "made_in": "Q4 FY26",
+    "delivered": "R&D % not disclosed in reported data",
+    "verdict": "too_early",
+    "checked_against": "R&D spend % (not reported)",
+    "quote": "We expect the spends to be in the range of 7-8% in the fiscal ahead.",
+    "page": 4,
+    "verified": true,
+    "url": "https://www.drreddys.com/cms/sites/default/files/2026-05/DRL_Q4FY26EarningsCall%20Transcript_12May2026.pdf"
+   },
+   {
+    "ref": "g1.5",
+    "promise": "Capex around ₹2,000 crore for FY27",
+    "made_in": "Q4 FY26",
+    "delivered": "Capex amount not disclosed in reported data",
+    "verdict": "too_early",
+    "checked_against": "capex (not reported)",
+    "quote": "So, next year would be around ₹2,000 crores.",
+    "page": 17,
+    "verified": true,
+    "url": "https://www.drreddys.com/cms/sites/default/files/2026-05/DRL_Q4FY26EarningsCall%20Transcript_12May2026.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "Only one promise can be checked against reported numbers so far — too few to score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Management touts margin improvement but EBITDA margin fell to 20% from 26% FY25."
+   },
+   {
+    "agree": true,
+    "point": "Revenue remains robust above ₹8,600 cr despite YoY decline."
+   },
+   {
+    "agree": false,
+    "point": "Capex and R&D guidance lack supporting figures in the financials."
+   }
+  ],
+  "bull": [
+   "EBITDA margin hit the 20% target in Q2 FY27.",
+   "Revenue stayed above ₹8.6 bn, showing scale.",
+   "Operating cash flow to PAT ratio improved to 1.36 in FY26."
+  ],
+  "bear": [
+   "EBITDA margin dropped from 26% FY25 to 20% FY27.",
+   "Quarterly revenue YoY fell 1.5% in Q2 FY27.",
+   "No disclosed data to confirm promised >50% gross margin."
+  ],
+  "watch": [
+   "Actual FY27 capex spend.",
+   "R&D spend as % of revenue.",
+   "Semaglutide pen supply volumes."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13833,
+   "out": 1237,
+   "secs": 4.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 9180,
+   "out": 395,
+   "secs": 11.5,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 16324,
+   "out": 1015,
+   "secs": 4.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13919,
+   "out": 1056,
+   "secs": 4.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12245,
+   "out": 259,
+   "secs": 3.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 3288,
+   "out": 1208,
+   "secs": 3.5,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 68789,
+  "tokens_out": 5170,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 36.7
+ }
+}

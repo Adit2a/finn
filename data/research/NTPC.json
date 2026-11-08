@@ -1,0 +1,1061 @@
+{
+ "symbol": "NTPC",
+ "name": "NTPC Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:36:48",
+ "latest_call": "Nov 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 313347.0,
+   "pe": 10.5,
+   "roce": 8.92,
+   "roe": 15.1,
+   "ttm_revenue": 200543.0,
+   "ttm_pat": 30459.0,
+   "margin_latest_q": 29.0,
+   "de": 1.31,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 45069.0,
+    "rev_yoy": 5.3,
+    "op_profit": 13341.0,
+    "margin": 30.0,
+    "ebit_margin": 20.0,
+    "pat": 5170.0,
+    "pat_yoy": -0.7
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 49834.0,
+    "rev_yoy": 4.6,
+    "op_profit": 14754.0,
+    "margin": 30.0,
+    "ebit_margin": 20.2,
+    "pat": 7897.0,
+    "pat_yoy": 21.7
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 47064.0,
+    "rev_yoy": -3.0,
+    "op_profit": 12579.0,
+    "margin": 27.0,
+    "ebit_margin": 17.0,
+    "pat": 6108.0,
+    "pat_yoy": 10.9
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 44784.0,
+    "rev_yoy": 0.2,
+    "op_profit": 12814.0,
+    "margin": 29.0,
+    "ebit_margin": 17.9,
+    "pat": 5225.0,
+    "pat_yoy": -2.9
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 45846.0,
+    "rev_yoy": 1.7,
+    "op_profit": 14570.0,
+    "margin": 32.0,
+    "ebit_margin": 20.7,
+    "pat": 5597.0,
+    "pat_yoy": 8.3
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 49686.0,
+    "rev_yoy": -0.3,
+    "op_profit": 8505.0,
+    "margin": 17.0,
+    "ebit_margin": 6.8,
+    "pat": 10615.0,
+    "pat_yoy": 34.4
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 50741.0,
+    "rev_yoy": 7.8,
+    "op_profit": 16231.0,
+    "margin": 32.0,
+    "ebit_margin": 21.7,
+    "pat": 6896.0,
+    "pat_yoy": 12.9
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 54270.0,
+    "rev_yoy": 21.2,
+    "op_profit": 15627.0,
+    "margin": 29.0,
+    "ebit_margin": 19.0,
+    "pat": 7351.0,
+    "pat_yoy": 40.7
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 109464.0,
+    "op_profit": 31586.0,
+    "margin": 29.0,
+    "pat": 11902.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 111531.0,
+    "op_profit": 34044.0,
+    "margin": 31.0,
+    "pat": 14969.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 132669.0,
+    "op_profit": 40362.0,
+    "margin": 30.0,
+    "pat": 16960.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 176207.0,
+    "op_profit": 47596.0,
+    "margin": 27.0,
+    "pat": 17121.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 178525.0,
+    "op_profit": 51469.0,
+    "margin": 29.0,
+    "pat": 21332.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 188138.0,
+    "op_profit": 54355.0,
+    "margin": 29.0,
+    "pat": 23953.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 187385.0,
+    "op_profit": 55438.0,
+    "margin": 30.0,
+    "pat": 27546.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 2.1,
+   "rev_cagr_5y": 10.9,
+   "pat_cagr_3y": 17.2,
+   "pat_cagr_5y": 13.0,
+   "margin_change_3y_bps": 300
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 210707.0,
+    "equity": 135374.0,
+    "de": 1.56
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 222913.0,
+    "equity": 147023.0,
+    "de": 1.52
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 237131.0,
+    "equity": 160710.0,
+    "de": 1.48
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 250096.0,
+    "equity": 184071.0,
+    "de": 1.36
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 271005.0,
+    "equity": 203176.0,
+    "de": 1.33
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 279526.0,
+    "equity": 213472.0,
+    "de": 1.31
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     92.0
+    ],
+    [
+     "Mar 2022",
+     77.0
+    ],
+    [
+     "Mar 2023",
+     62.0
+    ],
+    [
+     "Mar 2024",
+     68.0
+    ],
+    [
+     "Mar 2025",
+     67.0
+    ],
+    [
+     "Mar 2026",
+     71.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     92.0
+    ],
+    [
+     "Mar 2022",
+     77.0
+    ],
+    [
+     "Mar 2023",
+     62.0
+    ],
+    [
+     "Mar 2024",
+     68.0
+    ],
+    [
+     "Mar 2025",
+     67.0
+    ],
+    [
+     "Mar 2026",
+     71.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -61.0
+    ],
+    [
+     "Mar 2022",
+     -62.0
+    ],
+    [
+     "Mar 2023",
+     -43.0
+    ],
+    [
+     "Mar 2024",
+     -45.0
+    ],
+    [
+     "Mar 2025",
+     -37.0
+    ],
+    [
+     "Mar 2026",
+     -54.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 32444.0,
+    "pat": 14969.0,
+    "fcf": 9162.0,
+    "conv": 2.17
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 41788.0,
+    "pat": 16960.0,
+    "fcf": 17457.0,
+    "conv": 2.46
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 47152.0,
+    "pat": 17121.0,
+    "fcf": 22432.0,
+    "conv": 2.75
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 40099.0,
+    "pat": 21332.0,
+    "fcf": 9358.0,
+    "conv": 1.88
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 50488.0,
+    "pat": 23953.0,
+    "fcf": 9431.0,
+    "conv": 2.11
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 50902.0,
+    "pat": 27546.0,
+    "fcf": 6895.0,
+    "conv": 1.85
+   }
+  ],
+  "cash_conv_5y": 2.16,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (17.2% vs 2.1%): operating leverage"
+   },
+   {
+    "tone": "good",
+    "text": "Operating margin up 300 bps over 3 years"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 216% of profit"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a34b65bf-06e8-4d67-b630-5dd881ccf2a0.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d2a690dd-c88b-4131-ae93-58eace85d36c.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e33897c7-dc88-4321-8509-24d5a43a21d1.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d962dc4-6133-4998-8d2e-9fa5fec441f5.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/dbc69766-f1e1-4ecc-9fa9-7599477167db.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a34b65bf-06e8-4d67-b630-5dd881ccf2a0.pdf",
+   "pages": 16,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "NGEL capacity addition of 5 gigawatts target for FY26",
+     "horizon": "FY26",
+     "low": null,
+     "high": 5,
+     "unit": "units",
+     "quote": "So the capacity addition plan is very much on track, and we would be touching our 5 GW target.",
+     "page": 9,
+     "speaker": "CEO NGEL",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "NGEL capacity addition target of 8 GW for FY27",
+     "horizon": "FY27",
+     "low": null,
+     "high": 8,
+     "unit": "units",
+     "quote": "Our plan as of now for FY '27 is 8 GW. And we have already commenced work on the various plants",
+     "page": 9,
+     "speaker": "CEO NGEL",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "NGEL capacity addition target of 8 GW for FY28",
+     "horizon": "FY28",
+     "low": null,
+     "high": 8,
+     "unit": "units",
+     "quote": "and likewise, for FY '28 also, we are targeting 8 GW of capacity addition.",
+     "page": 9,
+     "speaker": "CEO NGEL",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "volume",
+     "promise": "Thermal capacity addition of 1,600 MW from Patratu units in next year",
+     "horizon": "next year",
+     "low": null,
+     "high": 1600,
+     "unit": "units",
+     "quote": "next year, we are expecting Patratu Unit 2 and 3 to be commissioned in Q1 and Q3, respectively. So that would add around 1,600 MW",
+     "page": 13,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g1.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "NTPC Group added 1,744 MW of capacity in Q3 FY26.",
+     "quote": "NTPC Group added 1,744 MW in Q3 FY '26, comprising of 800 MW from Patratu thermal power station, 694 MW from renewables and 250 MW from THDC pumped storage project.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Group capex reached 33,466 crores in the first 9 months of FY26.",
+     "quote": "we have incurred a group capex of INR33,466 crores as compared to INR30,779 crores in the corresponding previous period.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "NGEL added 2,108 MW of renewable capacity during FY26 up to December.",
+     "quote": "During FY '26, NGEL added 2,108 MW of renewable capacity, taking its total commercial capacity to 8,010 MW as on 31st December 2025",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Outstanding receivable days improved to 26 days as of December 31, 2025.",
+     "quote": "Outstanding receivable days improved to 26 days as on 31st December 2025 compared to 34 days as of 31st December 2024.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "NGEL capacity addition targets and confidence",
+     "quote": "So these are -- you have a very high reasonable surety that these plants have connectivity commissioned and that we will be able to commission 2.5 GW in the next 2 months, just the level of confidence you have for these 2.5 GW in the next 2 months?",
+     "page": 12,
+     "verified": true
+    },
+    {
+     "topic": "Participation in Section 63 tenders",
+     "quote": "Just first on NTPC. Just wanted to check on the decision to participate in Section 63 tenders, there have been about 11, 12 gigawatt of awards. Is this a conscious decision for NTPC not to participate in Section 63, just trying to understand?",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Green ammonia project return thresholds",
+     "quote": "So the question is on the green ammonia project. I'm saying the green ammonia project that we won, could you please clarify outside in the bids look aggressive to us, so I wanted to check, does the project meet our return threshold of 11%, 12% for higher equity IRR",
+     "page": 15,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and transparent regarding operational performance and future expansion strategy."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d2a690dd-c88b-4131-ae93-58eace85d36c.pdf",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "NGEL capex of INR35,800 crores for FY27",
+     "horizon": "FY27",
+     "low": 35800,
+     "high": 35800,
+     "unit": "cr",
+     "quote": "For NGEL, for current year it would be capex of INR35,800 crores. Next year, it would be INR46,000 crores and the year next, it would be INR48,000 crores.",
+     "page": 14,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "capex",
+     "promise": "NGEL capex of INR46,000 crores for FY28",
+     "horizon": "FY28",
+     "low": 46000,
+     "high": 46000,
+     "unit": "cr",
+     "quote": "Next year, it would be INR46,000 crores and the year next, it would be INR48,000 crores.",
+     "page": 14,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "capex",
+     "promise": "NGEL capex of INR48,000 crores for FY29",
+     "horizon": "FY29",
+     "low": 48000,
+     "high": 48000,
+     "unit": "cr",
+     "quote": "the year next, it would be INR48,000 crores.",
+     "page": 14,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Plan total capacity addition of 9,557 MW in FY27",
+     "horizon": "FY27",
+     "low": 9557,
+     "high": 9557,
+     "unit": "units",
+     "quote": "See, as far as FY27 is concerned, on a totality basis, we are planning around 9,557 MW of capacity.",
+     "page": 8,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g2.4"
+    },
+    {
+     "metric": "other",
+     "promise": "Plan total plant capacity addition of 10,039 MW in FY28",
+     "horizon": "FY28",
+     "low": 10039,
+     "high": 10039,
+     "unit": "units",
+     "quote": "The year next, FY28, the total plant capacity addition is 10,039 MW",
+     "page": 8,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g2.5"
+    },
+    {
+     "metric": "other",
+     "promise": "Plan total capacity addition of 11,478 MW in FY29",
+     "horizon": "FY29",
+     "low": 11478,
+     "high": 11478,
+     "unit": "units",
+     "quote": "In a similar way for FY29, we are planning 11,478 MW total capacity.",
+     "page": 8,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g2.6"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Group installed capacity stood at 89,108 MW as of March 31, 2026.",
+     "quote": "As on 31 March 2026, NTPC Group installed capacity stood at 89,108 MW. During the year, we have added 9,618 MW of capacity.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Standalone PAT for Q4 FY26 reached INR8,747 crores, a 51.4% growth YoY.",
+     "quote": "NTPC's profit after tax for Q4 FY26 is INR8,747 crores as against INR5,778 crores in the corresponding quarter of previous year, registering a growth of 51.4%.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Group capex incurred was INR49,068 crores in FY26.",
+     "quote": "In FY26, we have incurred a group capex of INR49,068 crores as compared to INR44,636 crores in the previous year.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Recommended a final dividend of INR3.50 per share for FY26.",
+     "quote": "I'm pleased to inform that NTPC Board has recommended a final dividend for FY26 of INR3.50 per share, subject to the approval of shareholders.",
+     "page": 7,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "NGEL pipeline reduction from 32 GW to 30 GW",
+     "quote": "When compared to previous quarter, the full pipeline, I think, has reduced from 32 GW to 30 GW. Can you give some color on this? Why is this reduction and which projects have been removed?",
+     "page": 12,
+     "verified": true
+    },
+    {
+     "topic": "Thermal backing down and technical minimum impact",
+     "quote": "While we appreciate the fact that company is entitled to a 55% technical minimum, but can you share with us if there is any incremental costs being incurred for backing down to 55%",
+     "page": 13,
+     "verified": true
+    },
+    {
+     "topic": "Lower tariff competitive bidding wins in FY26",
+     "quote": "Like in FY26, the projects won under tariff competitive bidding were low. So just wanted to understand like we were focusing more on execution of current projects, what was the reason for lower bidding?",
+     "page": 15,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and focused on strategic growth and energy security."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e33897c7-dc88-4321-8509-24d5a43a21d1.pdf",
+   "pages": 25,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Incur around 16.8 lakh crores in almost all sectors in the next 10 years",
+     "horizon": "next 10 years",
+     "low": 1680000,
+     "high": 1680000,
+     "unit": "cr",
+     "quote": "estimate is that we are going ki to incur around 16.8 lakh crores. So, that is the kind of the size of the investment which is made. This is in almost all sectors.",
+     "page": 7,
+     "speaker": "CMD",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Reach capacity portfolio of 150 gigawatts by FY32 and 250 gigawatts by FY37",
+     "horizon": "FY32 and FY37",
+     "low": 150,
+     "high": 250,
+     "unit": "units",
+     "quote": "targeting a capacity portfolio of 150 gigawatts by FY32 and on to 250 gigawatts by FY37.",
+     "page": 9,
+     "speaker": "Director (Finance)",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Expand renewable portfolio to 60 gigawatts by FY32 and 136 gigawatts by FY37",
+     "horizon": "FY32 and FY37",
+     "low": 60,
+     "high": 136,
+     "unit": "units",
+     "quote": "Our renewable portfolio is targeted to reach 60 gigawatts by FY32 and expand further to 136 gigawatts by FY37.",
+     "page": 10,
+     "speaker": "Director (Finance)",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "volume",
+     "promise": "Install 30 gigawatts of nuclear capacity by FY47",
+     "horizon": "FY47",
+     "low": 30,
+     "high": 30,
+     "unit": "units",
+     "quote": "we have an ambitious goal of installing 30 gigawatts of nuclear capacity by FY47.",
+     "page": 10,
+     "speaker": "Director (Finance)",
+     "verified": true,
+     "id": "g3.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Profit after tax for Q1 FY27 stood at INR 5,343 crores, an increase of 12% YoY",
+     "quote": "The profit after tax for Q1 FY27 stood at INR5,343 crores, an increase of 12% over Q1 of FY26.",
+     "page": 12,
+     "verified": true
+    },
+    {
+     "claim": "Outstanding receivable days improved to 15 days from 31 days",
+     "quote": "Outstanding receivable days improved to 15 days from 31 days.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Forced outage maintained at 3.75% in the current year",
+     "quote": "that has come in the previous year 3.9%, and in this year it is maintained at about 3.75%.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "NGEL generation doubled to around 15 billion units compared to 7 billion units",
+     "quote": "Generation from NGEL is around 15 billion units as compared to 7 billion units in the previous year. It's almost doubled.",
+     "page": 6,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Renewable capacity addition pace and missed targets",
+     "quote": "I think last year we missed the target. This year we have capacity target addition of 7 gigawatt. We have done merely 0.6 gigawatt. We understand that there are challenges, but given everything, what are we doing to improve the pace of RE capacity addition in our balance sheet?",
+     "page": 16,
+     "verified": true
+    },
+    {
+     "topic": "Thermal capacity backing down and technical minimum challenges",
+     "quote": "How is NTPC navigating the challenge of select thermal capacity falling below technical minimum in peak solar generation periods? We have heard about NTPC looking to co-locate 5 gigawatt hour of BESS projects at thermal power plants.",
+     "page": 19,
+     "verified": true
+    },
+    {
+     "topic": "Preference for cost-plus over competitive tendering route for coal plants",
+     "quote": "Incrementally we are seeing states prefer the tendering route for coal plants rather than regulated basis, and the tariffs discovered are actually quite attractive, INR4 fixed tariff. We have not participated in them. What is the rationale and any change in our view going forward",
+     "page": 24,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and focused on long-term sustainable growth across conventional, renewable, and nuclear sectors."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d962dc4-6133-4998-8d2e-9fa5fec441f5.pdf",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Estimated capex for new thermal capacity of 4,800 megawatts would be INR67,000 crores",
+     "horizon": "next fiscal",
+     "low": null,
+     "high": null,
+     "unit": "cr",
+     "quote": "And the estimated capex of all these things would be INR67,000 crores",
+     "page": 8,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "NGEL capacity addition target for NTPC Group scaled down to close to 8 gigawatts for FY27",
+     "horizon": "FY27",
+     "low": null,
+     "high": 8,
+     "unit": "units",
+     "quote": "Yes, the NTPC Group, the earlier expectation was 9.5 gigawatts, which we are scaling it down... So it would be now close to 8 gigawatts.",
+     "page": 13,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Transmission constraint and connectivity issues for NGEL will be surmounted by mid-July next year",
+     "horizon": "mid-July next year",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "So, more specific to NGEL, our transmission constraint or the connectivity issue which we are facing will all be surmounted by next year, mid-July.",
+     "page": 8,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Targeting Sinnar Thermal turnaround by December this year or January next",
+     "horizon": "December this year or January next",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We are targeting by December this year or January next, as far as Sinnar is concerned.",
+     "page": 10,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g4.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "NTPC Group's installed capacity stood at 91,506 megawatts as on H1 FY27",
+     "quote": "As on H1 FY27, NTPC Group's installed capacity stood at 91,506 megawatts.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Standalone revenue from operation for Q2 FY27 reached INR45,752 crores, up 17%",
+     "quote": "revenue from operation for Q2 FY27 is INR45,752 crores, as against INR39,167 crores for Q2 FY26, registering a growth of 17%.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Group PAT for H1 FY27 was INR14,247 crores, an increase by 26%",
+     "quote": "PAT for group for H1 FY27 is INR14,247 crores as against previous year INR11,334 crores, an increase by 26%.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "claim": "NGEL H1 FY27 consolidated revenue from operations increased by 58% to INR2,045 crores",
+     "quote": "consolidated revenue from operation increased by 58% to INR2,045 crores in H1 FY27",
+     "page": 7,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Renewable capacity addition target revision due to transmission delays",
+     "quote": "Would you like to revise your RE capacity addition target, given the fact that we've added only nearly 1.3 gigawatt, if I'm correct, in the first half H1?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Confidence in achieving 8 gigawatts renewable targets despite consistent transmission challenges",
+     "quote": "What gives us confidence on, you know, again achieving 8 gigawatts next year or the year after, because it's been a consistent trend, and with no easy answers.",
+     "page": 14,
+     "verified": true
+    },
+    {
+     "topic": "BESS procurement strategy and delays through local contractors versus direct Chinese sourcing",
+     "quote": "rather than going through some of these smaller contractors who ultimately delay the project, have you explored directly sourcing the batteries and installing and speeding up the process?",
+     "page": 16,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and proactive in addressing transmission and execution headwinds."
+  }
+ ],
+ "business": {
+  "what_it_does": "The company generates and trades energy, provides consultancy and project management services, and engages in coal mining and oil and gas exploration.",
+  "segments": [
+   {
+    "name": "Generation of energy",
+    "revenue": 162530.49,
+    "unit": "crore",
+    "what": "Bulk power to State Power Utilities and bulk customers",
+    "page": 155,
+    "share_pct": 93
+   },
+   {
+    "name": "Others",
+    "revenue": 12296.51,
+    "unit": "crore",
+    "what": "Consultancy, project management, energy trading, oil, gas exploration, and coal mining",
+    "page": 155,
+    "share_pct": 7
+   }
+  ],
+  "mix_note": "Revenue from any one customer under Generation of energy segment is nil.",
+  "risks_mgmt_flags": [
+   "Uncertainty involved on the recoverability of amounts in respect of Banai, Bhalamuda and Mandakini-B coal blocks.",
+   "Exchange differences on monetary items denominated in foreign currency recoverable from or payable to beneficiaries.",
+   "Risk of variances between book stock and measured stock of coal in captive mines."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/dbc69766-f1e1-4ecc-9fa9-7599477167db.pdf",
+  "pages_read": [
+   108,
+   142,
+   154,
+   155,
+   163,
+   192,
+   193,
+   229,
+   240,
+   242,
+   255,
+   256
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "NGEL capacity addition target of 5 gigawatts for FY26",
+    "made_in": "Q3 FY26",
+    "delivered": "Management claimed 2,108 MW added during FY26 up to December, but full year target verification requires company-level reports not provided for NGEL segment.",
+    "verdict": "partly",
+    "checked_against": "Q3 FY26 management claims",
+    "quote": "So the capacity addition plan is very much on track, and we would be touching our 5 GW target.",
+    "page": 9,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a34b65bf-06e8-4d67-b630-5dd881ccf2a0.pdf"
+   },
+   {
+    "ref": "g2.4",
+    "promise": "Plan total capacity addition of 9,557 MW in FY27",
+    "made_in": "Q4 FY26",
+    "delivered": "Management later scaled down NTPC Group expectation on Q2 FY27 call to close to 8 gigawatts due to transmission delays.",
+    "verdict": "walked_back",
+    "checked_against": "Q2 FY27 call g4.2",
+    "quote": "See, as far as FY27 is concerned, on a totality basis, we are planning around 9,557 MW of capacity.",
+    "page": 8,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d2a690dd-c88b-4131-ae93-58eace85d36c.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "Incur around 16.8 lakh crores in almost all sectors in the next 10 years",
+    "made_in": "Q1 FY27",
+    "delivered": "Group capex reached INR 50,902 crores in FY26 and borrowings stood at INR 279,526 crores as of September 2026.",
+    "verdict": "too_early",
+    "checked_against": "March 2026 reported capex and Sep 2026 borrowings",
+    "quote": "estimate is that we are going ki to incur around 16.8 lakh crores. So, that is the kind of the size of the investment which is made. This is in almost all sectors.",
+    "page": 7,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e33897c7-dc88-4321-8509-24d5a43a21d1.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 6,
+   "line": "Management delivers solid cash flow and profits but routinely adjusts capacity and capex targets due to delays."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Profit compounding outpaces revenue with PAT reaching INR 27,546 crores in FY26, supporting the operating leverage narrative."
+   },
+   {
+    "agree": false,
+    "point": "Management lowered FY27 capacity targets to 8 gigawatts on Q2 FY27 from 9,557 MW previously due to persistent transmission constraints."
+   },
+   {
+    "agree": true,
+    "point": "Cash conversion remains strong with 5y operating cash flow at 216% of profit, backed by Mar 2026 OCF of INR 50,902 crores."
+   }
+  ],
+  "bull": [
+   "Annual PAT grew to INR 27,546 crores in FY26 from INR 21,332 crores in FY24.",
+   "Strong operating cash flow of INR 50,902 crores recorded for FY26 with a 5y cash conversion of 2.16.",
+   "D/E ratio improved to 1.31 as of September 2026 compared to 1.48 in FY24."
+  ],
+  "bear": [
+   "Borrowings increased to INR 279,526 crores as of September 2026 alongside heavy planned capex.",
+   "Transmission and connectivity constraints force downward revisions to renewable capacity addition targets.",
+   "Standalone EBIT margin dropped to 6.8% in March 2026 from 20.7% in December 2025."
+  ],
+  "watch": [
+   "NGEL capacity addition progress against the revised 8 gigawatts FY27 target.",
+   "Borrowings growth relative to equity as D/E stands at 1.31.",
+   "Resolution of transmission constraints by mid-July next year."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12042,
+   "out": 1166,
+   "secs": 4.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13042,
+   "out": 1427,
+   "secs": 5.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 18967,
+   "out": 1160,
+   "secs": 4.7,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12864,
+   "out": 1096,
+   "secs": 7.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11012,
+   "out": 281,
+   "secs": 2.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 4154,
+   "out": 976,
+   "secs": 3.7,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 72081,
+  "tokens_out": 6106,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 35.6
+ }
+}

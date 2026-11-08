@@ -1,0 +1,830 @@
+{
+ "symbol": "HDFCBANK",
+ "name": "HDFC Bank Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T22:40:23",
+ "latest_call": "Oct 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 1211977.0,
+   "pe": 15.1,
+   "roce": 7.02,
+   "roe": 13.6,
+   "ttm_revenue": 359956.0,
+   "ttm_pat": 83685.0,
+   "margin_latest_q": null,
+   "de": 0.98,
+   "is_financial": true,
+   "margin_label": "Financing margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 85040.0,
+    "rev_yoy": 9.0,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 18340.0,
+    "pat_yoy": 3.5
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 86779.0,
+    "rev_yoy": 9.2,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 19285.0,
+    "pat_yoy": 7.1
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 87372.0,
+    "rev_yoy": 7.1,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 17090.0,
+    "pat_yoy": -0.6
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 86994.0,
+    "rev_yoy": 4.8,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 20364.0,
+    "pat_yoy": 9.3
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 87067.0,
+    "rev_yoy": 2.4,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 20691.0,
+    "pat_yoy": 12.8
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 87182.0,
+    "rev_yoy": 0.5,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 21074.0,
+    "pat_yoy": 9.3
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 90575.0,
+    "rev_yoy": 3.7,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 20383.0,
+    "pat_yoy": 19.3
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 95132.0,
+    "rev_yoy": 9.4,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 21537.0,
+    "pat_yoy": 5.8
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 122189.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 27296.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 128552.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 31857.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 135936.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 38151.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 170754.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 46149.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 283649.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 65446.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 336367.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 73440.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 348615.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 79219.0,
+    "ebit_margin": null
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 26.9,
+   "rev_cagr_5y": 22.1,
+   "pat_cagr_3y": 19.7,
+   "pat_cagr_5y": 20.0,
+   "margin_change_3y_bps": null
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 226966.0,
+    "equity": 247327.0,
+    "de": 0.92
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 256549.0,
+    "equity": 289438.0,
+    "de": 0.89
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 730615.0,
+    "equity": 456396.0,
+    "de": 1.6
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 634606.0,
+    "equity": 521789.0,
+    "de": 1.22
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 588485.0,
+    "equity": 586059.0,
+    "de": 1.0
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 594144.0,
+    "equity": 603469.0,
+    "de": 0.98
+   }
+  ],
+  "working_capital": {},
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 42476.0,
+    "pat": 31857.0,
+    "fcf": 40796.0,
+    "conv": 1.33
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": -11960.0,
+    "pat": 38151.0,
+    "fcf": -14176.0,
+    "conv": -0.31
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 20814.0,
+    "pat": 46149.0,
+    "fcf": 17390.0,
+    "conv": 0.45
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 19069.0,
+    "pat": 65446.0,
+    "fcf": 14882.0,
+    "conv": 0.29
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 127242.0,
+    "pat": 73440.0,
+    "fcf": 123267.0,
+    "conv": 1.73
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 113506.0,
+    "pat": 79219.0,
+    "fcf": 110144.0,
+    "conv": 1.43
+   }
+  ],
+  "cash_conv_5y": 0.89,
+  "flags": [
+   {
+    "tone": "bad",
+    "text": "Profit lagging sales over 3y (19.7% vs 26.9%): margins under pressure"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56739132-e21e-4503-aeb6-85f4f53c1244.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a77abbbb-954a-4221-8240-67bf0da6ba1c.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=509cc499-6cb1-4d9f-8de9-9c7de6c70eef.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7e45614-ae12-4bb9-b92d-623b3a63f166.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7d621500-082a-4342-b98d-ba677d3890c5.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Mar 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56739132-e21e-4503-aeb6-85f4f53c1244.pdf",
+   "pages": 14,
+   "scanned": false,
+   "guidance": [],
+   "claims": [
+    {
+     "claim": "The board and management oversaw the largest merger in recent years in India's corporate history.",
+     "quote": "The board and the management oversaw the largest merger in recent years in India's corporate history.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Technology will be a differentiator and surprise over the next year or two.",
+     "quote": "Technology is going to be differentiator, and you will see it more happening over the year and two. And that is going to be kind of a surprise to all of us",
+     "page": 13,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Resignation reasons of outgoing chairman",
+     "quote": "what do you think would have actually triggered that maybe that it is mentioned that it is not in congruence with his personal values and may be ethics.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "topic": "Power struggle at board or employee level",
+     "quote": "Has there been a long period point of differences over the course of last three, four years?",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Social media rumors and allegations regarding senior members",
+     "quote": "There have been several tweets by an anonymous Twitter handle regarding various senior members of the bank and the kind of cases that have come up against them. Have these issues been discussed at the board level?",
+     "page": 12,
+     "verified": true
+    }
+   ],
+   "tone": "Calm, reassuring, and firm on strong governance standards and unity."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a77abbbb-954a-4221-8240-67bf0da6ba1c.pdf",
+   "pages": 16,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Endeavor for LCR to be between 110% and 120%",
+     "horizon": "future",
+     "low": 110,
+     "high": 120,
+     "unit": "%",
+     "quote": "Kunal, in the past, we have mentioned that our endeavor for LCR is to be between 110% and 120%.",
+     "page": 9,
+     "speaker": "Srinivasan Vaidyanathan",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Provide summary of legal review as and when it happens",
+     "horizon": "future",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "The legal review, which is what we had committed at the time when we went to the press, is in process. As and when this happens, we shall provide a summary of the same.",
+     "page": 5,
+     "speaker": "Sashidhar Jagdishan",
+     "verified": true,
+     "id": "g2.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "System credit growth achieved 12% against estimated 10.5% to 11.5%",
+     "quote": "We had estimated the system credit growth to be around 10.5% to 11.5%. We did 12%, up from 5.5% last year.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Deposit growth rate at 14.4% continues to grow faster than credit growth",
+     "quote": "Deposit growth rate at 14.4% continues to grow faster than the credit growth, which is what we've always been doing.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Return on assets continued to be stable at 1.9% due to cost efficiencies",
+     "quote": "Despite the drop in NIMs, the return on assets continue to be stable at 1.9% due to cost efficiencies with cost-to-income declining from 40.5% to 39.5%",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Strong capital position at 19.7% and gross NPAs extremely healthy at 1.15%",
+     "quote": "We have a strong capital position at 19.7%. Our asset quality is extremely healthy at 1.15% gross NPAs.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Loan growth relative to higher industry average",
+     "quote": "we indicated like we will try to grow in line with the industry average, but we are seeing industry average being upwards of 15%, we are still at 12%.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Investment yields going down despite rising G-Sec yields",
+     "quote": "Srini, If I can, even though the geopolitics, the 10-year G-Sec were decisively moving up, right, in the last 6 months specifically, but the book yields have kept going down.",
+     "page": 14,
+     "verified": true
+    },
+    {
+     "topic": "Modest growth in third-party distribution fees",
+     "quote": "Actually, if I look at it on a full year basis, the growth has been hardly 3.5%. And this is lagging the overall customer growth.",
+     "page": 15,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and transparent, emphasizing long-term franchise strength, digital investments, and stable returns."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=509cc499-6cb1-4d9f-8de9-9c7de6c70eef.pdf",
+   "pages": 17,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Profit growth should be at or above balance sheet growth in the longer term",
+     "horizon": "longer term",
+     "low": null,
+     "high": null,
+     "unit": "%",
+     "quote": "We do think that in the longer term that the profit growth should be at or above the balance sheet growth.",
+     "page": 11,
+     "speaker": "Srinivasan Vaidyanathan",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Expect cost of funds moderation of 40 to 50 basis points over time",
+     "horizon": "longer term",
+     "low": 40,
+     "high": 50,
+     "unit": "bps",
+     "quote": "where compared to our historical norms as well as compared to what we have seen in the industry as such, there can be 40, 50 basis points change, but it is not going to change in a hurry.",
+     "page": 5,
+     "speaker": "Srinivasan Vaidyanathan",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Endeavor to secure a significant market share in FCNR mobilization during July-September",
+     "horizon": "Q2 FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "And you will see in the month of July, August, September, we have certain milestones... you will see a very handsome, or that's the endeavor to ensure that we are reasonably strong and significant market share in the market.",
+     "page": 8,
+     "speaker": "Sashidhar Jagdishan",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "volume",
+     "promise": "Aim to reach CASA ratio near pre-merger levels of around 38-40 percent in medium to long term",
+     "horizon": "medium to long term",
+     "low": 38,
+     "high": 40,
+     "unit": "%",
+     "quote": "For a start, the endeavor and our vision is to reach to somewhere near the pre-merger levels or just around the time of the merger, which was around 38. Post the merger we at we were 38 and before that we were 40.",
+     "page": 9,
+     "speaker": "Sashidhar Jagdishan",
+     "verified": true,
+     "id": "g3.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Deposit growth continues relatively better than historical Q1 trends with market share gains.",
+     "quote": "deposit growth continues to be relatively better than the historical Q1 trends. We continue to gain market share both on an incremental basis and on a stock basis as well.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Disbursed close to INR 14,000 crores under the ECLGS 5.0 scheme by June 30.",
+     "quote": "we have already as of 30th of June had a disbursement in that scheme of close to INR14,000 crores under the ECLGS scheme.",
+     "page": 14,
+     "verified": true
+    },
+    {
+     "claim": "Wholesale and corporate segment grew by about 18 percent.",
+     "quote": "we have seen, very good growth happen in our corporate and wholesale segment. We've seen that grow at about 18%",
+     "page": 13,
+     "verified": true
+    },
+    {
+     "claim": "Business banking within MSME grew at 22.3 percent.",
+     "quote": "business banking which is the largest component of our MSME segment grow at 22.3% this year.",
+     "page": 14,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Margins and bottoming out",
+     "quote": "Do you think margins have bottomed out now? That's my first question. And, what are the headwinds or tailwinds for margins?",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "topic": "CASA decline and savings account market share",
+     "quote": "Same with, you know, deposit growth, SA growth, etcetera. You had a very big delta with the system with the peers. That seems to be narrowing.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Earnings growth lagging balance sheet growth",
+     "quote": "your PAT growth or your earnings growth has been lagging your balance sheet growth, right? Look at last year, if I look at this quarter, it's been just 5%.",
+     "page": 11,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, resilient, and focused on medium-term efficiency and execution despite industry challenges."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7e45614-ae12-4bb9-b92d-623b3a63f166.pdf",
+   "pages": 17,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Expect net interest margin trajectory to be upward from next quarter onwards",
+     "horizon": "next quarter",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "The trajectory will be upward from the next quarter onwards.",
+     "page": 10,
+     "speaker": "Sashidhar Jagdishan",
+     "verified": true,
+     "id": "g4.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Deposits increased 18.8% year-on-year on a reported basis, including 4 percentage point lift from FCNR window.",
+     "quote": "Deposits increased 18.8% year-on-year on a reported basis, including a 4 percentage point lift from special FCNR (B) window.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Total AUM grew 15.3% year-on-year, including 1.9% impact of FCNR leverage.",
+     "quote": "Total AUM grew 15.3% year-on-year, including a 1.9% impact of FCNR (B) leverage, with SME and retail assets leading the charge.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Gross NPA stood at 1.11%, with credit costs remaining low at 44 basis points.",
+     "quote": "Our asset quality remains pristine, with GNPA at 1.11%, 13 basis points lower than year-on-year. Credit costs remain low at 44 basis points",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Quarterly PAT reached Rs 19.5 billion, reflecting about 12.7% growth excluding trading gains.",
+     "quote": "quarterly PAT of Rs 19.5 billion, which is a growth of 12.7% approximately if you exclude the trading gains.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Margins and cost of funds",
+     "quote": "So, what is actually driving that cost further up?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "LCR, deposit mobilization, and loan growth constraints",
+     "quote": "Will this become a constraint on your incremental loan growth going ahead if the deposit mobilization remains relatively weak?",
+     "page": 16,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and reflective during management transition while addressing near-term pressures."
+  }
+ ],
+ "business": {
+  "what_it_does": "Provides banking and financial services including retail, wholesale, treasury, and insurance.",
+  "segments": [
+   {
+    "name": "Treasury",
+    "revenue": 82158.35,
+    "unit": "crore",
+    "what": "Investment portfolio, money market, and foreign exchange trading services",
+    "page": 565,
+    "share_pct": 11
+   },
+   {
+    "name": "Digital banking",
+    "revenue": 10.37,
+    "unit": "crore",
+    "what": "Retail loans and deposits through digital networks",
+    "page": 565,
+    "share_pct": 0
+   },
+   {
+    "name": "Non-Digital Banking",
+    "revenue": 301843.14,
+    "unit": "crore",
+    "what": "Retail loans and deposits through branch network",
+    "page": 565,
+    "share_pct": 42
+   },
+   {
+    "name": "Wholesale banking",
+    "revenue": 174506.3,
+    "unit": "crore",
+    "what": "Loans, non-fund facilities, and transaction services to corporates",
+    "page": 565,
+    "share_pct": 24
+   },
+   {
+    "name": "Other banking Operations",
+    "revenue": 36840.96,
+    "unit": "crore",
+    "what": "Credit cards, debit cards, and third party product distribution",
+    "page": 565,
+    "share_pct": 5
+   },
+   {
+    "name": "Insurance business",
+    "revenue": 108079.83,
+    "unit": "crore",
+    "what": "Life and general insurance products",
+    "page": 565,
+    "share_pct": 15
+   },
+   {
+    "name": "Others",
+    "revenue": 19507.46,
+    "unit": "crore",
+    "what": "Operations of consolidated entities not covered elsewhere",
+    "page": 565,
+    "share_pct": 3
+   }
+  ],
+  "mix_note": "Domestic operations constitute the vast majority of revenue and assets.",
+  "risks_mgmt_flags": [
+   "Tariffs, trade sanctions, and geopolitical conflicts exposing corporates to supply chain challenges",
+   "Fluctuation in raw material prices leading to cautious corporate behavior"
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7d621500-082a-4342-b98d-ba677d3890c5.pdf",
+  "pages_read": [
+   284,
+   399,
+   400,
+   468,
+   469,
+   470,
+   471,
+   528,
+   555,
+   564,
+   565,
+   566
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g2.1",
+    "promise": "Endeavor for LCR to be between 110% and 120%",
+    "made_in": "Q4 FY26",
+    "delivered": "Management claimed LCR constraints on Q2 FY27 call, but LCR figures are not provided in reported numbers.",
+    "verdict": "too_early",
+    "checked_against": "Reported numbers do not contain LCR metrics",
+    "quote": "Kunal, in the past, we have mentioned that our endeavor for LCR is to be between 110% and 120%.",
+    "page": 9,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a77abbbb-954a-4221-8240-67bf0da6ba1c.pdf"
+   },
+   {
+    "ref": "g2.2",
+    "promise": "Provide summary of legal review as and when it happens",
+    "made_in": "Q4 FY26",
+    "delivered": "No legal review summary was provided in the subsequent reported numbers or text.",
+    "verdict": "too_early",
+    "checked_against": "Reported numbers text",
+    "quote": "The legal review, which is what we had committed at the time when we went to the press, is in process. As and when this happens, we shall provide a summary of the same.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a77abbbb-954a-4221-8240-67bf0da6ba1c.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "Profit growth should be at or above balance sheet growth in longer term",
+    "made_in": "Q1 FY27",
+    "delivered": "PAT YoY grew 5.8% in Sep 2026 and 19.3% in Jun 2026, while revenue YoY grew 9.4% and 3.7%.",
+    "verdict": "partly",
+    "checked_against": "Sep 2026 PAT YoY 5.8% vs Revenue YoY 9.4%",
+    "quote": "We do think that in the longer term that the profit growth should be at or above the balance sheet growth.",
+    "page": 11,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=509cc499-6cb1-4d9f-8de9-9c7de6c70eef.pdf"
+   },
+   {
+    "ref": "g3.4",
+    "promise": "Aim to reach CASA ratio near pre-merger levels of 38-40 percent",
+    "made_in": "Q1 FY27",
+    "delivered": "Management noted CASA decline on Q1 FY27; reported numbers do not contain CASA ratios.",
+    "verdict": "too_early",
+    "checked_against": "Reported numbers",
+    "quote": "For a start, the endeavor and our vision is to reach to somewhere near the pre-merger levels or just around the time of the merger, which was around 38. Post the merger we at we were 38 and before that we were 40.",
+    "page": 9,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=509cc499-6cb1-4d9f-8de9-9c7de6c70eef.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Expect net interest margin trajectory to be upward from next quarter onwards",
+    "made_in": "Q2 FY27",
+    "delivered": "Too early to verify net interest margin trajectory against reported revenue and PAT figures.",
+    "verdict": "too_early",
+    "checked_against": "Sep 2026 revenue and PAT",
+    "quote": "The trajectory will be upward from the next quarter onwards.",
+    "page": 10,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7e45614-ae12-4bb9-b92d-623b3a63f166.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "Only one promise can be checked against reported numbers so far — too few to score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Management claimed quarterly PAT reached Rs 19.5 billion in Q2 FY27, but reported PAT was Rs 21,537 crore."
+   },
+   {
+    "agree": true,
+    "point": "Reported annual revenue grew from Rs 122,189 crore in Mar 2020 to Rs 348,615 crore in Mar 2026, confirming massive balance sheet expansion."
+   },
+   {
+    "agree": true,
+    "point": "Rule-based observation notes profit lagging sales over 3 years (19.7% vs 26.9%), supporting the narrative of margin pressure."
+   }
+  ],
+  "bull": [
+   "Annual PAT increased steadily from Rs 27,296 crore in Mar 2020 to Rs 79,219 crore in Mar 2026.",
+   "Operating cash flow reached Rs 113,506 crore and free cash flow reached Rs 110,144 crore in Mar 2026.",
+   "Debt-to-equity ratio improved from 1.6 in Mar 2024 down to 0.98 as of Sep 2026."
+  ],
+  "bear": [
+   "Quarterly revenue growth slowed to 3.7% in Jun 2026 and 9.4% in Sep 2026 compared to historical quarters.",
+   "Profit has lagged sales over a 3-year period at 19.7% versus 26.9%, indicating persistent margin pressure.",
+   "PAT YoY growth slowed to 5.8% by Sep 2026 from 19.3% in Jun 2026."
+  ],
+  "watch": [
+   "Net interest margin trajectory in upcoming quarters",
+   "CASA ratio recovery toward pre-merger 38-40% levels",
+   "LCR realization relative to the 110%-120% endeavor"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 10529,
+   "out": 367,
+   "secs": 5.1,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13612,
+   "out": 859,
+   "secs": 4.7,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14415,
+   "out": 1115,
+   "secs": 6.1,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14557,
+   "out": 601,
+   "secs": 3.8,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 10819,
+   "out": 546,
+   "secs": 4.6,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 3084,
+   "out": 1090,
+   "secs": 4.0,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 1,
+  "tokens_in": 67016,
+  "tokens_out": 4578,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 4.9
+ }
+}

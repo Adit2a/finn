@@ -1,0 +1,1033 @@
+{
+ "symbol": "HINDALCO",
+ "name": "Hindalco Industries Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:24:39",
+ "latest_call": "Aug 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 214317.0,
+   "pe": 9.2,
+   "roce": 13.2,
+   "roe": 13.0,
+   "ttm_revenue": 321187.0,
+   "ttm_pat": 19192.0,
+   "margin_latest_q": 14.0,
+   "de": 0.71,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 58390.0,
+    "rev_yoy": 10.6,
+    "op_profit": 7583.0,
+    "margin": 13.0,
+    "ebit_margin": 9.7,
+    "pat": 3735.0,
+    "pat_yoy": 60.2
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 64890.0,
+    "rev_yoy": 15.9,
+    "op_profit": 8836.0,
+    "margin": 14.0,
+    "ebit_margin": 10.4,
+    "pat": 5284.0,
+    "pat_yoy": 66.5
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 64232.0,
+    "rev_yoy": 12.7,
+    "op_profit": 7906.0,
+    "margin": 12.0,
+    "ebit_margin": 9.1,
+    "pat": 4004.0,
+    "pat_yoy": 30.3
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 66058.0,
+    "rev_yoy": 13.5,
+    "op_profit": 8966.0,
+    "margin": 14.0,
+    "ebit_margin": 10.3,
+    "pat": 4741.0,
+    "pat_yoy": 21.3
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 66521.0,
+    "rev_yoy": 13.9,
+    "op_profit": 7991.0,
+    "margin": 12.0,
+    "ebit_margin": 8.7,
+    "pat": 2049.0,
+    "pat_yoy": -45.1
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 78133.0,
+    "rev_yoy": 20.4,
+    "op_profit": 10014.0,
+    "margin": 13.0,
+    "ebit_margin": 9.8,
+    "pat": 2597.0,
+    "pat_yoy": -50.9
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 84825.0,
+    "rev_yoy": 32.1,
+    "op_profit": 13932.0,
+    "margin": 16.0,
+    "ebit_margin": 13.7,
+    "pat": 7013.0,
+    "pat_yoy": 75.1
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 91708.0,
+    "rev_yoy": 38.8,
+    "op_profit": 12814.0,
+    "margin": 14.0,
+    "ebit_margin": 11.2,
+    "pat": 7533.0,
+    "pat_yoy": 58.9
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 118144.0,
+    "op_profit": 14306.0,
+    "margin": 12.0,
+    "pat": 3767.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 132008.0,
+    "op_profit": 17559.0,
+    "margin": 13.0,
+    "pat": 3483.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 195059.0,
+    "op_profit": 28347.0,
+    "margin": 15.0,
+    "pat": 13730.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 223202.0,
+    "op_profit": 22666.0,
+    "margin": 10.0,
+    "pat": 10097.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 215962.0,
+    "op_profit": 23872.0,
+    "margin": 11.0,
+    "pat": 10155.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 238496.0,
+    "op_profit": 31805.0,
+    "margin": 13.0,
+    "pat": 16002.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 274944.0,
+    "op_profit": 34880.0,
+    "margin": 13.0,
+    "pat": 13391.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 7.2,
+   "rev_cagr_5y": 15.8,
+   "pat_cagr_3y": 9.9,
+   "pat_cagr_5y": 30.9,
+   "margin_change_3y_bps": 300
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 64486.0,
+    "equity": 78191.0,
+    "de": 0.82
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 60291.0,
+    "equity": 94806.0,
+    "de": 0.64
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 56356.0,
+    "equity": 106146.0,
+    "de": 0.53
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 65642.0,
+    "equity": 123709.0,
+    "de": 0.53
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 99165.0,
+    "equity": 136583.0,
+    "de": 0.73
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 113129.0,
+    "equity": 159666.0,
+    "de": 0.71
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     36.0
+    ],
+    [
+     "Mar 2022",
+     39.0
+    ],
+    [
+     "Mar 2023",
+     27.0
+    ],
+    [
+     "Mar 2024",
+     28.0
+    ],
+    [
+     "Mar 2025",
+     30.0
+    ],
+    [
+     "Mar 2026",
+     36.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     146.0
+    ],
+    [
+     "Mar 2022",
+     138.0
+    ],
+    [
+     "Mar 2023",
+     111.0
+    ],
+    [
+     "Mar 2024",
+     111.0
+    ],
+    [
+     "Mar 2025",
+     121.0
+    ],
+    [
+     "Mar 2026",
+     156.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     135.0
+    ],
+    [
+     "Mar 2022",
+     128.0
+    ],
+    [
+     "Mar 2023",
+     93.0
+    ],
+    [
+     "Mar 2024",
+     94.0
+    ],
+    [
+     "Mar 2025",
+     100.0
+    ],
+    [
+     "Mar 2026",
+     127.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     47.0
+    ],
+    [
+     "Mar 2022",
+     49.0
+    ],
+    [
+     "Mar 2023",
+     45.0
+    ],
+    [
+     "Mar 2024",
+     45.0
+    ],
+    [
+     "Mar 2025",
+     51.0
+    ],
+    [
+     "Mar 2026",
+     65.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     3.0
+    ],
+    [
+     "Mar 2022",
+     -3.0
+    ],
+    [
+     "Mar 2023",
+     13.0
+    ],
+    [
+     "Mar 2024",
+     9.0
+    ],
+    [
+     "Mar 2025",
+     23.0
+    ],
+    [
+     "Mar 2026",
+     2.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 17232.0,
+    "pat": 3483.0,
+    "fcf": 11715.0,
+    "conv": 4.95
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 16838.0,
+    "pat": 13730.0,
+    "fcf": 11483.0,
+    "conv": 1.23
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 19208.0,
+    "pat": 10097.0,
+    "fcf": 9571.0,
+    "conv": 1.9
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 24056.0,
+    "pat": 10155.0,
+    "fcf": 8378.0,
+    "conv": 2.37
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 24410.0,
+    "pat": 16002.0,
+    "fcf": 4006.0,
+    "conv": 1.53
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 10250.0,
+    "pat": 13391.0,
+    "fcf": -19508.0,
+    "conv": 0.77
+   }
+  ],
+  "cash_conv_5y": 1.5,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Operating margin up 300 bps over 3 years"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 150% of profit"
+   },
+   {
+    "tone": "bad",
+    "text": "Borrowings 2.0x in 3 years (₹56,356 → ₹113,129 cr)"
+   },
+   {
+    "tone": "bad",
+    "text": "Cash cycle stretched by 20 days in 2 years (45 → 65)"
+   },
+   {
+    "tone": "good",
+    "text": "Revenue growth accelerating (14% → 20% → 32% → 39%)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1b03a6af-6e8d-4f5b-bd66-02bc9e20d27b.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=50d84af3-4d68-44ed-b11d-0da8e22bec40.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3f3ea49-38f0-4d66-ac44-857e97c2c6f6.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3390ab52-08d5-43ad-af0f-baea13e97773.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bb3b7080-855f-4cde-b688-d97575a72f3f.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1b03a6af-6e8d-4f5b-bd66-02bc9e20d27b.pdf",
+   "pages": 21,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "FY27 capex expected around 11000 crores",
+     "horizon": "FY27",
+     "low": 11000,
+     "high": 11000,
+     "unit": "cr",
+     "quote": "I think that next year, we are expecting around INR11,000 crores. I think that is FY '27.",
+     "page": 14,
+     "speaker": "Satish Pai",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "debt",
+     "promise": "Consolidated net debt to EBITDA will not cross 2 in next 4 years",
+     "horizon": "next 4 years",
+     "low": null,
+     "high": 2,
+     "unit": "x",
+     "quote": "All I can tell you is that will not cross 2 in the next 4 years. We will make sure that the console net debt to EBITDA is kept below 2.",
+     "page": 9,
+     "speaker": "Satish Pai",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "capex",
+     "promise": "FY26 capex expected to be around 8500 crores",
+     "horizon": "FY26",
+     "low": 8500,
+     "high": 8500,
+     "unit": "cr",
+     "quote": "So this year, we have said the capex is going to be around INR8,500 crores.",
+     "page": 14,
+     "speaker": "Satish Pai",
+     "verified": true,
+     "id": "g1.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated net profit after tax up 21% year-on-year to 4741 crores",
+     "quote": "The consolidated net profit after tax was up 21% on a year-on-year basis at INR4,741 crores this quarter.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated business segment EBITDA up 6% year-on-year at 9104 crores",
+     "quote": "Our consolidated business segment EBITDA was up 6% year-on-year at INR9,104 crores this quarter.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "India upstream aluminium EBITDA per ton reached 1521 dollars",
+     "quote": "This helped us deliver an EBITDA per ton of $1,521 in a monsoon quarter.",
+     "page": 7,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Bay Minette capex cost overrun and engineering complexity",
+     "quote": "So just wanted to check on this only. I know when the entire inflation happened in the first instance to $4.1 billion, we would have thought that the entire on the engineering side would have been de-risked.",
+     "page": 12,
+     "verified": true
+    },
+    {
+     "topic": "Hedging strategy conflicting with smelter expansion positivity",
+     "quote": "A very conflicting message. I'm just trying to understand the thought process. And tied to that would be, when you're looking at expansion in India smelter, did you consider recycling at these spreads...",
+     "page": 10,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and resilient while addressing cost inflation, tariff headwinds and capital allocation discipline."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=50d84af3-4d68-44ed-b11d-0da8e22bec40.pdf",
+   "pages": 25,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Spend around INR 10,000 crores to INR 12,000 crores on India capex next year",
+     "horizon": "next year",
+     "low": 10000,
+     "high": 12000,
+     "unit": "cr",
+     "quote": "and next year we also will be in the same range, about INR 10,000 crores to INR 12,000 crores, because the Aditya Refinery recycling plant projects will be going.",
+     "page": 20,
+     "speaker": "Satish Pai",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Expected Q4 net volume loss from Oswego to be similar to Q3 at around 70 Kt",
+     "horizon": "Q4",
+     "low": 70,
+     "high": 72,
+     "unit": "units",
+     "quote": "all that I can tell you is that it is very safe to assume that the impact on volume from Oswego in Quarter 4 will be similar to Quarter 3 at around 70 Kt.",
+     "page": 24,
+     "speaker": "Dev Ahuja",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "debt",
+     "promise": "Keep consolidated net debt to EBITDA around or below 2x",
+     "horizon": "medium term",
+     "low": null,
+     "high": 2,
+     "unit": "x",
+     "quote": "the overall way to look at it is that on a consol level, we will try to keep that gross net debt to EBITDA around 2.",
+     "page": 15,
+     "speaker": "Satish Pai",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Take renewable capacity to 522 Megawatts by the end of this financial year",
+     "horizon": "end of FY26",
+     "low": null,
+     "high": 522,
+     "unit": "units",
+     "quote": "taking our renewable capacity to 522 Megawatts by the end of this financial year.",
+     "page": 5,
+     "speaker": "Satish Pai",
+     "verified": true,
+     "id": "g2.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated business segment EBITDA was up 6% year-on-year at INR 8,762 crores this quarter.",
+     "quote": "Our consolidated business segment EBITDA was up 6% year-on-year at INR 8,762 crores this quarter.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "claim": "India upstream aluminum shipments were up 2% and quarterly EBITDA up 14% year-on-year.",
+     "quote": "The India Upstream Aluminum shipments were up by 2% year-on-year, while revenues were up 6% year-on-year. Our quarterly EBITDA was up 14% year-on-year at INR 4,832 crore",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "claim": "Hindalco scored 89 out of 100 in the S&P Global CSA 2025.",
+     "quote": "Hindalco has scored 89 out of 100 in the S&P Global CSA 2025, the highest ever score achieved by the company to maintain its leadership position in the aluminum industry.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Novelis achieved an annualized cost savings run rate of $150 million.",
+     "quote": "With another quarter of solid execution behind us, that run rate is now $150 million as we accelerate all cost efficiency initiatives.",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Net debt increase reconciliation",
+     "quote": "Sir, three questions for me. One, is it possible to explain the net debt bridge? Because we saw that net debt has increased by almost INR 18,000 crore on a quarter-on-quarter basis.",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Novelis debt levels and cash flow timing",
+     "quote": "However, just considering next, say, 6 months or 9 months, is it possible to quantify the net debt at Novelis? Can we assume that grow, going to about $8.5 billion odd number?",
+     "page": 15,
+     "verified": true
+    },
+    {
+     "topic": "Aluminum EBITDA per ton flat despite higher LME",
+     "quote": "So, how can you explain?",
+     "page": 11,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and reassuring regarding near-term operational headwinds and leverage targets."
+  },
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3f3ea49-38f0-4d66-ac44-857e97c2c6f6.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "In FY27, the India capex will be about INR12,000 crores",
+     "horizon": "FY27",
+     "low": null,
+     "high": 12000,
+     "unit": "cr",
+     "quote": "In FY27, the India capex will be about INR12,000 crores, and the Novelis capex will be between, I think, Dev has already announced on the call about 2.3 billion to 2.4 billion, largely Bay Minette.",
+     "page": 11,
+     "speaker": "Satish Pai",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "debt",
+     "promise": "Consolidated net debt peak should be between INR80,000 crores and INR90,000 crores",
+     "horizon": "next 2 years",
+     "low": 80000,
+     "high": 90000,
+     "unit": "cr",
+     "quote": "Absolute gross debt or net debt?... Consolidated net debt peak should be between INR80,000 crores and INR90,000 crores over the next 2 years.",
+     "page": 12,
+     "speaker": "Satish Pai",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Reach full potential of Bay Minette within 18 to 24 months run rate",
+     "horizon": "18 to 24 months",
+     "low": 18,
+     "high": 24,
+     "unit": "units",
+     "quote": "our ramp-up period is 18 to 24 months. So, by implication, we will reach the full potential of Bay Minette on a run rate basis somewhere in that timeframe",
+     "page": 13,
+     "speaker": "Dev Ahuja",
+     "verified": true,
+     "id": "g3.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated business segment EBITDA up 11% year-on-year at INR10,812 crores this quarter",
+     "quote": "Our consolidated business segment EBITDA was up 11% year-on-year at INR10,812 crores this quarter.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "claim": "Hindalco India business segment EBITDA up 17% year-on-year at INR6,610 crores this quarter",
+     "quote": "At Hindalco India business, our business segment EBITDA was up 17% year-on-year at INR6,610 crores this quarter",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "claim": "Novelis cost efficiency run rate reached $200 million",
+     "quote": "With another quarter of solid execution behind us, that run rate is now $200 million as we accelerate all cost efficiency initiatives.",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "claim": "Renewable energy capacity stands at 470 megawatts at the end of the year",
+     "quote": "At the end of this year, our renewable energy capacity stands at 470 megawatts powered by solar, wind and idle sources.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Copper EBITDA sustainability",
+     "quote": "Do you expect that this INR900 crores of EBITDA on a quarterly basis is a new normal till the time global headwinds are not clear?",
+     "page": 14,
+     "verified": true
+    },
+    {
+     "topic": "Aluminum cost inflation outlook",
+     "quote": "Can we share what is our outlook on the aluminium cost of production going up or down in the coming quarters?",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Novelis tariff and Canada shipping risk",
+     "quote": "Trump tariffs are still there. There are shipments which move from US to Canada and back. Is there any derisking mitigation moves at your plant?",
+     "page": 16,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and resilient while acknowledging temporary headwinds from geopolitical conflicts and operational outages."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3390ab52-08d5-43ad-af0f-baea13e97773.pdf",
+   "pages": 23,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Add 414 MW solar/wind and 90 MW RE RTC pump storage capacity in FY27",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": "units",
+     "quote": "We remain on track to add another 414 megawatts of solar and wind capacity as well as 90 megawatts of RE RTC pump storage capacity during the year.",
+     "page": 5,
+     "speaker": "Satish Pai",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Expect 1 million tons from Chakla captive coal mine in FY28",
+     "horizon": "FY28",
+     "low": null,
+     "high": null,
+     "unit": "units",
+     "quote": "Chakla back to commence, we are expecting about 1 million tons from Chakla, Bandha will only start from the middle of the year. So I would say about 0.5 million tons for Bandha.",
+     "page": 14,
+     "speaker": "Satish Pai",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Expect 0.5 million tons from Bandha captive coal mine in FY28",
+     "horizon": "FY28",
+     "low": null,
+     "high": null,
+     "unit": "units",
+     "quote": "Chakla back to commence, we are expecting about 1 million tons from Chakla, Bandha will only start from the middle of the year. So I would say about 0.5 million tons for Bandha.",
+     "page": 14,
+     "speaker": "Satish Pai",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "debt",
+     "promise": "Maintain net leverage at around 2x on a consolidated basis",
+     "horizon": "long-term",
+     "low": null,
+     "high": null,
+     "unit": "x",
+     "quote": "We remain disciplined in our capital allocation approach and committed to maintain net leverage at around 2x on a consol basis.",
+     "page": 9,
+     "speaker": "Satish Pai",
+     "verified": true,
+     "id": "g4.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated business segment EBITDA was up 58% year-on-year at INR13,481 crores this quarter.",
+     "quote": "Our consolidated business segment EBITDA was up 58% year-on-year at INR13,481 crores this quarter.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated profit after tax was up 75% year-on-year at INR7,013 crores this quarter.",
+     "quote": "The consolidated profit after tax was up 75% on a year-on-year basis at INR7,013 crores this quarter.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "claim": "India upstream aluminum shipments were up 3% and revenues up 44% year-on-year.",
+     "quote": "the India upstream aluminum shipments were up 3% year-on-year, and revenues were up 44% year-on-year.",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "claim": "Novelis adjusted EBITDA stood at $516 million, a 24% increase year-on-year.",
+     "quote": "Adjusted EBITDA for the quarter stood at $516 million or $563 per ton, reflecting a 24% and 30% increase, respectively, year-on-year.",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Novelis brand royalty payments and tariff impact",
+     "quote": "Can you clarify what that is? And why is that royalty being paid from Novelis?",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Novelis tariff impact increase and adjustments",
+     "quote": "And why is that not excluded from EBITDA to report an adjusted EBITDA.",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Consolidated net debt and Novelis leverage expectations",
+     "quote": "So can we rather not expect a level which is well below 4x?",
+     "page": 16,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and constructive regarding structural growth drivers and cost efficiencies."
+  }
+ ],
+ "business": {
+  "what_it_does": "Manufactures and distributes aluminium, copper, and related products globally.",
+  "segments": [
+   {
+    "name": "Novelis",
+    "revenue": 159671,
+    "unit": "crore",
+    "what": "Aluminium sheet and light gauge products",
+    "page": 367,
+    "share_pct": 58
+   },
+   {
+    "name": "Aluminium Upstream",
+    "revenue": 29921,
+    "unit": "crore",
+    "what": "Bauxite and coal mining, alumina specials, refineries, metal, power",
+    "page": 367,
+    "share_pct": 11
+   },
+   {
+    "name": "Aluminium Downstream",
+    "revenue": 15555,
+    "unit": "crore",
+    "what": "Aluminium value-added products including flat rolled products, extrusions, foils",
+    "page": 367,
+    "share_pct": 6
+   },
+   {
+    "name": "Copper",
+    "revenue": 69797,
+    "unit": "crore",
+    "what": "Copper cathode, copper rods, precious metals, di-ammonium phosphate",
+    "page": 367,
+    "share_pct": 25
+   }
+  ],
+  "mix_note": "A single external customer under Novelis represents more than 10% of Group total revenue amounting to Rs 29,540 crore.",
+  "risks_mgmt_flags": [
+   "Production interruptions and fire incidents at the Oswego facility",
+   "Lower TC/RCs impacting copper EBITDA",
+   "Shipment decline due to geo-political conditions and tariffs"
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bb3b7080-855f-4cde-b688-d97575a72f3f.pdf",
+  "pages_read": [
+   68,
+   187,
+   200,
+   318,
+   355,
+   360,
+   365,
+   366,
+   367,
+   368,
+   425,
+   434
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.3",
+    "promise": "FY26 capex expected to be around 8500 crores",
+    "made_in": "Q2 FY26 call",
+    "delivered": "Cannot be checked against reported financial numbers, as reported capex figures are not provided in the reported numbers block.",
+    "verdict": "too_early",
+    "checked_against": "Reported numbers block",
+    "quote": "So this year, we have said the capex is going to be around INR8,500 crores.",
+    "page": 14,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1b03a6af-6e8d-4f5b-bd66-02bc9e20d27b.pdf"
+   },
+   {
+    "ref": "g2.4",
+    "promise": "Take renewable capacity to 522 Megawatts by the end of this financial year",
+    "made_in": "Q3 FY26 call",
+    "delivered": "Management claimed renewable energy capacity stood at 470 megawatts at the end of the year, missing the 522 MW target.",
+    "verdict": "missed",
+    "checked_against": "Q4 FY26 mgmt claim",
+    "quote": "taking our renewable capacity to 522 Megawatts by the end of this financial year.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=50d84af3-4d68-44ed-b11d-0da8e22bec40.pdf"
+   },
+   {
+    "ref": "g1.2",
+    "promise": "Consolidated net debt to EBITDA will not cross 2 in next 4 years",
+    "made_in": "Q2 FY26 call",
+    "delivered": "Borrowings rose to INR113,129 crores by Sep 2026, with D/E at 0.71.",
+    "verdict": "too_early",
+    "checked_against": "Sep 2026 Borrowings and D/E",
+    "quote": "All I can tell you is that will not cross 2 in the next 4 years. We will make sure that the console net debt to EBITDA is kept below 2.",
+    "page": 9,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1b03a6af-6e8d-4f5b-bd66-02bc9e20d27b.pdf"
+   },
+   {
+    "ref": "g4.2",
+    "promise": "Expect 1 million tons from Chakla captive coal mine in FY28",
+    "made_in": "Q1 FY27 call",
+    "delivered": "Target is set for FY28; deadline has not passed.",
+    "verdict": "too_early",
+    "checked_against": "Q1 FY27 call horizon",
+    "quote": "Chakla back to commence, we are expecting about 1 million tons from Chakla, Bandha will only start from the middle of the year. So I would say about 0.5 million tons for Bandha.",
+    "page": 14,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3390ab52-08d5-43ad-af0f-baea13e97773.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "Only one promise can be checked against reported numbers so far — too few to score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Consolidated revenue growth accelerated strongly, showing reported YoY growth rising from 13.5% in Sep 2025 to 38.8% in Sep 2026."
+   },
+   {
+    "agree": true,
+    "point": "Consolidated PAT surged 58.9% YoY to 7533.0 crores in Sep 2026, aligning with management claims of profit expansion."
+   },
+   {
+    "agree": false,
+    "point": "Borrowings doubled over 3 years from INR56,356 crores in Mar 2024 to INR113,129 crores in Sep 2026, despite leverage commitments."
+   }
+  ],
+  "bull": [
+   "Revenue growth accelerated across four quarters, reaching 38.8% YoY in Sep 2026 with revenue at 91708.0 crores.",
+   "EBITDA reached 12814.0 crores in Sep 2026 with an operating margin of 14.0%.",
+   "PAT surged 58.9% year-on-year to 7533.0 crores in Sep 2026."
+  ],
+  "bear": [
+   "Borrowings surged to INR113,129 crores by Sep 2026 up from INR56,356 crores in Mar 2024.",
+   "Free cash flow turned negative at -19508.0 crores for the year ending Mar 2026.",
+   "Cash conversion deteriorated with OCF/PAT dropping to 0.77 for the year ending Mar 2026."
+  ],
+  "watch": [
+   "Borrowings trajectory above INR113,129 crores",
+   "Free cash flow recovery",
+   "FY27 capex execution against INR12,000 crores guidance"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 16263,
+   "out": 807,
+   "secs": 4.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 17482,
+   "out": 1127,
+   "secs": 4.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14370,
+   "out": 979,
+   "secs": 4.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 17301,
+   "out": 1056,
+   "secs": 5.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12708,
+   "out": 382,
+   "secs": 3.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 3946,
+   "out": 1080,
+   "secs": 4.3,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 82070,
+  "tokens_out": 5431,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 40.7
+ }
+}

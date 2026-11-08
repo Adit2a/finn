@@ -1,0 +1,511 @@
+{
+ "symbol": "ITC",
+ "name": "ITC Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:26:42",
+ "latest_call": null,
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 355405.0,
+   "pe": 18.8,
+   "roce": 38.9,
+   "roe": 29.3,
+   "ttm_revenue": 77255.0,
+   "ttm_pat": 19226.0,
+   "margin_latest_q": 28.0,
+   "de": 0.01,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 18790.0,
+    "rev_yoy": 9.3,
+    "op_profit": 6362.0,
+    "margin": 34.0,
+    "ebit_margin": 31.6,
+    "pat": 5013.0,
+    "pat_yoy": -7.3
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 18765.0,
+    "rev_yoy": 10.1,
+    "op_profit": 6519.0,
+    "margin": 35.0,
+    "ebit_margin": 32.5,
+    "pat": 19808.0,
+    "pat_yoy": 281.6
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 21495.0,
+    "rev_yoy": 20.9,
+    "op_profit": 6816.0,
+    "margin": 32.0,
+    "ebit_margin": 29.7,
+    "pat": 5343.0,
+    "pat_yoy": 3.2
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 19502.0,
+    "rev_yoy": -2.4,
+    "op_profit": 6695.0,
+    "margin": 34.0,
+    "ebit_margin": 32.1,
+    "pat": 5187.0,
+    "pat_yoy": 2.6
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 20047.0,
+    "rev_yoy": 6.7,
+    "op_profit": 6883.0,
+    "margin": 34.0,
+    "ebit_margin": 32.2,
+    "pat": 5018.0,
+    "pat_yoy": 0.1
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 17825.0,
+    "rev_yoy": -5.0,
+    "op_profit": 6924.0,
+    "margin": 39.0,
+    "ebit_margin": 36.5,
+    "pat": 5470.0,
+    "pat_yoy": -72.4
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 19114.0,
+    "rev_yoy": -11.1,
+    "op_profit": 5181.0,
+    "margin": 27.0,
+    "ebit_margin": 24.9,
+    "pat": 4509.0,
+    "pat_yoy": -15.6
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 20269.0,
+    "rev_yoy": 3.9,
+    "op_profit": 5645.0,
+    "margin": 28.0,
+    "ebit_margin": 25.4,
+    "pat": 4229.0,
+    "pat_yoy": -18.5
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 49388.0,
+    "op_profit": 19344.0,
+    "margin": 39.0,
+    "pat": 15593.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 49257.0,
+    "op_profit": 17065.0,
+    "margin": 35.0,
+    "pat": 13383.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 60645.0,
+    "op_profit": 20623.0,
+    "margin": 34.0,
+    "pat": 15503.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 70919.0,
+    "op_profit": 25704.0,
+    "margin": 36.0,
+    "pat": 19477.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 67932.0,
+    "op_profit": 25188.0,
+    "margin": 37.0,
+    "pat": 20751.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 75323.0,
+    "op_profit": 25832.0,
+    "margin": 34.0,
+    "pat": 35052.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 78868.0,
+    "op_profit": 27306.0,
+    "margin": 35.0,
+    "pat": 21018.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 3.6,
+   "rev_cagr_5y": 9.9,
+   "pat_cagr_3y": 2.6,
+   "pat_cagr_5y": 9.4,
+   "margin_change_3y_bps": -100
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 249.0,
+    "equity": 62455.0,
+    "de": 0.0
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 306.0,
+    "equity": 69155.0,
+    "de": 0.0
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 303.0,
+    "equity": 74507.0,
+    "de": 0.0
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 285.0,
+    "equity": 70030.0,
+    "de": 0.0
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 2399.0,
+    "equity": 72507.0,
+    "de": 0.03
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 491.0,
+    "equity": 71402.0,
+    "de": 0.01
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     19.0
+    ],
+    [
+     "Mar 2022",
+     15.0
+    ],
+    [
+     "Mar 2023",
+     15.0
+    ],
+    [
+     "Mar 2024",
+     22.0
+    ],
+    [
+     "Mar 2025",
+     23.0
+    ],
+    [
+     "Mar 2026",
+     18.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     189.0
+    ],
+    [
+     "Mar 2022",
+     150.0
+    ],
+    [
+     "Mar 2023",
+     148.0
+    ],
+    [
+     "Mar 2024",
+     191.0
+    ],
+    [
+     "Mar 2025",
+     178.0
+    ],
+    [
+     "Mar 2026",
+     209.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     78.0
+    ],
+    [
+     "Mar 2022",
+     61.0
+    ],
+    [
+     "Mar 2023",
+     59.0
+    ],
+    [
+     "Mar 2024",
+     65.0
+    ],
+    [
+     "Mar 2025",
+     55.0
+    ],
+    [
+     "Mar 2026",
+     63.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     129.0
+    ],
+    [
+     "Mar 2022",
+     104.0
+    ],
+    [
+     "Mar 2023",
+     105.0
+    ],
+    [
+     "Mar 2024",
+     148.0
+    ],
+    [
+     "Mar 2025",
+     146.0
+    ],
+    [
+     "Mar 2026",
+     164.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     36.0
+    ],
+    [
+     "Mar 2022",
+     31.0
+    ],
+    [
+     "Mar 2023",
+     20.0
+    ],
+    [
+     "Mar 2024",
+     39.0
+    ],
+    [
+     "Mar 2025",
+     45.0
+    ],
+    [
+     "Mar 2026",
+     47.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 12527.0,
+    "pat": 13383.0,
+    "fcf": 10693.0,
+    "conv": 0.94
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 15776.0,
+    "pat": 15503.0,
+    "fcf": 13767.0,
+    "conv": 1.02
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 18878.0,
+    "pat": 19477.0,
+    "fcf": 16184.0,
+    "conv": 0.97
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 17179.0,
+    "pat": 20751.0,
+    "fcf": 13724.0,
+    "conv": 0.83
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 17627.0,
+    "pat": 35052.0,
+    "fcf": 15524.0,
+    "conv": 0.5
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 18464.0,
+    "pat": 21018.0,
+    "fcf": 16332.0,
+    "conv": 0.88
+   }
+  ],
+  "cash_conv_5y": 0.79,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Practically debt-free (D/E 0.01)"
+   },
+   {
+    "tone": "bad",
+    "text": "Cash cycle stretched by 16 days in 2 years (148 → 164)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025 (outlook)",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8ba4a189-5fd2-4851-af6f-ec365f7edea2.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/590b42ae-15c9-44cf-be69-e58053128a6b.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "AR 2025",
+   "date": "2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8ba4a189-5fd2-4851-af6f-ec365f7edea2.pdf",
+   "pages": 428,
+   "scanned": false,
+   "source": "annual_report",
+   "guidance": [],
+   "claims": [],
+   "pushback": [],
+   "tone": "Confident and focused on strategic growth, sustainability, and operational resilience."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company operates in FMCG, paperboards, paper, packaging, and agri business.",
+  "segments": [
+   {
+    "name": "FMCG - Cigarettes",
+    "revenue": 37099.65,
+    "unit": "crore",
+    "what": "Cigarettes, cigars, etc.",
+    "page": 219,
+    "share_pct": 46
+   },
+   {
+    "name": "FMCG - Others",
+    "revenue": 24203.75,
+    "unit": "crore",
+    "what": "Branded packaged foods, education, personal care, matches, and agarbattis.",
+    "page": 219,
+    "share_pct": 30
+   },
+   {
+    "name": "Agri Business",
+    "revenue": 12296.48,
+    "unit": "crore",
+    "what": "Agri commodities such as wheat, rice, spices, coffee, soya, and leaf tobacco.",
+    "page": 219,
+    "share_pct": 15
+   },
+   {
+    "name": "Paperboards, Paper and Packaging",
+    "revenue": 6926.57,
+    "unit": "crore",
+    "what": "Paperboards, paper including specialty paper, and packaging including flexibles.",
+    "page": 219,
+    "share_pct": 9
+   },
+   {
+    "name": "Others",
+    "revenue": 341.04,
+    "unit": "crore",
+    "what": "Hotels, fresh food, etc.",
+    "page": 219,
+    "share_pct": 0
+   }
+  ],
+  "mix_note": "Revenue is not reliant on transactions with any single external customer.",
+  "risks_mgmt_flags": [
+   "Low priced Chinese and Indonesian supplies impacting paper and packaging businesses.",
+   "Soft domestic demand conditions and unprecedented surge in wood prices."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/590b42ae-15c9-44cf-be69-e58053128a6b.pdf",
+  "pages_read": [
+   142,
+   168,
+   170,
+   206,
+   218,
+   219,
+   220,
+   246,
+   265,
+   267,
+   327,
+   328
+  ]
+ },
+ "ledger": null,
+ "ledger_ok": false,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14700,
+   "out": 112,
+   "secs": 2.5,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11751,
+   "out": 439,
+   "secs": 3.0,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "promise_source": "annual_report",
+ "cost": {
+  "calls": 2,
+  "fresh_calls": 2,
+  "tokens_in": 26451,
+  "tokens_out": 551,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 15.8
+ }
+}

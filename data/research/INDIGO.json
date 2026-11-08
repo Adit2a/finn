@@ -1,0 +1,1019 @@
+{
+ "symbol": "INDIGO",
+ "name": "Interglobe Aviation Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:26:14",
+ "latest_call": "Nov 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 210083.0,
+   "pe": null,
+   "roce": 5.24,
+   "roe": -27.1,
+   "ttm_revenue": 93858.0,
+   "ttm_pat": -4105.0,
+   "margin_latest_q": 8.0,
+   "de": 17.47,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 22111.0,
+    "rev_yoy": 13.7,
+    "op_profit": 5179.0,
+    "margin": 23.0,
+    "ebit_margin": 13.4,
+    "pat": 2449.0,
+    "pat_yoy": -18.3
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 22152.0,
+    "rev_yoy": 24.3,
+    "op_profit": 6089.0,
+    "margin": 27.0,
+    "ebit_margin": 16.2,
+    "pat": 3068.0,
+    "pat_yoy": 61.9
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 20496.0,
+    "rev_yoy": 4.7,
+    "op_profit": 5226.0,
+    "margin": 26.0,
+    "ebit_margin": 13.0,
+    "pat": 2176.0,
+    "pat_yoy": -20.3
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 18555.0,
+    "rev_yoy": 9.3,
+    "op_profit": 580.0,
+    "margin": 3.1,
+    "ebit_margin": -11.1,
+    "pat": -2582.0,
+    "pat_yoy": -161.6
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 23472.0,
+    "rev_yoy": 6.2,
+    "op_profit": 5367.0,
+    "margin": 23.0,
+    "ebit_margin": 11.0,
+    "pat": 549.0,
+    "pat_yoy": -77.6
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 22438.0,
+    "rev_yoy": 1.3,
+    "op_profit": 810.0,
+    "margin": 3.6,
+    "ebit_margin": -9.0,
+    "pat": -2537.0,
+    "pat_yoy": -182.7
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 24584.0,
+    "rev_yoy": 19.9,
+    "op_profit": 3267.0,
+    "margin": 13.0,
+    "ebit_margin": 1.2,
+    "pat": -238.0,
+    "pat_yoy": -110.9
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 23364.0,
+    "rev_yoy": 25.9,
+    "op_profit": 1907.0,
+    "margin": 8.0,
+    "ebit_margin": -5.0,
+    "pat": -1879.0,
+    "pat_yoy": 27.2
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 35756.0,
+    "op_profit": 4090.0,
+    "margin": 11.0,
+    "pat": -234.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 14641.0,
+    "op_profit": 14.0,
+    "margin": 0.1,
+    "pat": -5806.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 25931.0,
+    "op_profit": 575.0,
+    "margin": 2.2,
+    "pat": -6162.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 54446.0,
+    "op_profit": 6531.0,
+    "margin": 12.0,
+    "pat": -306.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 68904.0,
+    "op_profit": 16356.0,
+    "margin": 24.0,
+    "pat": 8172.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 80803.0,
+    "op_profit": 18102.0,
+    "margin": 22.0,
+    "pat": 7258.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 84962.0,
+    "op_profit": 12037.0,
+    "margin": 14.0,
+    "pat": -2394.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 16.0,
+   "rev_cagr_5y": 42.1,
+   "pat_cagr_3y": null,
+   "pat_cagr_5y": null,
+   "margin_change_3y_bps": 200
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 36878.0,
+    "equity": -5988.0,
+    "de": -6.16
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 44860.0,
+    "equity": -6252.0,
+    "de": -7.18
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 51280.0,
+    "equity": 1996.0,
+    "de": 25.69
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 66810.0,
+    "equity": 9368.0,
+    "de": 7.13
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 77749.0,
+    "equity": 6971.0,
+    "de": 11.15
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 87303.0,
+    "equity": 4996.0,
+    "de": 17.47
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     5.0
+    ],
+    [
+     "Mar 2022",
+     5.0
+    ],
+    [
+     "Mar 2023",
+     3.0
+    ],
+    [
+     "Mar 2024",
+     3.0
+    ],
+    [
+     "Mar 2025",
+     3.0
+    ],
+    [
+     "Mar 2026",
+     3.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     5.0
+    ],
+    [
+     "Mar 2022",
+     5.0
+    ],
+    [
+     "Mar 2023",
+     3.0
+    ],
+    [
+     "Mar 2024",
+     3.0
+    ],
+    [
+     "Mar 2025",
+     3.0
+    ],
+    [
+     "Mar 2026",
+     3.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -416.0
+    ],
+    [
+     "Mar 2022",
+     -287.0
+    ],
+    [
+     "Mar 2023",
+     -141.0
+    ],
+    [
+     "Mar 2024",
+     -144.0
+    ],
+    [
+     "Mar 2025",
+     -123.0
+    ],
+    [
+     "Mar 2026",
+     -129.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": -1614.0,
+    "pat": -5806.0,
+    "fcf": -2035.0,
+    "conv": null
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 2091.0,
+    "pat": -6162.0,
+    "fcf": 1750.0,
+    "conv": null
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 12728.0,
+    "pat": -306.0,
+    "fcf": 12163.0,
+    "conv": null
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 21218.0,
+    "pat": 8172.0,
+    "fcf": 20120.0,
+    "conv": 2.6
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 24151.0,
+    "pat": 7258.0,
+    "fcf": 22558.0,
+    "conv": 3.33
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 23470.0,
+    "pat": -2394.0,
+    "fcf": 21767.0,
+    "conv": null
+   }
+  ],
+  "cash_conv_5y": 12.74,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Operating margin up 200 bps over 3 years"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 1274% of profit"
+   },
+   {
+    "tone": "bad",
+    "text": "Leveraged balance sheet (D/E 17.47)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9931ec83-f523-4b86-b53f-b1f3a7ceb958.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a99374a-6e98-4aec-9b83-ddd57d9fd2a5.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3506c79c-e3f4-41bc-81d6-5b41005d39a2.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b25e1dd6-770a-4a6a-92c9-becd48554bb5.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b45f7180-78f4-4e39-9335-03cb2daa1a11.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9931ec83-f523-4b86-b53f-b1f3a7ceb958.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "FY2026 unit costs ex-fuel and forex up mid-single digit percent versus FY2025",
+     "horizon": "FY2026",
+     "low": null,
+     "high": null,
+     "unit": "%",
+     "quote": "We are currently estimating mid-single digit percentage increase in our unit costs excluding fuel and forex for the full financial year 2026 as compared to the full financial year 2025",
+     "page": 7,
+     "speaker": "Gaurav Negi",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Fourth quarter capacity growth around 10 percent year-over-year",
+     "horizon": "Q4 FY26",
+     "low": 10,
+     "high": 10,
+     "unit": "%",
+     "quote": "we are expecting to add capacity of around 10 percent as compared to the same period last year.",
+     "page": 8,
+     "speaker": "Gaurav Negi",
+     "verified": true,
+     "id": "g1.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Served nearly 32 million customers during the quarter",
+     "quote": "During the quarter, we served nearly 32 million customers",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Reported total income of 245 billion rupees for the quarter",
+     "quote": "For the quarter ended, December 2025, we reported a total income of 245 billion rupees, around 7% increase year over year",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Reported net profit after tax of 5.5 billion rupees for the quarter",
+     "quote": "We reported a net profit after tax of 5.5 billion rupees, with over 2% profit margin",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Closed the quarter with a total closing fleet of 440 aircraft",
+     "quote": "resulting in a total closing fleet of 440 aircraft at the quarter end.",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Pilot shortage impact on full capacity and growth",
+     "quote": "What is the actual shortage that we have at this stage in terms of pilots for us to be able to run a full capacity? So, any rough number would also be really helpful.",
+     "page": 14,
+     "verified": true
+    },
+    {
+     "topic": "Recurring CASK impact from FDTL norms and labor codes",
+     "quote": "Like are there any CASK line items, staff or so where you see that FY '27 cost structures could be higher than where we are today?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Foreign exchange exposure and ongoing assumptions",
+     "quote": "So, can you give us some color as to when you're giving this latest guidance? What is the kind of FX expectations or expectations on costs that you're building in because it has been a moving target?",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "tone": "Prudent and transparent, acknowledging disruptions while reaffirming long-term growth ambitions and operational recovery."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "Jun 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a99374a-6e98-4aec-9b83-ddd57d9fd2a5.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Expect to add capacity of around 3-4 percent in Q1FY27 versus same period last year.",
+     "horizon": "Q1FY27",
+     "low": 3,
+     "high": 4,
+     "unit": "%",
+     "quote": "we are expecting to add capacity of around 3-4 percent in Q1FY27 as compared to the same period last year.",
+     "page": 9,
+     "speaker": "Gaurav Negi",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Estimate a mid-teens improvement in unit passenger revenue in Q1FY27 versus Q1FY26.",
+     "horizon": "Q1FY27",
+     "low": null,
+     "high": null,
+     "unit": "%",
+     "quote": "we currently estimate a mid-teens improvement in unit passenger revenue in Q1FY27 vs Q1FY26",
+     "page": 9,
+     "speaker": "Gaurav Negi",
+     "verified": true,
+     "id": "g2.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered total income of around 238 billion rupees for fourth quarter ended March 2026.",
+     "quote": "For the quarter ended March 2026, we reported a total income of around 238 billion rupees, an increase of around 3 percent.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Served more than 123 million passengers in FY 2026, highest ever.",
+     "quote": "Despite these challenges, we did serve more than 123 million passengers in FY 2026, the highest ever.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Ended FY26 with a fleet of 441 aircraft.",
+     "quote": "resulting in a fleet of 441 aircraft at the end of FY26.",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "claim": "Ended the year with total cash of around 516 billion rupees.",
+     "quote": "ended the year with a total cash of around 516 billion rupees of which 362 billion rupees is free cash and restricted cash of 154 billion rupees.",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Passing on cost pressures and fuel price increases",
+     "quote": "Are you able to fully pass on the cost pressures with that? If you could comment both on the international side and domestic side?",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Sequential decline in employee costs",
+     "quote": "The employee cost, Gaurav, the sequential decline in employee cost even with higher hiring and all, what led to that decline on a quarter basis?",
+     "page": 15,
+     "verified": true
+    },
+    {
+     "topic": "Fuel hedging strategy amidst volatility",
+     "quote": "Now given the excessive volatility in rupee that we have seen of late, are we contemplating any change in strategy over here?",
+     "page": 18,
+     "verified": true
+    }
+   ],
+   "tone": "Cautious, transparent about operational disruptions and cost headwinds, while confident in long-term strategy and execution."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3506c79c-e3f4-41bc-81d6-5b41005d39a2.pdf",
+   "pages": 20,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Expect flattish capacity growth in Q2 FY27 compared to same period last year",
+     "horizon": "Q2 FY27",
+     "low": 0,
+     "high": 0,
+     "unit": "%",
+     "quote": "As a result, we are expecting a flattish capacity growth in Q2 FY27 compared to the same period last year.",
+     "page": 7,
+     "speaker": "Gaurav Negi",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Expect PRASK growth of more than 25% for Q2 FY27 compared to same period last year",
+     "horizon": "Q2 FY27",
+     "low": 25,
+     "high": null,
+     "unit": "%",
+     "quote": "In terms of unit passenger revenue or PRASK for Q2FY27, with the current balanced demand-supply equation and the higher fares holding up, we are expecting growth of more than 25% compared to the same period last year.",
+     "page": 7,
+     "speaker": "Gaurav Negi",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Hold single-digit capacity growth guidance for the full year",
+     "horizon": "FY27",
+     "low": null,
+     "high": 9,
+     "unit": "%",
+     "quote": "Pulkit, we are holding to the guidance that we gave at the analyst meet. So, it's in single digits. So, it was already tapered down.",
+     "page": 9,
+     "speaker": "Gaurav Negi",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "volume",
+     "promise": "Capacity growth back to early double-digit to mid-teens from FY28 to FY30",
+     "horizon": "FY28-FY30",
+     "low": 10,
+     "high": 15,
+     "unit": "%",
+     "quote": "No, we still hold to the mid-teens. That is going to be from FY2028 to FY 2030. It's going to be early double-digit to mid-teens levels is what we still are holding to.",
+     "page": 14,
+     "speaker": "Gaurav Negi",
+     "verified": true,
+     "id": "g3.4"
+    },
+    {
+     "metric": "volume",
+     "promise": "Reach 40% international ASK share by 2030",
+     "horizon": "2030",
+     "low": 40,
+     "high": 40,
+     "unit": "%",
+     "quote": "No, we're still holding to the guidance. We have said 40% that we'll be there by 2030.",
+     "page": 17,
+     "speaker": "Gaurav Negi",
+     "verified": true,
+     "id": "g3.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Reported a loss of around 2 billion rupees for Q1 FY27",
+     "quote": "Today, we announced our first quarter of the financial year 2027 results. This quarter we reported a loss of around 2 billion rupees.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Total income of 256 billion rupees, up 19% year over year",
+     "quote": "For the quarter we reported a total income of 256 billion rupees, a growth of around 19% year over year, with a yield growth of 21.3% and a load factor reduction of 1.3%.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "EBITDAR came in at 38.3 billion rupees with a margin of 15.6%",
+     "quote": "In terms of profitability, EBITDAR came in at 38.3 billion rupees at a margin of 15.6% compared to an EBITDAR of 57.4 billion rupees and a margin of 28% for the same period last year.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Ended the quarter with total cash of INR 529 billion",
+     "quote": "We ended the quarter with total cash of INR 529 billion, of which free cash was INR 390 billion and restricted cash was INR 139 billion.",
+     "page": 7,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Fuel cost calculations and spikes",
+     "quote": "Even after that, a 63% quarter-on-quarter fuel CASK increase, what would be the key drivers?",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Yields versus elevated cost pressure sustainability",
+     "quote": "Now you're guiding 20% yield increase. So, until what level of fuel you can still cover up?",
+     "page": 15,
+     "verified": true
+    },
+    {
+     "topic": "Airport operators entering the airline sector news",
+     "quote": "A, how does IndiGo think about the threat of new airlines, let's say, airports competing with airlines with their own setup?",
+     "page": 13,
+     "verified": true
+    }
+   ],
+   "tone": "Prudent and realistic while acknowledging heavy external headwinds from fuel and currency volatility."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b25e1dd6-770a-4a6a-92c9-becd48554bb5.pdf",
+   "pages": 17,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Expect Q3 FY27 capacity to grow in early single digit year-on-year",
+     "horizon": "Q3 FY27",
+     "low": 0,
+     "high": 9,
+     "unit": "%",
+     "quote": "Moving to our outlook for the third quarter of this financial year, we expect capacity to grow in the early single digit year-on-year.",
+     "page": 6,
+     "speaker": "Kiran Thadimarri",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Expect PRASK to grow by more than 25 percent year-on-year in Q3 FY27",
+     "horizon": "Q3 FY27",
+     "low": 25,
+     "high": null,
+     "unit": "%",
+     "quote": "Based on the trends observed in October, we expect PRASK to grow by more than 25 percent year-on-year.",
+     "page": 6,
+     "speaker": "Kiran Thadimarri",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Expect full financial year 2027 capacity to grow in early single digits",
+     "horizon": "FY27",
+     "low": 0,
+     "high": 9,
+     "unit": "%",
+     "quote": "For the full financial year 2027, we expect capacity to grow in the early single digits.",
+     "page": 6,
+     "speaker": "Kiran Thadimarri",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Expect FY27 CASK ex fuel ex forex MTM to increase in high single to early double digits",
+     "horizon": "FY27",
+     "low": 7,
+     "high": 12,
+     "unit": "%",
+     "quote": "On the cost side, we expect CASK ex fuel ex forex MTM to increase in the high single digits to early double digits range",
+     "page": 6,
+     "speaker": "Kiran Thadimarri",
+     "verified": true,
+     "id": "g4.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Reported a net loss of 19 billion rupees for the September quarter.",
+     "quote": "For the quarter ended 30 September 2026, we reported a net loss of 19 billion rupees, compared to a loss of 26 billion rupees in the same quarter last year.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Delivered a 31 percent increase in PRASK, exceeding guidance.",
+     "quote": "In this environment, we delivered a 31 percent increase in PRASK, which exceeded our guidance of more than 25 percent growth.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Closed the quarter with total cash of 527 billion rupees.",
+     "quote": "ending the quarter with total cash of 527 billion rupees, comprising free cash of 399 billion rupees and restricted cash of 128 billion rupees.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Closing fleet reached 442 aircraft at quarter-end after inducting 22 aircraft.",
+     "quote": "resulting in a total closing fleet of 442 aircraft at the quarter-end.",
+     "page": 6,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Wide-body exit impact on spreads",
+     "quote": "So, any numbers on that? Will it be around 3% or so of your ASKM, so higher percentage of CASK? Is that the right way to see?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Long-term capacity CAGR to reach FY30 target",
+     "quote": "So just wanted to know what are the key drivers of growth here given the fact that in domestic market, we have peaked out in terms of market share.",
+     "page": 12,
+     "verified": true
+    },
+    {
+     "topic": "Elasticity of demand amid fare hikes",
+     "quote": "So, first question is, how do you see the elasticity of demand right now in terms of -- given the increase in fare and increase in cost.",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "tone": "Prudent, realistic, and confident about long-term Indian aviation fundamentals despite near-term cost pressures."
+  }
+ ],
+ "business": {
+  "what_it_does": "The company provides air transportation services.",
+  "segments": [
+   {
+    "name": "Air transportation services - Domestic",
+    "revenue": 628739,
+    "unit": "million",
+    "what": "Domestic air transportation services to customers",
+    "page": 308,
+    "share_pct": 74
+   },
+   {
+    "name": "Air transportation services - International",
+    "revenue": 220880,
+    "unit": "million",
+    "what": "International air transportation services to customers",
+    "page": 308,
+    "share_pct": 26
+   }
+  ],
+  "mix_note": "Revenues from international operations in UAE and Saudi Arabia are more than 10% of total foreign country revenue.",
+  "risks_mgmt_flags": [
+   "Leased aircraft redelivery obligations subject to historical trends and data estimates.",
+   "Unfunded gratuity plan exposed to discount rate, salary growth, and mortality risks."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b45f7180-78f4-4e39-9335-03cb2daa1a11.pdf",
+  "pages_read": [
+   65,
+   176,
+   177,
+   180,
+   222,
+   254,
+   261,
+   263,
+   265,
+   305,
+   307,
+   308
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "FY26 unit costs ex-fuel and forex up mid-single digit percent versus FY25",
+    "made_in": "Q3 FY26 call",
+    "delivered": "Reported Mar 2026 full-year revenue of 84962.0 crore and EBITDA of 12037.0 crore; unit cost metrics not directly comparable.",
+    "verdict": "too_early",
+    "checked_against": "Mar 2026 full year reported numbers",
+    "quote": "We are currently estimating mid-single digit percentage increase in our unit costs excluding fuel and forex for the full financial year 2026 as compared to the full financial year 2025",
+    "page": 7,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9931ec83-f523-4b86-b53f-b1f3a7ceb958.pdf"
+   },
+   {
+    "ref": "g1.2",
+    "promise": "Q4 FY26 capacity growth around 10 percent year-over-year",
+    "made_in": "Q3 FY26 call",
+    "delivered": "Mar 2026 quarter revenue grew 1.3% year-over-year to 22438.0 crore with an EBIT margin of -9.0%.",
+    "verdict": "missed",
+    "checked_against": "Mar 2026 revenue YoY growth",
+    "quote": "we are expecting to add capacity of around 10 percent as compared to the same period last year.",
+    "page": 8,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9931ec83-f523-4b86-b53f-b1f3a7ceb958.pdf"
+   },
+   {
+    "ref": "g2.1",
+    "promise": "Expect to add capacity of around 3-4 percent in Q1FY27 versus same period last year",
+    "made_in": "Q4 FY26 call",
+    "delivered": "Jun 2026 quarter revenue grew 19.9% year-over-year to 24584.0 crore with an EBIT margin of 1.2%.",
+    "verdict": "delivered",
+    "checked_against": "Jun 2026 revenue YoY growth",
+    "quote": "we are expecting to add capacity of around 3-4 percent in Q1FY27 as compared to the same period last year.",
+    "page": 9,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a99374a-6e98-4aec-9b83-ddd57d9fd2a5.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "Expect flattish capacity growth in Q2 FY27 compared to same period last year",
+    "made_in": "Q1 FY27 call",
+    "delivered": "Sep 2026 quarter revenue grew 25.9% year-over-year to 23364.0 crore with a net loss of 1879.0 crore.",
+    "verdict": "missed",
+    "checked_against": "Sep 2026 revenue YoY growth",
+    "quote": "As a result, we are expecting a flattish capacity growth in Q2 FY27 compared to the same period last year.",
+    "page": 7,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3506c79c-e3f4-41bc-81d6-5b41005d39a2.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Expect Q3 FY27 capacity to grow in early single digit year-on-year",
+    "made_in": "Q2 FY27 call",
+    "delivered": "Q3 FY27 has not been reported yet as Sep 2026 is the latest quarter available in the text.",
+    "verdict": "too_early",
+    "checked_against": "Sep 2026 reported numbers",
+    "quote": "Moving to our outlook for the third quarter of this financial year, we expect capacity to grow in the early single digit year-on-year.",
+    "page": 6,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b25e1dd6-770a-4a6a-92c9-becd48554bb5.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 4,
+   "line": "Management misses capacity growth targets frequently and reports volatile profitability despite top-line growth."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Management claimed a net loss of 19 billion rupees for the September quarter, while reported Sep 2026 PAT was -1879.0 crore."
+   },
+   {
+    "agree": false,
+    "point": "Management guided for flattish capacity growth in Q2 FY27, but Sep 2026 revenue grew 25.9% year-over-year to 23364.0 crore."
+   },
+   {
+    "agree": true,
+    "point": "Reported numbers confirm severe financial strain, with Mar 2026 full-year PAT dropping to -2394.0 crore and D/E rising to 17.47."
+   }
+  ],
+  "bull": [
+   "Jun 2026 quarter revenue grew 19.9% year-over-year to reach 24584.0 crore.",
+   "Sep 2026 quarter revenue showed strong top-line growth of 25.9% year-over-year to 23364.0 crore.",
+   "Total cash remains substantial at 527 billion rupees by the end of Q2 FY27."
+  ],
+  "bear": [
+   "Sep 2026 quarter reported a heavy net loss of 1879.0 crore and negative EBIT margin of -5.0%.",
+   "Leverage has surged with Sep 2026 debt-to-equity ratio reaching 17.47 and borrowings at 87303.0 crore.",
+   "Full year Mar 2026 PAT turned negative to -2394.0 crore alongside an EBITDA drop to 12037.0 crore."
+  ],
+  "watch": [
+   "Whether Q3 FY27 capacity actually grows in early single digits as guided in g4.1.",
+   "Evolution of the debt-to-equity ratio above the 17.47 level reported in Sep 2026.",
+   "Turnaround of negative EBIT margins which stood at -5.0% in Sep 2026."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13929,
+   "out": 777,
+   "secs": 3.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13965,
+   "out": 780,
+   "secs": 3.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14590,
+   "out": 1271,
+   "secs": 4.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12732,
+   "out": 1057,
+   "secs": 4.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 8946,
+   "out": 227,
+   "secs": 2.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 3704,
+   "out": 1208,
+   "secs": 4.6,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 67866,
+  "tokens_out": 5320,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 27.4
+ }
+}

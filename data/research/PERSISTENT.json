@@ -1,0 +1,970 @@
+{
+ "symbol": "PERSISTENT",
+ "name": "Persistent Systems Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T20:21:08",
+ "latest_call": "Oct 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 99980.0,
+   "pe": 53.5,
+   "roce": 34.4,
+   "roe": 27.2,
+   "ttm_revenue": 16801.0,
+   "ttm_pat": 1803.0,
+   "margin_latest_q": 14.0,
+   "de": 0.07,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 3062.0,
+    "rev_yoy": 22.6,
+    "op_profit": 538.0,
+    "margin": 18.0,
+    "ebit_margin": 14.9,
+    "pat": 373.0,
+    "pat_yoy": 30.4
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 3242.0,
+    "rev_yoy": 25.1,
+    "op_profit": 584.0,
+    "margin": 18.0,
+    "ebit_margin": 15.6,
+    "pat": 396.0,
+    "pat_yoy": 25.7
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 3334.0,
+    "rev_yoy": 21.8,
+    "op_profit": 612.0,
+    "margin": 18.0,
+    "ebit_margin": 15.5,
+    "pat": 425.0,
+    "pat_yoy": 38.9
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 3581.0,
+    "rev_yoy": 23.6,
+    "op_profit": 683.0,
+    "margin": 19.0,
+    "ebit_margin": 16.3,
+    "pat": 471.0,
+    "pat_yoy": 44.9
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 3778.0,
+    "rev_yoy": 23.4,
+    "op_profit": 733.0,
+    "margin": 19.0,
+    "ebit_margin": 16.7,
+    "pat": 439.0,
+    "pat_yoy": 17.7
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 4056.0,
+    "rev_yoy": 25.1,
+    "op_profit": 768.0,
+    "margin": 19.0,
+    "ebit_margin": 16.2,
+    "pat": 529.0,
+    "pat_yoy": 33.6
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 4303.0,
+    "rev_yoy": 29.1,
+    "op_profit": 697.0,
+    "margin": 16.0,
+    "ebit_margin": 13.5,
+    "pat": 483.0,
+    "pat_yoy": 13.6
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 4664.0,
+    "rev_yoy": 30.2,
+    "op_profit": 633.0,
+    "margin": 14.0,
+    "ebit_margin": 10.0,
+    "pat": 352.0,
+    "pat_yoy": -25.3
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 3566.0,
+    "op_profit": 493.0,
+    "margin": 14.0,
+    "pat": 340.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 4188.0,
+    "op_profit": 683.0,
+    "margin": 16.0,
+    "pat": 451.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 5711.0,
+    "op_profit": 958.0,
+    "margin": 17.0,
+    "pat": 690.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 8351.0,
+    "op_profit": 1519.0,
+    "margin": 18.0,
+    "pat": 921.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 9822.0,
+    "op_profit": 1676.0,
+    "margin": 17.0,
+    "pat": 1093.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 11939.0,
+    "op_profit": 2058.0,
+    "margin": 17.0,
+    "pat": 1400.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 14748.0,
+    "op_profit": 2796.0,
+    "margin": 19.0,
+    "pat": 1865.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 20.9,
+   "rev_cagr_5y": 28.6,
+   "pat_cagr_3y": 26.5,
+   "pat_cagr_5y": 32.8,
+   "margin_change_3y_bps": 100
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 578.0,
+    "equity": 3368.0,
+    "de": 0.17
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 655.0,
+    "equity": 3965.0,
+    "de": 0.17
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 451.0,
+    "equity": 4958.0,
+    "de": 0.09
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 311.0,
+    "equity": 6319.0,
+    "de": 0.05
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 477.0,
+    "equity": 7838.0,
+    "de": 0.06
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 575.0,
+    "equity": 8590.0,
+    "de": 0.07
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     50.0
+    ],
+    [
+     "Mar 2022",
+     61.0
+    ],
+    [
+     "Mar 2023",
+     69.0
+    ],
+    [
+     "Mar 2024",
+     62.0
+    ],
+    [
+     "Mar 2025",
+     82.0
+    ],
+    [
+     "Mar 2026",
+     83.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     50.0
+    ],
+    [
+     "Mar 2022",
+     61.0
+    ],
+    [
+     "Mar 2023",
+     69.0
+    ],
+    [
+     "Mar 2024",
+     62.0
+    ],
+    [
+     "Mar 2025",
+     82.0
+    ],
+    [
+     "Mar 2026",
+     83.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     25.0
+    ],
+    [
+     "Mar 2022",
+     4.0
+    ],
+    [
+     "Mar 2023",
+     20.0
+    ],
+    [
+     "Mar 2024",
+     24.0
+    ],
+    [
+     "Mar 2025",
+     47.0
+    ],
+    [
+     "Mar 2026",
+     50.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 736.0,
+    "pat": 451.0,
+    "fcf": 611.0,
+    "conv": 1.63
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 845.0,
+    "pat": 690.0,
+    "fcf": 464.0,
+    "conv": 1.22
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 956.0,
+    "pat": 921.0,
+    "fcf": 524.0,
+    "conv": 1.04
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 1302.0,
+    "pat": 1093.0,
+    "fcf": 947.0,
+    "conv": 1.19
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 1157.0,
+    "pat": 1400.0,
+    "fcf": 964.0,
+    "conv": 0.83
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 1767.0,
+    "pat": 1865.0,
+    "fcf": 1572.0,
+    "conv": 0.95
+   }
+  ],
+  "cash_conv_5y": 1.01,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (26.5% vs 20.9%): operating leverage"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 101% of profit"
+   },
+   {
+    "tone": "good",
+    "text": "Practically debt-free (D/E 0.07)"
+   },
+   {
+    "tone": "bad",
+    "text": "Cash cycle stretched by 21 days in 2 years (62 → 83)"
+   },
+   {
+    "tone": "good",
+    "text": "Revenue growth accelerating (23% → 25% → 29% → 30%)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68ef2b0-b285-4696-8c08-e3bb58039b0e.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Transcript-Q4FY26.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68ef2b0-b285-4696-8c08-e3bb58039b0e.pdf",
+   "pages": 28,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "revenue",
+     "promise": "Reach $2 billion in annual revenue by March 2027",
+     "horizon": "March 2027",
+     "low": null,
+     "high": 2.0,
+     "unit": "units",
+     "quote": "I am also happy to share that we remain firmly on track, advancing confidently towards our aspiration of $2 billion by March 2027 and laying the foundation of $5 billion by March 2031.",
+     "page": 6,
+     "speaker": "Sandeep Kalra",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "revenue",
+     "promise": "Reach $5 billion in annual revenue by March 2031",
+     "horizon": "March 2031",
+     "low": null,
+     "high": 5.0,
+     "unit": "units",
+     "quote": "I am also happy to share that we remain firmly on track, advancing confidently towards our aspiration of $2 billion by March 2027 and laying the foundation of $5 billion by March 2031.",
+     "page": 6,
+     "speaker": "Sandeep Kalra",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "profit",
+     "promise": "ETR for FY26 will be in the range of 20% to 24%",
+     "horizon": "FY26",
+     "low": 20,
+     "high": 24,
+     "unit": "%",
+     "quote": "ETR for FY26 will be in the range of 20%-24%.",
+     "page": 8,
+     "speaker": "Vinit Teredesai",
+     "verified": true,
+     "id": "g1.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Achieved USD 422.5 million revenue with 4% quarter-on-quarter and 17.3% year-on-year growth in Q3 FY26.",
+     "quote": "We achieved a healthy revenue growth of 4.0% quarter-on-quarter and 17.3% year-on-year, delivering $422.5 million in Q3 of fiscal 2026.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Recorded Total Contract Value of USD 674.5 million with new bookings of USD 369.1 million.",
+     "quote": "The Total Contract Value for the quarter stood at USD 674.5 million with the Total Contract Value of new bookings coming in at USD 369.1 million.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Delivered EBIT margin of 14.4% and PAT margin of 11.6% for Q3 FY26 after labor code provisioning impact.",
+     "quote": "After accounting for this impact, the EBIT for the quarter came in at 14.4%... Profit After Tax for the quarter came in at 11.6%",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Marked 23rd sequential quarter of revenue growth, reaching $1.6 million trailing twelve-month revenue.",
+     "quote": "This marks our 23rd sequential quarter of revenue growth.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Sustainability of 150 bps margin jump from AI tools and pricing",
+     "quote": "How should we think about this logically? Because, one, it's a big margin jump in a single quarter.",
+     "page": 20,
+     "verified": true
+    },
+    {
+     "topic": "Software license revenue growth and intangible asset capitalization",
+     "quote": "if I look at the nature of the software license revenue growth, in this quarter it has gone up by 40% q-on-q.",
+     "page": 18,
+     "verified": true
+    },
+    {
+     "topic": "Hi-tech demand environment and pricing resilience against competition",
+     "quote": "Some of our larger peers have indicated that spends are currently kind of tied up in Capex and there's little room for sort of the services or the software stack of it.",
+     "page": 23,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and focused on AI-led operational maturity and execution."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "Apr 2026",
+   "url": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Transcript-Q4FY26.pdf",
+   "pages": 26,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Achieve EBIT margin aspiration in the 16 to 17% range over time",
+     "horizon": "next 2 years",
+     "low": 16,
+     "high": 17,
+     "unit": "%",
+     "quote": "Our aspiration continues to be in the 16 to 17% range.",
+     "page": 26,
+     "speaker": "Vinit Teredesai",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Reach $2 billion run rate by end of FY27",
+     "horizon": "FY27 Q4 exit",
+     "low": 2,
+     "high": null,
+     "unit": "units",
+     "quote": "FY’27, Q4 exit is where we are looking at the run rate being in the range of $500 million or so.",
+     "page": 19,
+     "speaker": "Sandeep Kalra",
+     "verified": true,
+     "id": "g2.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Q4 FY26 revenue achieved USD 436 million, growing 3.2% QoQ and 16.2% YoY.",
+     "quote": "We achieved a healthy revenue growth of 3.2% quarter-on-quarter and 16.2% year-on-year, delivering USD 436 million in Q4 FY26.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Q4 FY26 EBIT margin came in at 16.3%, up 70 basis points year-on-year.",
+     "quote": "The EBIT margin for the quarter came in at 16.3%, translating to an EBIT growth of 21.4% and 30.4% QoQ and YoY respectively.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Total Contract Value (TCV) for the quarter stood at USD 600.8 million.",
+     "quote": "The Total Contract Value for the quarter stood at USD 600.8 million, with Total Contract Value of the new bookings coming in at USD 428.9 million.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Full year FY26 revenue reached USD 1.65 billion, translating to 17.4% YoY growth.",
+     "quote": "FY26 revenue came in at USD 1.65 billion, translating into 17.4% YoY.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Demand environment and impact of Middle East war and Generative AI",
+     "quote": "can you talk about how are you seeing the demand environment currently versus, let's say, 3 months ago, given the headwinds from geopolitics as well as how enterprises are adopting to Generative AI.",
+     "page": 18,
+     "verified": true
+    },
+    {
+     "topic": "Top 5 account softness and FY27 $2 billion run-rate target",
+     "quote": "Firstly, on the top 5 accounts, they were just slightly soft this quarter. If you could just guide us which vertical sort of contributed to the softness amongst the top 5 clients",
+     "page": 19,
+     "verified": true
+    },
+    {
+     "topic": "SaaS-pocalypse impact and Private Equity channel exposure",
+     "quote": "What is the company's exposure to this channel? Now, with all this talk of SaaS apocalypse, how does this impact demand outlook from this channel for FY’27 and beyond?",
+     "page": 21,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, cautiously optimistic, and focused on AI-led capability building and market share gains."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf",
+   "pages": 29,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "Expect transaction to close in Q4 CY2026 or early Q1 CY2027",
+     "horizon": "Q4 CY2026 or early Q1 CY2027",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "we expect this transaction to close sometime towards the Q4 of Calendar Year 2026 or early Q1 of Calendar Year 2027.",
+     "page": 13,
+     "speaker": "Vinit Teredesai",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "debt",
+     "promise": "Net Debt over combined EBITDA to reduce down to 1X by FY2030",
+     "horizon": "FY2030",
+     "low": 1.0,
+     "high": 1.0,
+     "unit": "x",
+     "quote": "it is expected to reduce down to 1X by FY2030.",
+     "page": 13,
+     "speaker": "Vinit Teredesai",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "profit",
+     "promise": "Transaction expected to be Cash EPS and Reported EPS accretive in Year 1",
+     "horizon": "Year 1",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "The transaction is expected to be Cash EPS accretive as well as Reported EPS accretive in Year 1 if you remove the transaction expenses that will be incurred in the first year.",
+     "page": 13,
+     "speaker": "Vinit Teredesai",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "orders",
+     "promise": "Net new deal to add roughly $125M+ annually and $650M+ over 6.5 years",
+     "horizon": "6.5 years",
+     "low": 125.0,
+     "high": 650.0,
+     "unit": null,
+     "quote": "this is a net new deal which will add roughly about $125 million plus on an annual basis and overall for the period of the contract it will be roughly about $650 million plus over 6.5 years.",
+     "page": 4,
+     "speaker": "Sandeep Kalra",
+     "verified": true,
+     "id": "g3.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Persistent has achieved a 24 quarter streak of growth",
+     "quote": "should continue our 24 quarter streak of growth for times to come.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Secured 21% stake in Nagarro via share purchase agreement",
+     "quote": "It has already secured 21% stake in Nagarro via share purchase agreement from the major shareholder.",
+     "page": 12,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Nagarro valuation multiple and financial books",
+     "quote": "My first question was around the books of Nagarro, so have we done any incremental due diligence on the books of Nagarro?",
+     "page": 14,
+     "verified": true
+    },
+    {
+     "topic": "Integration complexity and margin pressures of Nagarro",
+     "quote": "Nagarro revenue has been flat for two years now, and with margin pressure. What gives us confidence that this is a turnaround asset?",
+     "page": 18,
+     "verified": true
+    },
+    {
+     "topic": "Cash-only funding structure versus share swap risk",
+     "quote": "When you're acquiring such a large company, which is almost two-third of the current size, as a risk mitigation strategy, do you think doing some kind of a cash-plus-share swap would have been a better strategy",
+     "page": 24,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, enthusiastic, and resolute regarding strategic rationale and integration."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf",
+   "pages": 26,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Achieve 16 to 17 percent EBIT margin range as an aspirational goal",
+     "horizon": "aspirational",
+     "low": 16,
+     "high": 17,
+     "unit": "%",
+     "quote": "we have said we want to be in the 16 to 17 % range, that is our aspiration. That will be our endeavour",
+     "page": 19,
+     "speaker": "Sandeep Kalra",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Expect deal closure for Nagarro acquisition by Q4-CY26 or Q1-CY27",
+     "horizon": "Q4-CY26 or Q1-CY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We expect the deal closure by Q4-CY26 or Q1-CY27.",
+     "page": 7,
+     "speaker": "Sandeep Kalra",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Incur incremental Nagarro transaction expenses ranging between USD 25 to 30 million over next two quarters",
+     "horizon": "next two quarters",
+     "low": 25,
+     "high": 30,
+     "unit": "units",
+     "quote": "Over the next two quarters, we expect an incremental amount ranging between USD 25 to 30 million to be incurred towards the Nagarro transaction.",
+     "page": 9,
+     "speaker": "Vinit Teredesai",
+     "verified": true,
+     "id": "g4.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Achieved USD 487.6 million in revenue, up 7.8% sequentially and 20% year-on-year in Q2 FY27.",
+     "quote": "We achieved a healthy revenue growth of 7.8% quarter-on-quarter and 20% year-on-year delivering USD 487.6 million in Q2 FY27.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Secured approximately 94.04% of Nagarro share capital at the expiry of the additional acceptance period.",
+     "quote": "We have secured approximately 94.04% of Nagarro share capital excluding treasury shares at the expiry of the additional acceptance period",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Delivered an EBIT margin of 15% for the quarter.",
+     "quote": "The EBIT margin for the quarter came in at 15%, translating to an EBIT growth of 1.6% quarter-on-quarter and 19.5% year-on-year.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Software reinvention services and amortization impact on margins",
+     "quote": "is there a cap on the amount of revenue you can have in a deal like this or it has to be through costs coming down.",
+     "page": 17,
+     "verified": true
+    },
+    {
+     "topic": "Deal wins slowdown and TCV softness compared to last quarter",
+     "quote": "if we look at the year on year growth, on TCV it was just 4%, which typically is in the range of 15 to 16%. So how should one look at that?",
+     "page": 23,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and focused on strategic execution regarding AI capabilities and the Nagarro acquisition."
+  }
+ ],
+ "business": {
+  "what_it_does": "The company provides product engineering services, platform-based solutions, and IP-based software products for global customers.",
+  "segments": [
+   {
+    "name": "Banking, Financial Services and Insurance (BFSI)",
+    "revenue": 50932.99,
+    "unit": "million",
+    "what": "Software products and services for banking, financial services and insurance",
+    "page": 274,
+    "share_pct": 35
+   },
+   {
+    "name": "Healthcare & Life Sciences",
+    "revenue": 37721.65,
+    "unit": "million",
+    "what": "Software products and services for healthcare and life sciences",
+    "page": 274,
+    "share_pct": 26
+   },
+   {
+    "name": "Software, Hi-Tech and Emerging Industries",
+    "revenue": 58829.85,
+    "unit": "million",
+    "what": "Software products and services for software, hi-tech and emerging industries",
+    "page": 274,
+    "share_pct": 40
+   }
+  ],
+  "mix_note": "North America dominates by contributing 81.4% of total revenue. Top 10 customers contribute 41.6% of revenue.",
+  "risks_mgmt_flags": [
+   "Top 10 customers account for 41.6% of total revenue.",
+   "North America contributes 81.4% of total revenue, indicating geographical concentration."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf",
+  "pages_read": [
+   273,
+   274,
+   328,
+   332,
+   334,
+   364,
+   372,
+   382,
+   383,
+   437,
+   464,
+   471
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g2.1",
+    "promise": "Achieve EBIT margin 16-17% range over time",
+    "made_in": "Q4 FY26 call",
+    "delivered": "Q2 FY27 EBIT margin 10.0% below target",
+    "verdict": "missed",
+    "checked_against": "Q2 FY27 EBIT%",
+    "quote": "Our aspiration continues to be in the 16 to 17% range.",
+    "page": 26,
+    "verified": true,
+    "url": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Transcript-Q4FY26.pdf"
+   },
+   {
+    "ref": "g1.1",
+    "promise": "Reach $2B annual revenue by March 2027",
+    "made_in": "Q3 FY26 call",
+    "delivered": "Revenue Sep 2026 4664 ₹ crore; USD conversion not provided",
+    "verdict": "too_early",
+    "checked_against": "Q2 FY27 revenue",
+    "quote": "I am also happy to share that we remain firmly on track, advancing confidently towards our aspiration of $2 billion by March 2027 and laying the foundation of $5 billion by March 2031.",
+    "page": 6,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68ef2b0-b285-4696-8c08-e3bb58039b0e.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "Transaction close Q4 CY2026 or early Q1 CY2027",
+    "made_in": "Q1 FY27 call",
+    "delivered": "No closure reported as of Sep 2026",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "we expect this transaction to close sometime towards the Q4 of Calendar Year 2026 or early Q1 of Calendar Year 2027.",
+    "page": 13,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "Only one promise can be checked against reported numbers so far — too few to score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Management touts margin improvement but EBIT% fell to 10% versus 16‑17% target."
+   },
+   {
+    "agree": false,
+    "point": "Revenue growth strong (30.2% YoY) yet no evidence of $2B USD revenue target."
+   },
+   {
+    "agree": true,
+    "point": "Operating cash flow (0.95 × PAT) confirms cash‑conversion claim."
+   }
+  ],
+  "bull": [
+   "Revenue YoY 30.2% in Q2 FY27 shows accelerating growth.",
+   "Low leverage with D/E 0.07 indicates strong balance sheet.",
+   "Operating cash flow nearly equals profit, confirming cash conversion strength."
+  ],
+  "bear": [
+   "EBIT margin 10% far below 16‑17% aspiration.",
+   "EBITDA margin slipped to 14% in Q2 FY27 from 19% earlier.",
+   "Net profit down 25.3% YoY in Q2 FY27."
+  ],
+  "watch": [
+   "Will EBIT margin improve toward 16% target?",
+   "Will revenue sustain >30% YoY growth?",
+   "Will incremental Nagarro transaction expense appear in next quarter?"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 15559,
+   "out": 1016,
+   "secs": 3.8,
+   "cached": true
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14914,
+   "out": 885,
+   "secs": 5.0,
+   "cached": true
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 17956,
+   "out": 924,
+   "secs": 11.6,
+   "cached": true
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 15972,
+   "out": 855,
+   "secs": 4.1,
+   "cached": true
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 10076,
+   "out": 340,
+   "secs": 12.4,
+   "cached": true
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 3326,
+   "out": 1885,
+   "secs": 50.7,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 1,
+  "tokens_in": 77803,
+  "tokens_out": 5905,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 51.3
+ }
+}

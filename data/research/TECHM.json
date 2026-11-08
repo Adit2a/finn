@@ -1,0 +1,963 @@
+{
+ "symbol": "TECHM",
+ "name": "Tech Mahindra Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:45:41",
+ "latest_call": "Oct 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 179466.0,
+   "pe": 31.4,
+   "roce": 23.1,
+   "roe": 17.5,
+   "ttm_revenue": 61361.0,
+   "ttm_pat": 5571.0,
+   "margin_latest_q": 18.0,
+   "de": 0.07,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 13286.0,
+    "rev_yoy": 1.4,
+    "op_profit": 1809.0,
+    "margin": 14.0,
+    "ebit_margin": 10.2,
+    "pat": 989.0,
+    "pat_yoy": 88.7
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 13384.0,
+    "rev_yoy": 4.0,
+    "op_profit": 1839.0,
+    "margin": 14.0,
+    "ebit_margin": 10.3,
+    "pat": 1142.0,
+    "pat_yoy": 72.0
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 13351.0,
+    "rev_yoy": 2.7,
+    "op_profit": 1935.0,
+    "margin": 14.0,
+    "ebit_margin": 11.1,
+    "pat": 1129.0,
+    "pat_yoy": 30.5
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 13995.0,
+    "rev_yoy": 5.1,
+    "op_profit": 2165.0,
+    "margin": 15.0,
+    "ebit_margin": 12.1,
+    "pat": 1202.0,
+    "pat_yoy": -4.5
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 14393.0,
+    "rev_yoy": 8.3,
+    "op_profit": 2366.0,
+    "margin": 16.0,
+    "ebit_margin": 13.1,
+    "pat": 1119.0,
+    "pat_yoy": 13.1
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 15076.0,
+    "rev_yoy": 12.6,
+    "op_profit": 2565.0,
+    "margin": 17.0,
+    "ebit_margin": 13.8,
+    "pat": 1356.0,
+    "pat_yoy": 18.7
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 15712.0,
+    "rev_yoy": 17.7,
+    "op_profit": 2738.0,
+    "margin": 17.0,
+    "ebit_margin": 14.4,
+    "pat": 1486.0,
+    "pat_yoy": 31.6
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 16180.0,
+    "rev_yoy": 15.6,
+    "op_profit": 2878.0,
+    "margin": 18.0,
+    "ebit_margin": 14.8,
+    "pat": 1610.0,
+    "pat_yoy": 33.9
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 36868.0,
+    "op_profit": 5503.0,
+    "margin": 15.0,
+    "pat": 3897.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 37855.0,
+    "op_profit": 6796.0,
+    "margin": 18.0,
+    "pat": 4353.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 44646.0,
+    "op_profit": 8020.0,
+    "margin": 18.0,
+    "pat": 5630.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 53290.0,
+    "op_profit": 7763.0,
+    "margin": 15.0,
+    "pat": 4857.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 51996.0,
+    "op_profit": 4506.0,
+    "margin": 9.0,
+    "pat": 2397.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 52988.0,
+    "op_profit": 6964.0,
+    "margin": 13.0,
+    "pat": 4253.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 56815.0,
+    "op_profit": 9033.0,
+    "margin": 16.0,
+    "pat": 4806.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 2.2,
+   "rev_cagr_5y": 8.5,
+   "pat_cagr_3y": -0.4,
+   "pat_cagr_5y": 2.0,
+   "margin_change_3y_bps": 100
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 2618.0,
+    "equity": 26886.0,
+    "de": 0.1
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 2740.0,
+    "equity": 27924.0,
+    "de": 0.1
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 2537.0,
+    "equity": 26669.0,
+    "de": 0.1
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 2025.0,
+    "equity": 27361.0,
+    "de": 0.07
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 2186.0,
+    "equity": 29616.0,
+    "de": 0.07
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 2184.0,
+    "equity": 29673.0,
+    "de": 0.07
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     62.0
+    ],
+    [
+     "Mar 2022",
+     98.0
+    ],
+    [
+     "Mar 2023",
+     88.0
+    ],
+    [
+     "Mar 2024",
+     80.0
+    ],
+    [
+     "Mar 2025",
+     80.0
+    ],
+    [
+     "Mar 2026",
+     86.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     62.0
+    ],
+    [
+     "Mar 2022",
+     98.0
+    ],
+    [
+     "Mar 2023",
+     88.0
+    ],
+    [
+     "Mar 2024",
+     80.0
+    ],
+    [
+     "Mar 2025",
+     80.0
+    ],
+    [
+     "Mar 2026",
+     86.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     24.0
+    ],
+    [
+     "Mar 2022",
+     29.0
+    ],
+    [
+     "Mar 2023",
+     28.0
+    ],
+    [
+     "Mar 2024",
+     23.0
+    ],
+    [
+     "Mar 2025",
+     25.0
+    ],
+    [
+     "Mar 2026",
+     30.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 8094.0,
+    "pat": 4353.0,
+    "fcf": 7521.0,
+    "conv": 1.86
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 5285.0,
+    "pat": 5630.0,
+    "fcf": 4450.0,
+    "conv": 0.94
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 5572.0,
+    "pat": 4857.0,
+    "fcf": 4603.0,
+    "conv": 1.15
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 6376.0,
+    "pat": 2397.0,
+    "fcf": 5639.0,
+    "conv": 2.66
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 5786.0,
+    "pat": 4253.0,
+    "fcf": 5303.0,
+    "conv": 1.36
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 6172.0,
+    "pat": 4806.0,
+    "fcf": 5626.0,
+    "conv": 1.28
+   }
+  ],
+  "cash_conv_5y": 1.33,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 133% of profit"
+   },
+   {
+    "tone": "good",
+    "text": "Practically debt-free (D/E 0.07)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=80aa906e-d58c-4c12-8389-1bfada3bb5c1.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1da5d491-416d-4037-be83-e0cdf7b1f438.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=32f1b314-0ff0-4d2b-88f3-73df00061855.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=73a1ce37-8a16-4011-b2d6-cc4f3165de5f.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/758bed2c-792d-434f-a326-118a8b4e7989.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=80aa906e-d58c-4c12-8389-1bfada3bb5c1.pdf",
+   "pages": 21,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Progress towards a 15% EBIT margin for FY27",
+     "horizon": "FY27",
+     "low": null,
+     "high": 15,
+     "unit": "%",
+     "quote": "We expect to grow higher than the peer average by the end of FY27 while progressing towards a 15% EBIT margin for FY27.",
+     "page": 6,
+     "speaker": "Mohit Joshi",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Grow higher than the peer average by the end of FY27",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We expect to grow higher than the peer average by the end of FY27 while progressing towards a 15% EBIT margin for FY27.",
+     "page": 6,
+     "speaker": "Mohit Joshi",
+     "verified": true,
+     "id": "g1.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Highest quarterly deal bookings in the last five years at $1096 million.",
+     "quote": "We recorded our highest quarterly deal bookings in the last five years, our highest deal wins on a last 12-month basis in the last five years",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Operating margins expanded by 290 basis points year-on-year to 13.1%.",
+     "quote": "Operating margins expanded by 290 basis points year-on-year to 13.1%, underscoring the progress enabled by our improved operating disciplines",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Fastest quarterly growth in the last three years with revenue growing 2.7% YoY.",
+     "quote": "Revenue grew 2.7% year-on-year and 1.5% QoQ on a reported basis... marking our fastest quarterly growth in the last three years.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Secured largest deal win in Europe in comms industry exceeding $500 million over five years.",
+     "quote": "our largest deal win in Europe in the comms industry. This underscores the strength of our client relationships",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "BFSI decline and furlough impact",
+     "quote": "So, what led to this higher-than-usual furlough -- is there any sub-segment or client-specific factor which drove that?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "AI metrics and quantification",
+     "quote": "Any quantitative or qualitative metrics you can share on your AI portfolio, which can give us the confidence on the trajectory we are chatting out here?",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Wage hike timing and labour code",
+     "quote": "have you guys thought about if and when we would want to do that?",
+     "page": 14,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic about medium-term strategic goals, and disciplined on margins and execution."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1da5d491-416d-4037-be83-e0cdf7b1f438.pdf",
+   "pages": 28,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Achieve an EBIT margin of 15% for FY27.",
+     "horizon": "FY27",
+     "low": 15,
+     "high": 15,
+     "unit": "%",
+     "quote": "We are reiterating our FY27 financial targets, sure you're happy to hear that, including achieving organic constant currency revenue growth above our peer group's average and achieving an EBIT margin of 15%.",
+     "page": 6,
+     "speaker": "Mohit Joshi",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Achieve organic constant currency revenue growth above peer group's average for FY27.",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": "%",
+     "quote": "We are reiterating our FY27 financial targets, sure you're happy to hear that, including achieving organic constant currency revenue growth above our peer group's average and achieving an EBIT margin of 15%.",
+     "page": 6,
+     "speaker": "Mohit Joshi",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Get Return on Capital Employed to 30% for next year.",
+     "horizon": "next year",
+     "low": 30,
+     "high": 30,
+     "unit": "%",
+     "quote": "And then looking at Return on Capital Employed, we are close to 26% and our commitment to all of you is get to 30% for next year.",
+     "page": 20,
+     "speaker": "Rohit Anand",
+     "verified": true,
+     "id": "g2.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Reported Q4 revenues of USD 1.625 billion, up 4.9% year-on-year and 2.4% in constant currency.",
+     "quote": "Coming now to our quarterly performance, we reported revenues of USD 1.625 billion, up 4.9% year-on-year and 2.4% in constant currency.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Operating profit for the quarter stood at 223 million, up 5.5% QoQ, with margins at 13.8%.",
+     "quote": "Operating profit for the quarter stood at 223 million, up 5.5% QoQ, and margin percent improved by 70 basis point to be at 13.8%.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "claim": "Closed FY26 with highest ever deal wins in the last many years, standing at USD 3.79 billion.",
+     "quote": "We closed the year with total deal-wins of USD 3.79 billion, representing a 42% growth year-on-year.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Achieved 10 consecutive quarters of margin expansion, reaching an exit margin of 13.8%.",
+     "quote": "You've now had 10 quarters of margin expansion, so going from an exit margin of 6.4% to 13.8% in the most recent quarter.",
+     "page": 12,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Achievability of growth targets vs slowing industry peers",
+     "quote": "In that context, how easy do you think it is to achieve and sort of accelerate for you versus where the industry is doing? And if you can comment, where do you think industry growth will be next year?",
+     "page": 22,
+     "verified": true
+    },
+    {
+     "topic": "Impact of Anthropic Claude releases on client decision delays and pricing deflation",
+     "quote": "After the blitzkrieg of announcements by Anthropic on the Claude releases in Feb, are you seeing any sort of decision-making delays by clients because they might be wanting to wait and watch to see how this agentic AI technology progresses?",
+     "page": 25,
+     "verified": true
+    },
+    {
+     "topic": "Margin of safety in growth assumptions given telecom risks and account pressures",
+     "quote": "So, in that backdrop, what is the margin of safety you are keeping in your assumptions when you say that we'll be better than the industry and industry may deliver 2%-4% or 3%-5% kind of growth?",
+     "page": 25,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, disciplined, and optimistic about executing transformation targets and AI adoption."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=32f1b314-0ff0-4d2b-88f3-73df00061855.pdf",
+   "pages": 21,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Achieve an operating margin of 15% for FY27",
+     "horizon": "FY27",
+     "low": 15,
+     "high": 15,
+     "unit": "%",
+     "quote": "well-positioned to deliver on our FY 27 ambition of achieving above average of the peer growth and an operating margin of 15%.",
+     "page": 10,
+     "speaker": "Rohit Anand",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Achieve revenue growth above the peer average for FY27",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "well-positioned to deliver on our FY 27 ambition of achieving above average of the peer growth and an operating margin of 15%.",
+     "page": 10,
+     "speaker": "Rohit Anand",
+     "verified": true,
+     "id": "g3.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Reported Q1 FY27 revenues of $1.66 billion, up 6.6% in constant currency.",
+     "quote": "For the quarter, we reported revenues of US$1.66 billion, representing a 6.1% year-on-year growth on a reported basis and 6.6% growth in constant currency.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Operating margins stood at 14.4%, expanding for 11 consecutive quarters.",
+     "quote": "Operating margins stood at 14.4%, reflecting sustained execution discipline, operational rigor, and a continuous focus on profitable growth.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Total deal wins for the quarter reached $1.078 billion.",
+     "quote": "Moving to deal momentum, we delivered total deal wins of US$1.078 billion.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Generated US$167 million of free cash flow during the quarter, up 94% year-on-year.",
+     "quote": "We generated US$167 million of free cash flow during the quarter, up 94% on a Y-o-Y basis.",
+     "page": 10,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Growth sustainability and Comviva seasonality impact in Q2",
+     "quote": "Going into the second quarter, especially when you won't have the Comviva seasonality as well impacting, do you see this growth momentum continuing into that quarter and what would be driving that?",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Gross margin versus SG&A levers and exit margin target",
+     "quote": "So how much of the gross margin lever is still there in our hand and what kind of exit margin we are targeting to get to?",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Competitor irrationality and pricing pressure on deals",
+     "quote": "Now without naming any competitor, can you give flavors of irrationality so that we can understand and appreciate the industry perspective a little bit better?",
+     "page": 16,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and disciplined regarding transformation execution and growth momentum."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=73a1ce37-8a16-4011-b2d6-cc4f3165de5f.pdf",
+   "pages": 21,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "achieve full-year FY27 EBIT margin target of 15%",
+     "horizon": "FY27",
+     "low": 15,
+     "high": 15,
+     "unit": "%",
+     "quote": "We reiterate that we remain on track to achieve our full-year FY27 EBIT margin target of 15%.",
+     "page": 12,
+     "speaker": "Rohit Anand",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "other",
+     "promise": "maintain 90% to 100% free cash flow to PAT on a full-year basis",
+     "horizon": "FY27",
+     "low": 90,
+     "high": 100,
+     "unit": "%",
+     "quote": "We reiterate our stance to maintain 90% to 100% free cash flow to PAT on a full-year basis.",
+     "page": 11,
+     "speaker": "Rohit Anand",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "other",
+     "promise": "introduce AI revenue reporting as part of H2 FY27 disclosures",
+     "horizon": "H2 FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We expect to introduce AI revenue reporting as part of our H2 FY27 disclosures and continue it on an ongoing basis",
+     "page": 10,
+     "speaker": "Atul Soneja",
+     "verified": true,
+     "id": "g4.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered Q2 revenue of US$1.693 billion, up 6.8% YoY reported and 7.2% CC.",
+     "quote": "Revenues were US$1.693 billion, representing 6.8% year-on-year growth on a reported basis and 7.2% growth in constant currency.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Operating margins for the quarter stood at 14.8%.",
+     "quote": "Operating margins for the quarter stood at 14.8%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Total deal wins for the quarter were US$1.023 billion.",
+     "quote": "Coming to deal wins, our total deal wins for the quarter were US$1.023 billion.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Generated US$135 million of free cash flow during the quarter.",
+     "quote": "We generated US$135 million of free cash flow during the quarter.",
+     "page": 11,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Gross margin peak and headcount impact",
+     "quote": "So, is it that your gross margin expansion potential is near to the peak where it could potentially have led to, or you still see there is more expansion potential on the gross margin side?",
+     "page": 13,
+     "verified": true
+    },
+    {
+     "topic": "AI deflation impact and ARR trajectory",
+     "quote": "Do you think that the peak of the deflation impact on services business is already behind if we were to take this ARR trajectory as some proxy for AI deflation? What are you incrementally seeing in your client conversations?",
+     "page": 14,
+     "verified": true
+    },
+    {
+     "topic": "Margin versus growth trade-off",
+     "quote": "Now going forward, does it make sense to leverage AI to, like you said, drive more efficiencies around gross margins, or is there a possibility of... kind of sacrificing a bit of that extra margin gains to maybe move towards near double-digit growth?",
+     "page": 15,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, upbeat, and focused on growth, AI transformation, and sustained margin discipline."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company provides information technology and business process outsourcing services.",
+  "segments": [
+   {
+    "name": "IT Services",
+    "revenue": 477670,
+    "unit": "million",
+    "what": "IT services to customers",
+    "page": 654,
+    "share_pct": 84
+   },
+   {
+    "name": "BPS",
+    "revenue": 90484,
+    "unit": "million",
+    "what": "Business process services to customers",
+    "page": 654,
+    "share_pct": 16
+   }
+  ],
+  "mix_note": "No single customer represents 10% or more of total revenue.",
+  "risks_mgmt_flags": [
+   "Macroeconomic environment marked by geopolitical uncertainties and shifting client priorities"
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/758bed2c-792d-434f-a326-118a8b4e7989.pdf",
+  "pages_read": [
+   280,
+   349,
+   452,
+   492,
+   528,
+   532,
+   599,
+   604,
+   651,
+   682,
+   683,
+   684
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g2.3",
+    "promise": "Get Return on Capital Employed to 30% for next year.",
+    "made_in": "Q4 FY26",
+    "delivered": "ROCE stands at 23.1% in the reported data, missing the 30% target.",
+    "verdict": "missed",
+    "checked_against": "ROCE 23.1%",
+    "quote": "And then looking at Return on Capital Employed, we are close to 26% and our commitment to all of you is get to 30% for next year.",
+    "page": 20,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1da5d491-416d-4037-be83-e0cdf7b1f438.pdf"
+   },
+   {
+    "ref": "g4.2",
+    "promise": "Maintain 90% to 100% free cash flow to PAT on a full-year basis.",
+    "made_in": "Q2 FY27",
+    "delivered": "5y cash conversion is 133%; Mar 2026 FCF/PAT was 1.28 (5626/4806), currently above 100%.",
+    "verdict": "partly",
+    "checked_against": "Mar 2026 Free cash flow 5626.0 and PAT 4806.0",
+    "quote": "We reiterate our stance to maintain 90% to 100% free cash flow to PAT on a full-year basis.",
+    "page": 11,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=73a1ce37-8a16-4011-b2d6-cc4f3165de5f.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Achieve full-year FY27 EBIT margin target of 15%.",
+    "made_in": "Q2 FY27",
+    "delivered": "Sep 2026 EBIT% reached 14.8%, progressing towards the 15% target for FY27.",
+    "verdict": "too_early",
+    "checked_against": "Sep 2026 EBIT% 14.8%",
+    "quote": "We reiterate that we remain on track to achieve our full-year FY27 EBIT margin target of 15%.",
+    "page": 12,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=73a1ce37-8a16-4011-b2d6-cc4f3165de5f.pdf"
+   },
+   {
+    "ref": "g4.3",
+    "promise": "Introduce AI revenue reporting as part of H2 FY27 disclosures.",
+    "made_in": "Q2 FY27",
+    "delivered": "Scheduled for H2 FY27 disclosures; reported figures do not include AI revenue breakdowns.",
+    "verdict": "too_early",
+    "checked_against": "Reported numbers block",
+    "quote": "We expect to introduce AI revenue reporting as part of our H2 FY27 disclosures and continue it on an ongoing basis",
+    "page": 10,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=73a1ce37-8a16-4011-b2d6-cc4f3165de5f.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 7,
+   "line": "Consistent margin expansion reported from 10.2% in Dec 2024 to 14.8% in Sep 2026."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Operating margin expansion claimed across quarters is confirmed by reported EBIT% rising from 10.2% to 14.8%."
+   },
+   {
+    "agree": true,
+    "point": "Revenue growth claims match reported figures, showing YoY revenue increase from 13286.0 to 16180.0 crore."
+   },
+   {
+    "agree": false,
+    "point": "ROCE commitment of 30% was missed, with reported ROCE sitting at 23.1%."
+   }
+  ],
+  "bull": [
+   "EBIT margin improved steadily over eight quarters from 10.2% (Dec 2024) to 14.8% (Sep 2026).",
+   "Revenue grew consistently every quarter, reaching 16180.0 crore by Sep 2026.",
+   "Practically debt-free with a debt-to-equity ratio of 0.07 as of Sep 2026."
+  ],
+  "bear": [
+   "ROCE of 23.1% falls short of management's 30% target commitment.",
+   "PAT volatility remains, with Sep 2025 PAT dropping 4.5% YoY despite revenue growth.",
+   "Borrowings remain at 2184.0 crore as of Sep 2026 with low leverage."
+  ],
+  "watch": [
+   "Whether EBIT% hits the 15% target in FY27.",
+   "Introduction of AI revenue reporting in H2 FY27 disclosures.",
+   "Free cash flow to PAT ratio trajectory."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14570,
+   "out": 761,
+   "secs": 4.4,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 25788,
+   "out": 1077,
+   "secs": 4.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 15253,
+   "out": 801,
+   "secs": 9.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 15414,
+   "out": 917,
+   "secs": 7.4,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 9499,
+   "out": 189,
+   "secs": 3.7,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 3513,
+   "out": 946,
+   "secs": 4.1,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 84037,
+  "tokens_out": 4691,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 40.3
+ }
+}

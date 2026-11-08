@@ -1,0 +1,961 @@
+{
+ "symbol": "CIPLA",
+ "name": "Cipla Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:19:12",
+ "latest_call": "Oct 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 113732.0,
+   "pe": 36.6,
+   "roce": 15.5,
+   "roe": 11.6,
+   "ttm_revenue": 28139.0,
+   "ttm_pat": 2854.0,
+   "margin_latest_q": 19.0,
+   "de": 0.02,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 7073.0,
+    "rev_yoy": 7.1,
+    "op_profit": 1989.0,
+    "margin": 28.0,
+    "ebit_margin": 24.2,
+    "pat": 1575.0,
+    "pat_yoy": 47.5
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 6730.0,
+    "rev_yoy": 9.2,
+    "op_profit": 1538.0,
+    "margin": 23.0,
+    "ebit_margin": 18.3,
+    "pat": 1214.0,
+    "pat_yoy": 30.3
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 6957.0,
+    "rev_yoy": 3.9,
+    "op_profit": 1778.0,
+    "margin": 26.0,
+    "ebit_margin": 21.9,
+    "pat": 1292.0,
+    "pat_yoy": 10.0
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 7589.0,
+    "rev_yoy": 7.6,
+    "op_profit": 1895.0,
+    "margin": 25.0,
+    "ebit_margin": 21.1,
+    "pat": 1353.0,
+    "pat_yoy": 3.7
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 7074.0,
+    "rev_yoy": 0.0,
+    "op_profit": 1255.0,
+    "margin": 18.0,
+    "ebit_margin": 13.8,
+    "pat": 674.0,
+    "pat_yoy": -57.2
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 6541.0,
+    "rev_yoy": -2.8,
+    "op_profit": 955.0,
+    "margin": 15.0,
+    "ebit_margin": 8.7,
+    "pat": 543.0,
+    "pat_yoy": -55.3
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 7119.0,
+    "rev_yoy": 2.3,
+    "op_profit": 1192.0,
+    "margin": 17.0,
+    "ebit_margin": 12.5,
+    "pat": 786.0,
+    "pat_yoy": -39.2
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 7404.0,
+    "rev_yoy": -2.4,
+    "op_profit": 1388.0,
+    "margin": 19.0,
+    "ebit_margin": 14.1,
+    "pat": 852.0,
+    "pat_yoy": -37.0
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 17132.0,
+    "op_profit": 3206.0,
+    "margin": 19.0,
+    "pat": 1500.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 19160.0,
+    "op_profit": 4252.0,
+    "margin": 22.0,
+    "pat": 2389.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 21763.0,
+    "op_profit": 4553.0,
+    "margin": 21.0,
+    "pat": 2547.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 22753.0,
+    "op_profit": 5027.0,
+    "margin": 22.0,
+    "pat": 2833.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 25774.0,
+    "op_profit": 6291.0,
+    "margin": 24.0,
+    "pat": 4154.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 27548.0,
+    "op_profit": 7128.0,
+    "margin": 26.0,
+    "pat": 5269.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 28163.0,
+    "op_profit": 5883.0,
+    "margin": 21.0,
+    "pat": 3862.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 7.4,
+   "rev_cagr_5y": 8.0,
+   "pat_cagr_3y": 10.9,
+   "pat_cagr_5y": 10.1,
+   "margin_change_3y_bps": -100
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 1056.0,
+    "equity": 20841.0,
+    "de": 0.05
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 803.0,
+    "equity": 23407.0,
+    "de": 0.03
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 559.0,
+    "equity": 26706.0,
+    "de": 0.02
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 438.0,
+    "equity": 31194.0,
+    "de": 0.01
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 614.0,
+    "equity": 34432.0,
+    "de": 0.02
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 699.0,
+    "equity": 35396.0,
+    "de": 0.02
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     66.0
+    ],
+    [
+     "Mar 2022",
+     57.0
+    ],
+    [
+     "Mar 2023",
+     65.0
+    ],
+    [
+     "Mar 2024",
+     68.0
+    ],
+    [
+     "Mar 2025",
+     73.0
+    ],
+    [
+     "Mar 2026",
+     73.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     232.0
+    ],
+    [
+     "Mar 2022",
+     230.0
+    ],
+    [
+     "Mar 2023",
+     228.0
+    ],
+    [
+     "Mar 2024",
+     217.0
+    ],
+    [
+     "Mar 2025",
+     231.0
+    ],
+    [
+     "Mar 2026",
+     252.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     103.0
+    ],
+    [
+     "Mar 2022",
+     108.0
+    ],
+    [
+     "Mar 2023",
+     112.0
+    ],
+    [
+     "Mar 2024",
+     102.0
+    ],
+    [
+     "Mar 2025",
+     116.0
+    ],
+    [
+     "Mar 2026",
+     123.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     195.0
+    ],
+    [
+     "Mar 2022",
+     180.0
+    ],
+    [
+     "Mar 2023",
+     181.0
+    ],
+    [
+     "Mar 2024",
+     182.0
+    ],
+    [
+     "Mar 2025",
+     188.0
+    ],
+    [
+     "Mar 2026",
+     202.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     94.0
+    ],
+    [
+     "Mar 2022",
+     95.0
+    ],
+    [
+     "Mar 2023",
+     113.0
+    ],
+    [
+     "Mar 2024",
+     120.0
+    ],
+    [
+     "Mar 2025",
+     128.0
+    ],
+    [
+     "Mar 2026",
+     106.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 3755.0,
+    "pat": 2389.0,
+    "fcf": 2964.0,
+    "conv": 1.57
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 3326.0,
+    "pat": 2547.0,
+    "fcf": 2645.0,
+    "conv": 1.31
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 3238.0,
+    "pat": 2833.0,
+    "fcf": 2102.0,
+    "conv": 1.14
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 4134.0,
+    "pat": 4154.0,
+    "fcf": 2819.0,
+    "conv": 1.0
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 5005.0,
+    "pat": 5269.0,
+    "fcf": 3490.0,
+    "conv": 0.95
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 3940.0,
+    "pat": 3862.0,
+    "fcf": 928.0,
+    "conv": 1.02
+   }
+  ],
+  "cash_conv_5y": 1.05,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 105% of profit"
+   },
+   {
+    "tone": "good",
+    "text": "Practically debt-free (D/E 0.02)"
+   },
+   {
+    "tone": "bad",
+    "text": "Cash cycle stretched by 20 days in 2 years (182 → 202)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a642d4a-4e66-484a-a5cd-91e807f955d3.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a036a014-e0e9-4194-9a9e-9d44134da589.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b3ecbdbf-929d-4e28-9598-94a0069417b4.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a642d4a-4e66-484a-a5cd-91e807f955d3.pdf",
+   "pages": 20,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "FY26 EBITDA margin guidance to land at around 21%",
+     "horizon": "FY26",
+     "low": 21,
+     "high": 21,
+     "unit": "%",
+     "quote": "Now, these are deliberate strategic choices and will lead to FY’26 EBITDA margin guidance to land at around 21%.",
+     "page": 6,
+     "speaker": "Ashish Adukia",
+     "verified": true,
+     "id": "g1.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered revenues over Rs. 7,000 crores this quarter",
+     "quote": "Our diversified portfolio enabled us to deliver revenues of over Rs. 7,000 crores this quarter",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "One-India business delivered a strong quarter with 10% year-on-year growth",
+     "quote": "Our One-India business delivered a strong quarter with 10% year-on-year growth",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Reported a quarterly revenue of Rs 7,074 crores, flat YOY",
+     "quote": "We reported a quarterly revenue of Rs 7,074 crores, which is flat YOY.",
+     "page": 6,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Lanreotide supply disruption impact",
+     "quote": "And so, extending this, given that there is now disruption, so effectively the US sales will then get further lower, at least with respect to Lanreotide reduction in the upcoming quarters. Is that a fair assessment?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "US revenue guidance and outlook",
+     "quote": "My first question is pertaining to your earlier guidance on US revenues where we saw US revenues touching around close to $1 billion by FY'27. So, post-Lanreotide, are we revising that guidance?",
+     "page": 13,
+     "verified": true
+    },
+    {
+     "topic": "Gross margin and R&D impacts",
+     "quote": "Tushar, Revlimid has a significant impact sitting out there in the gross margin that you see. I think apart from that, in case of R&D, this quarter was a quarter where we purchased certain R&Ds and APIs as well for our R&D expenditure.",
+     "page": 7,
+     "verified": true
+    }
+   ],
+   "tone": "Pragmatic and transparent regarding near-term headwinds while emphasizing strategic pipeline drivers for future growth."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "FY27 EBITDA margins to be in the range of 18.5% to 20%",
+     "horizon": "FY27",
+     "low": 18.5,
+     "high": 20,
+     "unit": "%",
+     "quote": "We expect the EBITDA margins to be in the range of 18.5% to 20% and this would be actually achieved with a sequential improvement quarter-on-quarter",
+     "page": 7,
+     "speaker": "Ashish Adukia",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Reach $1 billion run rate for North America towards the end of FY27",
+     "horizon": "FY27",
+     "low": 1,
+     "high": 1,
+     "unit": null,
+     "quote": "our aim is to cross $1 billion mark as a run rate towards the end of this financial year, i.e., FY '27.",
+     "page": 7,
+     "speaker": "Ashish Adukia",
+     "verified": true,
+     "id": "g2.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "One India business grew at 15% year-on-year driven by strong double-digit growth.",
+     "quote": "Our One India business delivered a robust performance this quarter, growing at 15% year-on-year, driven by strong double-digit growth across Branded Prescription, Trade Generics as well as Consumer Health.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "North America reported quarterly revenue of USD 155 million and annual revenue of $780 million.",
+     "quote": "Coming to North America, the business reported quarterly revenue of USD 155 million and an annual revenue of $780 million, supported by demand in our differentiated portfolio and a steady base business.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "One Africa business grew at 14% year-on-year in the quarter.",
+     "quote": "Our One Africa business grew at an impressive 14% year-on-year growth rate during the quarter with a full year growth of 7% Y-o-Y in USD terms",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Quarterly revenue reported at INR6,541 crores and annual revenue at INR28,163 crores.",
+     "quote": "So we reported a quarterly revenue of INR6,541 crores. And as a result of that, we ended the year with INR 28,163 crores.",
+     "page": 6,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "U.S. revenue guidance and $1 billion exit run rate",
+     "quote": "So if we kind of deduct these two product revenue from the $780 million annualized revenue of FY '26 for U.S. So the number what you're talking about is almost like double the size of base U.S. business of FY '26. So what is the kind of a bridge that you are talking about where from this revenue buildup that will happen? Can you give some clarity, sir?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Conservatism of EBITDA margin guidance",
+     "quote": "Given the outlook you provided for the U.S. business, $1 billion plus run rate and India double-digit growth in FY '27, this 18.5% to 20% appear a bit conservative. So just trying to understand, have you baked in significant impact of, let's say, input cost increase or impact of geopolitical situation, etcetera or anything that is holding you back from giving a better guidance?",
+     "page": 18,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and disciplined, emphasizing strategic execution, new product pipelines, and future margin expansion."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a036a014-e0e9-4194-9a9e-9d44134da589.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Maintain FY27 EBITDA margins of 18.5% to 20%",
+     "horizon": "FY27",
+     "low": 18.5,
+     "high": 20.0,
+     "unit": "%",
+     "quote": "Yes. So, broadly unchanged, Damayanti.",
+     "page": 8,
+     "speaker": "Ashish Adukia",
+     "verified": true,
+     "id": "g3.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered highest ever Q1 revenue of INR7,100 crores",
+     "quote": "I'm delighted to share that we have delivered the highest ever Q1 revenue with revenues of INR7,100 crores in this Q1.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "One India business achieved highest ever quarterly revenue with 12% YoY growth",
+     "quote": "Our One India business achieved its highest ever quarterly revenue with 12% Y-o-Y growth",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "South Africa revenue decline and tender impact",
+     "quote": "So, in constant currency, it seems your private market, as well as tender has declined on a year-on-year basis.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "U.S. $1 billion exit run-rate feasibility",
+     "quote": "The current products, which you have mentioned, are you confident they can annualize to $360 million, which is much more than you made even in Revlimid?",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Lower EBITDA margin levels compared to historical profile",
+     "quote": "Given that company has a strong India business, 50% of the business come from India, the margin doesn't look great, right?",
+     "page": 17,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and optimistic regarding upcoming launches, strategic chronic growth, and long-term targets."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b3ecbdbf-929d-4e28-9598-94a0069417b4.pdf",
+   "pages": 16,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Full year EBITDA margin guidance of 18.5% to 20%",
+     "horizon": "full year FY27",
+     "low": 18.5,
+     "high": 20.0,
+     "unit": "%",
+     "quote": "we are maintaining the same guidance at this point in time... EBITDA guidance for the full year will be 18.5% to 20%",
+     "page": 6,
+     "speaker": "Achin Gupta",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Exit FY27 with $1 billion annualized revenue run rate in North America",
+     "horizon": "exit FY27",
+     "low": 1.0,
+     "high": 1.0,
+     "unit": "x",
+     "quote": "We continue to maintain the guidance to exit this fiscal year with $1 billion annualized revenue run rate.",
+     "page": 6,
+     "speaker": "Dinesh Jain",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "capex",
+     "promise": "Full year R&D expense in the range of 6% to 7% of revenue",
+     "horizon": "full year FY27",
+     "low": 6.0,
+     "high": 7.0,
+     "unit": "%",
+     "quote": "We continue to guide for the full year R&D expense in the range of 6% to 7% of the revenue.",
+     "page": 5,
+     "speaker": "Dinesh Jain",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "capex",
+     "promise": "Approximately 45 to 50 organic R&D filings planned over the next 3 years",
+     "horizon": "next 3 years",
+     "low": 45,
+     "high": 50,
+     "unit": null,
+     "quote": "We are progressing well on the organic pipeline development with approximately 45 to 50 filings planned over the next 3 years.",
+     "page": 5,
+     "speaker": "Achin Gupta",
+     "verified": true,
+     "id": "g4.4"
+    },
+    {
+     "metric": "margin",
+     "promise": "Effective tax rate for the full year in the range of 27% to 27.5%",
+     "horizon": "full year FY27",
+     "low": 27.0,
+     "high": 27.5,
+     "unit": "%",
+     "quote": "It will be in the range of 27% to 27.5%, Neha.",
+     "page": 11,
+     "speaker": "Dinesh Jain",
+     "verified": true,
+     "id": "g4.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Reported Q2 FY27 revenue of INR7,404 crores with a steady sequential growth of 4%",
+     "quote": "We are pleased to report a revenue of INR7,404 crores with a steady sequential growth of 4% Q-o-Q.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "One India recorded highest ever quarterly revenue with 12% Y-o-Y growth",
+     "quote": "One India recorded highest ever quarterly revenue, while our global portfolio continued to demonstrate resilience... One India delivered 12% Y-o-Y growth",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "EBITDA margin excluding other income stood at 18.7% with 200 bps sequential improvement",
+     "quote": "The EBITDA margin, excluding the other income, stood at 18.7% for the quarter, reflecting a sequential improvement of 200 basis points.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "North America delivered quarterly revenue of $172 million in Q2",
+     "quote": "Coming to North America, we delivered a quarterly revenue of $172 million in Q2, which represents a $10 million improvement versus previous quarter.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "U.S. revenue gap and $1B exit run rate feasibility",
+     "quote": "If you can give some sense, some color what is bridging this gap from the current 170-odd levels to 250 kind of levels? That would be helpful, sir?",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Ventolin ramp-up delay factors",
+     "quote": "So what is leading to ramp-up being delayed to H2 for us are these like contracts that we are waiting for in terms of renewals or is it the supplies from our side, which is ramping up?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "India business consumer segment slowdown and core therapy growth",
+     "quote": "So if I look at your consumer business in Q2 as well as in first half, there seems to be a slowdown. So can you help us understand, is it mainly because of the higher base of last year or is there anything to read out there?",
+     "page": 12,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and transparent regarding operational execution and guidance commitments."
+  }
+ ],
+ "business": {
+  "what_it_does": "Manufactures and sells pharmaceutical products, complex generics, and healthcare items globally.",
+  "segments": [
+   {
+    "name": "India",
+    "revenue": 12680.26,
+    "unit": "crore",
+    "what": "Pharmaceutical and related products sold to customers in India",
+    "page": 433,
+    "share_pct": 45
+   },
+   {
+    "name": "United States of America",
+    "revenue": 6871.5,
+    "unit": "crore",
+    "what": "Pharmaceutical and related products sold to customers in USA",
+    "page": 433,
+    "share_pct": 24
+   },
+   {
+    "name": "One Africa",
+    "revenue": 4285.45,
+    "unit": "crore",
+    "what": "Pharmaceutical and related products sold to customers in One Africa",
+    "page": 433,
+    "share_pct": 15
+   },
+   {
+    "name": "Rest of the World",
+    "revenue": 4325.38,
+    "unit": "crore",
+    "what": "Pharmaceutical and related products sold to customers in Rest of the World",
+    "page": 433,
+    "share_pct": 15
+   }
+  ],
+  "mix_note": "North America contributed 24% of the company's consolidated revenue during the year.",
+  "risks_mgmt_flags": [
+   "Pricing erosion across global markets due to government mandated controls and competition.",
+   "Project delays and cost overruns during execution of manufacturing capacity expansion projects.",
+   "Fluctuations in demand influenced by changes in HCP prescribing behaviour and patient preferences."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf",
+  "pages_read": [
+   67,
+   153,
+   156,
+   157,
+   253,
+   278,
+   312,
+   325,
+   343,
+   368,
+   420,
+   433
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "FY26 EBITDA margin around 21%",
+    "made_in": "Q3 FY26",
+    "delivered": "FY26 EBITDA margin reported at 21.0%, meeting guidance",
+    "verdict": "delivered",
+    "checked_against": "FY26 EBITDA%",
+    "quote": "Now, these are deliberate strategic choices and will lead to FY’26 EBITDA margin guidance to land at around 21%.",
+    "page": 6,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a642d4a-4e66-484a-a5cd-91e807f955d3.pdf"
+   },
+   {
+    "ref": "g2.1",
+    "promise": "FY27 EBITDA margin 18.5%‑20%",
+    "made_in": "Q4 FY26",
+    "delivered": "Q2 FY27 EBITDA margin 19.0%, within range",
+    "verdict": "delivered",
+    "checked_against": "Q2 FY27 EBITDA%",
+    "quote": "We expect the EBITDA margins to be in the range of 18.5% to 20% and this would be actually achieved with a sequential improvement quarter-on-quarter",
+    "page": 7,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf"
+   },
+   {
+    "ref": "g2.2",
+    "promise": "$1 billion NA run‑rate by FY27 end",
+    "made_in": "Q4 FY26",
+    "delivered": "Q2 FY27 NA revenue $172 m → annualized $688 m, below $1 bn",
+    "verdict": "missed",
+    "checked_against": "Q2 FY27 NA revenue",
+    "quote": "our aim is to cross $1 billion mark as a run rate towards the end of this financial year, i.e., FY '27.",
+    "page": 7,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85f5f17a-ce72-45a5-9acb-43f1f8c77b27.pdf"
+   },
+   {
+    "ref": "g4.3",
+    "promise": "R&D expense 6%‑7% of revenue FY27",
+    "made_in": "Q2 FY27",
+    "delivered": "R&D spend not disclosed in reported numbers",
+    "verdict": "too_early",
+    "checked_against": "R&D expense data",
+    "quote": "We continue to guide for the full year R&D expense in the range of 6% to 7% of the revenue.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b3ecbdbf-929d-4e28-9598-94a0069417b4.pdf"
+   },
+   {
+    "ref": "g4.5",
+    "promise": "Effective tax 27%‑27.5% FY27",
+    "made_in": "Q2 FY27",
+    "delivered": "Tax rate not disclosed in reported numbers",
+    "verdict": "too_early",
+    "checked_against": "Effective tax rate data",
+    "quote": "It will be in the range of 27% to 27.5%, Neha.",
+    "page": 11,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b3ecbdbf-929d-4e28-9598-94a0069417b4.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 6,
+   "line": "Management hits headline EBITDA targets but falls short on NA revenue run‑rate."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "EBITDA margin narrative aligns with FY26 actual 21%."
+   },
+   {
+    "agree": false,
+    "point": "North America $1 bn run‑rate claim not supported by Q2 FY27 data."
+   },
+   {
+    "agree": false,
+    "point": "R&D expense guidance cannot be validated from disclosed figures."
+   }
+  ],
+  "bull": [
+   "FY26 EBITDA margin hit 21% confirming margin guidance.",
+   "Q2 FY27 EBITDA margin 19% stays within FY27 target range.",
+   "Operating cash flow remains strong, OCF/PAT >1."
+  ],
+  "bear": [
+   "North America revenue annualized $688 m, far from $1 bn goal.",
+   "Quarterly revenue fell YoY in Mar‑2026, indicating slowdown.",
+   "PAT declined sharply YoY in recent quarters, signaling profit pressure."
+  ],
+  "watch": [
+   "NA revenue trend to see if run‑rate improves.",
+   "R&D spend as % of revenue in FY27.",
+   "Effective tax rate disclosure."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14420,
+   "out": 609,
+   "secs": 3.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14283,
+   "out": 917,
+   "secs": 4.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13951,
+   "out": 503,
+   "secs": 3.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12424,
+   "out": 1238,
+   "secs": 9.4,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11223,
+   "out": 382,
+   "secs": 2.7,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 2964,
+   "out": 980,
+   "secs": 3.2,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 69265,
+  "tokens_out": 4629,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 35.9
+ }
+}

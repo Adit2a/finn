@@ -1,0 +1,925 @@
+{
+ "symbol": "JUBLFOOD",
+ "name": "Jubilant Foodworks Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T20:21:59",
+ "latest_call": "Aug 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 29642.0,
+   "pe": 76.8,
+   "roce": 14.8,
+   "roe": 21.0,
+   "ttm_revenue": 10106.0,
+   "ttm_pat": 367.0,
+   "margin_latest_q": 20.0,
+   "de": 1.95,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 2151.0,
+    "rev_yoy": 56.1,
+    "op_profit": 402.0,
+    "margin": 19.0,
+    "ebit_margin": 9.0,
+    "pat": 43.0,
+    "pat_yoy": -34.8
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 2095.0,
+    "rev_yoy": 33.1,
+    "op_profit": 392.0,
+    "margin": 19.0,
+    "ebit_margin": 8.7,
+    "pat": 49.0,
+    "pat_yoy": -76.4
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 2261.0,
+    "rev_yoy": 17.0,
+    "op_profit": 438.0,
+    "margin": 19.0,
+    "ebit_margin": 9.6,
+    "pat": 94.0,
+    "pat_yoy": 62.1
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 2340.0,
+    "rev_yoy": 19.7,
+    "op_profit": 476.0,
+    "margin": 20.0,
+    "ebit_margin": 10.5,
+    "pat": 195.0,
+    "pat_yoy": 191.0
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 2429.0,
+    "rev_yoy": 12.9,
+    "op_profit": 484.0,
+    "margin": 20.0,
+    "ebit_margin": 9.8,
+    "pat": 73.0,
+    "pat_yoy": 69.8
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 2499.0,
+    "rev_yoy": 19.3,
+    "op_profit": 485.0,
+    "margin": 19.0,
+    "ebit_margin": 8.6,
+    "pat": 82.0,
+    "pat_yoy": 67.3
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 2570.0,
+    "rev_yoy": 13.7,
+    "op_profit": 504.0,
+    "margin": 20.0,
+    "ebit_margin": 9.7,
+    "pat": 100.0,
+    "pat_yoy": 6.4
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 2608.0,
+    "rev_yoy": 11.5,
+    "op_profit": 513.0,
+    "margin": 20.0,
+    "ebit_margin": 9.7,
+    "pat": 112.0,
+    "pat_yoy": -42.6
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 3927.0,
+    "op_profit": 883.0,
+    "margin": 22.0,
+    "pat": 279.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 3312.0,
+    "op_profit": 780.0,
+    "margin": 24.0,
+    "pat": 231.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 4396.0,
+    "op_profit": 1106.0,
+    "margin": 25.0,
+    "pat": 418.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 5158.0,
+    "op_profit": 1136.0,
+    "margin": 22.0,
+    "pat": 353.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 5655.0,
+    "op_profit": 1159.0,
+    "margin": 20.0,
+    "pat": 400.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 8104.0,
+    "op_profit": 1594.0,
+    "margin": 20.0,
+    "pat": 217.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 9513.0,
+    "op_profit": 1902.0,
+    "margin": 20.0,
+    "pat": 444.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 22.6,
+   "rev_cagr_5y": 23.5,
+   "pat_cagr_3y": 7.9,
+   "pat_cagr_5y": 14.0,
+   "margin_change_3y_bps": -200
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 2106.0,
+    "equity": 1945.0,
+    "de": 1.08
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 2554.0,
+    "equity": 2038.0,
+    "de": 1.25
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 4207.0,
+    "equity": 2171.0,
+    "de": 1.94
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 4372.0,
+    "equity": 2103.0,
+    "de": 2.08
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 4902.0,
+    "equity": 2292.0,
+    "de": 2.14
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 4850.0,
+    "equity": 2488.0,
+    "de": 1.95
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     2.0
+    ],
+    [
+     "Mar 2022",
+     2.0
+    ],
+    [
+     "Mar 2023",
+     2.0
+    ],
+    [
+     "Mar 2024",
+     17.0
+    ],
+    [
+     "Mar 2025",
+     15.0
+    ],
+    [
+     "Mar 2026",
+     14.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     67.0
+    ],
+    [
+     "Mar 2022",
+     59.0
+    ],
+    [
+     "Mar 2023",
+     52.0
+    ],
+    [
+     "Mar 2024",
+     112.0
+    ],
+    [
+     "Mar 2025",
+     66.0
+    ],
+    [
+     "Mar 2026",
+     42.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     268.0
+    ],
+    [
+     "Mar 2022",
+     198.0
+    ],
+    [
+     "Mar 2023",
+     164.0
+    ],
+    [
+     "Mar 2024",
+     215.0
+    ],
+    [
+     "Mar 2025",
+     146.0
+    ],
+    [
+     "Mar 2026",
+     139.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     -199.0
+    ],
+    [
+     "Mar 2022",
+     -137.0
+    ],
+    [
+     "Mar 2023",
+     -110.0
+    ],
+    [
+     "Mar 2024",
+     -86.0
+    ],
+    [
+     "Mar 2025",
+     -65.0
+    ],
+    [
+     "Mar 2026",
+     -84.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -71.0
+    ],
+    [
+     "Mar 2022",
+     -55.0
+    ],
+    [
+     "Mar 2023",
+     -51.0
+    ],
+    [
+     "Mar 2024",
+     -66.0
+    ],
+    [
+     "Mar 2025",
+     -52.0
+    ],
+    [
+     "Mar 2026",
+     -99.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 751.0,
+    "pat": 231.0,
+    "fcf": 533.0,
+    "conv": 3.25
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 930.0,
+    "pat": 418.0,
+    "fcf": 474.0,
+    "conv": 2.22
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 1026.0,
+    "pat": 353.0,
+    "fcf": 188.0,
+    "conv": 2.91
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 1010.0,
+    "pat": 400.0,
+    "fcf": 162.0,
+    "conv": 2.52
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 1658.0,
+    "pat": 217.0,
+    "fcf": 787.0,
+    "conv": 7.64
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 1894.0,
+    "pat": 444.0,
+    "fcf": 889.0,
+    "conv": 4.27
+   }
+  ],
+  "cash_conv_5y": 3.56,
+  "flags": [
+   {
+    "tone": "bad",
+    "text": "Profit lagging sales over 3y (7.9% vs 22.6%): margins under pressure"
+   },
+   {
+    "tone": "bad",
+    "text": "Operating margin down 200 bps over 3 years"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 356% of profit"
+   },
+   {
+    "tone": "bad",
+    "text": "Leveraged balance sheet (D/E 1.95)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=584ed67d-7ba8-4bbe-82ef-d9961b36085c.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d1f306f5-d6e3-4d1c-a5d6-74defb302b26.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4aedd4df-2e77-498d-bda4-fced35a2ae39.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c2d974a8-0d78-41a0-922c-ba226e1f1632.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2e877d90-c940-4f9a-af8b-c052b2811ce4.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=584ed67d-7ba8-4bbe-82ef-d9961b36085c.pdf",
+   "pages": 21,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Improve margins by a minimum of 200 basis points over a three-year period.",
+     "horizon": "three years",
+     "low": 200,
+     "high": null,
+     "unit": "bps",
+     "quote": "We said a minimum of 200 bps is what, that is the bare minimum we will increase.",
+     "page": 19,
+     "speaker": "Suman Hegde",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "capex",
+     "promise": "Commission the Mumbai commissary by this quarter or early next quarter.",
+     "horizon": "this quarter or early next quarter",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "our last big investment on commissaries, which is the Mumbai one, which will get commissioned by this quarter or early next quarter, we will be done with our large supply chain cycle of investments.",
+     "page": 20,
+     "speaker": "Suman Hegde",
+     "verified": true,
+     "id": "g1.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenue from operations increased by 19.7% year-on-year to Rs. 23.4 billion.",
+     "quote": "our consolidated revenue from operations increased by 19.7% year-on-year to Rs. 23.4 billion.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Domino's India delivered a strong 9.1% like-for-like growth.",
+     "quote": "Domino’s India delivered a strong 9.1% like-for-like growth despite the early onset of Navratri this year versus last year.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Added 93 stores during quarter two across brands and markets.",
+     "quote": "we have added 93 stores during quarter two across brands and markets. And now we operate close to 3,500 stores",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated PAT from continued operations grew 53.7% year-on-year.",
+     "quote": "Consolidated PAT from continued operations grew 53.7% year-on-year, which validates our strategic capital deployment and relentless focus on execution.",
+     "page": 6,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Sustained LFL growth and margin trends against high base",
+     "quote": "As the base gets reset from December quarter, what number of LFL you will be happy about or that you are targeting at this point of time?",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Granular drivers of the 200 bps margin expansion guidance",
+     "quote": "wanted to understand it in a little more granular fashion in terms of what are going to be the drivers to this 200 basis points",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Gross margin progression and raw material inflation impact",
+     "quote": "expectation somewhere was that at least on a GM perspective, the improvement from Q1 to Q2 would be much better off given a lot of these one-offs sort of normalize",
+     "page": 11,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, upbeat, and transparent regarding strategic growth drivers and profitability targets."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d1f306f5-d6e3-4d1c-a5d6-74defb302b26.pdf",
+   "pages": 22,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Grow company EBITDA margin above FY24 by 200 bps",
+     "horizon": "medium term",
+     "low": null,
+     "high": 200,
+     "unit": "bps",
+     "quote": "our guidance has been consistent saying that above FY '24 margins, we want to improve by about 200 bps at an EBITDA level as a company.",
+     "page": 19,
+     "speaker": "Suman Hegde",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Grow Domino's like-for-like at 5% to 7%",
+     "horizon": "going forward",
+     "low": 5,
+     "high": 7,
+     "unit": "%",
+     "quote": "Domino's should grow at 5% to 7% like-for-like growth.",
+     "page": 6,
+     "speaker": "Sameer Khetarpal",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Achieve standalone pre-Ind AS margin closer to 15%",
+     "horizon": "going forward",
+     "low": null,
+     "high": 15,
+     "unit": "%",
+     "quote": "Overall top line should grow for standalone around 15%, and we should get closer to 15% pre- Ind AS margin, right?",
+     "page": 6,
+     "speaker": "Sameer Khetarpal",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Grow standalone overall top line around 15%",
+     "horizon": "going forward",
+     "low": null,
+     "high": 15,
+     "unit": "%",
+     "quote": "Overall top line should grow for standalone around 15%, and we should get closer to 15% pre- Ind AS margin, right?",
+     "page": 6,
+     "speaker": "Sameer Khetarpal",
+     "verified": true,
+     "id": "g2.4"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Monetize advertising on app to at least 1% of revenues",
+     "horizon": "fullness of time",
+     "low": 1,
+     "high": null,
+     "unit": "%",
+     "quote": "at the right time, I'm not saying it short-term, we should get about 1% of our revenues on that channel. We should be able to monetize to that extent.",
+     "page": 15,
+     "speaker": "Sameer Khetarpal",
+     "verified": true,
+     "id": "g2.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenue grew 13.3% year-on-year to Rs. 24.4 billion",
+     "quote": "During the quarter, we reported consolidated revenue of Rs. 24.4 billion, representing a growth of 13.3% year-on-year.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Reported consolidated EBITDA rose 20% year-on-year with margin expanding 110 bps",
+     "quote": "On a consolidated basis, EBITDA grew 20% year-on-year with EBITDA margin expanding by 110 basis points.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Domino's India achieved positive LFL growth for the eighth quarter in a row",
+     "quote": "Domino's India achieved positive LFL growth for the eighth quarter in a row.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Turkey business is servicing acquisition-related debt entirely through internal cash flows",
+     "quote": "We are pleased to share that Turkey is now servicing its acquisition-related debt entirely through internal cash flows.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "LFL sustainability and high base effect",
+     "quote": "Where do you see this number, let's say, through the course of 2026? Because in your opening remarks, you also mentioned about the base, and that is going to stay stiff for the rest of the year this calendar.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Margin expansion despite decelerating LFL",
+     "quote": "Can you just give your views on anything related to the quarter? We can, of course, see the numbers. And how do you think about the outlook, specifically for FY’27?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Dine-in segment performance and rejuvenation strategy",
+     "quote": "Can you just talk about where we are in the dine-in, let's say, rejuvenation journey?",
+     "page": 13,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and disciplined regarding growth, execution, and margin expansion."
+  },
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4aedd4df-2e77-498d-bda4-fced35a2ae39.pdf",
+   "pages": 12,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Open about 230 to 250 restaurants this year",
+     "horizon": "this year",
+     "low": 230,
+     "high": 250,
+     "unit": "units",
+     "quote": "we would open similar to about 230 to 250 kind of restaurants this year.",
+     "page": 4,
+     "speaker": "Sameer Khetarpal",
+     "verified": true,
+     "id": "g3.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Domino's gained share in the category and QSR space",
+     "quote": "Domino's has gained share. It has gained share in the category. It has gained share in the QSR space.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Sequential deceleration in like-for-like performance and subsegments",
+     "quote": "And even if you bifurcated both for dine-in, which is anyway sitting on a low base, so that is not the case. And even delivery that I say, fell from 28% Y-o-Y growth to 10%. So if you could just give more clarity in detail about the sequential deceleration.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "topic": "Short-term margin pressures and lack of quantified guidance",
+     "q-quote": "See, that's what I'm saying, right? You are not able to quantify whether it's for one quarter, two quarter, three quarter. That does not give enough clarity",
+     "quote": "See, that's what I'm saying, right? You are not able to quantify whether it's for one quarter, two quarter, three quarter. That does not give enough clarity and it has nothing to do against you",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "tone": "Optimistic about long-term growth and market share gains despite short-term inflation headwinds."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c2d974a8-0d78-41a0-922c-ba226e1f1632.pdf",
+   "pages": 15,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Maintain FY27 capex in the range of INR750 crores to INR900 crores",
+     "horizon": "FY27",
+     "low": 750,
+     "high": 900,
+     "unit": "cr",
+     "quote": "the guidance has been in the range of INR750 crores to INR900 crores, which has been what we have spent in the previous couple of years as well, and we continue to maintain that number for now.",
+     "page": 5,
+     "speaker": "Suman Hegde",
+     "verified": true,
+     "id": "g4.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered 2.5% LFL growth in Domino's Q1 FY27 on a high base.",
+     "quote": "Q1FY27, also 2.5% is a good LFL on a very high base.",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "claim": "Popeyes LFL growth accelerated to 45% in Q1 FY27.",
+     "quote": "acceleration in LFL growth from 9.2% in 1QFY26 to 45% in 1QFY27.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Delivered 75.5% gross margins in Q1 FY27 despite cost headwinds.",
+     "quote": "You delivered, fairly healthy gross margins, at 75.5%, despite the headwinds that you talked about in the previous quarter.",
+     "page": 10,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Popeyes growth acceleration and normalization",
+     "quote": "What's driving it and when does this normalize and what level do you expect it to normalize at?",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "topic": "Employee cost per store trends",
+     "quote": "your employee cost per store does not seem to have increased in the last year.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "topic": "Dine-in segment recovery and investments",
+     "quote": "Can you just talk about a bit more about what exactly you are doing there? What is the level of intervention and investment that you will do?",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and transparent regarding strategic growth drivers, cost headwinds, and margin targets."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company operates food service retail stores, offering international and home-grown food brands.",
+  "segments": [
+   {
+    "name": "India",
+    "revenue": 68480.6,
+    "unit": "million",
+    "what": "Sells food products and services to customers located within India",
+    "page": 156,
+    "share_pct": 72
+   },
+   {
+    "name": "Outside India",
+    "revenue": 26644.46,
+    "unit": "million",
+    "what": "Sells food products and services to customers located outside India",
+    "page": 156,
+    "share_pct": 28
+   }
+  ],
+  "mix_note": "India segment generated 68,480.60 million and outside India generated 26,644.46 million in revenue.",
+  "risks_mgmt_flags": [
+   "No single external customer amounts to 10% or more of the Group’s revenue."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2e877d90-c940-4f9a-af8b-c052b2811ce4.pdf",
+  "pages_read": [
+   34,
+   36,
+   91,
+   96,
+   112,
+   114,
+   131,
+   134,
+   143,
+   144,
+   150,
+   156
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Improve margins by minimum 200 basis points over three-year period",
+    "made_in": "Q2 FY26",
+    "delivered": "EBITDA margin fell from 22% (Mar 2023) to 20% (Mar 2026), a 200 bps decline",
+    "verdict": "missed",
+    "checked_against": "EBITDA% Mar 2023 vs Mar 2026",
+    "quote": "We said a minimum of 200 bps is what, that is the bare minimum we will increase.",
+    "page": 19,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=584ed67d-7ba8-4bbe-82ef-d9961b36085c.pdf"
+   },
+   {
+    "ref": "g2.4",
+    "promise": "Grow standalone overall top line around 15%",
+    "made_in": "Q3 FY26",
+    "delivered": "Revenue grew 17% YoY FY25→FY26 (9,513 vs 8,104 cr)",
+    "verdict": "delivered",
+    "checked_against": "FY26 revenue YoY",
+    "quote": "Overall top line should grow for standalone around 15%, and we should get closer to 15% pre- Ind AS margin, right?",
+    "page": 6,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d1f306f5-d6e3-4d1c-a5d6-74defb302b26.pdf"
+   },
+   {
+    "ref": "g2.5",
+    "promise": "Monetize advertising on app to at least 1% of revenues",
+    "made_in": "Q3 FY26",
+    "delivered": "Advertising revenue not disclosed; cannot assess",
+    "verdict": "too_early",
+    "checked_against": "no reported figure",
+    "quote": "at the right time, I'm not saying it short-term, we should get about 1% of our revenues on that channel. We should be able to monetize to that extent.",
+    "page": 15,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d1f306f5-d6e3-4d1c-a5d6-74defb302b26.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "Open about 230 to 250 restaurants this year",
+    "made_in": "Q4 FY26",
+    "delivered": "Store count not reported; cannot assess",
+    "verdict": "too_early",
+    "checked_against": "no reported figure",
+    "quote": "we would open similar to about 230 to 250 kind of restaurants this year.",
+    "page": 4,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4aedd4df-2e77-498d-bda4-fced35a2ae39.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 5,
+   "line": "Mixed record: top‑line target met, margin target missed, many promises unverified."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Management said margins would improve, yet EBITDA% dropped 200 bps."
+   },
+   {
+    "agree": true,
+    "point": "Revenue growth of 17% FY26 validates the 15% top‑line promise."
+   },
+   {
+    "agree": false,
+    "point": "No data provided for advertising‑revenue target, so story lacks evidence."
+   }
+  ],
+  "bull": [
+   "Revenue rose 17% YoY FY26, beating the 15% growth promise.",
+   "EBITDA absolute value reached 1,902 cr in FY26, showing profit scale.",
+   "Operating cash flow hit 1,894 cr FY26, indicating strong cash conversion."
+  ],
+  "bear": [
+   "EBITDA margin fell 200 bps, opposite of the 3‑year improvement pledge.",
+   "EBIT margin stayed ~9‑10%, far below the 15% pre‑Ind AS margin goal.",
+   "Leverage remains high with D/E at 1.95 as of Sep 2026."
+  ],
+  "watch": [
+   "Will EBITDA margin rebound to 22% by FY29?",
+   "Advertising revenue contribution to reach 1% of sales.",
+   "Actual restaurant openings versus 230‑250 target for FY27."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14651,
+   "out": 805,
+   "secs": 3.2,
+   "cached": true
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14212,
+   "out": 1166,
+   "secs": 4.0,
+   "cached": true
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 9214,
+   "out": 473,
+   "secs": 2.9,
+   "cached": true
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11406,
+   "out": 581,
+   "secs": 3.5,
+   "cached": true
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12642,
+   "out": 238,
+   "secs": 2.2,
+   "cached": true
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 2950,
+   "out": 2989,
+   "secs": 38.3,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 1,
+  "tokens_in": 65075,
+  "tokens_out": 6252,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 38.9
+ }
+}

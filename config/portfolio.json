@@ -1,0 +1,30 @@
+{
+  "_note": "Mock portfolio: 18 NSE names spread across sectors and sizes. Research demo set is outside the portfolio. Research works on any NSE symbol.",
+  "holdings": [
+    {"symbol": "RELIANCE",   "name": "Reliance Industries",  "sector": "Conglomerate"},
+    {"symbol": "HDFCBANK",   "name": "HDFC Bank",            "sector": "Bank"},
+    {"symbol": "BAJFINANCE", "name": "Bajaj Finance",        "sector": "NBFC"},
+    {"symbol": "TCS",        "name": "TCS",                  "sector": "IT services"},
+    {"symbol": "PERSISTENT", "name": "Persistent Systems",   "sector": "IT services"},
+    {"symbol": "SUNPHARMA",  "name": "Sun Pharma",           "sector": "Pharma"},
+    {"symbol": "DIXON",      "name": "Dixon Technologies",   "sector": "Electronics mfg"},
+    {"symbol": "TITAN",      "name": "Titan",                "sector": "Consumer"},
+    {"symbol": "ASIANPAINT", "name": "Asian Paints",         "sector": "Consumer"},
+    {"symbol": "MARUTI",     "name": "Maruti Suzuki",        "sector": "Auto"},
+    {"symbol": "LT",         "name": "Larsen & Toubro",      "sector": "Infra / EPC"},
+    {"symbol": "ETERNAL",    "name": "Eternal (Zomato)",     "sector": "Internet"},
+    {"symbol": "TRENT",      "name": "Trent",                "sector": "Retail"},
+    {"symbol": "POLYCAB",    "name": "Polycab",              "sector": "Cables"},
+    {"symbol": "HAL",        "name": "Hindustan Aeronautics","sector": "Defence PSU"},
+    {"symbol": "DEEPAKNTR",  "name": "Deepak Nitrite",       "sector": "Chemicals"},
+    {"symbol": "COALINDIA",  "name": "Coal India",           "sector": "Mining PSU"},
+    {"symbol": "TATAPOWER",  "name": "Tata Power",           "sector": "Utilities"}
+  ],
+  "research_demo": ["INFY", "ASTRAL", "JUBLFOOD", "KAYNES"],
+  "default_rules": {
+    "volume_multiple": 2.0,
+    "volume_lookback_days": 20,
+    "price_move_pct": 4.0,
+    "categories": ["results", "M&A", "management_change", "fund_raise", "litigation", "credit_rating", "pledging", "capex"]
+  }
+}

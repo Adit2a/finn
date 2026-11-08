@@ -1,0 +1,836 @@
+{
+ "symbol": "ONGC",
+ "name": "Oil & Natural Gas Corpn Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:37:24",
+ "latest_call": "Aug 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 295079.0,
+   "pe": 5.93,
+   "roce": 14.2,
+   "roe": 11.6,
+   "ttm_revenue": 744475.0,
+   "ttm_pat": 50714.0,
+   "margin_latest_q": 19.0,
+   "de": 0.46,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 167213.0,
+    "rev_yoy": -0.1,
+    "op_profit": 24354.0,
+    "margin": 15.0,
+    "ebit_margin": 8.9,
+    "pat": 9747.0,
+    "pat_yoy": -7.3
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 167749.0,
+    "rev_yoy": -2.5,
+    "op_profit": 21766.0,
+    "margin": 13.0,
+    "ebit_margin": 7.7,
+    "pat": 8965.0,
+    "pat_yoy": -19.2
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 163106.0,
+    "rev_yoy": -3.5,
+    "op_profit": 25770.0,
+    "margin": 16.0,
+    "ebit_margin": 10.0,
+    "pat": 11554.0,
+    "pat_yoy": 18.2
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 157914.0,
+    "rev_yoy": -0.9,
+    "op_profit": 26430.0,
+    "margin": 17.0,
+    "ebit_margin": 10.9,
+    "pat": 12615.0,
+    "pat_yoy": 28.2
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 167423.0,
+    "rev_yoy": 0.1,
+    "op_profit": 25335.0,
+    "margin": 15.0,
+    "ebit_margin": 9.5,
+    "pat": 11946.0,
+    "pat_yoy": 22.6
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 173801.0,
+    "rev_yoy": 3.6,
+    "op_profit": 25352.0,
+    "margin": 15.0,
+    "ebit_margin": 9.2,
+    "pat": 13678.0,
+    "pat_yoy": 52.6
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 204987.0,
+    "rev_yoy": 25.7,
+    "op_profit": 15485.0,
+    "margin": 8.0,
+    "ebit_margin": 2.9,
+    "pat": 6554.0,
+    "pat_yoy": -43.3
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 198263.0,
+    "rev_yoy": 25.6,
+    "op_profit": 37130.0,
+    "margin": 19.0,
+    "ebit_margin": 12.8,
+    "pat": 18535.0,
+    "pat_yoy": 46.9
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 396728.0,
+    "op_profit": 52105.0,
+    "margin": 13.0,
+    "pat": 11456.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 303849.0,
+    "op_profit": 49473.0,
+    "margin": 16.0,
+    "pat": 21360.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 491246.0,
+    "op_profit": 79874.0,
+    "margin": 16.0,
+    "pat": 49294.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 632291.0,
+    "op_profit": 75527.0,
+    "margin": 12.0,
+    "pat": 32778.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 601581.0,
+    "op_profit": 102383.0,
+    "margin": 17.0,
+    "pat": 55273.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 612064.0,
+    "op_profit": 88857.0,
+    "margin": 15.0,
+    "pat": 38329.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 608663.0,
+    "op_profit": 103120.0,
+    "margin": 17.0,
+    "pat": 49793.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": -1.3,
+   "rev_cagr_5y": 14.9,
+   "pat_cagr_3y": 15.0,
+   "pat_cagr_5y": 18.4,
+   "margin_change_3y_bps": 500
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 121986.0,
+    "equity": 259503.0,
+    "de": 0.47
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 142255.0,
+    "equity": 280647.0,
+    "de": 0.51
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 191195.0,
+    "equity": 339069.0,
+    "de": 0.56
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 187817.0,
+    "equity": 343440.0,
+    "de": 0.55
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 174316.0,
+    "equity": 371768.0,
+    "de": 0.47
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 183002.0,
+    "equity": 400573.0,
+    "de": 0.46
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     19.0
+    ],
+    [
+     "Mar 2022",
+     14.0
+    ],
+    [
+     "Mar 2023",
+     11.0
+    ],
+    [
+     "Mar 2024",
+     12.0
+    ],
+    [
+     "Mar 2025",
+     13.0
+    ],
+    [
+     "Mar 2026",
+     13.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     85.0
+    ],
+    [
+     "Mar 2022",
+     90.0
+    ],
+    [
+     "Mar 2023",
+     61.0
+    ],
+    [
+     "Mar 2024",
+     87.0
+    ],
+    [
+     "Mar 2025",
+     99.0
+    ],
+    [
+     "Mar 2026",
+     119.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     51.0
+    ],
+    [
+     "Mar 2022",
+     66.0
+    ],
+    [
+     "Mar 2023",
+     46.0
+    ],
+    [
+     "Mar 2024",
+     61.0
+    ],
+    [
+     "Mar 2025",
+     64.0
+    ],
+    [
+     "Mar 2026",
+     84.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     54.0
+    ],
+    [
+     "Mar 2022",
+     39.0
+    ],
+    [
+     "Mar 2023",
+     27.0
+    ],
+    [
+     "Mar 2024",
+     38.0
+    ],
+    [
+     "Mar 2025",
+     47.0
+    ],
+    [
+     "Mar 2026",
+     48.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -50.0
+    ],
+    [
+     "Mar 2022",
+     -24.0
+    ],
+    [
+     "Mar 2023",
+     -30.0
+    ],
+    [
+     "Mar 2024",
+     -46.0
+    ],
+    [
+     "Mar 2025",
+     -37.0
+    ],
+    [
+     "Mar 2026",
+     -37.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 47185.0,
+    "pat": 21360.0,
+    "fcf": 15147.0,
+    "conv": 2.21
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 78248.0,
+    "pat": 49294.0,
+    "fcf": 45158.0,
+    "conv": 1.59
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 84211.0,
+    "pat": 32778.0,
+    "fcf": 47758.0,
+    "conv": 2.57
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 98847.0,
+    "pat": 55273.0,
+    "fcf": 60965.0,
+    "conv": 1.79
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 90856.0,
+    "pat": 38329.0,
+    "fcf": 50143.0,
+    "conv": 2.37
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 112719.0,
+    "pat": 49793.0,
+    "fcf": 72219.0,
+    "conv": 2.26
+   }
+  ],
+  "cash_conv_5y": 2.06,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (15.0% vs -1.3%): operating leverage"
+   },
+   {
+    "tone": "good",
+    "text": "Operating margin up 500 bps over 3 years"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 206% of profit"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://ongcindia.com/documents/77751/2660534/Transcription181125.pdf/6f9e95e9-c665-e747-03f8-feba399d7aa3"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://ongcindia.com/web/eng/investors/transcription"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://ongcindia.com/documents/77751/2660534/Transcription-Q1-FY2627.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a521f688-6bf3-465c-8f05-b20ed08b2f32.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Nov 2025",
+   "url": "https://ongcindia.com/documents/77751/2660534/Transcription181125.pdf/6f9e95e9-c665-e747-03f8-feba399d7aa3",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "FY27 standalone crude oil production around 21 million metric tons",
+     "horizon": "FY27",
+     "low": 21,
+     "high": 21,
+     "unit": "units",
+     "quote": "our standalone production, for the current year, oil, we expect 19.8 MMT, and for next year, it is 21 MMT.",
+     "page": 6,
+     "speaker": "Prakash Joshi",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "FY27 standalone gas production around 21.5 billion cubic meters",
+     "horizon": "FY27",
+     "low": 21.5,
+     "high": 21.5,
+     "unit": "units",
+     "quote": "As far as gas is concerned, it is 20 BCM for the current year, and it is 21.5 BCM for the next year.",
+     "page": 6,
+     "speaker": "Prakash Joshi",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "capex",
+     "promise": "Standalone E&P CapEx around INR 30,000 to INR 35,000 crores annually",
+     "horizon": "FY26",
+     "low": 30000,
+     "high": 35000,
+     "unit": "cr",
+     "quote": "We have our robust CapEx going on. We are not going to cut down on our exploration, etc.…continue to have around INR 30,000 to INR 35,000 CapEx for the years.",
+     "page": 5,
+     "speaker": "Vivek Tongaonkar",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "debt",
+     "promise": "Reduce OPaL debt interest rate by more than one percentage point",
+     "horizon": "next couple of years",
+     "low": 1,
+     "high": null,
+     "unit": "%",
+     "quote": "we are expecting that we should be able to bring it down more than a percentage point.",
+     "page": 12,
+     "speaker": "Vivek Tongaonkar",
+     "verified": true,
+     "id": "g1.4"
+    },
+    {
+     "metric": "volume",
+     "promise": "Increase MH field oil and gas production by about 60 percent cumulatively over ten years",
+     "horizon": "10 years",
+     "low": 60,
+     "high": 60,
+     "unit": "%",
+     "quote": "under this contract, what has been committed, so to say, by BP is that over a ten-year period, we should increase our oil and gas production from MH field by about 60% on a cumulative basis.",
+     "page": 11,
+     "speaker": "Vivek Tongaonkar",
+     "verified": true,
+     "id": "g1.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated net profit increased by 28.19 percent to INR 12,615 crore in Q2 FY26",
+     "quote": "The company at a consolidated level has earned a higher net profit, that is profit after tax of INR 12,615 crore during the Q2 FY26 as against INR 9,841 crore during Q2 FY25, an increase of INR 2,774 crore (28.19%).",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Standalone crude oil production grew by 1.2 percent over corresponding period of FY25",
+     "quote": "The standalone crude oil production during Q2 FY26 and H1 FY26 were 4.630 million metric tons and 9.314 million metric tons, respectively, registering a growth of 1.2% over the corresponding period of FY25.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "New well gas revenue reached INR 3,352 crore in H1 FY26",
+     "quote": "Gas from new wells continues to be the key contributor with revenue from new well gas reaching INR 3,352 crore in H1 FY26.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Interim dividend approved at 120 percent translating to INR 6 per equity share",
+     "quote": "the ONGC Board has approved an interim dividend of 120%, translating to INR 6 per equity share of INR 5 face value.",
+     "page": 2,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Production guidance and downside risks",
+     "quote": "If I look at the H1 run rate of -- am I audible, sir? I was saying that if I look at the H1 run rate of oil and gas production versus the annual guidance, do you think that there is any downside risk that we face?",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "topic": "OPaL capacity utilization and profitability",
+     "quote": "Just wanted to understand how should we look at the business for the next two quarters. Are we seeing an improvement in realizations? Or, I mean, what has really driven the kind of improvement we've seen in terms of EBITDA?",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "topic": "KG Basin production ramp-up and timeline",
+     "quote": "So, when do we expect to reach the peak production of 45 kbpd? That's one. And also gas, I missed the number that you mentioned in terms of current….in gas. And also, the peak production of 10 MMSCMD when is expected to reach?",
+     "page": 14,
+     "verified": true
+    }
+   ],
+   "tone": "Pragmatic, transparent, and optimistic about recovery measures and cost optimization."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://ongcindia.com/web/eng/investors/transcription",
+   "pages": 11,
+   "scanned": false,
+   "guidance": [],
+   "claims": [],
+   "pushback": [],
+   "tone": "No operational or financial guidance, claims, or pushback were present in the provided transcript text."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://ongcindia.com/documents/77751/2660534/Transcription-Q1-FY2627.pdf",
+   "pages": 23,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "FY27 standalone oil plus gas production expected to reach about 39 MMT",
+     "horizon": "FY27",
+     "low": null,
+     "high": 39,
+     "unit": "units",
+     "quote": "This year, we expect to reach about 39 MMT oil plus gas.",
+     "page": 5,
+     "speaker": "Anupam Agarwal",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "FY28 standalone oil plus gas production expected to reach about 40 MMT",
+     "horizon": "FY28",
+     "low": null,
+     "high": 40,
+     "unit": "units",
+     "quote": "You see, I had told you about 39 MMT for the current year and 40 MMT for the next year, oil and gas taken together.",
+     "page": 6,
+     "speaker": "Anupam Agarwal",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "DUDP gas production expected to reach 2 MMSCMD by December",
+     "horizon": "December",
+     "low": null,
+     "high": 2,
+     "unit": "units",
+     "quote": "By December, we'll be reaching a 2 MMSCMD gas.",
+     "page": 5,
+     "speaker": "Anupam Agarwal",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "capex",
+     "promise": "Full year Capex expected to be maintained in the range of USD 3.5-4 billion",
+     "horizon": "FY27",
+     "low": 3.5,
+     "high": 4,
+     "unit": "units",
+     "quote": "Full year Capex, I already told, it will be USD 3.5- 4 billion range. It depends on how our project progresses. That is the range we will maintain for the full year.",
+     "page": 21,
+     "speaker": "Anupam Agarwal",
+     "verified": true,
+     "id": "g4.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Standalone gross revenue reached INR 46,460 crore, up over 45% YoY",
+     "quote": "The reported standalone gross revenue of INR 46,460 crore, an increase of over 45% over the corresponding quarter of the last year.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Standalone profit after tax stood at INR 17,034 crore, growing over 112% YoY",
+     "quote": "Standalone profit after tax stood at INR 17,034 crore, registering a robust growth of over 112% YoY.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Highest-ever standalone quarterly profit before tax of INR 22,848 crore",
+     "quote": "This quarter also witnessed the highest-ever standalone quarterly profit before tax of INR 22,848 crore.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "New well gas revenue reached nearly INR 4,000 crores",
+     "quote": "During the quarter, revenue from new well gas reached nearly INR 4,000 crores, generating an incremental realization of about INR 1,900 crores over the administered pricing mechanism.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Panna-Mukta Tapti arbitration liability",
+     "quote": "My question with respect to that is that was the communication which was sent by ministry, was that taken as a binding directive, or, I mean, the decision was also evaluated on the basis of independent legal advice, that ONGC is not going to participate in this arbitration.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "KG 98/2 production challenges and trajectory",
+     "quote": "What is the current rate of production there, and how it has declined over the last three months? That would be helpful.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "topic": "OVL profit after tax decline despite higher oil prices",
+     "quote": "Your OVL PAT, excluding impairment, was INR 2,260 crore in Q4. Now, it has come down to INR 1,140 crore despite oil prices going up.",
+     "page": 13,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and pragmatic while addressing operational headwinds and strategic transformations."
+  }
+ ],
+ "business": {
+  "what_it_does": "Explores, produces, refines, and markets crude oil, natural gas, petroleum products, and petrochemicals.",
+  "segments": [
+   {
+    "name": "Offshore",
+    "revenue": 924063.07,
+    "unit": "million",
+    "what": "Crude oil, natural gas and value added products from E&P",
+    "page": 381,
+    "share_pct": 70
+   },
+   {
+    "name": "Onshore",
+    "revenue": 401018.29,
+    "unit": "million",
+    "what": "Crude oil, natural gas and value added products from E&P",
+    "page": 381,
+    "share_pct": 30
+   }
+  ],
+  "mix_note": "Significant revenues are derived from sales to Oil Marketing Companies and International Oil Companies.",
+  "risks_mgmt_flags": [
+   "Significant revenues derived from sales to Oil Marketing Companies and International Oil Companies."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a521f688-6bf3-465c-8f05-b20ed08b2f32.pdf",
+  "pages_read": [
+   326,
+   372,
+   381,
+   389,
+   473,
+   588,
+   589,
+   612,
+   613,
+   614,
+   623,
+   624
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.3",
+    "promise": "Standalone E&P CapEx INR 30,000-35,000 crore annually FY26",
+    "made_in": "Q2 FY26",
+    "delivered": "CapEx not disclosed in reported numbers; cannot confirm",
+    "verdict": "too_early",
+    "checked_against": "FY26 annual financials (no CapEx figure provided)",
+    "quote": "We have our robust CapEx going on. We are not going to cut down on our exploration, etc.…continue to have around INR 30,000 to INR 35,000 CapEx for the years.",
+    "page": 5,
+    "verified": true,
+    "url": "https://ongcindia.com/documents/77751/2660534/Transcription181125.pdf/6f9e95e9-c665-e747-03f8-feba399d7aa3"
+   },
+   {
+    "ref": "g4.4",
+    "promise": "Full year Capex USD 3.5-4 billion FY27",
+    "made_in": "Q1 FY27",
+    "delivered": "CapEx amount not reported in ₹; cannot verify",
+    "verdict": "too_early",
+    "checked_against": "FY27 quarterly data (no CapEx disclosed)",
+    "quote": "Full year Capex, I already told, it will be USD 3.5- 4 billion range. It depends on how our project progresses. That is the range we will maintain for the full year.",
+    "page": 21,
+    "verified": true,
+    "url": "https://ongcindia.com/documents/77751/2660534/Transcription-Q1-FY2627.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "FY27 standalone oil+gas production ~39 MMT",
+    "made_in": "Q1 FY27",
+    "delivered": "Production volumes not in financial tables; cannot assess",
+    "verdict": "too_early",
+    "checked_against": "Q2 FY27 (Sep 2026) data – no volume metric",
+    "quote": "This year, we expect to reach about 39 MMT oil plus gas.",
+    "page": 5,
+    "verified": true,
+    "url": "https://ongcindia.com/documents/77751/2660534/Transcription-Q1-FY2627.pdf"
+   },
+   {
+    "ref": "g1.4",
+    "promise": "Reduce OPaL debt interest >1 percentage point",
+    "made_in": "Q2 FY26",
+    "delivered": "Interest rate not disclosed; cannot evaluate",
+    "verdict": "too_early",
+    "checked_against": "Debt figures (borrowings) only, no rate detail",
+    "quote": "we are expecting that we should be able to bring it down more than a percentage point.",
+    "page": 12,
+    "verified": true,
+    "url": "https://ongcindia.com/documents/77751/2660534/Transcription181125.pdf/6f9e95e9-c665-e747-03f8-feba399d7aa3"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "None of these promises can be checked against reported numbers yet — no score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Mgmt said Q2 FY26 profit rose 28.19% to 12,615 cr; reported PAT 12,615 cr and YoY 28.2%."
+   },
+   {
+    "agree": false,
+    "point": "Mgmt claimed Q1 FY27 PAT 17,034 cr (+112% YoY); reported Q3 FY27 PAT 18,535 cr (+46.9% YoY)."
+   }
+  ],
+  "bull": [
+   "PAT Q3 FY27 18,535 cr, up 46.9% YoY shows strong earnings momentum.",
+   "EBITDA margin rose to 19% in Q3 FY27, indicating operating leverage.",
+   "Operating cash flow 112,719 cr in FY26 exceeds PAT 49,793 cr (OCF/PAT 2.26)."
+  ],
+  "bear": [
+   "PAT fell 43.3% YoY in Q2 FY26 despite revenue rise, signaling volatility.",
+   "EBITDA margin dropped to 8% in Q2 FY26, the lowest in the series.",
+   "Borrowings remain high at 174,316 cr, limiting financial flexibility."
+  ],
+  "watch": [
+   "FY27 oil+gas production vs 39 MMT target",
+   "Capex spend in USD terms vs 3.5‑4 bn range",
+   "OPaL debt interest rate reduction progress"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12531,
+   "out": 1371,
+   "secs": 4.9,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 2699,
+   "out": 44,
+   "secs": 10.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13368,
+   "out": 1076,
+   "secs": 10.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12918,
+   "out": 231,
+   "secs": 9.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 2805,
+   "out": 1246,
+   "secs": 3.3,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 5,
+  "fresh_calls": 5,
+  "tokens_in": 44321,
+  "tokens_out": 3968,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 57.2
+ }
+}

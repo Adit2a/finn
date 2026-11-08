@@ -1,0 +1,1010 @@
+{
+ "symbol": "POWERGRID",
+ "name": "Power Grid Corporation of India Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:38:21",
+ "latest_call": "Aug 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 243446.0,
+   "pe": 15.0,
+   "roce": 9.1,
+   "roe": 15.3,
+   "ttm_revenue": 47374.0,
+   "ttm_pat": 16196.0,
+   "margin_latest_q": 82.0,
+   "de": 1.42,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 11233.0,
+    "rev_yoy": -2.7,
+    "op_profit": 9533.0,
+    "margin": 85.0,
+    "ebit_margin": 56.2,
+    "pat": 3862.0,
+    "pat_yoy": -4.1
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 12275.0,
+    "rev_yoy": 2.5,
+    "op_profit": 10194.0,
+    "margin": 83.0,
+    "ebit_margin": 57.0,
+    "pat": 4143.0,
+    "pat_yoy": -0.6
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 11196.0,
+    "rev_yoy": 1.7,
+    "op_profit": 9102.0,
+    "margin": 81.0,
+    "ebit_margin": 53.3,
+    "pat": 3631.0,
+    "pat_yoy": -2.5
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 11476.0,
+    "rev_yoy": 1.8,
+    "op_profit": 9055.0,
+    "margin": 79.0,
+    "ebit_margin": 50.8,
+    "pat": 3566.0,
+    "pat_yoy": -6.0
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 12395.0,
+    "rev_yoy": 10.3,
+    "op_profit": 10607.0,
+    "margin": 86.0,
+    "ebit_margin": 58.3,
+    "pat": 4185.0,
+    "pat_yoy": 8.4
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 11666.0,
+    "rev_yoy": -5.0,
+    "op_profit": 5303.0,
+    "margin": 45.0,
+    "ebit_margin": 17.2,
+    "pat": 4546.0,
+    "pat_yoy": 9.7
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 11497.0,
+    "rev_yoy": 2.7,
+    "op_profit": 9430.0,
+    "margin": 82.0,
+    "ebit_margin": 54.8,
+    "pat": 3598.0,
+    "pat_yoy": -0.9
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 11816.0,
+    "rev_yoy": 3.0,
+    "op_profit": 9716.0,
+    "margin": 82.0,
+    "ebit_margin": 55.2,
+    "pat": 3866.0,
+    "pat_yoy": 8.4
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 37744.0,
+    "op_profit": 32886.0,
+    "margin": 87.0,
+    "pat": 11059.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 39640.0,
+    "op_profit": 34906.0,
+    "margin": 88.0,
+    "pat": 12036.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 41622.0,
+    "op_profit": 35826.0,
+    "margin": 86.0,
+    "pat": 16824.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 45581.0,
+    "op_profit": 38580.0,
+    "margin": 85.0,
+    "pat": 15417.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 45843.0,
+    "op_profit": 39244.0,
+    "margin": 86.0,
+    "pat": 15573.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 45792.0,
+    "op_profit": 38779.0,
+    "margin": 85.0,
+    "pat": 15521.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 46733.0,
+    "op_profit": 32831.0,
+    "margin": 70.0,
+    "pat": 15928.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 0.8,
+   "rev_cagr_5y": 3.3,
+   "pat_cagr_3y": 1.1,
+   "pat_cagr_5y": 5.8,
+   "margin_change_3y_bps": -1500
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 134696.0,
+    "equity": 76247.0,
+    "de": 1.77
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 126661.0,
+    "equity": 83014.0,
+    "de": 1.53
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 123516.0,
+    "equity": 87146.0,
+    "de": 1.42
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 131030.0,
+    "equity": 92663.0,
+    "de": 1.41
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 148071.0,
+    "equity": 100494.0,
+    "de": 1.47
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 151269.0,
+    "equity": 106749.0,
+    "de": 1.42
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     79.0
+    ],
+    [
+     "Mar 2022",
+     81.0
+    ],
+    [
+     "Mar 2023",
+     104.0
+    ],
+    [
+     "Mar 2024",
+     92.0
+    ],
+    [
+     "Mar 2025",
+     63.0
+    ],
+    [
+     "Mar 2026",
+     91.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     79.0
+    ],
+    [
+     "Mar 2022",
+     81.0
+    ],
+    [
+     "Mar 2023",
+     104.0
+    ],
+    [
+     "Mar 2024",
+     92.0
+    ],
+    [
+     "Mar 2025",
+     63.0
+    ],
+    [
+     "Mar 2026",
+     91.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -187.0
+    ],
+    [
+     "Mar 2022",
+     -241.0
+    ],
+    [
+     "Mar 2023",
+     -168.0
+    ],
+    [
+     "Mar 2024",
+     -134.0
+    ],
+    [
+     "Mar 2025",
+     -166.0
+    ],
+    [
+     "Mar 2026",
+     -229.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 29403.0,
+    "pat": 12036.0,
+    "fcf": 19786.0,
+    "conv": 2.44
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 26124.0,
+    "pat": 16824.0,
+    "fcf": 18157.0,
+    "conv": 1.55
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 38005.0,
+    "pat": 15417.0,
+    "fcf": 31102.0,
+    "conv": 2.47
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 37290.0,
+    "pat": 15573.0,
+    "fcf": 25886.0,
+    "conv": 2.39
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 36222.0,
+    "pat": 15521.0,
+    "fcf": 12111.0,
+    "conv": 2.33
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 40935.0,
+    "pat": 15928.0,
+    "fcf": 3687.0,
+    "conv": 2.57
+   }
+  ],
+  "cash_conv_5y": 2.25,
+  "flags": [
+   {
+    "tone": "bad",
+    "text": "Operating margin down 1500 bps over 3 years"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 225% of profit"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5a617224-9433-457b-81bd-a52fe07a67c0.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=31b888a3-6061-40e7-aae7-2e0cd1588361.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4fe8a91b-00ea-4603-96d7-ff9e6c48add9.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f17cbb9f-819b-4b15-b647-b97c1adc2d32.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5bfc82cf-cf35-4f6d-9d47-c00b6583a3bc.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5a617224-9433-457b-81bd-a52fe07a67c0.pdf",
+   "pages": 24,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "FY26 CapEx to exceed Rs 32,000 crores by March 2026",
+     "horizon": "March 2026",
+     "low": 32000,
+     "high": null,
+     "unit": "cr",
+     "quote": "we have target to exceed ₹32,000 crores CapEx this year by March 2026.",
+     "page": 5,
+     "speaker": "Dr. R.K. Tyagi - Chairman & MD",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "capex",
+     "promise": "FY27 CapEx to be Rs 37,000 crores",
+     "horizon": "FY27",
+     "low": 37000,
+     "high": 37000,
+     "unit": "cr",
+     "quote": "for FY27, CapEx will be ₹37,000 crores.",
+     "page": 11,
+     "speaker": "Dr. R.K. Tyagi - Chairman & MD",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "capex",
+     "promise": "FY28 CapEx to be Rs 45,000 crores",
+     "horizon": "FY28",
+     "low": 45000,
+     "high": 45000,
+     "unit": "cr",
+     "quote": "In FY28, it will be ₹45,000 crores.",
+     "page": 11,
+     "speaker": "Dr. R.K. Tyagi - Chairman & MD",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "other",
+     "promise": "FY27 capitalization to be Rs 30,000 crores",
+     "horizon": "FY27",
+     "low": 30000,
+     "high": 30000,
+     "unit": "cr",
+     "quote": "Capitalization, FY27, will be ₹30,000 crores",
+     "page": 11,
+     "speaker": "Dr. R.K. Tyagi - Chairman & MD",
+     "verified": true,
+     "id": "g1.4"
+    },
+    {
+     "metric": "other",
+     "promise": "FY28 capitalization to be Rs 35,000 crores",
+     "horizon": "FY28",
+     "low": 35000,
+     "high": 35000,
+     "unit": "cr",
+     "quote": "and FY28, it will be ₹35,000 crores.",
+     "page": 11,
+     "speaker": "Dr. R.K. Tyagi - Chairman & MD",
+     "verified": true,
+     "id": "g1.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Gross fixed assets crossed Rs 3 trillion for the first time.",
+     "quote": "POWERGRID has become ₹3 trillion plus gross fixed asset company.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Achieved 50% renewable power consumption target by December 2025.",
+     "quote": "In Renewable, our power consumption, we have achieved our target of 50% which we committed in front of you. By 2025 December we have achieved this target.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Trade receivable days reduced to lowest ever 24.65 days at end of Q3 FY26.",
+     "quote": "lowest ever trade receivable days has reduced to 24.65 days at the end of Q3FY26.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "claim": "Maintained transmission system availability at 99.84%.",
+     "quote": "Our transmission system availability is 99.84%.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Competitive bidding cost estimates and savings",
+     "quote": "Could you give us a ballpark in terms of, what is the average cost saving versus what NCT believes the estimates versus what POWERGRID is able to do those projects at?",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Supply chain constraints and transformer manufacturing capacity",
+     "quote": "Can you just help us with the kind of supply chain relaxation from the government? And we expect and can we just also highlight the challenges which are happening, which are happening in component wise?",
+     "page": 13,
+     "verified": true
+    },
+    {
+     "topic": "Right of way challenges and improvement in capitalization",
+     "quote": "Right of way, had been a consistent challenge for us over the last one year or so and you highlighted it still being a challenge. But was there a change this quarter and in January, that we could see such big and improvement in capitalization.",
+     "page": 14,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and optimistic about execution, backlog growth, and resolving legacy challenges."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=31b888a3-6061-40e7-aae7-2e0cd1588361.pdf",
+   "pages": 15,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "FY27 Capex of Rs 45,000 crore",
+     "horizon": "FY27",
+     "low": 45000,
+     "high": 45000,
+     "unit": "cr",
+     "quote": "So for next financial year, it will be Rs. 45,000 crore Capex.",
+     "page": 6,
+     "speaker": "Dr. R.K. Tyagi - Chairman & MD",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "capex",
+     "promise": "FY28 Capex commitment with Government of India of Rs 37,000 crore",
+     "horizon": "FY28",
+     "low": 37000,
+     "high": 37000,
+     "unit": "cr",
+     "quote": "next year, we are already committed with Government of India to be Rs. 37,000 crore.",
+     "page": 6,
+     "speaker": "Dr. R.K. Tyagi - Chairman & MD",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "other",
+     "promise": "FY27 capitalization of Rs 30,000 crore",
+     "horizon": "FY27",
+     "low": 30000,
+     "high": 30000,
+     "unit": "cr",
+     "quote": "next year, Rs. 30,000 crore, then in FY28 it is going to be Rs. 35,000 crore.",
+     "page": 6,
+     "speaker": "Dr. R.K. Tyagi - Chairman & MD",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "other",
+     "promise": "FY28 capitalization of Rs 35,000 crore",
+     "horizon": "FY28",
+     "low": 35000,
+     "high": 35000,
+     "unit": "cr",
+     "quote": "then in FY28 it is going to be Rs. 35,000 crore.",
+     "page": 6,
+     "speaker": "Dr. R.K. Tyagi - Chairman & MD",
+     "verified": true,
+     "id": "g2.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Achieved Capex of Rs 35,000+ crore for financial year 25-26",
+     "quote": "today, we are now announcing that our Capex guideline will be Rs. 35,000 plus crore, and already we have achieved Rs. 35,000 crore.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Achieved capitalization of Rs 22,749 crore for the financial year",
+     "quote": "we have already achieved Rs. 22,749 crore with a commissioning of Khetri Narela with a commissioning of Bhadla III Sikar II line",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Achieved financial year transmission availability of 99.84%",
+     "quote": "This financial year, we are having availability of 99.84%. Trippings per line, 0.25 trippings per line",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Inflationary pressure and TBCB project returns",
+     "quote": "So, how are we placed in such a scenario? For the current project, TBCB projects that we've won, and do you expect any hit to the estimated IRRs there?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Execution delays and upcoming order capability",
+     "quote": "Siddharth Gupta: But, sir, what about the execution abilities? In that context, will we be able… like, with the execution delays, if at all, any that from our end?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Slowdown in project tendering and Rajasthan evacuation planning",
+     "quote": "Prawin Visesh: So, this is Prawin from PPFAS. I just wanted, your take on… I mean, last year we had seen a slowdown in project, tendering, so I just wanted to understand…Hello?",
+     "page": 12,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and transparent regarding growth visibility, execution capabilities, and future capital deployment."
+  },
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4fe8a91b-00ea-4603-96d7-ff9e6c48add9.pdf",
+   "pages": 24,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "FY27 CapEx initial guidance is 37000 crore",
+     "horizon": "FY27",
+     "low": 37000,
+     "high": 37000,
+     "unit": "cr",
+     "quote": "And the guidance of CapEx for FY27, the initial guidance I should say is ₹37,000 crore.",
+     "page": 5,
+     "speaker": "Shri Burra Vamsi Rama Mohan",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "capex",
+     "promise": "FY27 capitalization initial guidance up to 30000 crore",
+     "horizon": "FY27",
+     "low": null,
+     "high": 30000,
+     "unit": "cr",
+     "quote": "The guidance for FY27 is up to ₹30,000 crore initially.",
+     "page": 5,
+     "speaker": "Shri Burra Vamsi Rama Mohan",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "capex",
+     "promise": "FY28 CapEx initial guidance beyond 40000 crore in 40000-45000 crore range",
+     "horizon": "FY28",
+     "low": 40000,
+     "high": 45000,
+     "unit": "cr",
+     "quote": "F28, that would be naturally going beyond ₹40,000 crore, the initial guidance. Again, as I am saying it will be beyond ₹40,000 crore. In the ₹40,000-45,000 crore range, it will be standing there.",
+     "page": 11,
+     "speaker": "Shri Burra Vamsi Rama Mohan",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "capex",
+     "promise": "Next year capitalization moving up to 35000 crore",
+     "horizon": "FY28",
+     "low": null,
+     "high": 35000,
+     "unit": "cr",
+     "quote": "and then next year it should be moving up to ₹35,000 crore.",
+     "page": 11,
+     "speaker": "Shri Burra Vamsi Rama Mohan",
+     "verified": true,
+     "id": "g3.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "CapEx guidance exceeded reaching close to 40000 crore in FY26",
+     "quote": "the CapEx which had a guidance of initially about ₹28,000 crores in the initial phase, has been subsequently up to ₹35,000 crore, and eventually we could deliver close to ₹40,000 crore.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "System availability exceeded at more than 99.75%",
+     "quote": "At more than 99.75%, we are way above the mark and continuously deriving the full availability incentive.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated profit after tax increased by 3% to 15928 crore",
+     "quote": "The profit after tax stands at about ₹15,928 crores which is a 3% increase, all this on the consolidated basis.",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "claim": "Gross fixed assets breached 3 lakh crore standing at 320334 crore",
+     "quote": "The gross fixed assets, as I have stated that it has breached the ₹3 lakh crore and it stands at ₹3,20,334 crore.",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "EBITDA decline and accounting method",
+     "quote": "My first question is can you please explain the reason for EBITDA decline in Q4 FY26? Is it due to older assets completing 12 years of life? And can you also please shed some light on the accounting for the new transmission system?",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "TBCB equity IRR and cost inflation",
+     "quote": "Do we still believe we can meet that threshold of equity IRRs on these projects given the rise in rates, given the rise in all these costs and our inability to pass them through?",
+     "page": 19,
+     "verified": true
+    },
+    {
+     "topic": "CapEx and capitalization phasing",
+     "quote": "Will it be very back-ended, 2H heavy in terms of CapEx and capitalization phasing?",
+     "page": 20,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and transparent regarding growth opportunities and operational performance."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f17cbb9f-819b-4b15-b647-b97c1adc2d32.pdf",
+   "pages": 22,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Capex is more than 10% higher in Q1 compared to last year",
+     "horizon": "Q1 FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "compared to last year, we have the capex is more than 10% what we have achieved in this quarter in Q1 itself.",
+     "page": 4,
+     "speaker": "B. Vamsi Rama Mohan",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Capitalization guidance stands at Rs. 30,000 crore",
+     "horizon": "FY27",
+     "low": null,
+     "high": 30000,
+     "unit": "cr",
+     "quote": "And on the capitalization front, the guidance standing at Rs. 30,000 crore, it is almost 3.13 times than what we have achieved in the last quarter.",
+     "page": 4,
+     "speaker": "B. Vamsi Rama Mohan",
+     "verified": true,
+     "id": "g4.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Gross fixed assets stand at over Rs. 3.25 lakh crore",
+     "quote": "gross fixed assets stand at about Rs. 3.25 lakh crore plus.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "System availability continues to be one of the highest at 99.8%",
+     "quote": "The system availability continues to be one of the highest in terms of 99.8%.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated PAT stands at Rs. 3,598 crore for the quarter",
+     "quote": "The PAT stands at about Rs. 3,598 crore compared to Rs. 3,631 crore of the previous quarter.",
+     "page": 6,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Regulatory drag impact on financial results",
+     "quote": "Would be helpful if you can quantify this drag in depreciation and its impact on revenue. How much would that be for this quarter?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Equipment supply chain and cost escalation status",
+     "quote": "Meaning, is there still delays due to equipment availability? What is your view on delays in acquiring land, or labour shortage",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Consolidated disclosure of TBCB performance",
+     "quote": "What is the consolidated revenue, consolidated EBITDA, consolidated profit for TBCB, that will help us analyse the company better.",
+     "page": 16,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and responsive in addressing regulatory impacts and sector outlook."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company transmits bulk power, provides telecom services, and offers consultancy services in transmission, distribution, and telecom sectors.",
+  "segments": [
+   {
+    "name": "Transmission",
+    "revenue": 44082.74,
+    "unit": "crore",
+    "what": "Transmits bulk power across different states of India.",
+    "page": 333,
+    "share_pct": 93
+   },
+   {
+    "name": "Consultancy",
+    "revenue": 2347.36,
+    "unit": "crore",
+    "what": "Provides consultancy services in transmission, distribution, and telecom sectors.",
+    "page": 333,
+    "share_pct": 5
+   },
+   {
+    "name": "Telecom",
+    "revenue": 1195.07,
+    "unit": "crore",
+    "what": "Leases point-to-point bandwidth using spare optical fibres.",
+    "page": 333,
+    "share_pct": 3
+   }
+  ],
+  "mix_note": "Revenue from any single customer does not equal or exceed 10% of total revenue.",
+  "risks_mgmt_flags": [],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5bfc82cf-cf35-4f6d-9d47-c00b6583a3bc.pdf",
+  "pages_read": [
+   115,
+   200,
+   203,
+   244,
+   252,
+   253,
+   290,
+   291,
+   294,
+   333,
+   339,
+   340
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "FY26 CapEx to exceed Rs 32,000 crores by March 2026",
+    "made_in": "Q3 FY26 call",
+    "delivered": "Management claimed CapEx exceeded reaching close to 40000 crore in FY26.",
+    "verdict": "delivered",
+    "checked_against": "Q4 FY26 call statement",
+    "quote": "we have target to exceed ₹32,000 crores CapEx this year by March 2026.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5a617224-9433-457b-81bd-a52fe07a67c0.pdf"
+   },
+   {
+    "ref": "g1.2",
+    "promise": "FY27 CapEx to be Rs 37,000 crores",
+    "made_in": "Q3 FY26 call",
+    "delivered": "Management revised FY27 CapEx guidance to Rs. 45,000 crore on Q4 FY26 call (g2.1).",
+    "verdict": "walked_back",
+    "checked_against": "Q4 FY26 call guidance",
+    "quote": "for FY27, CapEx will be ₹37,000 crores.",
+    "page": 11,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5a617224-9433-457b-81bd-a52fe07a67c0.pdf"
+   },
+   {
+    "ref": "g1.5",
+    "promise": "FY28 capitalization to be Rs 35,000 crores",
+    "made_in": "Q3 FY26 call",
+    "delivered": "Guidance reiterated at Rs. 35,000 crore in Q4 FY26 (g2.4, g3.4), deadline not yet reached.",
+    "verdict": "too_early",
+    "checked_against": "Q4 FY26 call guidance",
+    "quote": "and FY28, it will be ₹35,000 crores.",
+    "page": 11,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5a617224-9433-457b-81bd-a52fe07a67c0.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 6,
+   "line": "Management frequently revises CapEx targets across consecutive calls, while maintaining capitalization guidance."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Consolidated PAT increased to 15,928 crore for FY26 matching management's reported profit increase."
+   },
+   {
+    "agree": false,
+    "point": "EBITDA dropped sharply to 5,303 crore in Mar 2026 (45% EBITDA margin) despite high historical cash conversions."
+   },
+   {
+    "agree": true,
+    "point": "Gross fixed assets breached 3 lakh crore standing at 320,334 crore for FY26, confirming asset growth claims."
+   }
+  ],
+  "bull": [
+   "Consolidated PAT increased by 3% to 15,928 crore for the year ending Mar 2026.",
+   "Strong 5y cash conversion of 2.25, with Mar 2026 operating cash flow at 40,935 crore.",
+   "Gross fixed assets stand high at over Rs. 3.25 lakh crore in Q1 FY27."
+  ],
+  "bear": [
+   "Operating margin down 1500 bps over 3 years.",
+   "Mar 2026 quarterly EBITDA collapsed to 5,303 crore with EBITDA% falling to 45%.",
+   "Borrowings increased to 151,269 crore as of Sep 2026 with D/E at 1.42."
+  ],
+  "watch": [
+   "FY27 capitalization guidance of Rs. 30,000 crore achievement status.",
+   "Borrowings trajectory against Sep 2026 level of 151,269 crore.",
+   "EBITDA margin recovery from Mar 2026 lows."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 16652,
+   "out": 1193,
+   "secs": 5.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14071,
+   "out": 1076,
+   "secs": 40.1,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 17752,
+   "out": 1136,
+   "secs": 12.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 17033,
+   "out": 684,
+   "secs": 3.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13326,
+   "out": 269,
+   "secs": 11.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 3696,
+   "out": 1081,
+   "secs": 4.9,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 82530,
+  "tokens_out": 5439,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 83.4
+ }
+}

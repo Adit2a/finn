@@ -1,0 +1,928 @@
+{
+ "symbol": "BAJAJFINSV",
+ "name": "Bajaj Finserv Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:15:50",
+ "latest_call": "Aug 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 297949.0,
+   "pe": 27.6,
+   "roce": 10.6,
+   "roe": 13.2,
+   "ttm_revenue": 163654.0,
+   "ttm_pat": 21843.0,
+   "margin_latest_q": 40.0,
+   "de": 4.52,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 32042.0,
+    "rev_yoy": 10.3,
+    "op_profit": 12373.0,
+    "margin": 39.0,
+    "ebit_margin": 37.7,
+    "pat": 4412.0,
+    "pat_yoy": 9.1
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 36433.0,
+    "rev_yoy": 13.7,
+    "op_profit": 12728.0,
+    "margin": 35.0,
+    "ebit_margin": 34.0,
+    "pat": 4756.0,
+    "pat_yoy": 16.4
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 35288.0,
+    "rev_yoy": 12.1,
+    "op_profit": 14315.0,
+    "margin": 41.0,
+    "ebit_margin": 39.7,
+    "pat": 5329.0,
+    "pat_yoy": 26.6
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 37215.0,
+    "rev_yoy": 10.4,
+    "op_profit": 14050.0,
+    "margin": 38.0,
+    "ebit_margin": 36.9,
+    "pat": 4746.0,
+    "pat_yoy": 13.5
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 39708.0,
+    "rev_yoy": 23.9,
+    "op_profit": 13866.0,
+    "margin": 35.0,
+    "ebit_margin": 34.1,
+    "pat": 4368.0,
+    "pat_yoy": -1.0
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 38494.0,
+    "rev_yoy": 5.7,
+    "op_profit": 14511.0,
+    "margin": 38.0,
+    "ebit_margin": 36.9,
+    "pat": 5226.0,
+    "pat_yoy": 9.9
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 42037.0,
+    "rev_yoy": 19.1,
+    "op_profit": 17141.0,
+    "margin": 41.0,
+    "ebit_margin": 39.9,
+    "pat": 6297.0,
+    "pat_yoy": 18.2
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 43416.0,
+    "rev_yoy": 16.7,
+    "op_profit": 17509.0,
+    "margin": 40.0,
+    "ebit_margin": 39.4,
+    "pat": 5952.0,
+    "pat_yoy": 25.4
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 54351.0,
+    "op_profit": 18258.0,
+    "margin": 34.0,
+    "pat": 5994.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 60592.0,
+    "op_profit": 19641.0,
+    "margin": 32.0,
+    "pat": 7367.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 68406.0,
+    "op_profit": 21455.0,
+    "margin": 31.0,
+    "pat": 8314.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 82072.0,
+    "op_profit": 29868.0,
+    "margin": 36.0,
+    "pat": 12210.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 110382.0,
+    "op_profit": 40886.0,
+    "margin": 37.0,
+    "pat": 15595.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 132944.0,
+    "op_profit": 49524.0,
+    "margin": 37.0,
+    "pat": 17558.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 150530.0,
+    "op_profit": 57098.0,
+    "margin": 38.0,
+    "pat": 19669.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 22.4,
+   "rev_cagr_5y": 20.0,
+   "pat_cagr_3y": 17.2,
+   "pat_cagr_5y": 21.7,
+   "margin_change_3y_bps": 200
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 161179.0,
+    "equity": 40247.0,
+    "de": 4.0
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 212265.0,
+    "equity": 46407.0,
+    "de": 4.57
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 288933.0,
+    "equity": 60328.0,
+    "de": 4.79
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 355855.0,
+    "equity": 72396.0,
+    "de": 4.92
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 429914.0,
+    "equity": 77915.0,
+    "de": 5.52
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 379213.0,
+    "equity": 83974.0,
+    "de": 4.52
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     17.0
+    ],
+    [
+     "Mar 2022",
+     16.0
+    ],
+    [
+     "Mar 2023",
+     15.0
+    ],
+    [
+     "Mar 2024",
+     20.0
+    ],
+    [
+     "Mar 2025",
+     23.0
+    ],
+    [
+     "Mar 2026",
+     23.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     17.0
+    ],
+    [
+     "Mar 2022",
+     16.0
+    ],
+    [
+     "Mar 2023",
+     15.0
+    ],
+    [
+     "Mar 2024",
+     20.0
+    ],
+    [
+     "Mar 2025",
+     23.0
+    ],
+    [
+     "Mar 2026",
+     23.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -490.0
+    ],
+    [
+     "Mar 2022",
+     -493.0
+    ],
+    [
+     "Mar 2023",
+     -444.0
+    ],
+    [
+     "Mar 2024",
+     -406.0
+    ],
+    [
+     "Mar 2025",
+     -377.0
+    ],
+    [
+     "Mar 2026",
+     -364.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 4547.0,
+    "pat": 7367.0,
+    "fcf": 4096.0,
+    "conv": 0.62
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": -33670.0,
+    "pat": 8314.0,
+    "fcf": -34420.0,
+    "conv": -4.05
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": -39480.0,
+    "pat": 12210.0,
+    "fcf": -40603.0,
+    "conv": -3.23
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": -65502.0,
+    "pat": 15595.0,
+    "fcf": -66811.0,
+    "conv": -4.2
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": -61750.0,
+    "pat": 17558.0,
+    "fcf": -63466.0,
+    "conv": -3.52
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": -55301.0,
+    "pat": 19669.0,
+    "fcf": -56619.0,
+    "conv": -2.81
+   }
+  ],
+  "cash_conv_5y": -3.49,
+  "flags": [
+   {
+    "tone": "bad",
+    "text": "Profit lagging sales over 3y (17.2% vs 22.4%): margins under pressure"
+   },
+   {
+    "tone": "good",
+    "text": "Operating margin up 200 bps over 3 years"
+   },
+   {
+    "tone": "bad",
+    "text": "Only -349% of 5y profit showed up as operating cash"
+   },
+   {
+    "tone": "bad",
+    "text": "Leveraged balance sheet (D/E 4.52)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3535c6b2-1493-4091-8daf-2df714bfd208.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d71acda4-9496-4174-81dc-4020b9fff8ec.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2fe5bc74-eaaf-4882-b6a7-026fc39d5679.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ab7ebc99-21a2-4920-8319-ba554c5abcf7.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/10f5cbe1-4794-4934-9219-da6586f3fe74.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Dec 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3535c6b2-1493-4091-8daf-2df714bfd208.pdf",
+   "pages": 23,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Break even in FY28 for Bajaj Finserv Health Limited",
+     "horizon": "FY28",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "And as far as quantitative financial output is concerned, we are very clear in next-to-next financial year, we should break even.",
+     "page": 21,
+     "speaker": "Devang Mody",
+     "verified": true,
+     "id": "g1.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated total income grew 11% to INR 37,400 crores versus INR 33,700 crores last year.",
+     "quote": "The consolidated total income grew by 11% to about INR 37,400 crores versus about INR 33,700 crores for the same quarter last year.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated PAT grew 8% to INR 2,244 crores, or 12% excluding MTM movement of insurance companies.",
+     "quote": "Our consolidated profit after tax grew by 8% to INR 2,244 crores up from INR 2,087 crores for the same quarter last year.. As we know, this gets a little vitiated by the MTM gains and losses from the insurance subsidiaries, and hence, excluding the MTM movement of the insurance companies, if you look at the profit growth, as compared to the reported growth of 8%, the growth would be a healthy 12%.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Bajaj Life registered highest ever reported VNB and NBM numbers for the quarter and half year.",
+     "quote": "Bajaj Life registered highest ever reported VNB and NBM numbers for the quarter and for the half year.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Bajaj Finserv AMC AUM crossed INR 30,000 crores as fastest to cross in less than 2 full years.",
+     "quote": "And as of date, the company has already crossed an AUM of INR 30,000 crores. The AUM grew by 15% from the immediately preceding quarter and 77% from the same period last year. We believe that Bajaj Finserv AMC is the fastest to cross the INR 30,000 crore mark in less than 2 full years of operations.",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Bajaj Life GST impact and margin breakout",
+     "quote": "So, just wanted to understand the breakup of this 140-bps impact on the NBM margin, which is on account of the GST.",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Bajaj General combined ratio above 100%",
+     "quote": "Sir, second question is on Bajaj General Insurance, , in the past, we have been operating at below 100% combined. But in the last couple of years, the combined ratio has been consistently above 100%. So, what are the reasons for that?",
+     "page": 17,
+     "verified": true
+    },
+    {
+     "topic": "Health business break-even and timelines",
+     "quote": "When do we see that part turning around? And what would be our milestone in benchmarks over the next 3 years for that business, in terms of profitability or something which we can monitor quantitatively and qualitatively both on that side",
+     "page": 21,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent and strategic regarding execution of business transformations and regulatory impacts."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d71acda4-9496-4174-81dc-4020b9fff8ec.pdf",
+   "pages": 20,
+   "scanned": false,
+   "guidance": [],
+   "claims": [
+    {
+     "claim": "Consolidated total income grew 24% to about INR 39,708 crores for Q3 FY26.",
+     "quote": "The consolidated total income grew 24% to about INR 39,708 crores versus INR 32,042 crores for the same quarter last year.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Bajaj Life registered highest-ever value of new business and new business margins on YTD basis.",
+     "quote": "Bajaj Life registered ‘Highest-ever value of new business and the new business margins on YTD basis over the last decade’.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Bajaj General ranked first amongst private players on GDPI basis while maintaining market share.",
+     "quote": "For the quarter, Bajaj General ranked first amongst private players on GDPI basis while maintaining its market share.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Bajaj Finserv AMC crossed INR 30,000 crores AUM mark in about 2.5 years.",
+     "quote": "We believe that Bajaj Finserv AMC is the fastest to cross the INR 30,000 crores mark in about 2.5 years of operations.",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Motor OD loss ratio and growth",
+     "quote": "Second, I think on the agency side, after multiple quarters, we are able to see some positive growth there. So, is it fair to say that now we have bottomed out?",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "VNB margins and GST impact",
+     "quote": "And just one tiny question on the general insurance business. If I look at motor OD loss ratio, it remains elevated this quarter as well. Now, in this backdrop, why do we really need to grow at 21%?",
+     "page": 12,
+     "verified": true
+    },
+    {
+     "topic": "Underwriting losses and NEP growth",
+     "quote": "So, is there any impact of reserve releases, or this is the normalized loss ratio for motor TP going forward? That is the first question.",
+     "page": 14,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and transparent regarding strategic execution, cyclical factors, and regulatory adjustments."
+  },
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2fe5bc74-eaaf-4882-b6a7-026fc39d5679.pdf",
+   "pages": 29,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "Both our insurance companies plan to seek forbearance for a year and would transition to Ind AS from 1st of April 2027.",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "Accordingly, both our insurance companies plan to seek forbearance for a year and would transition to Ind AS from 1st of April 2027.",
+     "page": 4,
+     "speaker": "Ramandeep Singh Sahni",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Within the next one, one and a half years, we will be launching both of these business lines (PMS and SIF).",
+     "horizon": "next 1 to 1.5 years",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "So within the next one, one and a half years, we will be launching both of these business lines.",
+     "page": 15,
+     "speaker": "Ganesh Mohan",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Operating break-even for Bajaj Finserv Health is expected 24 months from now.",
+     "horizon": "24 months",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "And what we did in our LRS was that, you know, I think 24 months from now we should start seeing an operating break-even.",
+     "page": 26,
+     "speaker": "Ramandeep Singh Sahni",
+     "verified": true,
+     "id": "g3.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated total income grew by 6% to about INR38,508 crores.",
+     "quote": "The consolidated total income grew by 6% to about INR38,508 crores versus INR36,434 crores for the same quarter last year.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated profit after tax grew at about 5% to INR2,539 crores.",
+     "quote": "Similarly, the consolidated profit after tax also grew at about 5% to INR2,539 crores as against INR2,417 crores for the same period last year.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Bajaj Finance AUM crossed INR 5 lakh crores with 22% growth.",
+     "quote": "The company's diversified business model has enabled it to cross the record milestone of AUM of INR 5 lakh crores and a strong AUM growth of about 22% at INR 5,09,975 crores.",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "claim": "Insurance subsidiaries completed buyback of balance 3% Allianz stake in March.",
+     "quote": "I am happy to confirm that in March, our insurance subsidiaries, that is Bajaj General and Bajaj Life, have completed the buyback of the balance 3% Allianz stake",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Life insurance non-par savings mix and market pricing pressure",
+     "quote": "Non-par savings mix has reduced. Just trying to understand if you can give us a flavour of how were the markets for the non-par product in the year that has gone by? Was there any pricing pressure that you'd like to highlight?",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "General insurance motor TP reserving releases",
+     "quote": "So the reserving triangles look like the release in TP in FY26 has been higher. It’s coming to about INR 800 crores versus usually the INR 600 to INR 700 crores you've done in the last couple of years. So any colour you can give around what has happened here?",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Life insurance persistency trends and sector decline",
+     "quote": "On persistency, what is happening in your view on at the industry level and for you also, that persistency after improving post-COVID for four-five years, this year we are seeing decline across the companies on persistency?",
+     "page": 23,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and disciplined with cautious optimism on long-term growth and strategic transitions."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ab7ebc99-21a2-4920-8319-ba554c5abcf7.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Bajaj Finserv Direct to break even in Q3 or Q4 FY27",
+     "horizon": "Q3 or Q4 FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "Hence, as the outcome of that, we are certain that in Q3 or Q4, on a quarter's results basis this year, we will break even. And on a full year basis, we will break even in the coming year.",
+     "page": 11,
+     "speaker": "Ramandeep Sahni",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Asset Management Company to reach 1 lakh crore AUM in next 3 years",
+     "horizon": "next 3 years",
+     "low": 100000,
+     "high": null,
+     "unit": "cr",
+     "quote": "We believe that in the next 3 years, we should hit the INR 1 lakh crore AUM mark and that should be the path to profitability.",
+     "page": 12,
+     "speaker": "Ramandeep Sahni",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Bajaj Finance opex to NTI ratio to improve by 25 to 40 bps in FY27",
+     "horizon": "current financial year",
+     "low": 25,
+     "high": 40,
+     "unit": "bps",
+     "quote": "However, with visibility of green shoots in operating efficiencies due to our AI implementation, the company is confident that the opex to NTI ratio will improve by about 25 to 40 bps in the current financial year.",
+     "page": 6,
+     "speaker": "Ramandeep Sahni",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "capex",
+     "promise": "Bajaj Finserv Health to require INR 200 crore to INR 300 crore capital over next 6 quarters",
+     "horizon": "next 6 quarters",
+     "low": 200,
+     "high": 300,
+     "unit": "cr",
+     "quote": "From a Health company perspective, they'll probably need capital for next 6 quarters is what we believe. But the amount will not be as material. I think INR 200 crore to INR 300 crore is at best we may need.",
+     "page": 12,
+     "speaker": "Ramandeep Sahni",
+     "verified": true,
+     "id": "g4.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated total income grew 19% to INR 42,037 crore and PAT grew 18% to INR 6,297 crore.",
+     "quote": "The consolidated total income for Bajaj Finserv grew at 19% to INR 42,037 crore. And the consolidated profit after tax grew at 18% to INR 6,297 crore.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Bajaj Life VNB grew 87% to INR 271 crore and New Business Margin expanded by 4.8% to 15.9%.",
+     "quote": "accordingly, the VNB for the quarter grew at a very healthy 87% to INR 271 crore for the quarter. The New Business Margin was up at 15.9% for the quarter as against 11.1% for the same quarter last year, an expansion of 4.8%.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Bajaj Finance AUM grew 24% to INR 5,46,944 crore and PAT grew 27.6% to INR 6,081 crore.",
+     "quote": "The company's diversified business model has enabled it to record a strong AUM growth of about 24% at INR 5,46,944 crore... PAT grew by about 27.6% to INR 6,081 crore.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Board of Bajaj Finserv approved setting up a reinsurance company subject to regulatory approvals.",
+     "quote": "Also happy to confirm that the Board of Bajaj Finserv has earlier during the day approved for setting up a reinsurance company as a natural progression of furthering our insurance capabilities.",
+     "page": 7,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Supreme Court motor insurance third-party ruling for homemakers impact",
+     "quote": "There was a Supreme Court ruling on motor insurance third-party calculation for homemakers. If you can help us understand this, the impact on us, how are we going to reserve for it? Also, what, if any, measures are being taken by the industry?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Asset quality of digital and fintech aggregated loans on Bajaj Markets",
+     "quote": "Just a couple of quarters back, I think there was a lot more conversation around concerns on asset quality of this book. How have the trends been on our platform and is there any colour that you can give around it?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Motor own damage segment loss ratio increase and segment-wise contribution",
+     "quote": "So, I want to understand which particular segment within motor own damage is driving that loss ratio? And what is our strategy for this financial year in this motor own damage segment with respect to growth and loss ratio management?",
+     "page": 18,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, disciplined, and transparent regarding strategies, soft market cycles, and path to profitability."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company operates as an investment company and provides financial services including life insurance, general insurance, and retail financing.",
+  "segments": [
+   {
+    "name": "Life insurance",
+    "revenue": 34210.07,
+    "unit": "crore",
+    "what": "Life insurance products and services to retail and group customers",
+    "page": 297,
+    "share_pct": 22
+   },
+   {
+    "name": "General insurance",
+    "revenue": 34649.89,
+    "unit": "crore",
+    "what": "General insurance products and services to customers",
+    "page": 297,
+    "share_pct": 22
+   },
+   {
+    "name": "Windmill",
+    "revenue": 23.97,
+    "unit": "crore",
+    "what": "Renewable energy from wind power to the market",
+    "page": 297,
+    "share_pct": 0
+   },
+   {
+    "name": "Retail financing",
+    "revenue": 81989.5,
+    "unit": "crore",
+    "what": "Retail finance and lending products to retail customers",
+    "page": 297,
+    "share_pct": 53
+   },
+   {
+    "name": "Investments and others",
+    "revenue": 3619.47,
+    "unit": "crore",
+    "what": "Investment activities and other related operations",
+    "page": 297,
+    "share_pct": 2
+   }
+  ],
+  "mix_note": "All companies included in reporting operate within India.",
+  "risks_mgmt_flags": [
+   "Unrealised MTM movements on FVTPL equity portfolio cause temporary financial volatility."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/10f5cbe1-4794-4934-9219-da6586f3fe74.pdf",
+  "pages_read": [
+   53,
+   61,
+   69,
+   73,
+   75,
+   78,
+   252,
+   297,
+   302,
+   303,
+   399,
+   426
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g4.1",
+    "promise": "Bajaj Finserv Direct to break even in Q3 or Q4 FY27",
+    "made_in": "Q1 FY27",
+    "delivered": "Too early to assess; quarter ends Dec 2026‑Mar 2027 not yet reported",
+    "verdict": "too_early",
+    "checked_against": "Q2 FY27 revenue and PAT (Jun 2026) not applicable",
+    "quote": "Hence, as the outcome of that, we are certain that in Q3 or Q4, on a quarter's results basis this year, we will break even. And on a full year basis, we will break even in the coming year.",
+    "page": 11,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ab7ebc99-21a2-4920-8319-ba554c5abcf7.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "None of these promises can be checked against reported numbers yet — no score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Mgmt said Q1 FY27 total income grew 19% to INR 42,037 cr; reported Jun 2026 revenue is 42,037 cr with 19.1% YoY."
+   },
+   {
+    "agree": true,
+    "point": "Mgmt claimed PAT grew 18% to INR 6,297 cr; reported Jun 2026 PAT is 6,297 cr with 18.2% YoY."
+   }
+  ],
+  "bull": [
+   "Revenue rose 19.1% YoY to 42,037 cr in Jun 2026.",
+   "PAT increased 18.2% YoY to 6,297 cr in Jun 2026.",
+   "EBITDA margin improved to 41% in Jun 2026."
+  ],
+  "bear": [
+   "Operating cash flow remains negative at -55,301 cr in Mar 2026.",
+   "Debt‑to‑Equity rose to 5.52 in Mar 2026, indicating high leverage.",
+   "Margins under pressure: EBITDA% fell to 38% in Mar 2026 from 41% three years earlier."
+  ],
+  "watch": [
+   "Health business operating break‑even timeline.",
+   "Opex‑to‑NTI ratio improvement claim."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 16763,
+   "out": 856,
+   "secs": 3.9,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13544,
+   "out": 564,
+   "secs": 3.1,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 17521,
+   "out": 1054,
+   "secs": 4.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14459,
+   "out": 1340,
+   "secs": 7.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11190,
+   "out": 401,
+   "secs": 3.7,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 3259,
+   "out": 1175,
+   "secs": 3.3,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 76736,
+  "tokens_out": 5390,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 51.6
+ }
+}

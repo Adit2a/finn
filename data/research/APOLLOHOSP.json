@@ -1,0 +1,634 @@
+{
+ "symbol": "APOLLOHOSP",
+ "name": "Apollo Hospitals Enterprise Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:11:24",
+ "latest_call": "Aug 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 121225.0,
+   "pe": 53.6,
+   "roce": 17.4,
+   "roe": 21.5,
+   "ttm_revenue": 27630.0,
+   "ttm_pat": 2338.0,
+   "margin_latest_q": 16.0,
+   "de": 0.77,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 5527.0,
+    "rev_yoy": 13.9,
+    "op_profit": 762.0,
+    "margin": 14.0,
+    "ebit_margin": 10.4,
+    "pat": 379.0,
+    "pat_yoy": 49.2
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 5592.0,
+    "rev_yoy": 13.1,
+    "op_profit": 770.0,
+    "margin": 14.0,
+    "ebit_margin": 10.0,
+    "pat": 414.0,
+    "pat_yoy": 60.5
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 5842.0,
+    "rev_yoy": 14.9,
+    "op_profit": 852.0,
+    "margin": 15.0,
+    "ebit_margin": 10.9,
+    "pat": 441.0,
+    "pat_yoy": 39.6
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 6189.0,
+    "rev_yoy": 10.7,
+    "op_profit": 924.0,
+    "margin": 15.0,
+    "ebit_margin": 11.6,
+    "pat": 494.0,
+    "pat_yoy": 24.7
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 6477.0,
+    "rev_yoy": 17.2,
+    "op_profit": 965.0,
+    "margin": 15.0,
+    "ebit_margin": 11.5,
+    "pat": 516.0,
+    "pat_yoy": 36.1
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 6606.0,
+    "rev_yoy": 18.1,
+    "op_profit": 1011.0,
+    "margin": 15.0,
+    "ebit_margin": 11.9,
+    "pat": 551.0,
+    "pat_yoy": 33.1
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 6932.0,
+    "rev_yoy": 18.7,
+    "op_profit": 1077.0,
+    "margin": 16.0,
+    "ebit_margin": 12.3,
+    "pat": 610.0,
+    "pat_yoy": 38.3
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 7615.0,
+    "rev_yoy": 23.0,
+    "op_profit": 1191.0,
+    "margin": 16.0,
+    "ebit_margin": 12.6,
+    "pat": 660.0,
+    "pat_yoy": 33.6
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 11247.0,
+    "op_profit": 1591.0,
+    "margin": 14.0,
+    "pat": 432.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 10560.0,
+    "op_profit": 1140.0,
+    "margin": 11.0,
+    "pat": 137.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 14663.0,
+    "op_profit": 2189.0,
+    "margin": 15.0,
+    "pat": 1108.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 16612.0,
+    "op_profit": 2065.0,
+    "margin": 12.0,
+    "pat": 844.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 19059.0,
+    "op_profit": 2394.0,
+    "margin": 13.0,
+    "pat": 935.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 21794.0,
+    "op_profit": 3033.0,
+    "margin": 14.0,
+    "pat": 1505.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 25228.0,
+    "op_profit": 3779.0,
+    "margin": 15.0,
+    "pat": 2003.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 14.9,
+   "rev_cagr_5y": 19.0,
+   "pat_cagr_3y": 33.4,
+   "pat_cagr_5y": 71.0,
+   "margin_change_3y_bps": 300
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 4068.0,
+    "equity": 5623.0,
+    "de": 0.72
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 4332.0,
+    "equity": 6198.0,
+    "de": 0.7
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 5333.0,
+    "equity": 6936.0,
+    "de": 0.77
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 7864.0,
+    "equity": 8212.0,
+    "de": 0.96
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 8493.0,
+    "equity": 9480.0,
+    "de": 0.9
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 8149.0,
+    "equity": 10604.0,
+    "de": 0.77
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     46.0
+    ],
+    [
+     "Mar 2022",
+     44.0
+    ],
+    [
+     "Mar 2023",
+     49.0
+    ],
+    [
+     "Mar 2024",
+     48.0
+    ],
+    [
+     "Mar 2025",
+     51.0
+    ],
+    [
+     "Mar 2026",
+     50.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     16.0
+    ],
+    [
+     "Mar 2022",
+     21.0
+    ],
+    [
+     "Mar 2023",
+     17.0
+    ],
+    [
+     "Mar 2024",
+     17.0
+    ],
+    [
+     "Mar 2025",
+     16.0
+    ],
+    [
+     "Mar 2026",
+     15.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     74.0
+    ],
+    [
+     "Mar 2022",
+     79.0
+    ],
+    [
+     "Mar 2023",
+     82.0
+    ],
+    [
+     "Mar 2024",
+     88.0
+    ],
+    [
+     "Mar 2025",
+     72.0
+    ],
+    [
+     "Mar 2026",
+     63.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     -12.0
+    ],
+    [
+     "Mar 2022",
+     -14.0
+    ],
+    [
+     "Mar 2023",
+     -16.0
+    ],
+    [
+     "Mar 2024",
+     -23.0
+    ],
+    [
+     "Mar 2025",
+     -6.0
+    ],
+    [
+     "Mar 2026",
+     3.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -4.0
+    ],
+    [
+     "Mar 2022",
+     5.0
+    ],
+    [
+     "Mar 2023",
+     -1.0
+    ],
+    [
+     "Mar 2024",
+     -19.0
+    ],
+    [
+     "Mar 2025",
+     -6.0
+    ],
+    [
+     "Mar 2026",
+     -25.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 1265.0,
+    "pat": 137.0,
+    "fcf": 984.0,
+    "conv": 9.23
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 1696.0,
+    "pat": 1108.0,
+    "fcf": 1044.0,
+    "conv": 1.53
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 1377.0,
+    "pat": 844.0,
+    "fcf": 252.0,
+    "conv": 1.63
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 1920.0,
+    "pat": 935.0,
+    "fcf": 785.0,
+    "conv": 2.05
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 2136.0,
+    "pat": 1505.0,
+    "fcf": 439.0,
+    "conv": 1.42
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 2856.0,
+    "pat": 2003.0,
+    "fcf": 925.0,
+    "conv": 1.43
+   }
+  ],
+  "cash_conv_5y": 1.56,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (33.4% vs 14.9%): operating leverage"
+   },
+   {
+    "tone": "good",
+    "text": "Operating margin up 300 bps over 3 years"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 156% of profit"
+   },
+   {
+    "tone": "bad",
+    "text": "Cash cycle stretched by 26 days in 2 years (-23 → 3)"
+   },
+   {
+    "tone": "good",
+    "text": "Revenue growth accelerating (17% → 18% → 19% → 23%)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025 (outlook)",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/330724b4-fb72-4577-beb0-598b4672f77a.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f9b40997-8116-48ba-949a-ca2e7775e3c2.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "AR 2025",
+   "date": "2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/330724b4-fb72-4577-beb0-598b4672f77a.pdf",
+   "pages": 296,
+   "scanned": false,
+   "source": "annual_report",
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Approved capacity expansion for 3600+ beds over the next 5 years",
+     "horizon": "next 5 years",
+     "low": 3600,
+     "high": null,
+     "unit": "units",
+     "quote": "Approved Capacity Expansion for 3,600+ Beds Over the Next 5 Years",
+     "page": 32,
+     "speaker": null,
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Expand presence in locations such as Hyderabad, Bangalore, Sonarpur, Pune, Gurgaon, Chennai and Varanasi in the next 3 years",
+     "horizon": "next 3 years",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "In the next three years, Apollo Hospitals plan to expand its presence in locations such as Hyderabad, Bangalore, Sonarpur, Pune, Gurgaon, Chennai and Varanasi.",
+     "page": 112,
+     "speaker": null,
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Aim for 25% of total energy and 25% of electricity demands from renewable resources by FY25",
+     "horizon": "FY25",
+     "low": 25,
+     "high": 25,
+     "unit": "%",
+     "quote": "aiming for 25% of total energy and 25% of electricity demands to be supplied by renewable resources by FY25.",
+     "page": 264,
+     "speaker": null,
+     "verified": true,
+     "id": "g1.3"
+    }
+   ],
+   "claims": [],
+   "pushback": [],
+   "tone": "Confident and focused on expanding healthcare infrastructure, digital adoption, and preventive care."
+  }
+ ],
+ "business": {
+  "what_it_does": "Provides healthcare services, retail health and diagnostics, and operates a digital health and pharmacy distribution platform.",
+  "segments": [
+   {
+    "name": "Healthcare services",
+    "revenue": 144862,
+    "unit": "million",
+    "what": "Hospitals and hospital based services provided to patients",
+    "page": 226,
+    "share_pct": 75
+   },
+   {
+    "name": "Retail health and diagnostics",
+    "revenue": 14732,
+    "unit": "million",
+    "what": "Clinics and diagnostics services provided to customers",
+    "page": 226,
+    "share_pct": 8
+   },
+   {
+    "name": "Digital health and pharmacy distribution",
+    "revenue": 33181,
+    "unit": "million",
+    "what": "Pharmaceutical, FMCG, and private label products using digital platform",
+    "page": 226,
+    "share_pct": 17
+   },
+   {
+    "name": "Others",
+    "revenue": 257,
+    "unit": "million",
+    "what": "Components not engaged in other defined segments",
+    "page": 226,
+    "share_pct": 0
+   }
+  ],
+  "mix_note": "Total sales in digital health and pharmacy segment are made to Apollo Pharmacies Limited.",
+  "risks_mgmt_flags": [
+   "Total sales in digital health and pharmacy segment are made to Apollo Pharmacies Limited.",
+   "Customer concentration risk is limited due to the large and unrelated customer base."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f9b40997-8116-48ba-949a-ca2e7775e3c2.pdf",
+  "pages_read": [
+   134,
+   152,
+   155,
+   162,
+   188,
+   200,
+   208,
+   221,
+   225,
+   226,
+   240,
+   242
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Approved capacity expansion for 3600+ beds over the next 5 years",
+    "made_in": "AR 2025 call",
+    "delivered": "Deadline extends to 2030; no reported bed count to verify yet",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "Approved Capacity Expansion for 3,600+ Beds Over the Next 5 Years",
+    "page": 32,
+    "verified": true,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/330724b4-fb72-4577-beb0-598b4672f77a.pdf"
+   },
+   {
+    "ref": "g1.2",
+    "promise": "Expand presence in Hyderabad, Bangalore, Sonarpur, Pune, Gurgaon, Chennai and Varanasi in the next 3 years",
+    "made_in": "AR 2025 call",
+    "delivered": "3‑year horizon runs to 2028; location rollout not disclosed in numbers",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "In the next three years, Apollo Hospitals plan to expand its presence in locations such as Hyderabad, Bangalore, Sonarpur, Pune, Gurgaon, Chennai and Varanasi.",
+    "page": 112,
+    "verified": true,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/330724b4-fb72-4577-beb0-598b4672f77a.pdf"
+   },
+   {
+    "ref": "g1.3",
+    "promise": "Achieve 25% of total energy and electricity demand from renewable resources by FY25",
+    "made_in": "AR 2025 call",
+    "delivered": "FY25 ended Mar 2025; renewable share not reported, cannot confirm",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "aiming for 25% of total energy and 25% of electricity demands to be supplied by renewable resources by FY25.",
+    "page": 264,
+    "verified": true,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/330724b4-fb72-4577-beb0-598b4672f77a.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "None of these promises can be checked against reported numbers yet — no score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Revenue accelerated to 23% YoY in Q2 FY27, matching the narrative of rapid growth."
+   },
+   {
+    "agree": false,
+    "point": "Operating cash conversion remains modest (OCF/PAT ~1.4x) despite profit growth."
+   }
+  ],
+  "bull": [
+   "Revenue rose 23% YoY to ₹7,615 cr in Sep 2026.",
+   "EBITDA margin increased to 16% in Q2 FY27.",
+   "PAT grew 33.6% YoY to ₹660 cr in Sep 2026."
+  ],
+  "bear": [
+   "Free cash flow lagged operating cash flow (₹925 cr vs ₹2,856 cr in FY26).",
+   "Borrowings rose to ₹8,493 cr, D/E at 0.9.",
+   "Operating cash conversion ratio fell to 1.43x, indicating cash pressure."
+  ],
+  "watch": [
+   "Actual bed count versus 3,600‑bed target.",
+   "Renewable energy share by FY25.",
+   "Progress on new hospital locations."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 16397,
+   "out": 566,
+   "secs": 26.1,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14009,
+   "out": 352,
+   "secs": 3.1,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 2098,
+   "out": 873,
+   "secs": 2.7,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "promise_source": "annual_report",
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 3,
+  "fresh_calls": 3,
+  "tokens_in": 32504,
+  "tokens_out": 1791,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 74.6
+ }
+}

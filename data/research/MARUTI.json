@@ -1,0 +1,705 @@
+{
+ "symbol": "MARUTI",
+ "name": "Maruti Suzuki India Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:32:56",
+ "latest_call": "Apr 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 403350.0,
+   "pe": 30.0,
+   "roce": 18.9,
+   "roe": 14.3,
+   "ttm_revenue": 208192.0,
+   "ttm_pat": 13451.0,
+   "margin_latest_q": 9.0,
+   "de": 0.0,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 38764.0,
+    "rev_yoy": 15.7,
+    "op_profit": 5076.0,
+    "margin": 13.0,
+    "ebit_margin": 9.4,
+    "pat": 3727.0,
+    "pat_yoy": 16.2
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 40920.0,
+    "rev_yoy": 6.4,
+    "op_profit": 4844.0,
+    "margin": 12.0,
+    "ebit_margin": 8.3,
+    "pat": 3911.0,
+    "pat_yoy": -1.0
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 38605.0,
+    "rev_yoy": 7.9,
+    "op_profit": 4623.0,
+    "margin": 12.0,
+    "ebit_margin": 7.9,
+    "pat": 3792.0,
+    "pat_yoy": 0.9
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 42344.0,
+    "rev_yoy": 13.1,
+    "op_profit": 5086.0,
+    "margin": 12.0,
+    "ebit_margin": 8.0,
+    "pat": 3349.0,
+    "pat_yoy": 8.0
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 49904.0,
+    "rev_yoy": 28.7,
+    "op_profit": 5573.0,
+    "margin": 11.0,
+    "ebit_margin": 7.7,
+    "pat": 3879.0,
+    "pat_yoy": 4.1
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 52462.0,
+    "rev_yoy": 28.2,
+    "op_profit": 6158.0,
+    "margin": 12.0,
+    "ebit_margin": 8.4,
+    "pat": 3659.0,
+    "pat_yoy": -6.4
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 52470.0,
+    "rev_yoy": 35.9,
+    "op_profit": 4313.0,
+    "margin": 8.0,
+    "ebit_margin": 4.8,
+    "pat": 3447.0,
+    "pat_yoy": -9.1
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 53356.0,
+    "rev_yoy": 26.0,
+    "op_profit": 4764.0,
+    "margin": 9.0,
+    "ebit_margin": 5.3,
+    "pat": 2466.0,
+    "pat_yoy": -26.4
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 75660.0,
+    "op_profit": 7355.0,
+    "margin": 10.0,
+    "pat": 5678.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 70372.0,
+    "op_profit": 5411.0,
+    "margin": 8.0,
+    "pat": 4389.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 88330.0,
+    "op_profit": 5752.0,
+    "margin": 7.0,
+    "pat": 3880.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 118410.0,
+    "op_profit": 13122.0,
+    "margin": 11.0,
+    "pat": 8264.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 141858.0,
+    "op_profit": 18626.0,
+    "margin": 13.0,
+    "pat": 13488.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 152913.0,
+    "op_profit": 20224.0,
+    "margin": 13.0,
+    "pat": 14500.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 183316.0,
+    "op_profit": 21530.0,
+    "margin": 12.0,
+    "pat": 14680.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 15.7,
+   "rev_cagr_5y": 21.1,
+   "pat_cagr_3y": 21.1,
+   "pat_cagr_5y": 27.3,
+   "margin_change_3y_bps": 100
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 426.0,
+    "equity": 55333.0,
+    "de": 0.01
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 1248.0,
+    "equity": 74600.0,
+    "de": 0.02
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 119.0,
+    "equity": 85636.0,
+    "de": 0.0
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 87.0,
+    "equity": 96240.0,
+    "de": 0.0
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 102.0,
+    "equity": 107156.0,
+    "de": 0.0
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 83.0,
+    "equity": 109002.0,
+    "de": 0.0
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     7.0
+    ],
+    [
+     "Mar 2022",
+     8.0
+    ],
+    [
+     "Mar 2023",
+     10.0
+    ],
+    [
+     "Mar 2024",
+     12.0
+    ],
+    [
+     "Mar 2025",
+     16.0
+    ],
+    [
+     "Mar 2026",
+     11.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     22.0
+    ],
+    [
+     "Mar 2022",
+     20.0
+    ],
+    [
+     "Mar 2023",
+     23.0
+    ],
+    [
+     "Mar 2024",
+     19.0
+    ],
+    [
+     "Mar 2025",
+     23.0
+    ],
+    [
+     "Mar 2026",
+     31.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     73.0
+    ],
+    [
+     "Mar 2022",
+     54.0
+    ],
+    [
+     "Mar 2023",
+     58.0
+    ],
+    [
+     "Mar 2024",
+     62.0
+    ],
+    [
+     "Mar 2025",
+     57.0
+    ],
+    [
+     "Mar 2026",
+     61.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     -44.0
+    ],
+    [
+     "Mar 2022",
+     -26.0
+    ],
+    [
+     "Mar 2023",
+     -25.0
+    ],
+    [
+     "Mar 2024",
+     -31.0
+    ],
+    [
+     "Mar 2025",
+     -18.0
+    ],
+    [
+     "Mar 2026",
+     -19.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -50.0
+    ],
+    [
+     "Mar 2022",
+     -30.0
+    ],
+    [
+     "Mar 2023",
+     -30.0
+    ],
+    [
+     "Mar 2024",
+     -26.0
+    ],
+    [
+     "Mar 2025",
+     -24.0
+    ],
+    [
+     "Mar 2026",
+     -29.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 8856.0,
+    "pat": 4389.0,
+    "fcf": 6528.0,
+    "conv": 2.02
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 1840.0,
+    "pat": 3880.0,
+    "fcf": -1483.0,
+    "conv": 0.47
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 10815.0,
+    "pat": 8264.0,
+    "fcf": 2858.0,
+    "conv": 1.31
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 16801.0,
+    "pat": 13488.0,
+    "fcf": 7646.0,
+    "conv": 1.25
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 16180.0,
+    "pat": 14500.0,
+    "fcf": 5601.0,
+    "conv": 1.12
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 19100.0,
+    "pat": 14680.0,
+    "fcf": 8754.0,
+    "conv": 1.3
+   }
+  ],
+  "cash_conv_5y": 1.18,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (21.1% vs 15.7%): operating leverage"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 118% of profit"
+   },
+   {
+    "tone": "good",
+    "text": "Practically debt-free (D/E 0.0)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/Transcript_earnings_call_Maruti_Suzuki_Q4_FY_26.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/09d38ee6-9c30-4892-b483-8d7c34697a7a.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 4,
+   "quarter": "Q4 FY26",
+   "date": "Apr 2026",
+   "url": "https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/Transcript_earnings_call_Maruti_Suzuki_Q4_FY_26.pdf",
+   "pages": 12,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Expect Maruti Suzuki volume growth of over 10% in FY27 compared to last year",
+     "horizon": "FY27",
+     "low": 10.0,
+     "high": null,
+     "unit": "%",
+     "quote": "The broad expectation, which our Chairman also conveyed, is growth of over 10% this year as compared to the last year.",
+     "page": 8,
+     "speaker": "Rahul Bharti",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "capex",
+     "promise": "Plan INR 14,000 crores capex for the full year FY27",
+     "horizon": "FY27",
+     "low": 14000.0,
+     "high": 14000.0,
+     "unit": "cr",
+     "quote": "Overall, on the capex for FY 26-27, we are looking at a INR14,000 crores capex for the full year.",
+     "page": 11,
+     "speaker": "Arnab Roy",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Increase production capacity to 4 million units per annum in the medium term",
+     "horizon": "medium term",
+     "low": 4.0,
+     "high": null,
+     "unit": "x",
+     "quote": "Besides, the company has put plans in place to increase the production capacity to 4 million units per annum in the medium term.",
+     "page": 4,
+     "speaker": "Rahul Bharti",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Enable a network of over 1 lakh charging points across India by 2030",
+     "horizon": "2030",
+     "low": 100000.0,
+     "high": null,
+     "unit": "units",
+     "quote": "Aligned with Suzuki's global vision, we plan to introduce multiple EVs and to support this, our aim is to enable a network of over 1 lakh charging points across India by 2030, along with our dealers and charge point operators.",
+     "page": 4,
+     "speaker": "Rahul Bharti",
+     "verified": true,
+     "id": "g4.4"
+    },
+    {
+     "metric": "other",
+     "promise": "Second plant at Kharkhoda and fourth line at Hansalpur operational within FY27",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "The second plant at the Kharkhoda facility and the fourth production line at the Hansalpur facility in Gujarat is set to become operational within this financial year.",
+     "page": 4,
+     "speaker": "Rahul Bharti",
+     "verified": true,
+     "id": "g4.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Company recorded its highest ever quarterly sales of 676,209 units in Q4 FY26.",
+     "quote": "The company recorded its highest ever quarterly sales of 676,209 units, up 11.8% from quarter 4 of the previous financial year.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Achieved record net sales of about INR 500.79 billion in Q4 FY26.",
+     "quote": "During this period, the company achieved record net sales of about INR 500.79 billion compared to about INR388.39 billion in the same period a year ago.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Q4 FY26 EBIT reached an all-time high of over INR 44 billion.",
+     "quote": "Operating profit, EBIT for quarter 4 of this year increased by 30.4% over quarter 4 of the previous financial year, reaching an all-time high of over INR44 billion.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Achieved highest ever annual sales of 2.42 million vehicles in financial year 25-26.",
+     "quote": "First, the company recorded its highest ever annual sales of 2.42 million vehicles, which includes the highest ever export of 447,000 vehicles.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Margin headwinds and cost pressures going forward",
+     "quote": "Can you just give us more color on how do we think about incremental cost headwinds? You mentioned it was 80 basis points in quarter 4.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "CAFE norms, powertrain mix, and flex-fuel impact",
+     "quote": "Some sense on how are we thinking about the CAFE norms? What does it mean in terms of the powertrain mix, particularly interested in understanding what is the EV salience that we need in the block of 3 years or 2 years",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Mark-to-market impact on other income and bond yield reversal",
+     "quote": "If bond yields were to remain constant, do you think this completely reverses next quarter? And also just the other bookkeeping questions are around export revenue and the retail number, Maruti's retail number for the quarter?",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and optimistic regarding demand and expansion despite geopolitical and cost headwinds."
+  }
+ ],
+ "business": {
+  "what_it_does": "Manufactures, purchases, and sells motor vehicles, components, and spare parts.",
+  "segments": [
+   {
+    "name": "Domestic",
+    "revenue": 1477985,
+    "unit": "million",
+    "what": "Sells automobiles, components, and spare parts to customers in India.",
+    "page": 480,
+    "share_pct": 81
+   },
+   {
+    "name": "Overseas",
+    "revenue": 355175,
+    "unit": "million",
+    "what": "Sells automobiles, components, and spare parts to customers outside India.",
+    "page": 480,
+    "share_pct": 19
+   }
+  ],
+  "mix_note": "Overseas sales are primarily made to a single customer in Japan contributing more than 10% of total revenue.",
+  "risks_mgmt_flags": [
+   "Overseas sales rely primarily on a single customer based out of Japan.",
+   "Production capacity constraints limited the company's ability to serve customer demand on time."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/09d38ee6-9c30-4892-b483-8d7c34697a7a.pdf",
+  "pages_read": [
+   28,
+   123,
+   144,
+   145,
+   146,
+   156,
+   162,
+   199,
+   215,
+   216,
+   241,
+   255
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g4.1",
+    "promise": "Expect Maruti Suzuki volume growth of over 10% in FY27 compared to last year",
+    "made_in": "Q4 FY26",
+    "delivered": "Too early to verify full year FY27 volume growth from current quarterly numbers.",
+    "verdict": "too_early",
+    "checked_against": "FY27 volume growth",
+    "quote": "The broad expectation, which our Chairman also conveyed, is growth of over 10% this year as compared to the last year.",
+    "page": 8,
+    "verified": true,
+    "url": "https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/Transcript_earnings_call_Maruti_Suzuki_Q4_FY_26.pdf"
+   },
+   {
+    "ref": "g4.2",
+    "promise": "Plan INR 14,000 crores capex for the full year FY27",
+    "made_in": "Q4 FY26",
+    "delivered": "Full year FY27 capex cannot be fully verified yet as the year is ongoing.",
+    "verdict": "too_early",
+    "checked_against": "FY27 capex",
+    "quote": "Overall, on the capex for FY 26-27, we are looking at a INR14,000 crores capex for the full year.",
+    "page": 11,
+    "verified": true,
+    "url": "https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/Transcript_earnings_call_Maruti_Suzuki_Q4_FY_26.pdf"
+   },
+   {
+    "ref": "g4.3",
+    "promise": "Increase production capacity to 4 million units per annum in the medium term",
+    "made_in": "Q4 FY26",
+    "delivered": "Medium-term target is still pending confirmation.",
+    "verdict": "too_early",
+    "checked_against": "production capacity",
+    "quote": "Besides, the company has put plans in place to increase the production capacity to 4 million units per annum in the medium term.",
+    "page": 4,
+    "verified": true,
+    "url": "https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/Transcript_earnings_call_Maruti_Suzuki_Q4_FY_26.pdf"
+   },
+   {
+    "ref": "g4.4",
+    "promise": "Enable a network of over 1 lakh charging points across India by 2030",
+    "made_in": "Q4 FY26",
+    "delivered": "Target deadline is 2030, making it too early to assess.",
+    "verdict": "too_early",
+    "checked_against": "charging network count",
+    "quote": "Aligned with Suzuki's global vision, we plan to introduce multiple EVs and to support this, our aim is to enable a network of over 1 lakh charging points across India by 2030, along with our dealers and charge point operators.",
+    "page": 4,
+    "verified": true,
+    "url": "https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/Transcript_earnings_call_Maruti_Suzuki_Q4_FY_26.pdf"
+   },
+   {
+    "ref": "g4.5",
+    "promise": "Second plant at Kharkhoda and fourth line at Hansalpur operational within FY27",
+    "made_in": "Q4 FY26",
+    "delivered": "Financial year 27 is ongoing; operational status check is pending full year completion.",
+    "verdict": "too_early",
+    "checked_against": "plant operational status",
+    "quote": "The second plant at the Kharkhoda facility and the fourth production line at the Hansalpur facility in Gujarat is set to become operational within this financial year.",
+    "page": 4,
+    "verified": true,
+    "url": "https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/Transcript_earnings_call_Maruti_Suzuki_Q4_FY_26.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "None of these promises can be checked against reported numbers yet — no score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Despite record Q4 FY26 net sales of INR 52,462 crore, subsequent quarters show margin compression with EBIT% dropping to 4.8% in Jun 2026."
+   },
+   {
+    "agree": true,
+    "point": "The company remains practically debt-free with a D/E ratio of 0.0 as of Sep 2026, matching balance sheet strength claims."
+   },
+   {
+    "agree": false,
+    "point": "While annual revenue reached INR 183,316 crore in Mar 2026, PAT declined in Mar 2026 to INR 14,680 crore from INR 14,500 crore."
+   }
+  ],
+  "bull": [
+   "Operating cash flow reached INR 19,100 crore in Mar 2026, with free cash flow at INR 8,754 crore.",
+   "Practically debt-free balance sheet with D/E at 0.0 and equity at INR 109,002 crore as of Sep 2026.",
+   "Strong 5-year operating cash conversion at 118% of profit."
+  ],
+  "bear": [
+   "EBIT% declined significantly to 4.8% in Jun 2026 and 5.3% in Sep 2026 from 8.4% in Mar 2026.",
+   "PAT dropped 26.4% YoY in Sep 2026 to INR 2,466 crore.",
+   "EBITDA% dropped to 8.0% in Jun 2026 and 9.0% in Sep 2026 compared to 12.0% in Mar 2026."
+  ],
+  "watch": [
+   "FY27 capex progression",
+   "EBIT margins recovery",
+   "Volume growth delivery"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 9165,
+   "out": 1290,
+   "secs": 30.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 10170,
+   "out": 243,
+   "secs": 7.5,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 2647,
+   "out": 1024,
+   "secs": 31.5,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 3,
+  "fresh_calls": 3,
+  "tokens_in": 21982,
+  "tokens_out": 2557,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 83.9
+ }
+}

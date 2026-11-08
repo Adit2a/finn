@@ -1,0 +1,1133 @@
+{
+ "symbol": "LT",
+ "name": "Larsen & Toubro Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:28:43",
+ "latest_call": "Jul 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 565337.0,
+   "pe": 29.9,
+   "roce": 14.6,
+   "roe": 15.9,
+   "ttm_revenue": 300904.0,
+   "ttm_pat": 20895.0,
+   "margin_latest_q": 11.0,
+   "de": 1.24,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 64668.0,
+    "rev_yoy": 17.3,
+    "op_profit": 7898.0,
+    "margin": 12.0,
+    "ebit_margin": 10.6,
+    "pat": 3974.0,
+    "pat_yoy": 10.6
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 74392.0,
+    "rev_yoy": 10.9,
+    "op_profit": 9876.0,
+    "margin": 13.0,
+    "ebit_margin": 11.9,
+    "pat": 6156.0,
+    "pat_yoy": 22.8
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 63679.0,
+    "rev_yoy": 15.5,
+    "op_profit": 8024.0,
+    "margin": 13.0,
+    "ebit_margin": 11.0,
+    "pat": 4318.0,
+    "pat_yoy": 25.3
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 67984.0,
+    "rev_yoy": 10.4,
+    "op_profit": 8513.0,
+    "margin": 13.0,
+    "ebit_margin": 10.9,
+    "pat": 4678.0,
+    "pat_yoy": 14.1
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 71450.0,
+    "rev_yoy": 10.5,
+    "op_profit": 9190.0,
+    "margin": 13.0,
+    "ebit_margin": 11.4,
+    "pat": 3825.0,
+    "pat_yoy": -3.7
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 82762.0,
+    "rev_yoy": 11.3,
+    "op_profit": 10419.0,
+    "margin": 13.0,
+    "ebit_margin": 11.2,
+    "pat": 6133.0,
+    "pat_yoy": -0.4
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 67942.0,
+    "rev_yoy": 6.7,
+    "op_profit": 8149.0,
+    "margin": 12.0,
+    "ebit_margin": 10.5,
+    "pat": 4988.0,
+    "pat_yoy": 15.5
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 78750.0,
+    "rev_yoy": 15.8,
+    "op_profit": 8814.0,
+    "margin": 11.0,
+    "ebit_margin": 9.9,
+    "pat": 5949.0,
+    "pat_yoy": 27.2
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 145452.0,
+    "op_profit": 24553.0,
+    "margin": 17.0,
+    "pat": 10894.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 135979.0,
+    "op_profit": 23460.0,
+    "margin": 17.0,
+    "pat": 12921.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 156521.0,
+    "op_profit": 24314.0,
+    "margin": 16.0,
+    "pat": 10419.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 183341.0,
+    "op_profit": 27166.0,
+    "margin": 15.0,
+    "pat": 12531.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 221113.0,
+    "op_profit": 28758.0,
+    "margin": 13.0,
+    "pat": 15547.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 255734.0,
+    "op_profit": 34551.0,
+    "margin": 14.0,
+    "pat": 17673.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 285874.0,
+    "op_profit": 36345.0,
+    "margin": 13.0,
+    "pat": 18954.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 16.0,
+   "rev_cagr_5y": 16.0,
+   "pat_cagr_3y": 14.8,
+   "pat_cagr_5y": 8.0,
+   "margin_change_3y_bps": -200
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 125508.0,
+    "equity": 82408.0,
+    "de": 1.52
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 120650.0,
+    "equity": 89326.0,
+    "de": 1.35
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 116322.0,
+    "equity": 86359.0,
+    "de": 1.35
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 132409.0,
+    "equity": 97656.0,
+    "de": 1.36
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 125497.0,
+    "equity": 109290.0,
+    "de": 1.15
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 140300.0,
+    "equity": 113029.0,
+    "de": 1.24
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     113.0
+    ],
+    [
+     "Mar 2022",
+     108.0
+    ],
+    [
+     "Mar 2023",
+     89.0
+    ],
+    [
+     "Mar 2024",
+     81.0
+    ],
+    [
+     "Mar 2025",
+     77.0
+    ],
+    [
+     "Mar 2026",
+     77.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     51.0
+    ],
+    [
+     "Mar 2022",
+     44.0
+    ],
+    [
+     "Mar 2023",
+     41.0
+    ],
+    [
+     "Mar 2024",
+     32.0
+    ],
+    [
+     "Mar 2025",
+     30.0
+    ],
+    [
+     "Mar 2026",
+     36.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     401.0
+    ],
+    [
+     "Mar 2022",
+     378.0
+    ],
+    [
+     "Mar 2023",
+     302.0
+    ],
+    [
+     "Mar 2024",
+     255.0
+    ],
+    [
+     "Mar 2025",
+     208.0
+    ],
+    [
+     "Mar 2026",
+     265.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     -236.0
+    ],
+    [
+     "Mar 2022",
+     -227.0
+    ],
+    [
+     "Mar 2023",
+     -172.0
+    ],
+    [
+     "Mar 2024",
+     -143.0
+    ],
+    [
+     "Mar 2025",
+     -101.0
+    ],
+    [
+     "Mar 2026",
+     -151.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     28.0
+    ],
+    [
+     "Mar 2022",
+     0.0
+    ],
+    [
+     "Mar 2023",
+     2.0
+    ],
+    [
+     "Mar 2024",
+     -16.0
+    ],
+    [
+     "Mar 2025",
+     -33.0
+    ],
+    [
+     "Mar 2026",
+     -27.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 23074.0,
+    "pat": 12921.0,
+    "fcf": 22151.0,
+    "conv": 1.79
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 19164.0,
+    "pat": 10419.0,
+    "fcf": 16124.0,
+    "conv": 1.84
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 22777.0,
+    "pat": 12531.0,
+    "fcf": 18984.0,
+    "conv": 1.82
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 18266.0,
+    "pat": 15547.0,
+    "fcf": 14056.0,
+    "conv": 1.17
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 9151.0,
+    "pat": 17673.0,
+    "fcf": 5611.0,
+    "conv": 0.52
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 16741.0,
+    "pat": 18954.0,
+    "fcf": 12272.0,
+    "conv": 0.88
+   }
+  ],
+  "cash_conv_5y": 1.15,
+  "flags": [
+   {
+    "tone": "bad",
+    "text": "Operating margin down 200 bps over 3 years"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 115% of profit"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q2FY26%20Earnings%20Call%20Transcript%20.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Transcript%20Q3FY26.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q4%20FY26%20Earnings%20Call%20Transcript.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2027AnalysttransL&T-Earnings-Jul28-2026.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/825f9859-e7f2-4e90-8583-01a38850f795.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Oct 2025",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q2FY26%20Earnings%20Call%20Transcript%20.pdf",
+   "pages": 25,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "revenue",
+     "promise": "maintain full year revenue growth guidance at 15 percent for FY26",
+     "horizon": "FY26",
+     "low": null,
+     "high": 15,
+     "unit": "%",
+     "quote": "Accordingly, we maintain our full year revenue growth guidance at 15%.",
+     "page": 10,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "orders",
+     "promise": "exceed full year FY26 guidance of 10 percent growth in group order inflows",
+     "horizon": "FY26",
+     "low": 10,
+     "high": null,
+     "unit": "%",
+     "quote": "We are confident of exceeding our full year FY26 guidance of 10% growth in group order inflows for the current year.",
+     "page": 9,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "achieve full year EBITDA margin target of 8.5 percent for P and M business",
+     "horizon": "FY26",
+     "low": 8.5,
+     "high": 8.5,
+     "unit": "%",
+     "quote": "With the execution momentum expected to pick up in H2, we are reasonably confident to achieve our full year EBITDA margin target of 8.5%.",
+     "page": 10,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "other",
+     "promise": "working capital guidance for FY26 remains around 12 percent by March 2026",
+     "horizon": "March 2026",
+     "low": 12,
+     "high": 12,
+     "unit": "%",
+     "quote": "On Working Capital, our guidance for working capital for FY26 remains unchanged at around 12% by March 2026.",
+     "page": 10,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g1.4"
+    },
+    {
+     "metric": "debt",
+     "promise": "consummate Hyderabad Metro transaction by end of current fiscal FY26",
+     "horizon": "FY26",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "The contours of the final agreement are being finalized, and we expect this transaction to get consummated by the end of the current fiscal FY '26.",
+     "page": 4,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g1.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Group revenues grew 10 percent year on year in Q2 FY26",
+     "quote": "Our group revenues grew 10% Y-on-Y in Q2 FY '26.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Group order inflow stood at Rs 1,158 billion registering 45 percent growth year on year",
+     "quote": "During the quarter, the group order inflow stood at Rs 1,158 billion, registering a Y-on-Y growth of 45%",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Order book expanded to Rs 6.67 trillion as of September 2025 reflecting 31 percent Y-on-Y increase",
+     "quote": "the order book expanded to Rs 6.67 trillion as of September 2025, reflecting a 31% Y-on-Y increase",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated PAT for Q2 FY26 at Rs 39 billion is up by 16 percent",
+     "quote": "Our Consolidated PAT for Q2 FY '26 at Rs 39 billion is up by 16% as compared to Q2 of the previous year.",
+     "page": 6,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Hydrocarbon segment margin cost overruns and future risk",
+     "quote": "What were the reasons for the cost overrun on a generic basis? And how can we be sort of assured that going forward for a substantial international order book, some of these issues will not get repeated.",
+     "page": 16,
+     "verified": true
+    },
+    {
+     "topic": "Hyderabad Metro deal cash impact and SPV debt absorption",
+     "quote": "What is the total funding L&T did into Hyderabad Metro by way of both Equity and loss funding? And how much of that are we getting through this deal?",
+     "page": 14,
+     "verified": true
+    },
+    {
+     "topic": "Infrastructure segment execution slowdown and margin sustainability",
+     "quote": "So is it safe to assume Infrastructure execution will also be picking up? And associated question is on margins. So this quarter, despite revenue decline, there has been 30 bps margin expansion in Infrastructure segment.",
+     "page": 12,
+     "verified": true
+    }
+   ],
+   "tone": "Optimistic, confident, and transparent regarding legacy project cost overruns."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Jan 2026",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Transcript%20Q3FY26.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "orders",
+     "promise": "Exceed the 10% order inflow guidance for FY26",
+     "horizon": "FY26",
+     "low": 10,
+     "high": null,
+     "unit": "%",
+     "quote": "Basis the 9-month performance and the healthy prospects pipeline for the near term, we will be exceeding the 10% order inflow guidance for FY '26.",
+     "page": 8,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Achieve full year revenue growth guidance of 15%",
+     "horizon": "FY26",
+     "low": 15,
+     "high": 15,
+     "unit": "%",
+     "quote": "we are reasonably confident of achieving our full year revenue growth guidance of 15%.",
+     "page": 8,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Target Projects and Manufacturing EBITDA margin of 8.5% for the full year FY26",
+     "horizon": "FY26",
+     "low": 8.5,
+     "high": 8.5,
+     "unit": "%",
+     "quote": "Our Projects & Manufacturing EBITDA at 7.9% for 9 months of the current year is in line with the target that we have set ourselves at 8.5% for the full year FY '26.",
+     "page": 8,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "debt",
+     "promise": "Close the year with a Net Working Capital to Revenue target of around 10%",
+     "horizon": "FY26",
+     "low": 10,
+     "high": 10,
+     "unit": "%",
+     "quote": "our Net Working Capital to Revenue has improved sharply to 8.2% as of December '25, and we expect to close the year with a revised target of around 10%.",
+     "page": 9,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g2.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Witnessed highest ever quarterly order inflows in Q3 FY26 of Rs 1,356 billion",
+     "quote": "We witnessed our highest ever quarterly order inflows in Q3 FY '26 of Rs 1,356 billion, recording a 17% growth year-on-year",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Projects and Manufacturing order inflow crossed Rs 1 trillion for the first time",
+     "quote": "Within this, the Projects & Manufacturing portfolio crossed the Rs 1 trillion order inflow marked for the first time, with order inflows of Rs 1.16 trillion",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Recurring PAT reported strong growth of 31% year-on-year at Rs 44 billion",
+     "quote": "Our Recurring PAT at Rs 44 billion reported a strong growth of 31% Y-on-Y.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "L&T Realty recorded highest ever presales in a quarter of approx Rs 50 billion",
+     "quote": "this segment witnessed robust order inflows during the quarter with L&T Realty recording its highest ever presales in a quarter of approx Rs 50 billion.",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Kuwait project cancellations and impact",
+     "quote": "The question is, are you still positive for the next fiscal for Kuwait or coming quarters? The second related question is that even if this project comes back, do you think this will come at a much lower scope and size?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Hydrocarbon margin pressure and duration",
+     "quote": "And, how long can the margin pressure in Hydrocarbon specifically, persist? While you have called out that it will be weak in second half of the fiscal, but how long can this persist based on your evaluation of the Hydrocarbon order backlog?",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Subdued domestic infrastructure growth and water sector drag",
+     "quote": "My second question is in relation to the subdued performance in the domestic Infra segment in terms of growth, mainly dragged down by Water, as you have pointed out. So is there any clarity on what is happening in water? How long can this drag sort of continue for the domestic Infra business on growth?",
+     "page": 10,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic about execution momentum and pipeline conversion despite specific legacy segment pressures."
+  },
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q4%20FY26%20Earnings%20Call%20Transcript.pdf",
+   "pages": 28,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "orders",
+     "promise": "FY27 group order inflows to grow 10% to 12%",
+     "horizon": "FY27",
+     "low": 10,
+     "high": 12,
+     "unit": "%",
+     "quote": "we expect the group order inflows to grow in the range of 10% to 12% in FY27.",
+     "page": 13,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "FY27 revenue growth in the range of 10% to 12%",
+     "horizon": "FY27",
+     "low": 10,
+     "high": 12,
+     "unit": "%",
+     "quote": "On Revenue, we expect growth to be in the range of 10% to 12% for FY27.",
+     "page": 13,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "FY27 Projects, Products and Manufacturing margin stable at 7.8%",
+     "horizon": "FY27",
+     "low": 7.8,
+     "high": 7.8,
+     "unit": "%",
+     "quote": "we expect the same to be stable as well in FY27 as well.",
+     "page": 13,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "other",
+     "promise": "FY27 working capital to sales ratio around 10%",
+     "horizon": "FY27",
+     "low": 10,
+     "high": 10,
+     "unit": "%",
+     "quote": "Accordingly, we are guiding the working capital to be around 10% in FY27",
+     "page": 13,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g3.4"
+    },
+    {
+     "metric": "orders",
+     "promise": "Lakshya 31 order inflow growth CAGR of 10% to 12%",
+     "horizon": "next five years",
+     "low": 10,
+     "high": 12,
+     "unit": "%",
+     "quote": "over the next five years, we are targeting order inflow growth at a CAGR return of 10% to 12%",
+     "page": 13,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g3.5"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Lakshya 31 revenue growth CAGR of 12% to 15%",
+     "horizon": "next five years",
+     "low": 12,
+     "high": 15,
+     "unit": "%",
+     "quote": "revenue growth of 12% to 15%, and a Return on Equity in the range of 16% to 17%.",
+     "page": 13,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g3.6"
+    },
+    {
+     "metric": "other",
+     "promise": "Lakshya 31 Return on Equity in the range of 16% to 17%",
+     "horizon": "next five years",
+     "low": 16,
+     "high": 17,
+     "unit": "%",
+     "quote": "and a Return on Equity in the range of 16% to 17%.",
+     "page": 13,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g3.7"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Order book stands at Rs 7.40 trillion, up 28% YoY as of March 2026",
+     "quote": "our order book stands at Rs 7.40 trillion as of March 2026, a 28% YoY increase",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Q4 FY26 group revenues grew 11% YoY",
+     "quote": "The group revenues grew 11% YoY, led by steady progress across major projects",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Net Working Capital to Revenue ratio improved sharply to 4.1%",
+     "quote": "As of March 2026, the Net Working Capital to Revenue ratio improved sharply to 4.1%",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Realty pre-sales more than doubled to Rs 94 billion in FY26",
+     "quote": "Realty business has also more than doubled its pre-sales to Rs 94 billion in FY26",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Middle East fixed-price contracts and cost inflation risks",
+     "quote": "Parikshit, this is Sarma here. Let me take this question. Firstly, instead of calling it as a risk...",
+     "page": 14,
+     "verified": true
+    },
+    {
+     "topic": "Reasons for Q4 revenue miss and margin drop",
+     "quote": "is it correct assessment? And how much should you attribute it to geopolitical situation?",
+     "page": 14,
+     "verified": true
+    },
+    {
+     "topic": "Energy segment margin recovery and legacy project cost overruns",
+     "quote": "So, as the situation normalizes, the normalized run rate of PPM margins will not be stuck at 7.7%, 7.8%?",
+     "page": 20,
+     "verified": true
+    }
+   ],
+   "tone": "Pragmatic, resilient, and constructive regarding long-term opportunities despite near-term geopolitical and supply chain headwinds."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2027AnalysttransL&T-Earnings-Jul28-2026.pdf",
+   "pages": 26,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "orders",
+     "promise": "Achieve order inflow growth guidance of 10% to 12% band for the current year",
+     "horizon": "FY27",
+     "low": 10,
+     "high": 12,
+     "unit": "%",
+     "quote": "we remain confident of achieving our order inflow growth guidance of 10% to 12% band for the current year.",
+     "page": 10,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Achieve 10% to 12% revenue growth guidance for FY27",
+     "horizon": "FY27",
+     "low": 10,
+     "high": 12,
+     "unit": "%",
+     "quote": "For now, we remain committed to our FY '27 growth guidance of 10% to 12% revenue growth guidance.",
+     "page": 11,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Target margin of around 7.8% for FY27 with respect to the PPM portfolio",
+     "horizon": "FY27",
+     "low": 7.8,
+     "high": 7.8,
+     "unit": "%",
+     "quote": "In line with our Revenue growth guidance, we continue to target the margin of around 7.8% for FY '27 with respect to the PPM portfolio.",
+     "page": 11,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Maintain FY27 working capital guidance of around 10%",
+     "horizon": "FY27",
+     "low": 10,
+     "high": 10,
+     "unit": "%",
+     "quote": "we are maintaining our FY '27 working capital guidance of around 10%.",
+     "page": 11,
+     "speaker": "P. Ramakrishnan",
+     "verified": true,
+     "id": "g4.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Group order inflows at Rs. 1,080 billion registered 14% Y-o-Y growth.",
+     "quote": "Reflecting this momentum, the group order inflows at Rs. 1,080 billion, registered a 14% Y-on-Y growth.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Group revenues for Q1 FY27 stood at Rs. 679 billion, registering 7% Y-o-Y growth.",
+     "quote": "Reflecting these factors, the group revenues for Q1 FY '27 stood at Rs. 679 billion, registering a 7% Y-on-Y growth",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Group PAT for Q1 FY27 at Rs. 41 billion up 14% Y-o-Y basis.",
+     "quote": "Our group PAT for Q1 FY '27 at Rs. 41 billion as up by 14% Y-on-Y basis.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Total order book stood at Rs. 7.79 trillion as of June 2026, up 27% Y-o-Y.",
+     "quote": "The total order book stood at Rs. 7.79 trillion as of June ‘26, up by 27% as compared to the June 25 level.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Middle East war impact on execution and cost escalation",
+     "quote": "My first question is on the Middle East. What would have been the impact of the revenue as per your assessment in the first quarter? And do you think that there will be a need to make a provision on the projects due to cost escalation if this continues for a slightly longer time? And have the things improved in terms of execution compared to last quarter as we talk?",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Water business execution issues and credit provisioning",
+     "quote": "So, first question pertains to you highlighted about the water related impact on execution. I recollect I think in Q4, we were talking about the water projects getting improved and probably the clearances are now getting better and the collection can improve. So, what went wrong with respect to the water’s business and what is the kind of order book collections, which is there? Any update on this side?",
+     "page": 14,
+     "verified": true
+    },
+    {
+     "topic": "Slower revenue growth relative to order book growth",
+     "quote": "The related question was that we have seen a strong growth in order inflows and order book last couple of years. Some of the revenue growth has not been catching up, so it's not translating into execution. So, is it largely because of these issues that the client is not giving clearance on the cost side and that is why there is an elongation?",
+     "page": 22,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and reassuring while addressing geopolitical disruptions and maintaining guidance."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company engages in engineering, construction, manufacturing, technology services, financial services, and development projects.",
+  "segments": [
+   {
+    "name": "Infrastructure Projects",
+    "revenue": 133909.95,
+    "unit": "crore",
+    "what": "Engineering and construction services for infrastructure projects",
+    "page": 681,
+    "share_pct": 47
+   },
+   {
+    "name": "Energy Projects",
+    "revenue": 54864.85,
+    "unit": "crore",
+    "what": "EPC solutions in hydrocarbon, power generation, and clean energy",
+    "page": 681,
+    "share_pct": 19
+   },
+   {
+    "name": "Hi-Tech Manufacturing",
+    "revenue": 14108.84,
+    "unit": "crore",
+    "what": "Critical equipment and systems for process, nuclear, and defense sectors",
+    "page": 681,
+    "share_pct": 5
+   },
+   {
+    "name": "IT & Technology Services",
+    "revenue": 53497.23,
+    "unit": "crore",
+    "what": "IT, integrated engineering, cloud, data centers, and chip design",
+    "page": 681,
+    "share_pct": 19
+   },
+   {
+    "name": "Financial Services",
+    "revenue": 17283.43,
+    "unit": "crore",
+    "what": "Retail finance and financial services",
+    "page": 681,
+    "share_pct": 6
+   },
+   {
+    "name": "Development Projects",
+    "revenue": 5116.81,
+    "unit": "crore",
+    "what": "Hyderabad metro, toll roads, and power generation development",
+    "page": 681,
+    "share_pct": 2
+   },
+   {
+    "name": "Others",
+    "revenue": 7093.25,
+    "unit": "crore",
+    "what": "Realty, construction equipment, industrial valves, and machinery",
+    "page": 681,
+    "share_pct": 2
+   }
+  ],
+  "mix_note": "One customer group accounts for 10% or more of total Group Revenue.",
+  "risks_mgmt_flags": [
+   "One customer group account for 10% or more of the total Group Revenue"
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/825f9859-e7f2-4e90-8583-01a38850f795.pdf",
+  "pages_read": [
+   107,
+   515,
+   549,
+   550,
+   551,
+   637,
+   681,
+   682,
+   683,
+   684,
+   685,
+   686
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Maintain full year revenue growth guidance at 15 percent for FY26",
+    "made_in": "Q2 FY26 call",
+    "delivered": "Reported FY26 annual revenue grew to Rs 285,874.0 crore, representing an annual growth of 11.8% over FY25 Rs 255,734.0 crore, missing the 15% target.",
+    "verdict": "missed",
+    "checked_against": "FY26 annual revenue",
+    "quote": "Accordingly, we maintain our full year revenue growth guidance at 15%.",
+    "page": 10,
+    "verified": true,
+    "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q2FY26%20Earnings%20Call%20Transcript%20.pdf"
+   },
+   {
+    "ref": "g1.3",
+    "promise": "Achieve full year EBITDA margin target of 8.5 percent for P and M business",
+    "made_in": "Q2 FY26 call",
+    "delivered": "Segment-level promises can only be checked against what management later reported; company-level reported EBITDA% for FY26 was 13.0%.",
+    "verdict": "too_early",
+    "checked_against": "FY26 annual EBITDA%",
+    "quote": "With the execution momentum expected to pick up in H2, we are reasonably confident to achieve our full year EBITDA margin target of 8.5%.",
+    "page": 10,
+    "verified": true,
+    "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q2FY26%20Earnings%20Call%20Transcript%20.pdf"
+   },
+   {
+    "ref": "g1.5",
+    "promise": "Consummate Hyderabad Metro transaction by end of current fiscal FY26",
+    "made_in": "Q2 FY26 call",
+    "delivered": "Document text lacks confirmation of the transaction's completion by March 2026.",
+    "verdict": "too_early",
+    "checked_against": "subsequent call claims and financial disclosures",
+    "quote": "The contours of the final agreement are being finalized, and we expect this transaction to get consummated by the end of the current fiscal FY '26.",
+    "page": 4,
+    "verified": true,
+    "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q2FY26%20Earnings%20Call%20Transcript%20.pdf"
+   },
+   {
+    "ref": "g2.4",
+    "promise": "Close the year with a Net Working Capital to Revenue target of around 10%",
+    "made_in": "Q3 FY26 call",
+    "delivered": "Management claimed in Q4 FY26 that Net Working Capital to Revenue improved sharply to 4.1%.",
+    "verdict": "delivered",
+    "checked_against": "Q4 FY26 management claims",
+    "quote": "our Net Working Capital to Revenue has improved sharply to 8.2% as of December '25, and we expect to close the year with a revised target of around 10%.",
+    "page": 9,
+    "verified": true,
+    "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Transcript%20Q3FY26.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 6,
+   "line": "Management missed the FY26 revenue growth target of 15% (actual 11.8%), but delivered on working capital."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Management guided for 15% revenue growth in FY26, but full-year reported revenue grew only 11.8% to Rs 285,874.0 crore."
+   },
+   {
+    "agree": true,
+    "point": "Order book expansion claims are backed by reported figures, rising 27% YoY to Rs 7.79 trillion as of June 2026."
+   },
+   {
+    "agree": true,
+    "point": "Management claimed strong cash conversion, supported by reported operating cash flow of Rs 16,741.0 crore for FY26."
+   }
+  ],
+  "bull": [
+   "Order book reached Rs 7.79 trillion as of June 2026, up 27% year-on-year.",
+   "FY26 annual revenue grew to Rs 285,874.0 crore from Rs 255,734.0 crore in FY25.",
+   "Robust 5-year operating cash flow conversion at 115% of profit, with FY26 OCF at Rs 16,741.0 crore."
+  ],
+  "bear": [
+   "Operating margins are under pressure, with EBIT% declining to 9.9% in Sep 2026 from 10.9% in Sep 2025.",
+   "Total borrowings expanded to Rs 140,300.0 crore as of Sep 2026, up from Rs 125,497.0 crore in March 2026.",
+   "Failed to meet the 15% full-year revenue growth guidance in FY26, achieving 11.8%."
+  ],
+  "watch": [
+   "Check whether FY27 revenue growth lands in the guided 10% to 12% band.",
+   "Monitor debt levels following borrowings rising to Rs 140,300.0 crore in Sep 2026.",
+   "Track execution of the massive Rs 7.79 trillion order book."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 17701,
+   "out": 1205,
+   "secs": 9.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 15667,
+   "out": 1131,
+   "secs": 4.7,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 21896,
+   "out": 1365,
+   "secs": 25.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 18375,
+   "out": 1231,
+   "secs": 23.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11423,
+   "out": 549,
+   "secs": 31.7,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 4192,
+   "out": 1191,
+   "secs": 27.6,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 89254,
+  "tokens_out": 6672,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 129.9
+ }
+}

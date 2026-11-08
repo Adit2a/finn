@@ -1,0 +1,59 @@
+name: Daily refresh
+
+# After every NSE session: rebuild the brief, send Telegram alerts, save the new data to the
+# repo (so nothing is lost when the free host restarts) and redeploy the Space with it.
+on:
+  schedule:
+    - cron: "15 11 * * 1-5"   # 16:45 IST, Monday-Friday
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Restore download and model cache
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: finn-cache-${{ github.run_id }}
+          restore-keys: finn-cache-
+
+      - run: pip install -r requirements.txt huggingface_hub
+
+      - name: Rebuild brief and send alerts
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          FINN_PUBLIC_URL: ${{ vars.FINN_PUBLIC_URL }}
+        run: python scripts/refresh.py
+
+      - name: Save new data to the repo
+        run: |
+          git config user.name "finn-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "data: refresh $(date -u +%F)"
+          git push
+
+      - name: Redeploy the Space with fresh data
+        if: ${{ vars.HF_SPACE != '' }}
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python scripts/deploy_hf.py --space "${{ vars.HF_SPACE }}"

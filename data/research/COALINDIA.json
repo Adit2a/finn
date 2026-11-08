@@ -1,0 +1,668 @@
+{
+ "symbol": "COALINDIA",
+ "name": "Coal India Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T22:33:43",
+ "latest_call": "May 2025",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 247745.0,
+   "pe": 7.43,
+   "roce": 35.0,
+   "roe": 28.2,
+   "ttm_revenue": 171848.0,
+   "ttm_pat": 33471.0,
+   "margin_latest_q": 19.0,
+   "de": 0.12,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 36859.0,
+    "rev_yoy": 1.9,
+    "op_profit": 12317.0,
+    "margin": 33.0,
+    "ebit_margin": 26.6,
+    "pat": 8491.0,
+    "pat_yoy": -17.5
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 37825.0,
+    "rev_yoy": -1.0,
+    "op_profit": 11790.0,
+    "margin": 31.0,
+    "ebit_margin": 23.8,
+    "pat": 9593.0,
+    "pat_yoy": 12.5
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 42919.0,
+    "rev_yoy": 17.7,
+    "op_profit": 12588.0,
+    "margin": 29.0,
+    "ebit_margin": 24.0,
+    "pat": 8788.0,
+    "pat_yoy": -19.7
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 36553.0,
+    "rev_yoy": 17.2,
+    "op_profit": 6593.0,
+    "margin": 18.0,
+    "ebit_margin": 10.7,
+    "pat": 4167.0,
+    "pat_yoy": -33.6
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 34924.0,
+    "rev_yoy": -5.2,
+    "op_profit": 9331.0,
+    "margin": 27.0,
+    "ebit_margin": 20.4,
+    "pat": 7166.0,
+    "pat_yoy": -15.6
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 46490.0,
+    "rev_yoy": 22.9,
+    "op_profit": 12673.0,
+    "margin": 27.0,
+    "ebit_margin": 20.9,
+    "pat": 10908.0,
+    "pat_yoy": 13.7
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 46255.0,
+    "rev_yoy": 7.8,
+    "op_profit": 12069.0,
+    "margin": 26.0,
+    "ebit_margin": 21.1,
+    "pat": 8850.0,
+    "pat_yoy": 0.7
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 44179.0,
+    "rev_yoy": 20.9,
+    "op_profit": 8499.0,
+    "margin": 19.0,
+    "ebit_margin": 13.9,
+    "pat": 6547.0,
+    "pat_yoy": 57.1
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 96080.0,
+    "op_profit": 21581.0,
+    "margin": 22.0,
+    "pat": 16700.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 90026.0,
+    "op_profit": 18628.0,
+    "margin": 21.0,
+    "pat": 12702.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 109715.0,
+    "op_profit": 24721.0,
+    "margin": 23.0,
+    "pat": 17378.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 138252.0,
+    "op_profit": 44232.0,
+    "margin": 32.0,
+    "pat": 31723.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 144762.0,
+    "op_profit": 47971.0,
+    "margin": 33.0,
+    "pat": 37369.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 169177.0,
+    "op_profit": 43102.0,
+    "margin": 25.0,
+    "pat": 35450.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 168400.0,
+    "op_profit": 37172.0,
+    "margin": 22.0,
+    "pat": 31071.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 6.8,
+   "rev_cagr_5y": 13.3,
+   "pat_cagr_3y": -0.7,
+   "pat_cagr_5y": 19.6,
+   "margin_change_3y_bps": -1000
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 3514.0,
+    "equity": 43143.0,
+    "de": 0.08
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 4331.0,
+    "equity": 60843.0,
+    "de": 0.07
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 6523.0,
+    "equity": 82730.0,
+    "de": 0.08
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 9146.0,
+    "equity": 101721.0,
+    "de": 0.09
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 14072.0,
+    "equity": 119102.0,
+    "de": 0.12
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 15668.0,
+    "equity": 127470.0,
+    "de": 0.12
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     80.0
+    ],
+    [
+     "Mar 2022",
+     38.0
+    ],
+    [
+     "Mar 2023",
+     34.0
+    ],
+    [
+     "Mar 2024",
+     33.0
+    ],
+    [
+     "Mar 2025",
+     27.0
+    ],
+    [
+     "Mar 2026",
+     31.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     80.0
+    ],
+    [
+     "Mar 2022",
+     38.0
+    ],
+    [
+     "Mar 2023",
+     34.0
+    ],
+    [
+     "Mar 2024",
+     33.0
+    ],
+    [
+     "Mar 2025",
+     27.0
+    ],
+    [
+     "Mar 2026",
+     31.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     54.0
+    ],
+    [
+     "Mar 2022",
+     -3.0
+    ],
+    [
+     "Mar 2023",
+     -11.0
+    ],
+    [
+     "Mar 2024",
+     25.0
+    ],
+    [
+     "Mar 2025",
+     -4.0
+    ],
+    [
+     "Mar 2026",
+     4.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 10592.0,
+    "pat": 12702.0,
+    "fcf": -260.0,
+    "conv": 0.83
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 41107.0,
+    "pat": 17378.0,
+    "fcf": 29111.0,
+    "conv": 2.37
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 35734.0,
+    "pat": 31723.0,
+    "fcf": 20523.0,
+    "conv": 1.13
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 18103.0,
+    "pat": 37369.0,
+    "fcf": 1353.0,
+    "conv": 0.48
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 30237.0,
+    "pat": 35450.0,
+    "fcf": 15958.0,
+    "conv": 0.85
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 43215.0,
+    "pat": 31071.0,
+    "fcf": 30783.0,
+    "conv": 1.39
+   }
+  ],
+  "cash_conv_5y": 1.1,
+  "flags": [
+   {
+    "tone": "bad",
+    "text": "Profit lagging sales over 3y (-0.7% vs 6.8%): margins under pressure"
+   },
+   {
+    "tone": "bad",
+    "text": "Operating margin down 1000 bps over 3 years"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 110% of profit"
+   },
+   {
+    "tone": "bad",
+    "text": "Borrowings 2.4x in 3 years (₹6,523 → ₹15,668 cr)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025 (outlook)",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5690e342-8065-42d0-b598-274aa8ef4fa9.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0a545232-5986-454c-b936-70e14712b84e.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "AR 2025",
+   "date": "2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5690e342-8065-42d0-b598-274aa8ef4fa9.pdf",
+   "pages": 371,
+   "scanned": false,
+   "source": "annual_report",
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Set capital expenditure target of 16,000 crore for FY26",
+     "horizon": "FY26",
+     "low": 16000,
+     "high": 16000,
+     "unit": "cr",
+     "quote": "For FY26, we have set a capital expenditure target of J 16,000 crore.",
+     "page": 22,
+     "speaker": null,
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Set a Net Zero target of 3 GW by FY27-28",
+     "horizon": "FY27-28",
+     "low": 3,
+     "high": 3,
+     "unit": "units",
+     "quote": "we have also set a Net Zero target of 3 GW by FY27-28.",
+     "page": 22,
+     "speaker": null,
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Intend to ramp up renewable capacity by another 6.5 GW by FY 29-30",
+     "horizon": "FY 29-30",
+     "low": 6.5,
+     "high": 6.5,
+     "unit": "units",
+     "quote": "We further intend to ramp up our renewable capacity by another 6.5 GW by FY 29-30.",
+     "page": 22,
+     "speaker": null,
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "volume",
+     "promise": "Roadmap to reach the production target of 1 billion tonne by FY 28-29",
+     "horizon": "FY 28-29",
+     "low": 1,
+     "high": 1,
+     "unit": "units",
+     "quote": "our roadmap is to reach the production target of 1 billion tonne by FY 28-29.",
+     "page": 22,
+     "speaker": null,
+     "verified": true,
+     "id": "g1.4"
+    },
+    {
+     "metric": "volume",
+     "promise": "Production target given of 875 MTs and coal off-take target specified at 900 MTs for FY 2025-26",
+     "horizon": "FY 2025-26",
+     "low": 875,
+     "high": 900,
+     "unit": "units",
+     "quote": "For FY 2025-26 CIL has been given a production target of 875 MTs and CIL is aiming to achieve the desired growth. Coal off-take target has been specified at 900 MTs.",
+     "page": 46,
+     "speaker": null,
+     "verified": true,
+     "id": "g1.5"
+    }
+   ],
+   "claims": [],
+   "pushback": [],
+   "tone": "Confident and forward-looking, emphasizing production growth, sustainability targets, and strategic diversification into new energy sectors."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company mines and sells coal, generates power, and develops renewable energy, joint ventures, and related infrastructure projects.",
+  "segments": [
+   {
+    "name": "Sale of Products",
+    "revenue": 165186.01,
+    "unit": "crore",
+    "what": "Sells coal and related products to power and non-power sectors.",
+    "page": 70,
+    "share_pct": 99
+   },
+   {
+    "name": "Sale of Services",
+    "revenue": 1231.29,
+    "unit": "crore",
+    "what": "Provides services to customers.",
+    "page": 70,
+    "share_pct": 1
+   }
+  ],
+  "mix_note": null,
+  "risks_mgmt_flags": [
+   "Softer average realization and increased expenditure impact profitability margins.",
+   "Foreign currency risk from future commercial transactions and foreign currency imports."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0a545232-5986-454c-b936-70e14712b84e.pdf",
+  "pages_read": [
+   70,
+   79,
+   185,
+   186,
+   201,
+   220,
+   228,
+   240,
+   265,
+   268,
+   270,
+   273
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Capex target of 16,000 cr for FY26",
+    "made_in": "AR 2025 call",
+    "delivered": "Capex not disclosed in reported data; cannot assess yet",
+    "verdict": "too_early",
+    "checked_against": "N/A",
+    "quote": "For FY26, we have set a capital expenditure target of J 16,000 crore.",
+    "page": 22,
+    "verified": true,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5690e342-8065-42d0-b598-274aa8ef4fa9.pdf"
+   },
+   {
+    "ref": "g1.2",
+    "promise": "Net‑Zero 3 GW by FY27‑28",
+    "made_in": "AR 2025 call",
+    "delivered": "No renewable capacity figures reported; deadline not reached",
+    "verdict": "too_early",
+    "checked_against": "N/A",
+    "quote": "we have also set a Net Zero target of 3 GW by FY27-28.",
+    "page": 22,
+    "verified": true,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5690e342-8065-42d0-b598-274aa8ef4fa9.pdf"
+   },
+   {
+    "ref": "g1.3",
+    "promise": "Add 6.5 GW renewable by FY29‑30",
+    "made_in": "AR 2025 call",
+    "delivered": "No data on renewable build‑out; deadline far future",
+    "verdict": "too_early",
+    "checked_against": "N/A",
+    "quote": "We further intend to ramp up our renewable capacity by another 6.5 GW by FY 29-30.",
+    "page": 22,
+    "verified": true,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5690e342-8065-42d0-b598-274aa8ef4fa9.pdf"
+   },
+   {
+    "ref": "g1.4",
+    "promise": "Reach 1 bn t production by FY28‑29",
+    "made_in": "AR 2025 call",
+    "delivered": "Production volumes not disclosed; deadline not reached",
+    "verdict": "too_early",
+    "checked_against": "N/A",
+    "quote": "our roadmap is to reach the production target of 1 billion tonne by FY 28-29.",
+    "page": 22,
+    "verified": true,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5690e342-8065-42d0-b598-274aa8ef4fa9.pdf"
+   },
+   {
+    "ref": "g1.5",
+    "promise": "Produce 875 MT and off‑take 900 MT in FY25‑26",
+    "made_in": "AR 2025 call",
+    "delivered": "Production/off‑take numbers absent; cannot verify",
+    "verdict": "too_early",
+    "checked_against": "N/A",
+    "quote": "For FY 2025-26 CIL has been given a production target of 875 MTs and CIL is aiming to achieve the desired growth. Coal off-take target has been specified at 900 MTs.",
+    "page": 46,
+    "verified": true,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5690e342-8065-42d0-b598-274aa8ef4fa9.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "None of these promises can be checked against reported numbers yet — no score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Management touts growth while EBITDA% fell from 33% (Mar 2024) to 22% (Mar 2026)."
+   },
+   {
+    "agree": false,
+    "point": "PAT declined from 37,369 cr (Mar 2024) to 31,071 cr (Mar 2026) despite higher revenue."
+   },
+   {
+    "agree": false,
+    "point": "Operating cash conversion remains modest (1.39× PAT in Mar 2026) versus strong cash‑conversion claim."
+   }
+  ],
+  "bull": [
+   "Q2 FY27 PAT rose 57.1% YoY to 6,547 cr, showing upside potential.",
+   "Revenue grew 20.9% YoY in Sep 2026, indicating demand strength.",
+   "Free cash flow reached 30,783 cr in Mar 2026, supporting debt reduction."
+  ],
+  "bear": [
+   "EBITDA margin slipped to 19% in Sep 2026 from 33% in Mar 2024.",
+   "Operating margin down 1,000 bps over three years, signaling cost pressure.",
+   "Borrowings rose to 15,668 cr by Sep 2026, a 2.4× increase in three years."
+  ],
+  "watch": [
+   "Capex spending trends in FY27.",
+   "Renewable capacity build‑out disclosures.",
+   "Production volume reporting for FY26‑27."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 18107,
+   "out": 1041,
+   "secs": 11.4,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13771,
+   "out": 217,
+   "secs": 8.8,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 2225,
+   "out": 1072,
+   "secs": 4.8,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "promise_source": "annual_report",
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 3,
+  "fresh_calls": 1,
+  "tokens_in": 34103,
+  "tokens_out": 2330,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 6.0
+ }
+}

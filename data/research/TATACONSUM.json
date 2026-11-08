@@ -1,0 +1,1052 @@
+{
+ "symbol": "TATACONSUM",
+ "name": "Tata Consumer Products Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:43:40",
+ "latest_call": "Oct 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 107016.0,
+   "pe": 62.2,
+   "roce": 9.24,
+   "roe": 7.35,
+   "ttm_revenue": 21556.0,
+   "ttm_pat": 1706.0,
+   "margin_latest_q": 14.0,
+   "de": 0.11,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 4444.0,
+    "rev_yoy": 16.8,
+    "op_profit": 565.0,
+    "margin": 13.0,
+    "ebit_margin": 9.3,
+    "pat": 282.0,
+    "pat_yoy": -6.6
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 4608.0,
+    "rev_yoy": 17.3,
+    "op_profit": 621.0,
+    "margin": 13.0,
+    "ebit_margin": 10.2,
+    "pat": 349.0,
+    "pat_yoy": 64.6
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 4779.0,
+    "rev_yoy": 9.8,
+    "op_profit": 607.0,
+    "margin": 13.0,
+    "ebit_margin": 9.6,
+    "pat": 332.0,
+    "pat_yoy": 14.9
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 4966.0,
+    "rev_yoy": 17.8,
+    "op_profit": 672.0,
+    "margin": 14.0,
+    "ebit_margin": 10.5,
+    "pat": 407.0,
+    "pat_yoy": 10.9
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 5112.0,
+    "rev_yoy": 15.0,
+    "op_profit": 721.0,
+    "margin": 14.0,
+    "ebit_margin": 11.0,
+    "pat": 385.0,
+    "pat_yoy": 36.5
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 5434.0,
+    "rev_yoy": 17.9,
+    "op_profit": 792.0,
+    "margin": 15.0,
+    "ebit_margin": 11.5,
+    "pat": 424.0,
+    "pat_yoy": 21.5
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 5349.0,
+    "rev_yoy": 11.9,
+    "op_profit": 724.0,
+    "margin": 14.0,
+    "ebit_margin": 10.5,
+    "pat": 427.0,
+    "pat_yoy": 28.6
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 5661.0,
+    "rev_yoy": 14.0,
+    "op_profit": 783.0,
+    "margin": 14.0,
+    "ebit_margin": 10.9,
+    "pat": 470.0,
+    "pat_yoy": 15.5
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 9637.0,
+    "op_profit": 1292.0,
+    "margin": 13.0,
+    "pat": 460.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 11602.0,
+    "op_profit": 1544.0,
+    "margin": 13.0,
+    "pat": 930.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 12425.0,
+    "op_profit": 1719.0,
+    "margin": 14.0,
+    "pat": 1015.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 13783.0,
+    "op_profit": 1856.0,
+    "margin": 13.0,
+    "pat": 1320.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 15206.0,
+    "op_profit": 2284.0,
+    "margin": 15.0,
+    "pat": 1215.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 17618.0,
+    "op_profit": 2479.0,
+    "margin": 14.0,
+    "pat": 1287.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 20290.0,
+    "op_profit": 2792.0,
+    "margin": 14.0,
+    "pat": 1547.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 13.8,
+   "rev_cagr_5y": 11.8,
+   "pat_cagr_3y": 5.4,
+   "pat_cagr_5y": 10.7,
+   "margin_change_3y_bps": 100
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 1412.0,
+    "equity": 15142.0,
+    "de": 0.09
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 1600.0,
+    "equity": 16277.0,
+    "de": 0.1
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 3477.0,
+    "equity": 16057.0,
+    "de": 0.22
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 2393.0,
+    "equity": 20001.0,
+    "de": 0.12
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 2820.0,
+    "equity": 21788.0,
+    "de": 0.13
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 2504.0,
+    "equity": 22102.0,
+    "de": 0.11
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     24.0
+    ],
+    [
+     "Mar 2022",
+     25.0
+    ],
+    [
+     "Mar 2023",
+     21.0
+    ],
+    [
+     "Mar 2024",
+     22.0
+    ],
+    [
+     "Mar 2025",
+     18.0
+    ],
+    [
+     "Mar 2026",
+     21.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     132.0
+    ],
+    [
+     "Mar 2022",
+     132.0
+    ],
+    [
+     "Mar 2023",
+     144.0
+    ],
+    [
+     "Mar 2024",
+     140.0
+    ],
+    [
+     "Mar 2025",
+     152.0
+    ],
+    [
+     "Mar 2026",
+     125.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     95.0
+    ],
+    [
+     "Mar 2022",
+     111.0
+    ],
+    [
+     "Mar 2023",
+     125.0
+    ],
+    [
+     "Mar 2024",
+     136.0
+    ],
+    [
+     "Mar 2025",
+     148.0
+    ],
+    [
+     "Mar 2026",
+     138.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     61.0
+    ],
+    [
+     "Mar 2022",
+     45.0
+    ],
+    [
+     "Mar 2023",
+     40.0
+    ],
+    [
+     "Mar 2024",
+     25.0
+    ],
+    [
+     "Mar 2025",
+     22.0
+    ],
+    [
+     "Mar 2026",
+     8.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     18.0
+    ],
+    [
+     "Mar 2022",
+     34.0
+    ],
+    [
+     "Mar 2023",
+     22.0
+    ],
+    [
+     "Mar 2024",
+     -35.0
+    ],
+    [
+     "Mar 2025",
+     0.0
+    ],
+    [
+     "Mar 2026",
+     -10.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 1656.0,
+    "pat": 930.0,
+    "fcf": 1477.0,
+    "conv": 1.78
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 1516.0,
+    "pat": 1015.0,
+    "fcf": 1270.0,
+    "conv": 1.49
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 1461.0,
+    "pat": 1320.0,
+    "fcf": 1321.0,
+    "conv": 1.11
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 1937.0,
+    "pat": 1215.0,
+    "fcf": 1626.0,
+    "conv": 1.59
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 2057.0,
+    "pat": 1287.0,
+    "fcf": 1643.0,
+    "conv": 1.6
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 2422.0,
+    "pat": 1547.0,
+    "fcf": 2016.0,
+    "conv": 1.57
+   }
+  ],
+  "cash_conv_5y": 1.47,
+  "flags": [
+   {
+    "tone": "bad",
+    "text": "Profit lagging sales over 3y (5.4% vs 13.8%): margins under pressure"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 147% of profit"
+   },
+   {
+    "tone": "good",
+    "text": "Cash cycle tightened by 17 days in 2 years (25 → 8)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d5eaa6f-c090-4e5b-935c-3923e6303a6f.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=24ae2b55-3aae-4ebe-89f5-5b29323ade98.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fb223b3a-8749-4b33-aef9-2c3975d91e1a.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=beab15bc-4778-4541-9a17-881f245481dd.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9065880b-665c-4296-8e23-cea7822e2668.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d5eaa6f-c090-4e5b-935c-3923e6303a6f.pdf",
+   "pages": 17,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Exit Q4 with EBITDA margin in the ballpark of 14.5% to 15%.",
+     "horizon": "Q4 FY26",
+     "low": 14.5,
+     "high": 15.0,
+     "unit": "%",
+     "quote": "Overall, like I said, when we exit Q4, we should be in the ballpark of 14.5%-15% EBITDA margin.",
+     "page": 10,
+     "speaker": "Sunil D’Souza",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Longer term, a good foods business in India should achieve 17% plus EBITDA margin.",
+     "horizon": "longer term",
+     "low": 17.0,
+     "high": null,
+     "unit": "%",
+     "quote": "Longer term, I have always maintained a good foods business in India should be a 17% plus. We are targeted towards that in the longer term.",
+     "page": 10,
+     "speaker": "Sunil D’Souza",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Target medium to high single digit growth for the tea business.",
+     "horizon": "medium to longer term",
+     "low": null,
+     "high": null,
+     "unit": "%",
+     "quote": "Just to put it in perspective, we have always guided for a mid-to-high single digit growth for the tea business.",
+     "page": 3,
+     "speaker": "Sunil D’Souza",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "volume",
+     "promise": "Target mid to high single digit growth on revenue for salt, with volume at 4-5%.",
+     "horizon": "medium to longer term",
+     "low": 4.0,
+     "high": 5.0,
+     "unit": "%",
+     "quote": "So, mid to longer term, we have maintained that it will be mid to high single digits.",
+     "page": 8,
+     "speaker": "Sunil D’Souza",
+     "verified": true,
+     "id": "g1.4"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Target 25% to 30% revenue growth for Capital Foods.",
+     "horizon": "medium term",
+     "low": 25.0,
+     "high": 30.0,
+     "unit": "%",
+     "quote": "On Capital Foods, our ambition remains 25%-30%.",
+     "page": 13,
+     "speaker": "Sunil D’Souza",
+     "verified": true,
+     "id": "g1.5"
+    },
+    {
+     "metric": "margin",
+     "promise": "Edging up Tata Sampann business margin profile to close to 15%.",
+     "horizon": "near to medium term",
+     "low": null,
+     "high": 15.0,
+     "unit": "%",
+     "quote": "We remain confident of edging up the total business to close to a 15% sort of number in the medium term, near to medium term and that is what.",
+     "page": 7,
+     "speaker": "Sunil D’Souza",
+     "verified": true,
+     "id": "g1.6"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Reach 5 million numeric reach in the medium term.",
+     "horizon": "medium term",
+     "low": null,
+     "high": 5.0,
+     "unit": "units",
+     "quote": "In the medium term, our target is to get to about a 5 million numeric reach.",
+     "page": 13,
+     "speaker": "Sunil D’Souza",
+     "verified": true,
+     "id": "g1.7"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenue crossed Rs 5,000 crores growing at 15% with 26% EBITDA growth.",
+     "quote": "Consolidated EBITDA up 26%, so EBITDA has grown roughly 2x of revenue. Margins expanded 60 bps quarter-on-quarter, 120 bps year-on-year to 14.2%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "India branded business posted underlying volume growth of 15% this quarter.",
+     "quote": "India branded business posted underlying volume growth of 15%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Growth businesses grew 29% and contributed 30% to revenue, surpassing Rs 1,000 crores.",
+     "quote": "Growth businesses, which you always guided for being 30% of our business growing at 30%, we were quite in the ballpark, growing 29% and contributing 30% to our revenue, surpassing Rs. 1,000 crores in quarterly revenue.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Crossed Rs 15,000 crores year-to-date growing at 14% with all businesses delivering double-digit revenue growth.",
+     "quote": "Year-to-date, close to Rs. 15,000 crores, growing at 14%, with all businesses delivering double-digit revenue growths.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Tata Soulfull competitive positioning and margins",
+     "quote": "So, Tata Soulful, I wanted to understand how is the market share in the past 2 years? And this is a great, exciting market on paper, but reasonably challenging because there is one strong multinational company.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Salt volume growth sustainability",
+     "quote": "Last 2 quarters, I have seen super volume growth. I do understand that you did mention on the grammage addition, the trade incentive and promotion, but on a full year basis, does it normalize",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Tea market share softness despite revenue growth",
+     "quote": "There is one more question on the India Beverage market share in Tea has seen some softness despite revenue growth. To what extent is this a conscious value over share trade-off and how do you internally track success in such situations?",
+     "page": 15,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and pragmatic with strong operational focus."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=24ae2b55-3aae-4ebe-89f5-5b29323ade98.pdf",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Full-year EBITDA margin expansion of 50 to 75 basis points",
+     "horizon": "FY27",
+     "low": 50,
+     "high": 75,
+     "unit": "bps",
+     "quote": "50 to 75 for the full year will happen.",
+     "page": 7,
+     "speaker": "Sunil D'Souza",
+     "verified": true,
+     "id": "g2.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenue for the quarter grew 18% with India delivering 16% UVG",
+     "quote": "consolidated revenue for the quarter grew 18% with the India business delivering 16% UVG.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated EBITDA grew 27% and margin expanded 100 bps to 14.6%",
+     "quote": "Consolidated EBITDA grew 27%, top line 18%, EBITDA 27% and therefore, margin expanded 100 bps to 14.6%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Sampann grew 69% in Q4 and 46% for the full year",
+     "quote": "Sampann grew 69% in Q4 and 46% full year.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Gross margins and RMs",
+     "quote": "With the elevated cost levels from crude and fuel, etcetera, that we are seeing now, can one expect the near-term margin should be under pressure?",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Tea volume and pricing",
+     "quote": "despite obviously, you're doing very well on these channels the 4% of volume growth, would you say that's a satisfactory number?",
+     "page": 12,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and optimistic about long-term growth and margin expansion."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fb223b3a-8749-4b33-aef9-2c3975d91e1a.pdf",
+   "pages": 16,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Deliver 50 bps to 70 bps of margin expansion for the full year",
+     "horizon": "full year FY27",
+     "low": 50,
+     "high": 70,
+     "unit": "bps",
+     "quote": "Our comparison always is versus the same quarter last year and versus the same quarter last year we’ve delivered 70 bps increase and which is in line with our guidance for the full year. So, we do maintain that this year we expect to deliver 50 bps to 70 bps of margin expansion.",
+     "page": 10,
+     "speaker": "Sunil D'Souza",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Growth businesses to achieve 25% to 30% growth",
+     "horizon": "medium term",
+     "low": 25,
+     "high": 30,
+     "unit": "%",
+     "quote": "So, yes, the answer to that question is 25% to 30% should be the new normal going forward.",
+     "page": 7,
+     "speaker": "Sunil D'Souza",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Target 30% plus growth for the growth portfolio",
+     "horizon": "medium term",
+     "low": 30,
+     "high": null,
+     "unit": "%",
+     "quote": "See, overall, for the growth portfolio, we are targeting 30% plus. Various permutations, combinations, we’ve got a portfolio.",
+     "page": 10,
+     "speaker": "Sunil D'Souza",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Salt business to grow at mid-to-high single digits of 5% to 7%",
+     "horizon": "short-to-medium term",
+     "low": 5,
+     "high": 7,
+     "unit": "%",
+     "quote": "So, Vivek, we’ve always said mid-to-high single digits is the growth, so I would say 5% to 7% is a good number to target.",
+     "page": 8,
+     "speaker": "Sunil D'Souza",
+     "verified": true,
+     "id": "g3.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenue grew 12% and India business delivered 13% UVG",
+     "quote": "So, in summary, overall, our consolidated revenue grew 12% with the India business delivering a 13% UVG.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Growth businesses grew 47% year-on-year and scaled to 36% of India business",
+     "quote": "Growth businesses grew 47% year-on-year and scaled to 36%. In terms of growth, I think this was the best ever quarter for the growth businesses for TCPL",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "EBITDA grew 19% with margins expanding 70 bps to 13.6%",
+     "quote": "We delivered a 19% growth in EBITDA and margins expanded 70 bps to 13.6%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Tata Sampann grew 58% driven by broad-based volume growth",
+     "quote": "Sampann grew 58%, and it was broad-based volume growth.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Growth business capacity and margins",
+     "quote": "would you need to invest in your own capacity and any details on that from next one to two years perspective in the growth business?",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "India vs International margin divergence",
+     "quote": "What is the reason for this, you know, divergence?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Tea procurement inflation and pricing impact",
+     "quote": "How far are you with respect to procurement, what is the level of inflation you are seeing in tea, and how should one think about the tea pricing from here on",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and transparent regarding segment performance and growth drivers."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=beab15bc-4778-4541-9a17-881f245481dd.pdf",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "Reach 100% of salespeople operating with AI by December",
+     "horizon": "December",
+     "low": null,
+     "high": 100,
+     "unit": "%",
+     "quote": "with an objective by December to reach 100% of our salespeople operating.",
+     "page": 4,
+     "speaker": "Sunil D'Souza",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Expect 25% to 30% growth for Capital Foods and Organic India going forward",
+     "horizon": "going forward",
+     "low": 25,
+     "high": 30,
+     "unit": "%",
+     "quote": "overall I would continue to expect 25% to 30% growth that we had guided for Capital Foods and Organic India going forward.",
+     "page": 9,
+     "speaker": "Sunil D'Souza",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Continue to guide salt for mid-single-digit volume and price",
+     "horizon": "future",
+     "low": null,
+     "high": null,
+     "unit": "%",
+     "quote": "We continue to guide salt for mid-single-digit volume, a couple of basis points of price, and that is what we remain committed to delivering.",
+     "page": 9,
+     "speaker": "Sunil D'Souza",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "margin",
+     "promise": "Remain confident of continuing to deliver margin expansion quarter-on-quarter",
+     "horizon": "future",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "we remain quite confident of continuing to deliver margin expansion quarter-on-quarter versus -- when I say quarter-on-quarter, it is -- you would have to take seasonality into account, so it is versus the same quarter last year.",
+     "page": 8,
+     "speaker": "Sunil D'Souza",
+     "verified": true,
+     "id": "g4.4"
+    },
+    {
+     "metric": "profit",
+     "promise": "Hit 17%-plus EBITDA number in the next 3 years",
+     "horizon": "next 3 years",
+     "low": 17,
+     "high": null,
+     "unit": "%",
+     "quote": "in the next 3 years or so, we should be in that ballpark, right? So that's number one. And the reason for that is it's not that this thing. We've done the math to commit to or guide to that number.",
+     "page": 15,
+     "speaker": "Sunil D'Souza",
+     "verified": true,
+     "id": "g4.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated top line grew 14% with India business UVG at 11%",
+     "quote": "So, in summary, we grew top line 14% with UVG of 11% in the India business.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Salt revenue up 15% with volume up 9%",
+     "quote": "Salt was another strong quarter of 9% volume and 15% revenue.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated EBITDA up 18% with margins expanding 40 bps to 14%",
+     "quote": "Consolidated EBITDA was up 18%, with margins expanding 40 bps to bring EBITDA margin to 14%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Growth businesses grew 40% and contributed 38% of India business",
+     "quote": "Growth businesses up 40%, now contribute to 38% of India business.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Tea procurement, inflation and price increases",
+     "quote": "Sir, if you can just talk about is the procurement for the year largely done in tea? What is the level of inflation that you are seeing on a Y-o-Y basis? And can you share the quantum of price increase that you're putting through?",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Consolidated margins outlook for second half",
+     "quote": "Sorry, Sunil, I'm just asking on margins again, just to be very clear because last year, in the second half, we had seen across businesses margins seeing an improvement and versus now it is on a higher base.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "India EBIT margin trajectory towards 17-18%",
+     "quote": "A couple of years ago, I think when we had a conversation, the aim was that over a number of years, this would sort of reach a 17%, 18% kind of a number, which would -- from the current levels denote 400 to 500 basis points kind of margin expansion.",
+     "page": 14,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and transparent regarding pricing actions, AI integration, and growth targets."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company sells branded and non-branded tea, coffee, water, and food products.",
+  "segments": [
+   {
+    "name": "India Business",
+    "revenue": 12778.88,
+    "unit": "crore",
+    "what": "Branded tea, coffee, water, and food products",
+    "page": 392,
+    "share_pct": 63
+   },
+   {
+    "name": "International Business",
+    "revenue": 5250.67,
+    "unit": "crore",
+    "what": "Branded tea, coffee, water, and food products",
+    "page": 392,
+    "share_pct": 26
+   },
+   {
+    "name": "Non Branded Business",
+    "revenue": 2387.0,
+    "unit": "crore",
+    "what": "Plantation and extraction business for tea, coffee, and other produce",
+    "page": 392,
+    "share_pct": 12
+   }
+  ],
+  "mix_note": "Tata Chemicals Limited accounts for 11% of procurement spend and 19.8% of total revenue.",
+  "risks_mgmt_flags": [],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9065880b-665c-4296-8e23-cea7822e2668.pdf",
+  "pages_read": [
+   30,
+   191,
+   224,
+   271,
+   275,
+   316,
+   342,
+   346,
+   385,
+   392,
+   393,
+   394
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Exit Q4 FY26 with EBITDA margin in the ballpark of 14.5% to 15%.",
+    "made_in": "Q3 FY26 call",
+    "delivered": "Reported March 2026 (Q4 FY26) EBITDA margin was 15.0%, meeting the target range.",
+    "verdict": "delivered",
+    "checked_against": "Mar 2026 EBITDA%",
+    "quote": "Overall, like I said, when we exit Q4, we should be in the ballpark of 14.5%-15% EBITDA margin.",
+    "page": 10,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d5eaa6f-c090-4e5b-935c-3923e6303a6f.pdf"
+   },
+   {
+    "ref": "g2.1",
+    "promise": "Full-year EBITDA margin expansion of 50 to 75 basis points for FY27.",
+    "made_in": "Q4 FY26 call",
+    "delivered": "Full-year EBITDA margin for Mar 2026 was 14.0%, unchanged from Mar 2025 at 14.0%; full year FY27 is still open.",
+    "verdict": "too_early",
+    "checked_against": "Mar 2026 Year EBITDA%",
+    "quote": "50 to 75 for the full year will happen.",
+    "page": 7,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=24ae2b55-3aae-4ebe-89f5-5b29323ade98.pdf"
+   },
+   {
+    "ref": "g3.4",
+    "promise": "Salt business to grow at mid-to-high single digits of 5% to 7%.",
+    "made_in": "Q1 FY27 call",
+    "delivered": "Management claimed salt revenue grew 15% with volume up 9% in Q2 FY27, exceeding the 5% to 7% growth range.",
+    "verdict": "delivered",
+    "checked_against": "Q2 FY27 management claim and reported salt volume/revenue",
+    "quote": "So, Vivek, we’ve always said mid-to-high single digits is the growth, so I would say 5% to 7% is a good number to target.",
+    "page": 8,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fb223b3a-8749-4b33-aef9-2c3975d91e1a.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Reach 100% of salespeople operating with AI by December.",
+    "made_in": "Q2 FY27 call",
+    "delivered": "December deadline has not been reached yet as of the Sep 2026 reported quarter.",
+    "verdict": "too_early",
+    "checked_against": "Sep 2026 quarter-end date",
+    "quote": "with an objective by December to reach 100% of our salespeople operating.",
+    "page": 4,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=beab15bc-4778-4541-9a17-881f245481dd.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 7,
+   "line": "Management delivered on Q4 EBITDA margin goals and salt targets, though full-year expansion targets remain pending."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Consolidated revenue grew to Rs 5,661 crores in Sep 2026, up 14.0% YoY, matching the reported 14% top-line growth claim."
+   },
+   {
+    "agree": false,
+    "point": "Profit is lagging sales with a 3-year profit growth of 5.4% versus 13.8% sales growth despite rising revenue."
+   },
+   {
+    "agree": true,
+    "point": "Reported March 2026 EBITDA margin reached 15.0%, confirming management's stated exit Q4 target of 14.5% to 15%."
+   }
+  ],
+  "bull": [
+   "Operating cash flow reached Rs 2,422 crores in Mar 2026, with a strong 5-year cash conversion of 1.47x profit.",
+   "Revenue scaled to Rs 20,290 crores for Mar 2026, up from Rs 17,618 crores in Mar 2025.",
+   "Debt-to-equity ratio remains low at 0.11 as of Sep 2026 with total borrowings at Rs 2,504 crores."
+  ],
+  "bear": [
+   "Profit lags sales over 3 years at 5.4% growth versus 13.8% sales growth, indicating margin pressure.",
+   "ROCE stands at 9.24% and ROE at 7.35%, reflecting modest capital returns.",
+   "Borrowings increased to Rs 2,820 crores in Mar 2026 from Rs 2,393 crores in Mar 2025."
+  ],
+  "watch": [
+   "December AI rollout target for 100% of salespeople.",
+   "Full-year FY27 EBITDA margin expansion of 50 to 75 bps.",
+   "Growth business contribution sustaining above 38% of India business."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14177,
+   "out": 1510,
+   "secs": 8.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14270,
+   "out": 498,
+   "secs": 2.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12887,
+   "out": 1056,
+   "secs": 4.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14205,
+   "out": 1223,
+   "secs": 6.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 9163,
+   "out": 276,
+   "secs": 7.9,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 3869,
+   "out": 1027,
+   "secs": 14.7,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 68571,
+  "tokens_out": 5590,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 71.9
+ }
+}

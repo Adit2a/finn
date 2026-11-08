@@ -1,0 +1,987 @@
+{
+ "symbol": "BAJFINANCE",
+ "name": "Bajaj Finance Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:16:41",
+ "latest_call": "Oct 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 675200.0,
+   "pe": 30.9,
+   "roce": 10.9,
+   "roe": 18.2,
+   "ttm_revenue": 90331.0,
+   "ttm_pat": 22066.0,
+   "margin_latest_q": null,
+   "de": 4.08,
+   "is_financial": true,
+   "margin_label": "Financing margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 18035.0,
+    "rev_yoy": 27.3,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 4308.0,
+    "pat_yoy": 18.4
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 18294.0,
+    "rev_yoy": 22.6,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 4546.0,
+    "pat_yoy": 18.8
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 19524.0,
+    "rev_yoy": 21.3,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 4765.0,
+    "pat_yoy": 21.8
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 19990.0,
+    "rev_yoy": 17.0,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 4948.0,
+    "pat_yoy": 23.3
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 21013.0,
+    "rev_yoy": 16.5,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 4066.0,
+    "pat_yoy": -5.6
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 21606.0,
+    "rev_yoy": 18.1,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 5553.0,
+    "pat_yoy": 22.2
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 23165.0,
+    "rev_yoy": 18.6,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 6081.0,
+    "pat_yoy": 27.6
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 24546.0,
+    "rev_yoy": 22.8,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 6367.0,
+    "pat_yoy": 28.7
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 26375.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 5264.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 26673.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 4420.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 31633.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 7028.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 41411.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 11508.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 54972.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 14451.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 68832.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 16779.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 81985.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 19332.0,
+    "ebit_margin": null
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 25.6,
+   "rev_cagr_5y": 25.2,
+   "pat_cagr_3y": 18.9,
+   "pat_cagr_5y": 34.3,
+   "margin_change_3y_bps": null
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 165232.0,
+    "equity": 43713.0,
+    "de": 3.78
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 216690.0,
+    "equity": 54372.0,
+    "de": 3.99
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 293346.0,
+    "equity": 76696.0,
+    "de": 3.82
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 361249.0,
+    "equity": 96693.0,
+    "de": 3.74
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 435112.0,
+    "equity": 113999.0,
+    "de": 3.82
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 501982.0,
+    "equity": 123179.0,
+    "de": 4.08
+   }
+  ],
+  "working_capital": {},
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": -807.0,
+    "pat": 4420.0,
+    "fcf": -1105.0,
+    "conv": -0.18
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": -37029.0,
+    "pat": 7028.0,
+    "fcf": -37644.0,
+    "conv": -5.27
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": -42112.0,
+    "pat": 11508.0,
+    "fcf": -42970.0,
+    "conv": -3.66
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": -72760.0,
+    "pat": 14451.0,
+    "fcf": -73759.0,
+    "conv": -5.03
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": -67792.0,
+    "pat": 16779.0,
+    "fcf": -68837.0,
+    "conv": -4.04
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": -65790.0,
+    "pat": 19332.0,
+    "fcf": -66686.0,
+    "conv": -3.4
+   }
+  ],
+  "cash_conv_5y": -4.13,
+  "flags": [
+   {
+    "tone": "bad",
+    "text": "Profit lagging sales over 3y (18.9% vs 25.6%): margins under pressure"
+   },
+   {
+    "tone": "good",
+    "text": "Revenue growth accelerating (16% → 18% → 19% → 23%)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/bajaj-finance-q4-fy26-earnings-conference-call-transcript?scl=1&fmt=pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a448b6b0-edb5-4b99-a122-d602950310af.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b101e24e-b807-4c74-9025-90009f4b47a5.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7873abcb-7f97-487d-a474-028b0a26feea.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a2357f0b-2828-4790-8a02-61064bd1929b.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q4 FY26",
+   "date": "Apr 2026",
+   "url": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/bajaj-finance-q4-fy26-earnings-conference-call-transcript?scl=1&fmt=pdf",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "Add 15 to 17 million new customers in FY27",
+     "horizon": "FY27",
+     "low": 15,
+     "high": 17,
+     "unit": "units",
+     "quote": "In terms of customer franchise, we continue to be confident of adding 15 - 17 million new customers in FY27.",
+     "page": 6,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "FY27 AUM growth of 20% to 24%",
+     "horizon": "FY27",
+     "low": 20,
+     "high": 24,
+     "unit": "%",
+     "quote": "In terms of AUM, we're confident of a 20% to 24% AUM growth, aided by new businesses that we've launched in the last few years as they begin to scale.",
+     "page": 6,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Continue to guide for ROA of 4.4% to 4.6% in FY27",
+     "horizon": "FY27",
+     "low": 4.4,
+     "high": 4.6,
+     "unit": "%",
+     "quote": "ROA came in as of fourth quarter at 4.6%. We continue to guide for 4.4% to 4.6%.",
+     "page": 7,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "margin",
+     "promise": "Continue to guide for ROE of 19% to 20% in FY27",
+     "horizon": "FY27",
+     "low": 19,
+     "high": 20,
+     "unit": "%",
+     "quote": "Return on equity came in at 20% in the current quarter, we continue to guide for 19% to 20%.",
+     "page": 7,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g1.4"
+    },
+    {
+     "metric": "other",
+     "promise": "Opex to NTI improvement of 25 to 40 basis points",
+     "horizon": "FY27",
+     "low": 25,
+     "high": 40,
+     "unit": "bps",
+     "quote": "On opex to NTI, we expect to see continued improvement of 25 to 40 basis points from current levels.",
+     "page": 6,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g1.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Crossed the milestone of INR 5 lakh crores AUM in Q4 FY26.",
+     "quote": "During the quarter, the company crossed the milestone of INR 5 lakh crores AUM. It's a proud moment for us as a company to end the quarter at approximately INR 510,000 crores.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Q4 FY26 AUM grew by 22.4% and PAT grew by 26.7%.",
+     "quote": "In Q4, AUM grew by 22.4% and PAT grew by 26.7%.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Booked 12.9 million loans and added 3.93 million new customers in Q4.",
+     "quote": "In Q4, AUM grew by a record INR 25,500-odd crores. We booked 12.9 million loans and added 3.93 million new customers to the franchise.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Gold loan portfolio grew by 115% and crossed 3.5% of overall AUM.",
+     "quote": "The gold loan portfolio continued to witness strong momentum. It grew by 115%. The business now contributes to 3.5% overall AUM.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Credit cost guidance calculations and impact of geopolitical issues",
+     "quote": "So there, your number is gross loan provisions of INR 2,126 crores and then INR 260 crores of recovery. So the net loan provision is INR 1,866 crores.",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Long-term ROA guidance and whether NIM expansion is required",
+     "quote": "So for FY27 also, as per my math, you will need a NIM expansion also or at least a NIM stable flat NIM or an expanding NIM to achieve the ROA guidance for FY27?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "MSME portfolio growth and confidence to pick up pace",
+     "quote": "Can you just share some portfolio cuts or what you're seeing in the environment that gives you the confidence to pick up on MSME growth?",
+     "page": 11,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and transparent regarding strategies, growth momentum, and AI transformation."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a448b6b0-edb5-4b99-a122-d602950310af.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "FY27 customer franchise addition of 15 to 17 million new customers",
+     "horizon": "FY27",
+     "low": 15,
+     "high": 17,
+     "unit": "units",
+     "quote": "we continue to be confident of adding 15 - 17 million new customers in FY27.",
+     "page": 7,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "FY27 AUM growth of 20% to 24%",
+     "horizon": "FY27",
+     "low": 20,
+     "high": 24,
+     "unit": "%",
+     "quote": "we're confident of a 20% to 24% AUM growth, aided by new businesses that we've launched",
+     "page": 7,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "FY27 opex to NTI improvement of 25 to 40 basis points",
+     "horizon": "FY27",
+     "low": 25,
+     "high": 40,
+     "unit": "bps",
+     "quote": "On opex to NTI, we expect to see continued improvement of 25 to 40 basis points from current levels.",
+     "page": 7,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "margin",
+     "promise": "FY27 ROA guidance between 4.4% to 4.6%",
+     "horizon": "FY27",
+     "low": 4.4,
+     "high": 4.6,
+     "unit": "%",
+     "quote": "ROA came in as of fourth quarter at 4.6%. We continue to guide for 4.4% to 4.6%.",
+     "page": 8,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g2.4"
+    },
+    {
+     "metric": "margin",
+     "promise": "FY27 return on equity guidance between 19% to 20%",
+     "horizon": "FY27",
+     "low": 19,
+     "high": 20,
+     "unit": "%",
+     "quote": "Return on equity came in at 20% in the current quarter, we continue to guide for 19% to 20%.",
+     "page": 8,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g2.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Crossed milestone of INR 5 lakh crores AUM, ending quarter at approximately INR 510,000 crores.",
+     "quote": "During the quarter, the company crossed the milestone of INR 5 lakh crores AUM. It's a proud moment for us as a company to end the quarter at approximately INR 510,000 crores.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "In Q4, AUM grew by 22.4% and PAT grew by 26.7%.",
+     "quote": "In Q4, AUM grew by 22.4% and PAT grew by 26.7%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Booked 12.9 million loans and added 3.93 million new customers in Q4.",
+     "quote": "In Q4, AUM grew by a record INR 25,500-odd crores. We booked 12.9 million loans and added 3.93 million new customers to the franchise.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Credit cost guidance and macro assumptions",
+     "quote": "And just to get this whole guidance of credit costs very clear, if you don't mind, can I refer to the press release where you've given a summary of consolidated financial results?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "ROA guidance math and NIM requirements",
+     "quote": "Also for FY27, as per the, the basic math that I was picking up, you may need a little bit more NIM expansion to achieve the ROA guidance for FY27. Is my understanding correct or not?",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "AI capex and ROI timeline",
+     "quote": "I have 2 questions. One is what kind of capex or investment we are going into AI infra? Can you give some color and what kind of ROI and payback you are envisaging?",
+     "page": 13,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and optimistic about growth momentum and AI transformation."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b101e24e-b807-4c74-9025-90009f4b47a5.pdf",
+   "pages": 23,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "By year-end foresee 2,700 to 2,800 branches all goes well maybe 3,000 branches",
+     "horizon": "by year-end FY27",
+     "low": 2700,
+     "high": 3000,
+     "unit": "units",
+     "quote": "By year-end we foresee 2,700 to 2,800 branches, all goes well, maybe 3,000 branches and AUM of between INR29,000 crores and INR31,000 crores, all organic.",
+     "page": 4,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Foresee AUM of between INR29,000 crores and INR31,000 crores in gold loan",
+     "horizon": "by year-end FY27",
+     "low": 29000,
+     "high": 31000,
+     "unit": "cr",
+     "quote": "By year-end we foresee 2,700 to 2,800 branches, all goes well, maybe 3,000 branches and AUM of between INR29,000 crores and INR31,000 crores, all organic.",
+     "page": 4,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Deliver 25 to 40 basis points improvement for FY27 in opex to NTI",
+     "horizon": "FY27",
+     "low": 25,
+     "high": 40,
+     "unit": "bps",
+     "quote": "Overall, we are confident of delivering 25 to 40 basis points improvement for FY '27 in opex to NTI.",
+     "page": 4,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "volume",
+     "promise": "Digital platform will deliver INR50000 crores of business this year",
+     "horizon": "FY27",
+     "low": 50000,
+     "high": 50000,
+     "unit": "cr",
+     "quote": "I mean this year the digital platform will deliver INR50,000 crores of business.",
+     "page": 6,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g3.4"
+    },
+    {
+     "metric": "volume",
+     "promise": "Next year deliver INR100000 crores volume between customer centricity AI and tech",
+     "horizon": "next year",
+     "low": 100000,
+     "high": 100000,
+     "unit": "cr",
+     "quote": "I am targeting that next year we should be delivering INR100,000 crores volume between customer centricity, AI and tech transformation and digital transformation",
+     "page": 6,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g3.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Added 5 million new customers and record INR37000 crores AUM in Q1",
+     "quote": "We added 5 million new customers. AUM, we added a record INR37,000 crores of AUM in a quarter. Profit growth was strong at 28%",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "ROE crossed 20% and ROA came in at 4.7%",
+     "quote": "ROE crossed 20% despite the overhang still there on account of BHFL dilution. So, a pretty good quarter, I would say. ROA came in at 4.7% and ROE at 20.4%.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Recognized additional management provision of INR296 crores for macro uncertainties",
+     "quote": "As a measure of prudence, we've recognized an additional management and macroeconomic provision of INR296 crores during current quarter on account of what's happening geopolitically and the monsoon uncertainty.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Gold loan business grew 112% and is now 4% of AUM",
+     "quote": "Gold loan business sustained its strong momentum, grew by 112%. Business is now 4% of AUM.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Guidance revision following a very strong Q1 performance",
+     "quote": "This kind of a growth in the first quarter itself, don't you think this year we can grow at maybe a higher rate also drawing from the fact that what you just alluded...",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Rationale for creating large macro provisions and overlays despite great credit",
+     "quote": "Do you think this will be a more constant phenomenon, this macro overlay or can we see that if the quarter is actually good, credit costs are actually lower, we see them translating into profits?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Margins outlook and borrowing costs sustainability",
+     "quote": "You guided for margin moderation in FY '27, but are we more comfortable with where the margins stay because you mentioned like cost of borrowing should be range bound.",
+     "page": 13,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, transparent, focused on micro-execution and long-term resilience."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7873abcb-7f97-487d-a474-028b0a26feea.pdf",
+   "pages": 20,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Deliver between 60 million to 62 million new loans in FY27",
+     "horizon": "FY27",
+     "low": 60,
+     "high": 62,
+     "unit": "units",
+     "quote": "We are well on track to deliver between 60 million to 62 million new loans in FY27.",
+     "page": 4,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Add between 18 MM to 20 MM customers to the franchise in FY27",
+     "horizon": "FY27",
+     "low": 18,
+     "high": 20,
+     "unit": "units",
+     "quote": "We are clear about adding between 18 MM to 20 MM customers to the franchise in FY27.",
+     "page": 4,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Deliver 25 to 40 basis point improvement in FY27 on opex-to-NTI",
+     "horizon": "FY27",
+     "low": 25,
+     "high": 40,
+     "unit": "bps",
+     "quote": "We remain pretty comfortable place to deliver a 25 to 40 basis point improvement in FY27 on opex-to-NTI.",
+     "page": 4,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Deliver between 26% and 27% growth on a full year basis for FY27",
+     "horizon": "FY27",
+     "low": 26,
+     "high": 27,
+     "unit": "%",
+     "quote": "I would say probably between 26%, 27% growth we should deliver now on a full year basis.",
+     "page": 12,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g4.4"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Maintain a medium-term AUM growth guidance of 20% to 25%",
+     "horizon": "medium-term",
+     "low": 20,
+     "high": 25,
+     "unit": "%",
+     "quote": "medium term, we maintain a guidance of 20% to 25% on a year lower here and a year higher there.",
+     "page": 12,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g4.5"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Sustain a 15% to 18% fee income growth in the longer term",
+     "horizon": "longer term",
+     "low": 15,
+     "high": 18,
+     "unit": "%",
+     "quote": "we remain comfortable in the longer term, we should be able to sustain a 15% to 18% fee income growth is what I would just say to you, Viral.",
+     "page": 13,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g4.6"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Maintain longer-term growth guidance of 23% to 25%",
+     "horizon": "longer-term",
+     "low": 23,
+     "high": 25,
+     "unit": "%",
+     "quote": "I'm not changing, I must say to you, the longer-term growth guidance of 23% to 25%.",
+     "page": 15,
+     "speaker": "Rajeev Jain",
+     "verified": true,
+     "id": "g4.7"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "AUM grew by 26.5% to INR 5,84,624 crores with net addition of INR 38,000 crores.",
+     "quote": "AUM, as you can see, grew by 26.5% to INR 5,84,624 crores, delivering net AUM addition of close to INR 38,000 crores in the quarter.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "PBT grew by 29% to INR 8,537 crores in Q2 before macroeconomic provisions.",
+     "quote": "PBT grew by 29% to INR 8,537 crores in Q2. This is before the macroeconomic provision that we've created of another INR 337 crores to grew by 34% to INR 8,874 crores.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "PAT grew by 29% to INR 6,367 crores in Q2.",
+     "quote": "PAT grew by 29% to INR6,367 crores. Before macro overlay provision, it grew by 34% to INR6,619 crores.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Booked just below 13.5 million new loans and added 4.5 million new customers.",
+     "quote": "In Q2, company booked just a tad below INR13.5 million new loans and added 4.5 million new customers.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Gold loan short-term schemes and Stage 2 asset increase",
+     "quote": "Yes. Hi, team. Thanks for taking my question and congrats on the quarter. Just I may slip in two questions because they are short to answer. Firstly, on gold loans, why aren't you all offering short-term gold loans? Isn't that easier from an LTV perspective because you're discounting only, say, three months or six months of interest versus 12 months?",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Macro and management overlay provisions and ECL models",
+     "quote": "Hi team. Thanks for the call. My specific question is, what are the reasons you see this overlay? And how does it relate to earlier overlays or a permanent change in the ECL models basically because how do we think about frequency and size of discrete overlays going forward versus embedding them in ECL model assessment?",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Capital raise quantum and timing relative to balance sheet growth",
+     "quote": "Good evening. So of course, on capital raise, you have outlined the growth at the underlying thing. But if I look, I mean, your profitability, also the possible stake sale from our subsidiary Bajaj Housing. And also, the timing in the past at your level when you speculate thing I mean, it looks, I would say, much of in advance or to prudent.",
+     "page": 15,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, resilient, and proactive regarding strategic adjustments."
+  }
+ ],
+ "business": {
+  "what_it_does": "Provides financing, housing finance, and related financial services in India.",
+  "segments": [],
+  "mix_note": "Self-employed customers constitute 79% of the loan against property portfolio, with self-occupied residential properties making up 70%.",
+  "risks_mgmt_flags": [
+   "Borrowing costs impacted by macro-economic cycles and systemic liquidity conditions.",
+   "Credit costs driven by underwriting policies, portfolio mix, collection efficiency, and macroeconomic stability.",
+   "Climate variability and extreme weather events may disrupt operations and impact portfolio performance."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a2357f0b-2828-4790-8a02-61064bd1929b.pdf",
+  "pages_read": [
+   74,
+   88,
+   102,
+   106,
+   108,
+   284,
+   325,
+   342,
+   423,
+   466,
+   471,
+   482
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Add 15‑17 million new customers in FY27",
+    "made_in": "Q4 FY26",
+    "delivered": "Q4‑Q2 FY27 added 13.43 million customers, below lower bound 15 million",
+    "verdict": "missed",
+    "checked_against": "Q4‑Q2 FY27 new‑customer counts",
+    "quote": "In terms of customer franchise, we continue to be confident of adding 15 - 17 million new customers in FY27.",
+    "page": 6,
+    "verified": true,
+    "url": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/bajaj-finance-q4-fy26-earnings-conference-call-transcript?scl=1&fmt=pdf"
+   },
+   {
+    "ref": "g1.4",
+    "promise": "ROE 19‑20% in FY27",
+    "made_in": "Q4 FY26",
+    "delivered": "Reported ROE 18.2%, below 19% target",
+    "verdict": "missed",
+    "checked_against": "ROE 18.2% (overall)",
+    "quote": "Return on equity came in at 20% in the current quarter, we continue to guide for 19% to 20%.",
+    "page": 7,
+    "verified": true,
+    "url": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/bajaj-finance-q4-fy26-earnings-conference-call-transcript?scl=1&fmt=pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Deliver 60‑62 million new loans in FY27",
+    "made_in": "Q2 FY27",
+    "delivered": "Q4‑Q2 FY27 loans ~26.4 million, far below 60 million",
+    "verdict": "missed",
+    "checked_against": "Q4‑Q2 FY27 loan bookings",
+    "quote": "We are well on track to deliver between 60 million to 62 million new loans in FY27.",
+    "page": 4,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7873abcb-7f97-487d-a474-028b0a26feea.pdf"
+   },
+   {
+    "ref": "g1.3",
+    "promise": "ROA 4.4‑4.6% in FY27",
+    "made_in": "Q4 FY26",
+    "delivered": "ROA not reported; cannot verify",
+    "verdict": "too_early",
+    "checked_against": "ROA figures (not provided)",
+    "quote": "ROA came in as of fourth quarter at 4.6%. We continue to guide for 4.4% to 4.6%.",
+    "page": 7,
+    "verified": true,
+    "url": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/bajaj-finance-q4-fy26-earnings-conference-call-transcript?scl=1&fmt=pdf"
+   },
+   {
+    "ref": "g1.5",
+    "promise": "Opex‑to‑NTI improvement 25‑40 bps in FY27",
+    "made_in": "Q4 FY26",
+    "delivered": "No Opex/NTI data reported; cannot verify",
+    "verdict": "too_early",
+    "checked_against": "Opex‑to‑NTI metrics (not provided)",
+    "quote": "On opex to NTI, we expect to see continued improvement of 25 to 40 basis points from current levels.",
+    "page": 6,
+    "verified": true,
+    "url": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/bajaj-finance-q4-fy26-earnings-conference-call-transcript?scl=1&fmt=pdf"
+   }
+  ],
+  "credibility": {
+   "score": 3,
+   "line": "Management consistently overshoots key volume targets, raising credibility concerns."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Management touts massive customer and loan additions, but reported additions fall far short."
+   },
+   {
+    "agree": false,
+    "point": "ROE guidance of 19‑20% not met; actual 18.2% shows margin pressure."
+   },
+   {
+    "agree": true,
+    "point": "Revenue growth accelerates to 22.8% YoY in Sep 2026, matching upbeat sales narrative."
+   }
+  ],
+  "bull": [
+   "Revenue YoY rose to 22.8% in Sep 2026, indicating strong top‑line momentum.",
+   "PAT grew 28.7% YoY in Sep 2026, showing profit acceleration.",
+   "Borrowings increased to ₹501,982 crore, supporting growth financing."
+  ],
+  "bear": [
+   "New‑customer additions 13.4 M vs promised 15‑20 M, a clear shortfall.",
+   "Loan volume ~26.4 M vs promised 60‑62 M, indicating execution gap.",
+   "ROE 18.2% below promised 19‑20%, signaling weaker returns."
+  ],
+  "watch": [
+   "FY27 full‑year AUM growth versus 20‑24% target",
+   "Actual ROA for FY27",
+   "Opex‑to‑NTI ratio improvement"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13633,
+   "out": 1264,
+   "secs": 10.4,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14302,
+   "out": 1161,
+   "secs": 4.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14242,
+   "out": 1337,
+   "secs": 5.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14637,
+   "out": 1645,
+   "secs": 4.9,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 10037,
+   "out": 132,
+   "secs": 2.1,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 3837,
+   "out": 1480,
+   "secs": 4.0,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 70688,
+  "tokens_out": 7019,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 36.1
+ }
+}

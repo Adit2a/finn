@@ -1,0 +1,1111 @@
+{
+ "symbol": "ADANIENT",
+ "name": "Adani Enterprises Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:08:37",
+ "latest_call": "Apr 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 371081.0,
+   "pe": 115.0,
+   "roce": 5.8,
+   "roe": 4.48,
+   "ttm_revenue": 127398.0,
+   "ttm_pat": 5319.0,
+   "margin_latest_q": 15.0,
+   "de": 1.2,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 22848.0,
+    "rev_yoy": -8.8,
+    "op_profit": 3070.0,
+    "margin": 13.0,
+    "ebit_margin": 9.0,
+    "pat": 229.0,
+    "pat_yoy": -88.4
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 26966.0,
+    "rev_yoy": -7.6,
+    "op_profit": 3710.0,
+    "margin": 14.0,
+    "ebit_margin": 9.2,
+    "pat": 4015.0,
+    "pat_yoy": 1040.6
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 21961.0,
+    "rev_yoy": -13.8,
+    "op_profit": 3310.0,
+    "margin": 15.0,
+    "ebit_margin": 9.2,
+    "pat": 976.0,
+    "pat_yoy": -44.9
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 21249.0,
+    "rev_yoy": -6.0,
+    "op_profit": 3307.0,
+    "margin": 16.0,
+    "ebit_margin": 9.1,
+    "pat": 3414.0,
+    "pat_yoy": 71.6
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 24820.0,
+    "rev_yoy": 8.6,
+    "op_profit": 3642.0,
+    "margin": 15.0,
+    "ebit_margin": 9.1,
+    "pat": 5727.0,
+    "pat_yoy": 2400.9
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 32439.0,
+    "rev_yoy": 20.3,
+    "op_profit": 3731.0,
+    "margin": 12.0,
+    "ebit_margin": 5.0,
+    "pat": -167.0,
+    "pat_yoy": -104.2
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 32924.0,
+    "rev_yoy": 49.9,
+    "op_profit": 5019.0,
+    "margin": 15.0,
+    "ebit_margin": 9.4,
+    "pat": -1462.0,
+    "pat_yoy": -249.8
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 37216.0,
+    "rev_yoy": 75.1,
+    "op_profit": 5509.0,
+    "margin": 15.0,
+    "ebit_margin": 9.4,
+    "pat": 1221.0,
+    "pat_yoy": -64.2
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 43403.0,
+    "op_profit": 2294.0,
+    "margin": 5.0,
+    "pat": 1040.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 39537.0,
+    "op_profit": 2506.0,
+    "margin": 6.0,
+    "pat": 1046.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 69420.0,
+    "op_profit": 3714.0,
+    "margin": 5.0,
+    "pat": 788.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 127540.0,
+    "op_profit": 8818.0,
+    "margin": 7.0,
+    "pat": 2422.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 96421.0,
+    "op_profit": 11377.0,
+    "margin": 12.0,
+    "pat": 3335.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 97895.0,
+    "op_profit": 14252.0,
+    "margin": 15.0,
+    "pat": 8005.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 100469.0,
+    "op_profit": 13991.0,
+    "margin": 14.0,
+    "pat": 9951.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": -7.6,
+   "rev_cagr_5y": 20.5,
+   "pat_cagr_3y": 60.2,
+   "pat_cagr_5y": 56.9,
+   "margin_change_3y_bps": 700
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 41604.0,
+    "equity": 22257.0,
+    "de": 1.87
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 53200.0,
+    "equity": 33051.0,
+    "de": 1.61
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 65310.0,
+    "equity": 39076.0,
+    "de": 1.67
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 91473.0,
+    "equity": 50314.0,
+    "de": 1.82
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 106622.0,
+    "equity": 80926.0,
+    "de": 1.32
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 117933.0,
+    "equity": 97952.0,
+    "de": 1.2
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     111.0
+    ],
+    [
+     "Mar 2022",
+     72.0
+    ],
+    [
+     "Mar 2023",
+     36.0
+    ],
+    [
+     "Mar 2024",
+     37.0
+    ],
+    [
+     "Mar 2025",
+     36.0
+    ],
+    [
+     "Mar 2026",
+     46.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     21.0
+    ],
+    [
+     "Mar 2022",
+     46.0
+    ],
+    [
+     "Mar 2023",
+     27.0
+    ],
+    [
+     "Mar 2024",
+     69.0
+    ],
+    [
+     "Mar 2025",
+     73.0
+    ],
+    [
+     "Mar 2026",
+     126.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     142.0
+    ],
+    [
+     "Mar 2022",
+     120.0
+    ],
+    [
+     "Mar 2023",
+     111.0
+    ],
+    [
+     "Mar 2024",
+     179.0
+    ],
+    [
+     "Mar 2025",
+     151.0
+    ],
+    [
+     "Mar 2026",
+     185.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     -10.0
+    ],
+    [
+     "Mar 2022",
+     -2.0
+    ],
+    [
+     "Mar 2023",
+     -49.0
+    ],
+    [
+     "Mar 2024",
+     -73.0
+    ],
+    [
+     "Mar 2025",
+     -42.0
+    ],
+    [
+     "Mar 2026",
+     -13.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -31.0
+    ],
+    [
+     "Mar 2022",
+     -89.0
+    ],
+    [
+     "Mar 2023",
+     -38.0
+    ],
+    [
+     "Mar 2024",
+     -61.0
+    ],
+    [
+     "Mar 2025",
+     -59.0
+    ],
+    [
+     "Mar 2026",
+     -45.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 4043.0,
+    "pat": 1046.0,
+    "fcf": 684.0,
+    "conv": 3.87
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 1385.0,
+    "pat": 788.0,
+    "fcf": -10260.0,
+    "conv": 1.76
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 17626.0,
+    "pat": 2422.0,
+    "fcf": 2972.0,
+    "conv": 7.28
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 10312.0,
+    "pat": 3335.0,
+    "fcf": -11934.0,
+    "conv": 3.09
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 4513.0,
+    "pat": 8005.0,
+    "fcf": -25002.0,
+    "conv": 0.56
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 2357.0,
+    "pat": 9951.0,
+    "fcf": -30993.0,
+    "conv": 0.24
+   }
+  ],
+  "cash_conv_5y": 1.48,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (60.2% vs -7.6%): operating leverage"
+   },
+   {
+    "tone": "good",
+    "text": "Operating margin up 700 bps over 3 years"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 148% of profit"
+   },
+   {
+    "tone": "bad",
+    "text": "Borrowings 1.8x in 3 years (₹65,310 → ₹117,933 cr)"
+   },
+   {
+    "tone": "bad",
+    "text": "Cash cycle stretched by 60 days in 2 years (-73 → -13)"
+   },
+   {
+    "tone": "good",
+    "text": "Revenue growth accelerating (9% → 20% → 50% → 75%)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q4 FY25 call",
+   "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY25-Earnings-Call-Transcript.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q2-FY26-AEL_Earnings-Call-Transcript-v1.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q3-FY26-AEL_Earnings-Call_Transcript.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY26-AEL_Earnings-Call_Transcript.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a859a404-0859-451c-b8aa-f163631188c3.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q4 FY25",
+   "date": "May 2025",
+   "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY25-Earnings-Call-Transcript.pdf",
+   "pages": 9,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "FY26 capex of roughly just over INR 36,000 crores",
+     "horizon": "FY26",
+     "low": 36000,
+     "high": null,
+     "unit": "cr",
+     "quote": "And we are on track in the following year of roughly around just over INR 36,000 crores.",
+     "page": 6,
+     "speaker": "Robbie Singh",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Mining services dispatch volume closer to 60 million tons over next 18 months",
+     "horizon": "next 18 months",
+     "low": 60,
+     "high": 60,
+     "unit": "units",
+     "quote": "we expect that we will be closer to 60 over the next 18 months based on the current demand patterns of the owners and users.",
+     "page": 4,
+     "speaker": "Robbie Singh",
+     "verified": true,
+     "id": "g1.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated FY25 income up by 2% to INR 1,00,365 crores",
+     "quote": "Income up by 2% to INR 1,00,365 crores",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated FY25 EBITDA up by 26% to INR 16,722 crores",
+     "quote": "EBITDA up by 26% to INR 16,722 crores",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated FY25 PBT up by 16% to INR 6,533 crores",
+     "quote": "PBT up by 16% to INR 6,533 crores",
+     "page": 2,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Working capital and elevated debt",
+     "quote": "My first question is on your working capital, which has been very elevated in the year-end results. So it's also resulting into overall increase in debt position for the year-end number. Any specific reason there?",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "topic": "Copper smelter ramp-up and ore sourcing",
+     "quote": "Now that we have commissioned the smelter also if you can just guide us in terms of how the ramp-up will take place in the first half and second half? And any challenges in the sourcing front of the ore that we are facing right now because of lower supply of the ore globally?",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and encouraging regarding execution and strategic progress."
+  },
+  {
+   "n": 2,
+   "quarter": "Q2 FY26",
+   "date": "Nov 2025",
+   "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q2-FY26-AEL_Earnings-Call-Transcript-v1.pdf",
+   "pages": 11,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "FY26 full year capex is expected to be around INR36,000 crores",
+     "horizon": "FY26",
+     "low": 36000,
+     "high": 36000,
+     "unit": "cr",
+     "quote": "and for the full year, we expect it to be around about INR36,000 crores.",
+     "page": 7,
+     "speaker": "Robbie Singh",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission Navi Mumbai Airport operation in Q3 FY26",
+     "horizon": "Q3 FY26",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "The Greenfield Navi Mumbai Airport is expected to commence its operation in the current quarter, in Q3",
+     "page": 4,
+     "speaker": "Arun Bansal",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission new terminal in Guwahati during fiscal year",
+     "horizon": "FY26",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We are also in process of commissioning a new terminal in Guwahati during this fiscal",
+     "page": 4,
+     "speaker": "Arun Bansal",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Complete 6 GW solar module and cell line capacity by June 2026",
+     "horizon": "June 2026",
+     "low": null,
+     "high": null,
+     "unit": "units",
+     "quote": "We are pretty confident of finishing around that time, so June '26.",
+     "page": 7,
+     "speaker": "Robbie Singh",
+     "verified": true,
+     "id": "g2.4"
+    },
+    {
+     "metric": "other",
+     "promise": "Bring city side properties (CSD) live in 2029-2030 timeframe",
+     "horizon": "2029-2030",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "now we are on track to bring all the CSD properties live in 2029-2030 timeframe.",
+     "page": 8,
+     "speaker": "Arun Bansal",
+     "verified": true,
+     "id": "g2.5"
+    },
+    {
+     "metric": "other",
+     "promise": "Obtain pilot results for electrolyzers towards middle of next year",
+     "horizon": "Middle of next calendar year",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We should have the pilot results, start getting pilot results towards the middle of next year, i.e. calendar year or the second quarter.",
+     "page": 10,
+     "speaker": "Robbie Singh",
+     "verified": true,
+     "id": "g2.6"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Airport business serviced 46 million passengers with 2% growth in H1 FY26",
+     "quote": "Adani Airports serviced 46 million passengers with a growth of 2%.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Airport total revenue clocked INR5,882 crores, up 32% in H1 FY26",
+     "quote": "Total revenue clocked at INR5,882 crores with an increase of 32%",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "MDO business achieved dispatch volume of 22.6 MMT, up 29%",
+     "quote": "During the half-year, MDO business achieved a dispatch volume of 22.6 MMT, which is up 29%",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Google data center project financials",
+     "quote": "First on the Google announcement, can you help us understand, when that comes online, how should we think about revenues and profitability as we sort of build out our models?",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "topic": "Solar module sales decline and tariff impact",
+     "quote": "If I look at the second quarter, those were down –I'm just looking at my numbers. They were up year over year, but down sequentially by about 20%.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "topic": "Operating cash flows and leverage",
+     "quote": "I see it was down fairly significantly vis-a-vis last year's first half. So, maybe if you can just help us understand how we should think about cash flow from operations, free cash flow, leverage by the end of fiscal '26",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and transparent regarding multi-year incubation phases, investments, and capital structure plans."
+  },
+  {
+   "n": 3,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q3-FY26-AEL_Earnings-Call_Transcript.pdf",
+   "pages": 9,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "New solar cell and module lines expected to be ready by September 30, 2026",
+     "horizon": "September 30, 2026",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "The new lines would be expected to be ready by 30th September this year.",
+     "page": 4,
+     "speaker": "Robbie Singh",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Kutch Copper full utilization to start over next 2 to 3 months",
+     "horizon": "Q1 FY next financial year",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "we expect that now the full utilization should start over the next 2 to 3 months. So you'll start seeing the numbers in the first quarter of the following financial year",
+     "page": 6,
+     "speaker": "Robbie Singh",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Ganga Expressway set to go live in this quarter",
+     "horizon": "Q3 FY26 quarter",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "the largest road project that we have in the portfolio, which is Ganga Expressway, is set to go live in this quarter.",
+     "page": 3,
+     "speaker": "Robbie Singh",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Coal to PVC calendar year 2028 revenue perspective and base completion end of this year",
+     "horizon": "Calendar year 2028",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "From a revenue perspective, we should look at calendar year '28. And completion point of view, base completion towards end of this year",
+     "page": 8,
+     "speaker": "Robbie Singh",
+     "verified": true,
+     "id": "g3.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Adani Airport commissioned Navi Mumbai Airport and Guwahati integrated new terminal during the quarter",
+     "quote": "During the quarter gone, Adani Airport commissioned Navi Mumbai Airport and also the integrated new terminal at Guwahati.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Completed the rights issue raising INR24,930 crores for balance sheet growth positioning",
+     "quote": "we completed the rights issue raising INR24,930 crores. Additionally, in January, we also further issued INR1,000 crores of NCDs",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Nine months total income at INR69,756 crores and EBITDA at INR11,985 crores",
+     "quote": "The consolidated results for nine months are: • Total income at INR69,756 crores • EBITDA at INR11,985 crores",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Acquired 100% stake in AGHPort Aviation Services to control and strengthen ground handling",
+     "quote": "Adani Airports acquired 100% stake in AGHPort Aviation Services. This acquisition provides Adani Airports with full operational control",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Airport sequential growth slowdown",
+     "quote": "What I was looking at was the sequential growth. So when I look at the Airport revenues that you had in the second quarter, it had Y-o-Y growth of 43%. We're at 32%.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "topic": "Defense top line and capital investment",
+     "quote": "My first question is on the Defense side. Is it possible to help with the top line and the investment we have done till date in Defense?",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "topic": "Google data center partnership status",
+     "quote": "And if you can just touch on the data center partnership with Google. I believe on the last call, we had talked about the partnership. And I think you had mentioned that you would give more details around spending and other metrics",
+     "page": 6,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and transparent regarding project execution, scaling metrics, and strategic segment expansions."
+  },
+  {
+   "n": 4,
+   "quarter": "Q4 FY26",
+   "date": "Apr 2026",
+   "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY26-AEL_Earnings-Call_Transcript.pdf",
+   "pages": 12,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "FY27 capex to be around INR40,000 crores",
+     "horizon": "FY27",
+     "low": 40000,
+     "high": 40000,
+     "unit": "cr",
+     "quote": "We expect the next year to be around the same level, about INR40,000 crores.",
+     "page": 5,
+     "speaker": "Robbie Singh",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "profit",
+     "promise": "Navi Mumbai Airport, Kutch Copper and Ganga Expressway to add over INR3,000 crores EBITDA in next fiscal year",
+     "horizon": "next fiscal year",
+     "low": 3000,
+     "high": null,
+     "unit": "cr",
+     "quote": "In the next fiscal year, AEL is set to unlock EBITDA from Navi Mumbai Airport, Kutch Copper and Ganga Expressway, which are expected to add over INR3,000 crores EBITDA to AEL.",
+     "page": 3,
+     "speaker": "Arun Bansal",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Mining services volume growth expected at high double-digit or close to 20% next year",
+     "horizon": "next year",
+     "low": 20,
+     "high": 20,
+     "unit": "%",
+     "quote": "You can expect that we will be high double-digit growth next year as well. So say close to 20% mark.",
+     "page": 6,
+     "speaker": "Robbie Singh",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "profit",
+     "promise": "Combined peak EBITDA for Navi Mumbai, Ganga Expressway and Copper between INR6,000 to INR6,800 crores by end of FY28",
+     "horizon": "end of FY28",
+     "low": 6000,
+     "high": 6800,
+     "unit": "cr",
+     "quote": "So overall, these businesses will contribute at peak capacity somewhere between INR6,000 crores to INR6,800 crores... Towards the end of FY '28.",
+     "page": 10,
+     "speaker": "Robbie Singh",
+     "verified": true,
+     "id": "g4.4"
+    },
+    {
+     "metric": "debt",
+     "promise": "Core infra leverage range to track 3.5x to 4.5x",
+     "horizon": "ongoing",
+     "low": 3.5,
+     "high": 4.5,
+     "unit": "x",
+     "quote": "So our core infra will track the core infra. So we guide to that in the core infra while we are growing, we will be closer to the 3.5 to 4.5 range.",
+     "page": 9,
+     "speaker": "Robbie Singh",
+     "verified": true,
+     "id": "g4.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Completed India's largest greenfield Ganga Expressway project in under 3.5 years",
+     "quote": "We are pleased to inform you that we have completed India's largest greenfield Ganga Expressway project in a record time of less than 3.5 years.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Commenced operations at greenfield Navi Mumbai International Airport on 25 December 2025",
+     "quote": "Commencement of operations in greenfield Navi Mumbai International Airport from 25th December 2025",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Solar module domestic sales surged 96% year-on-year",
+     "quote": "For solar module manufacturing, domestic sales surged 96% on a year-on-year basis.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Achieved total income of INR 1,02,943 crores and EBITDA of INR 16,464 crores for the year",
+     "quote": "Consolidated results for the year-end are: - Total income of INR 1,02,943 crores. - EBITDA at INR 16,464 crores.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Commercial mining EBIT decline",
+     "quote": "Can you please explain that why there is such a sharp decline in the commercial mining EBIT for the quarter?",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "topic": "Airport demerger timeline",
+     "quote": "When should we look at this company, this segment looking to monetize or not monetize, but demerger, which we have talked about in the past?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Fourth quarter EBITDA conversion and segment weakness",
+     "quote": "If you can just help us understand what's going on in some of those segments, that would be super helpful. And more importantly, how we should think about 2027 for those segments?",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and transparent, emphasizing maturation of incubation assets, ongoing capex, and value unlock through demergers."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company operates in integrated resources management, mining services, commercial mining, new energy ecosystem, airports, roads, and copper businesses.",
+  "segments": [
+   {
+    "name": "Integrated Resources Management",
+    "revenue": 28362.46,
+    "unit": "crore",
+    "what": "Sells integrated resources management services to customers",
+    "page": 339,
+    "share_pct": 28
+   },
+   {
+    "name": "Mining Services",
+    "revenue": 4445.86,
+    "unit": "crore",
+    "what": "Sells mining services to clients",
+    "page": 339,
+    "share_pct": 4
+   },
+   {
+    "name": "Commercial Mining",
+    "revenue": 5642.3,
+    "unit": "crore",
+    "what": "Sells commercial mining output to customers",
+    "page": 339,
+    "share_pct": 5
+   },
+   {
+    "name": "New Energy Ecosystem",
+    "revenue": 15399.0,
+    "unit": "crore",
+    "what": "Sells new energy ecosystem products and solutions",
+    "page": 339,
+    "share_pct": 15
+   },
+   {
+    "name": "Airport",
+    "revenue": 13215.43,
+    "unit": "crore",
+    "what": "Sells airport and related services to passengers and airlines",
+    "page": 339,
+    "share_pct": 13
+   },
+   {
+    "name": "Road",
+    "revenue": 6347.18,
+    "unit": "crore",
+    "what": "Sells road infrastructure and transport services",
+    "page": 339,
+    "share_pct": 6
+   },
+   {
+    "name": "Copper",
+    "revenue": 15284.34,
+    "unit": "crore",
+    "what": "Sells copper products to industrial clients",
+    "page": 339,
+    "share_pct": 15
+   },
+   {
+    "name": "Others",
+    "revenue": 14289.6,
+    "unit": "crore",
+    "what": "Sells miscellaneous goods and services",
+    "page": 339,
+    "share_pct": 14
+   }
+  ],
+  "mix_note": "Operating revenue within India was 82,419.21 crore and outside India was 18,049.40 crore.",
+  "risks_mgmt_flags": [],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a859a404-0859-451c-b8aa-f163631188c3.pdf",
+  "pages_read": [
+   12,
+   13,
+   151,
+   152,
+   238,
+   274,
+   299,
+   302,
+   339,
+   340,
+   391,
+   392
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g2.2",
+    "promise": "Navi Mumbai Airport to commence operation in Q3 FY26",
+    "made_in": "Q2 FY26",
+    "delivered": "Operation started Dec 25 2025 (Q4 FY26), missing Q3 target",
+    "verdict": "walked_back",
+    "checked_against": "Q4 FY26 claim of airport start date",
+    "quote": "The Greenfield Navi Mumbai Airport is expected to commence its operation in the current quarter, in Q3",
+    "page": 4,
+    "verified": true,
+    "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q2-FY26-AEL_Earnings-Call-Transcript-v1.pdf"
+   },
+   {
+    "ref": "g2.4",
+    "promise": "Complete 6 GW solar module and cell line capacity by June 2026",
+    "made_in": "Q2 FY26",
+    "delivered": "No reported completion data; deadline passed",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "We are pretty confident of finishing around that time, so June '26.",
+    "page": 7,
+    "verified": true,
+    "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q2-FY26-AEL_Earnings-Call-Transcript-v1.pdf"
+   },
+   {
+    "ref": "g3.3",
+    "promise": "Ganga Expressway to go live in Q3 FY26 quarter",
+    "made_in": "Q3 FY26",
+    "delivered": "Claimed completed in Q4 FY26, not Q3",
+    "verdict": "walked_back",
+    "checked_against": "Q4 FY26 claim of completion",
+    "quote": "the largest road project that we have in the portfolio, which is Ganga Expressway, is set to go live in this quarter.",
+    "page": 3,
+    "verified": true,
+    "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q3-FY26-AEL_Earnings-Call_Transcript.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "FY27 capex around INR 40,000 crores",
+    "made_in": "Q4 FY26",
+    "delivered": "Capex figure not reported yet",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "We expect the next year to be around the same level, about INR40,000 crores.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY26-AEL_Earnings-Call_Transcript.pdf"
+   },
+   {
+    "ref": "g4.4",
+    "promise": "Peak EBITDA from Navi Mumbai, Ganga Expressway, Copper INR 6,000‑6,800 crores by FY28 end",
+    "made_in": "Q4 FY26",
+    "delivered": "FY26 EBITDA reported INR 16,464 crores, but segment split unavailable",
+    "verdict": "too_early",
+    "checked_against": "FY26 total EBITDA",
+    "quote": "So overall, these businesses will contribute at peak capacity somewhere between INR6,000 crores to INR6,800 crores... Towards the end of FY '28.",
+    "page": 10,
+    "verified": true,
+    "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY26-AEL_Earnings-Call_Transcript.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 3,
+   "line": "Management frequently shifts timelines, reducing confidence in delivery."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Management touts strong capex and project launches, yet FY26 EBITDA barely rose to INR 13,991 crores."
+   },
+   {
+    "agree": false,
+    "point": "Promised mining services volume of ~60 Mt not reflected; reported 22.6 Mt in H1 FY26."
+   },
+   {
+    "agree": true,
+    "point": "Revenue growth accelerated to 75% YoY in Q3 FY26, matching upbeat narrative."
+   }
+  ],
+  "bull": [
+   "Revenue YoY 75.1% in Q3 FY26 shows momentum.",
+   "EBITDA grew to INR 5,509 crores in Q3 FY26, up from INR 3,307 crores a year earlier.",
+   "Borrowings ratio improved to 1.2x by Sep 2026, indicating better leverage."
+  ],
+  "bear": [
+   "PAT remains volatile, negative in Q2 FY26 and only modestly positive in Q3 FY26.",
+   "Operating cash flow turned negative in FY26 despite higher earnings.",
+   "Capex guidance of INR 36,000‑40,000 crores lacks supporting cash flow evidence."
+  ],
+  "watch": [
+   "Actual capex spend in FY27",
+   "Completion of 6 GW solar line by June 2026",
+   "Full utilization of Kutch Copper in FY27"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 6576,
+   "out": 670,
+   "secs": 24.9,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 7946,
+   "out": 1176,
+   "secs": 4.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 7003,
+   "out": 1056,
+   "secs": 20.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 8563,
+   "out": 1240,
+   "secs": 4.9,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12008,
+   "out": 587,
+   "secs": 25.9,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 3600,
+   "out": 1197,
+   "secs": 3.4,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 45696,
+  "tokens_out": 5926,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 88.9
+ }
+}

@@ -1,0 +1,920 @@
+{
+ "symbol": "EICHERMOT",
+ "name": "Eicher Motors Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:21:10",
+ "latest_call": "Aug 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 210132.0,
+   "pe": 36.1,
+   "roce": 30.5,
+   "roe": 24.0,
+   "ttm_revenue": 24998.0,
+   "ttm_pat": 5773.0,
+   "margin_latest_q": 24.0,
+   "de": 0.02,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Sep 2024",
+    "revenue": 4263.0,
+    "rev_yoy": 3.6,
+    "op_profit": 1088.0,
+    "margin": 26.0,
+    "ebit_margin": 21.3,
+    "pat": 1100.0,
+    "pat_yoy": 8.3
+   },
+   {
+    "q": "Dec 2024",
+    "revenue": 4973.0,
+    "rev_yoy": 19.0,
+    "op_profit": 1201.0,
+    "margin": 24.0,
+    "ebit_margin": 20.6,
+    "pat": 1170.0,
+    "pat_yoy": 17.5
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 5241.0,
+    "rev_yoy": 23.1,
+    "op_profit": 1258.0,
+    "margin": 24.0,
+    "ebit_margin": 20.2,
+    "pat": 1362.0,
+    "pat_yoy": 27.3
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 5042.0,
+    "rev_yoy": 14.8,
+    "op_profit": 1203.0,
+    "margin": 24.0,
+    "ebit_margin": 19.9,
+    "pat": 1205.0,
+    "pat_yoy": 9.4
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 6172.0,
+    "rev_yoy": 44.8,
+    "op_profit": 1512.0,
+    "margin": 24.0,
+    "ebit_margin": 21.3,
+    "pat": 1369.0,
+    "pat_yoy": 24.5
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 6114.0,
+    "rev_yoy": 22.9,
+    "op_profit": 1557.0,
+    "margin": 25.0,
+    "ebit_margin": 22.0,
+    "pat": 1421.0,
+    "pat_yoy": 21.5
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 6080.0,
+    "rev_yoy": 16.0,
+    "op_profit": 1514.0,
+    "margin": 25.0,
+    "ebit_margin": 21.1,
+    "pat": 1520.0,
+    "pat_yoy": 11.6
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 6632.0,
+    "rev_yoy": 31.5,
+    "op_profit": 1591.0,
+    "margin": 24.0,
+    "ebit_margin": 19.8,
+    "pat": 1463.0,
+    "pat_yoy": 21.4
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 9154.0,
+    "op_profit": 2183.0,
+    "margin": 24.0,
+    "pat": 1827.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 8720.0,
+    "op_profit": 1783.0,
+    "margin": 20.0,
+    "pat": 1347.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 10298.0,
+    "op_profit": 2178.0,
+    "margin": 21.0,
+    "pat": 1677.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 14442.0,
+    "op_profit": 3446.0,
+    "margin": 24.0,
+    "pat": 2914.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 16536.0,
+    "op_profit": 4329.0,
+    "margin": 26.0,
+    "pat": 4001.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 18870.0,
+    "op_profit": 4723.0,
+    "margin": 25.0,
+    "pat": 4734.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 23408.0,
+    "op_profit": 5789.0,
+    "margin": 25.0,
+    "pat": 5515.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 17.5,
+   "rev_cagr_5y": 21.8,
+   "pat_cagr_3y": 23.7,
+   "pat_cagr_5y": 32.6,
+   "margin_change_3y_bps": 100
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2021",
+    "debt": 219.0,
+    "equity": 11438.0,
+    "de": 0.02
+   },
+   {
+    "y": "Mar 2022",
+    "debt": 108.0,
+    "equity": 12608.0,
+    "de": 0.01
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 288.0,
+    "equity": 14990.0,
+    "de": 0.02
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 419.0,
+    "equity": 18045.0,
+    "de": 0.02
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 458.0,
+    "equity": 21296.0,
+    "de": 0.02
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 514.0,
+    "equity": 25100.0,
+    "de": 0.02
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     7.0
+    ],
+    [
+     "Mar 2022",
+     11.0
+    ],
+    [
+     "Mar 2023",
+     9.0
+    ],
+    [
+     "Mar 2024",
+     8.0
+    ],
+    [
+     "Mar 2025",
+     11.0
+    ],
+    [
+     "Mar 2026",
+     6.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     62.0
+    ],
+    [
+     "Mar 2022",
+     69.0
+    ],
+    [
+     "Mar 2023",
+     57.0
+    ],
+    [
+     "Mar 2024",
+     57.0
+    ],
+    [
+     "Mar 2025",
+     55.0
+    ],
+    [
+     "Mar 2026",
+     55.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     108.0
+    ],
+    [
+     "Mar 2022",
+     110.0
+    ],
+    [
+     "Mar 2023",
+     80.0
+    ],
+    [
+     "Mar 2024",
+     85.0
+    ],
+    [
+     "Mar 2025",
+     90.0
+    ],
+    [
+     "Mar 2026",
+     76.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     -39.0
+    ],
+    [
+     "Mar 2022",
+     -29.0
+    ],
+    [
+     "Mar 2023",
+     -14.0
+    ],
+    [
+     "Mar 2024",
+     -19.0
+    ],
+    [
+     "Mar 2025",
+     -24.0
+    ],
+    [
+     "Mar 2026",
+     -16.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -30.0
+    ],
+    [
+     "Mar 2022",
+     -15.0
+    ],
+    [
+     "Mar 2023",
+     -14.0
+    ],
+    [
+     "Mar 2024",
+     5.0
+    ],
+    [
+     "Mar 2025",
+     31.0
+    ],
+    [
+     "Mar 2026",
+     22.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 1691.0,
+    "pat": 1347.0,
+    "fcf": 1176.0,
+    "conv": 1.26
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 1527.0,
+    "pat": 1677.0,
+    "fcf": 888.0,
+    "conv": 0.91
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 2823.0,
+    "pat": 2914.0,
+    "fcf": 2149.0,
+    "conv": 0.97
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 3724.0,
+    "pat": 4001.0,
+    "fcf": 2909.0,
+    "conv": 0.93
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 3980.0,
+    "pat": 4734.0,
+    "fcf": 2951.0,
+    "conv": 0.84
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 4805.0,
+    "pat": 5515.0,
+    "fcf": 3538.0,
+    "conv": 0.87
+   }
+  ],
+  "cash_conv_5y": 0.89,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (23.7% vs 17.5%): operating leverage"
+   },
+   {
+    "tone": "good",
+    "text": "Practically debt-free (D/E 0.02)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fc683e74-7d81-44bc-9070-0ff093575660.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2034466e-1012-40d2-a451-f65112a87379.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ea8d7952-4956-4162-a67f-ce5e6d8791e2.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8c3a03ae-07e5-4e5b-8caf-193354910410.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d17e4c7d-5ef6-4135-b0f3-cc7bb1ca7f09.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fc683e74-7d81-44bc-9070-0ff093575660.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [],
+   "claims": [
+    {
+     "claim": "EML achieved highest ever consolidated revenue of INR 6,172 crores in Q2 FY26.",
+     "quote": "EML revenue, clocked its best ever revenue at INR6,172 crores, marking a growth of 45% over INR4,263 crores from Q2 of last year.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Royal Enfield recorded best ever festive performance with over 2.49 lakh motorcycles sold in Sept-Oct.",
+     "quote": "with over about 2.49 lakh motorcycles we sold during the festive months of September and October, our best ever festive performance",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "VECV recorded highest ever second quarter sales of 21,901 units in Q2 FY26.",
+     "quote": "at VECV, we recorded our highest ever second quarter sales of 21,901 units exceeding our previous record of 20,774 units in Q2 of financial year 2025",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Classic and Bullet volume growth after GST cuts",
+     "quote": "I just want to understand some of these core products, the Classic, the Bullet, the Hunter, the Meteor, if you're able to give us some sense of what the potential benefits in demand you're seeing, just exclusive from the GST cuts alone?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Capacity additions and constraints",
+     "quote": "Could you share your thoughts on what you are thinking on capacity addition incrementally because you're running almost at full capacity?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Operating expense rise and EBITDA margin impact",
+     "quote": "While we've seen -- like if you see revenues have grown by around 45%, but the EBITDA growth is around 39% because the operating expenses have risen quite sharply. So do you see any scope to reduce marketing or financing or other interventions to sort of have a margin expansion?",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and upbeat regarding demand momentum, festive sales, and strategic positioning."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2034466e-1012-40d2-a451-f65112a87379.pdf",
+   "pages": 20,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Invest INR 958 crores over 2 years for Cheyyar capacity expansion to 2 million units by FY27-28",
+     "horizon": "FY 27-28",
+     "low": null,
+     "high": null,
+     "unit": "cr",
+     "quote": "For this expansion, we will invest an estimate of almost INR 958 crores over a period of 2 years, reaching the target capacity by FY 27-28.",
+     "page": 6,
+     "speaker": "B. Govindarajan",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Scale Royal Enfield annual production capacity to 20 lakh units per year by FY27-28",
+     "horizon": "FY 27-28",
+     "low": null,
+     "high": 2000000,
+     "unit": "units",
+     "quote": "taking our annual production capacity to 20 lakh units per year from the current 1.4 million to meet the rapidly expanding existing and the projected future demand.",
+     "page": 5,
+     "speaker": "B. Govindarajan",
+     "verified": true,
+     "id": "g2.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated Q3 revenue grew 23% to INR 6,114 crores and EBITDA grew 30% to INR 1,557 crores",
+     "quote": "Our revenue for Q3 is at about INR 6,114 crores, marking a growth of 23% over INR 4,973 crores from Q3 last year. EBITDA stands at about INR 1,557 crores",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Royal Enfield crossed 1 million motorcycles year-to-date much before financial year close",
+     "quote": "helped us cross the milestone of 1 million motorcycles year-to-date much before the close of this financial year",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "VECV recorded highest ever Q3 volumes of 26,086 units, up 24.2% year-on-year",
+     "quote": "VECV recorded Q3 volumes of 26,086 units, a 24.2% growth year-on-year, taking our YTD performance to 69,597 units, a growth of 13.2%. This marks our strongest ever quarter 3.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Royal Enfield achieved 93% green electricity across facilities and 80% reduction in Scope 1 and 2 emissions intensity",
+     "quote": "Currently, 93% of our electricity consumed across our facilities is green electricity. We achieved 80% reduction in emissions intensity in our operations, Scope 1 and 2.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Margin performance drivers",
+     "quote": "My first question is just around the margin performance. So this appears to be the first time in almost 5 to 6 quarters where we've seen sequential improvement in gross margin and sequential reduction in other expenses. So I just want to understand what drove this?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Capacity expansion and 350cc vs 650cc mix",
+     "quote": "My second question is just on the capacity expansion that was announced. If you could help us understand what part of this would be focused on the 350cc and sub-350cc portfolio...",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "International demand and export growth momentum",
+     "quote": "Directionally, how should we think about export growth? Now you've of course, pointed out in the past that there is end market weakness in some of the mature markets.",
+     "page": 12,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and transparent regarding operational performance, capacity expansion, and strategic growth drivers."
+  },
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ea8d7952-4956-4162-a67f-ce5e6d8791e2.pdf",
+   "pages": 20,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Set up a new joint venture with Volvo for vehicle financing up to INR750 crores",
+     "horizon": "proposed joint venture",
+     "low": null,
+     "high": 750,
+     "unit": "cr",
+     "quote": "Our investment in this will be up to INR750 crores for the 50% stake in this Volvo Financial Services India.",
+     "page": 4,
+     "speaker": "Vinod Aggarwal",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Take annual manufacturing capacity to almost 2 million units at Cheyyar facility by Q2 FY28",
+     "horizon": "Q2 FY28",
+     "low": null,
+     "high": 2000000,
+     "unit": "units",
+     "quote": "That's about 2 million capacity, which will be there by Q2 of FY28.",
+     "page": 9,
+     "speaker": "B. Govindarajan",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "capex",
+     "promise": "Operate a greenfield facility in Andhra Pradesh for future capacity",
+     "horizon": "longer-term perspective",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "From a longer-term perspective, we have also recently decided on plans for a greenfield facility in Andhra Pradesh.",
+     "page": 3,
+     "speaker": "Siddhartha Lal",
+     "verified": true,
+     "id": "g3.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Combined revenue of EML and VECV crossed INR50,000 crores for the first time.",
+     "quote": "the combined revenue of EML and VECV actually crossed INR50,000 crores last year for the first time.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Royal Enfield achieved over 1.2 million motorcycle sales for the year.",
+     "quote": "Royal Enfield achieved over 1.2 million motorcycle sales, VECV, for the first time, delivered a record 100,000 units, 1 lakh unit sales for the year.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Eicher Motors consolidated revenue at INR6,080 crores and EBITDA at INR1,514 crores for Q4.",
+     "quote": "Eicher Motors Limited posted a record performance with a consolidated revenue at INR6,080 crores and EBITDA at about INR1,514 crores.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "VECV recorded consolidated revenue of INR8,280.6 crores and EBITDA of INR921.5 crores for Q4.",
+     "quote": "VECV posted a record performance with consolidated revenue at INR 8,280.6 crores, EBITDA at INR 921.5 crores.",
+     "page": 7,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Premium motorcycle demand and inventory levels",
+     "quote": "how do you expect the retail growth to pan out in FY 2027 for the premium motorcycle category? And also then share your plans on the capacity expansion, what you're talking about. Because what we understand looking at Vahan and also talking to dealers is that you're literally running on with thin inventories, right?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Commodity cost impact and pricing actions",
+     "quote": "how much of the commodity impact in 4Q, how much of that you could pass on to the consumers in 4Q and what the pricing taken up in 1Q, if any? And how should one look at commodity as a headwind to your margin profile?",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Vehicle finance JV rationale and capital requirements",
+     "quote": "what prevented them and now do you see with your portfolio getting expanded into EVs and much wider, you feel the need for vehicle finance or you feel the environment is now better with digitization. What is the reason to enter now versus historically which was evaluated?",
+     "page": 15,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, upbeat, and transparent regarding strong financial performance and strategic long-term growth investments."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8c3a03ae-07e5-4e5b-8caf-193354910410.pdf",
+   "pages": 22,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Board approved investment of INR1,225 crores for Phase 1 greenfield expansion at Tada by FY30",
+     "horizon": "FY29-30",
+     "low": null,
+     "high": 1225,
+     "unit": "cr",
+     "quote": "Today, the Board has approved an investment of INR1,225 crores for the Phase 1 of the greenfield expansion at Tada, which at full utilization can produce an additional 4.5 lakh motorcycles per year. The above capacity addition is expected to be completed during financial year 20-30.",
+     "page": 4,
+     "speaker": "B. Govindarajan",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Take production capacity at Cheyyar brownfield to 2 million by FY28",
+     "horizon": "financial year 27, '28",
+     "low": null,
+     "high": 2,
+     "unit": "x",
+     "quote": "So the entire brownfield capacity, which will all come by financial year 27, '28, that is what we said with the Cheyyar, our production capacity will go to 2 million.",
+     "page": 7,
+     "speaker": "B. Govindarajan",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Reach total capacity of 2.45 million by FY30",
+     "horizon": "2029-30",
+     "low": null,
+     "high": 2.45,
+     "unit": "x",
+     "quote": "Going forward, Andhra Pradesh, that's what today the Board has cleared about INR1,225 crores, and that will take us to the overall capacity of 2.45 million, but that will happen by 2029-30.",
+     "page": 7,
+     "speaker": "B. Govindarajan",
+     "verified": true,
+     "id": "g4.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Royal Enfield registered its highest ever quarterly sales at 332,940 motorcycles in Q1 FY27.",
+     "quote": "During the quarter, we registered our highest ever quarter sales at 332,940 motorcycles as against 261,326 in Q1 of FY26.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "EML clocked its best ever Q1 revenue of INR 6,632 crores, a 32% growth.",
+     "quote": "EML consolidated financials for the first quarter FY 26-27, our revenue, EML clocked its best ever Q1 revenue of INR 6,632 crores, marking a growth of 32% over INR 5,042 crores from Q1 of last year.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "VECV recorded highest ever Q1 sales with 24,815 units, growing 14.8%.",
+     "quote": "For the quarter, VECV sales stood at 24,815 units, a growth of 14.8% and I'm very happy to inform that we continue to lead in light and medium duty trucks. In Q1, VECV recorded several best ever quarter milestones across segments.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "International business revenue crossed INR 1,000 crores for the first time.",
+     "quote": "In Q1, in fact, our revenue has crossed for the first time about INR 1,000 crores, highest ever in the international business.",
+     "page": 11,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Brownfield capacity, labor issues, and dealer inventory levels for festive",
+     "quote": "Firstly, can you give an update on where we are on the brownfield or module expansion that we spoke about in the last couple of calls? Just trying to get a handle at what is the production now given that we did face some labor-related issues over the last couple of months. And also, where does the channel stock lie now, especially given we get info the festive period over the next quarter?",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Gross margin moving parts, commodity impact, and other expenses drop",
+     "quote": "So if you can give us some colour on the moving parts on the gross margin price hike, what was the commodity hit taken? And there's also pretty low other expenses line when I look at the last couple of quarters, the significant decline in this quarter.",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Inventory stocking up for festive and vendor readiness for 3-shift production",
+     "quote": "So how do you plan to kind of stock up before the season and even post the season because even for the last few years, we've been having completely dry inventory at the dealers after the festive.",
+     "page": 15,
+     "verified": true
+    }
+   ],
+   "tone": "Optimistic, confident, and growth-oriented across both Royal Enfield and VECV businesses."
+  }
+ ],
+ "business": {
+  "what_it_does": "Manufactures motorcycles, commercial vehicles, engines, and related parts.",
+  "segments": [
+   {
+    "name": "Automotive segment",
+    "revenue": null,
+    "unit": null,
+    "what": "Development, design, manufacture, assembly and sale of two-wheelers, parts and accessories.",
+    "page": 266
+   }
+  ],
+  "mix_note": "Domestic revenue is 19,916.28 crores and overseas revenue is 3,491.28 crores in FY 2025-26.",
+  "risks_mgmt_flags": [],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d17e4c7d-5ef6-4135-b0f3-cc7bb1ca7f09.pdf",
+  "pages_read": [
+   12,
+   57,
+   86,
+   91,
+   97,
+   220,
+   252,
+   266,
+   267,
+   314,
+   350,
+   364
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g2.1",
+    "promise": "Invest INR 958 crores over 2 years for Cheyyar capacity expansion to 2 million units",
+    "made_in": "Q3 FY26",
+    "delivered": "No capex or capacity data in reported figures; deadline FY27‑28 not yet reached",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "For this expansion, we will invest an estimate of almost INR 958 crores over a period of 2 years, reaching the target capacity by FY 27-28.",
+    "page": 6,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2034466e-1012-40d2-a451-f65112a87379.pdf"
+   },
+   {
+    "ref": "g2.2",
+    "promise": "Scale Royal Enfield capacity to 20 lakh units per year by FY27‑28",
+    "made_in": "Q3 FY26",
+    "delivered": "Capacity not disclosed in reported numbers; deadline FY27‑28 still future",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "taking our annual production capacity to 20 lakh units per year from the current 1.4 million to meet the rapidly expanding existing and the projected future demand.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2034466e-1012-40d2-a451-f65112a87379.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "Set up JV with Volvo for vehicle financing up to INR 750 crores",
+    "made_in": "Q4 FY26",
+    "delivered": "No JV or financing commitment disclosed in reported figures; deadline unspecified",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "Our investment in this will be up to INR750 crores for the 50% stake in this Volvo Financial Services India.",
+    "page": 4,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ea8d7952-4956-4162-a67f-ce5e6d8791e2.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Board approved INR 1,225 crores for Phase 1 greenfield expansion at Tada by FY30",
+    "made_in": "Q1 FY27",
+    "delivered": "Investment amount not reflected in reported cash‑flow or capex data; FY30 horizon pending",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "Today, the Board has approved an investment of INR1,225 crores for the Phase 1 of the greenfield expansion at Tada, which at full utilization can produce an additional 4.5 lakh motorcycles per year. The above capacity addition is expected to be completed during financial year 20-30.",
+    "page": 4,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8c3a03ae-07e5-4e5b-8caf-193354910410.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "None of these promises can be checked against reported numbers yet — no score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Mgmt touts record Q2 FY26 revenue of INR 6,172 crores, which matches reported Sep 2025 revenue but offers no growth context."
+   },
+   {
+    "agree": false,
+    "point": "Claims of 23% Q3 revenue growth to INR 6,114 crores contrast with reported Dec 2025 revenue of INR 6,114 crores (flat YoY)."
+   },
+   {
+    "agree": true,
+    "point": "EBITDA margins reported around 24‑25% align with mgmt’s emphasis on margin expansion."
+   }
+  ],
+  "bull": [
+   "Revenue rose to INR 6,632 crores in Jun 2026, a 31.5% YoY jump.",
+   "EBITDA reached INR 1,591 crores in Jun 2026, supporting margin narrative.",
+   "Operating cash flow grew to INR 4,805 crores in Mar 2026, showing strong cash conversion."
+  ],
+  "bear": [
+   "EBIT margin slipped to 19.8% in Jun 2026, below the 22% target implied by mgmt.",
+   "PAT growth slowed to 21.4% YoY in Jun 2026, indicating profit pressure.",
+   "Debt‑to‑equity remains low but borrowing rose to INR 514 crores, hinting at financing needs."
+  ],
+  "watch": [
+   "Capex spend versus promised INR 958 crore Cheyyar investment.",
+   "Actual production capacity versus 2 million unit target.",
+   "Progress on Volvo financing JV funding commitment."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14694,
+   "out": 537,
+   "secs": 3.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 15531,
+   "out": 978,
+   "secs": 13.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 15374,
+   "out": 1025,
+   "secs": 3.7,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 15322,
+   "out": 1215,
+   "secs": 28.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11166,
+   "out": 152,
+   "secs": 2.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 3156,
+   "out": 1118,
+   "secs": 3.1,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 75243,
+  "tokens_out": 5025,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 57.8
+ }
+}

@@ -1,0 +1,959 @@
+{
+ "symbol": "RELIANCE",
+ "name": "Reliance Industries Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:39:45",
+ "latest_call": "Nov 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 1794290.0,
+   "pe": 21.8,
+   "roce": 10.3,
+   "roe": 8.91,
+   "ttm_revenue": 1199033.0,
+   "ttm_pat": 95625.0,
+   "margin_latest_q": 17.0,
+   "de": 0.43,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 239986.0,
+    "rev_yoy": 6.6,
+    "op_profit": 43789.0,
+    "margin": 18.0,
+    "ebit_margin": 12.8,
+    "pat": 21930.0,
+    "pat_yoy": 11.7
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 261388.0,
+    "rev_yoy": 10.5,
+    "op_profit": 43832.0,
+    "margin": 17.0,
+    "ebit_margin": 11.6,
+    "pat": 22611.0,
+    "pat_yoy": 6.4
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 243632.0,
+    "rev_yoy": 5.1,
+    "op_profit": 42905.0,
+    "margin": 18.0,
+    "ebit_margin": 11.9,
+    "pat": 30783.0,
+    "pat_yoy": 76.5
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 254623.0,
+    "rev_yoy": 10.0,
+    "op_profit": 45885.0,
+    "margin": 18.0,
+    "ebit_margin": 12.4,
+    "pat": 22092.0,
+    "pat_yoy": 14.3
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 264905.0,
+    "rev_yoy": 10.4,
+    "op_profit": 46018.0,
+    "margin": 17.0,
+    "ebit_margin": 11.9,
+    "pat": 22290.0,
+    "pat_yoy": 1.6
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 294059.0,
+    "rev_yoy": 12.5,
+    "op_profit": 44141.0,
+    "margin": 15.0,
+    "ebit_margin": 10.0,
+    "pat": 20589.0,
+    "pat_yoy": -8.9
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 309468.0,
+    "rev_yoy": 27.0,
+    "op_profit": 47517.0,
+    "margin": 15.0,
+    "ebit_margin": 10.5,
+    "pat": 23196.0,
+    "pat_yoy": -24.6
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 330601.0,
+    "rev_yoy": 29.8,
+    "op_profit": 56616.0,
+    "margin": 17.0,
+    "ebit_margin": 12.5,
+    "pat": 29550.0,
+    "pat_yoy": 33.8
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 596679.0,
+    "op_profit": 89266.0,
+    "margin": 15.0,
+    "pat": 39880.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 466307.0,
+    "op_profit": 80790.0,
+    "margin": 17.0,
+    "pat": 53739.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 694673.0,
+    "op_profit": 108581.0,
+    "margin": 16.0,
+    "pat": 67845.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 876396.0,
+    "op_profit": 142318.0,
+    "margin": 16.0,
+    "pat": 74088.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 899041.0,
+    "op_profit": 162498.0,
+    "margin": 18.0,
+    "pat": 79020.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 962820.0,
+    "op_profit": 165598.0,
+    "margin": 17.0,
+    "pat": 81309.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 1055780.0,
+    "op_profit": 179065.0,
+    "margin": 17.0,
+    "pat": 95754.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 6.4,
+   "rev_cagr_5y": 17.8,
+   "pat_cagr_3y": 8.9,
+   "pat_cagr_5y": 12.2,
+   "margin_change_3y_bps": 100
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 319158.0,
+    "equity": 779485.0,
+    "de": 0.41
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 451664.0,
+    "equity": 715872.0,
+    "de": 0.63
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 350719.0,
+    "equity": 793481.0,
+    "de": 0.44
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 374313.0,
+    "equity": 843200.0,
+    "de": 0.44
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 402962.0,
+    "equity": 904030.0,
+    "de": 0.45
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 405322.0,
+    "equity": 944404.0,
+    "de": 0.43
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     15.0
+    ],
+    [
+     "Mar 2022",
+     12.0
+    ],
+    [
+     "Mar 2023",
+     12.0
+    ],
+    [
+     "Mar 2024",
+     13.0
+    ],
+    [
+     "Mar 2025",
+     16.0
+    ],
+    [
+     "Mar 2026",
+     20.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     102.0
+    ],
+    [
+     "Mar 2022",
+     83.0
+    ],
+    [
+     "Mar 2023",
+     87.0
+    ],
+    [
+     "Mar 2024",
+     95.0
+    ],
+    [
+     "Mar 2025",
+     85.0
+    ],
+    [
+     "Mar 2026",
+     88.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     136.0
+    ],
+    [
+     "Mar 2022",
+     123.0
+    ],
+    [
+     "Mar 2023",
+     91.0
+    ],
+    [
+     "Mar 2024",
+     111.0
+    ],
+    [
+     "Mar 2025",
+     108.0
+    ],
+    [
+     "Mar 2026",
+     84.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     -19.0
+    ],
+    [
+     "Mar 2022",
+     -27.0
+    ],
+    [
+     "Mar 2023",
+     7.0
+    ],
+    [
+     "Mar 2024",
+     -3.0
+    ],
+    [
+     "Mar 2025",
+     -8.0
+    ],
+    [
+     "Mar 2026",
+     25.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -58.0
+    ],
+    [
+     "Mar 2022",
+     -56.0
+    ],
+    [
+     "Mar 2023",
+     -66.0
+    ],
+    [
+     "Mar 2024",
+     -53.0
+    ],
+    [
+     "Mar 2025",
+     -68.0
+    ],
+    [
+     "Mar 2026",
+     -66.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 26958.0,
+    "pat": 53739.0,
+    "fcf": -76560.0,
+    "conv": 0.5
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 110654.0,
+    "pat": 67845.0,
+    "fcf": 13646.0,
+    "conv": 1.63
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 115032.0,
+    "pat": 74088.0,
+    "fcf": -16770.0,
+    "conv": 1.55
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 158788.0,
+    "pat": 79020.0,
+    "fcf": 21212.0,
+    "conv": 2.01
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 178703.0,
+    "pat": 81309.0,
+    "fcf": 41079.0,
+    "conv": 2.2
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 192113.0,
+    "pat": 95754.0,
+    "fcf": 70023.0,
+    "conv": 2.01
+   }
+  ],
+  "cash_conv_5y": 1.9,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 190% of profit"
+   },
+   {
+    "tone": "bad",
+    "text": "Cash cycle stretched by 28 days in 2 years (-3 → 25)"
+   },
+   {
+    "tone": "good",
+    "text": "Revenue growth accelerating (10% → 12% → 27% → 30%)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=971d8c86-397a-4780-b843-5a84d3006d0b.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8e997741-4d35-4188-933a-cf020fb9c816.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cc08294f-ec68-4f15-aaa4-c14a3c4bdfb2.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf",
+   "pages": 38,
+   "scanned": false,
+   "guidance": [],
+   "claims": [
+    {
+     "claim": "Quick commerce run rate reached 1.6 million orders.",
+     "quote": "we have now 1.6 million orders run rate that is what we are doing, and very much on track to be the second largest QC player.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated quarterly revenue up 10% year-on-year.",
+     "quote": "Revenue is up 10%, EBITDA up about 6%. And overall, PAT at 22,290 crores, which was also up about 1.6%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Jio subscriber base reached 515 million with 8.9 million net adds.",
+     "quote": "We ended the quarter with 515 million plus subscribers, 8.9 million net adds during the quarter.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Reliance Retail achieved highest-ever quarterly revenue at 97,600 Crores.",
+     "quote": "Good evening, everyone. In the retail business, this quarter we had the highest ever revenue at 97,600 Crores.",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Retail revenue growth slowdown and buckets that underperformed",
+     "quote": "What are the buckets which you think did not do that well in this quarter which led to slightly lower revenue growth?",
+     "page": 26,
+     "verified": true
+    },
+    {
+     "topic": "Quick commerce cash burn and contribution margin",
+     "quote": "On the quick commerce side can you give some sense of what is a quantum of cash burn there?",
+     "page": 27,
+     "verified": true
+    },
+    {
+     "topic": "New energy capex, funding, and ingot/wafer competitiveness",
+     "quote": "Lastly on the new energy side especially when you come to manufacturing ingots and wafers, do you think in the way current prices are you will be competitive because there at least you will have to compete with China?",
+     "page": 27,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and constructive regarding long-term growth despite short-term quarterly volatilities."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=971d8c86-397a-4780-b843-5a84d3006d0b.pdf",
+   "pages": 31,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Commission solar and battery giga factories in next few quarters",
+     "horizon": "next few quarters",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "and we aim to commission these factories in next few quarters.",
+     "page": 19,
+     "speaker": "Sh Karan Suri",
+     "verified": true,
+     "id": "g2.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Retail business achieved highest ever quarterly revenues of Rs 98,000 crores.",
+     "quote": "For the quarter, we had the highest ever revenues of Rs.98,000 Crores.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "claim": "Jio ended the year with 524 million subscribers and 268 million 5G users.",
+     "quote": "We ended the year with 524 million subscribers... 268 million 5G user base",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "FMCG business closed FY2026 with Rs 22,000 crores in revenue.",
+     "quote": "From an FMCG business perspective, we closed our revenue of Rs.22,000 Crores in 2026",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "claim": "JioStar reached a monthly active user reach of 550 million in March.",
+     "quote": "we achieved a monthly active user reach of 550 million people in March",
+     "page": 10,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Refinery feedstock and crude composition risks",
+     "quote": "So, how much of distillate yield can actually change because obviously, US crudes and Venezuelan crudes are geared towards more of light distillates.",
+     "page": 21,
+     "verified": true
+    },
+    {
+     "topic": "Retail quick commerce competition and consolidation",
+     "quote": "In that scenario, how do you see the industry consolidating in the next few years and what are your ambitions about the quick commerce industry?",
+     "page": 24,
+     "verified": true
+    },
+    {
+     "topic": "Jio IPO timeline and status",
+     "quote": "and some color on the timelines for Jio's IPO, because we basically publicly stated that first half of 2026 is when we should expect Jio IPO. Is that timeline still old because we still not seen the DRHP?",
+     "page": 27,
+     "verified": true
+    }
+   ],
+   "tone": "Prudent and agile amid unprecedented geopolitical energy shocks, while highlighting strong consumer business growth."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf",
+   "pages": 32,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Double absolute EBITDA for retail business over the next two years",
+     "horizon": "next 2 years",
+     "low": 2.0,
+     "high": 2.0,
+     "unit": "x",
+     "quote": "with the scale that will come in this year, the benefit of that scale will convert into value in terms of margins and cash generation over the next two years.",
+     "page": 8,
+     "speaker": "Dinesh Taluja",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Achieve 20-gigawatt annual capacity for solar PV manufacturing",
+     "horizon": "this year",
+     "low": 20.0,
+     "high": 20.0,
+     "unit": "units",
+     "quote": "And we are on track, and I have got a few pictures to also demonstrate that, to achieve 20-gigawatt annual capacity for our solar PV manufacturing in an integrated fashion.",
+     "page": 20,
+     "speaker": "Karan Suri",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Achieve 40-gigawatt hour battery manufacturing capacity this year",
+     "horizon": "this year",
+     "low": 40.0,
+     "high": 40.0,
+     "unit": "units",
+     "quote": "Our battery manufacturing is also progressing well. We will achieve 40-gigawatt hour capacity this year and we have announced the scale-up through our AGM up to 120-gigawatt hour capacity",
+     "page": 20,
+     "speaker": "Karan Suri",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Reach 1 lakh Crores revenue in FMCG business by FY2030",
+     "horizon": "FY2030",
+     "low": 100000.0,
+     "high": 100000.0,
+     "unit": "cr",
+     "quote": "we have anyway announced the target is to kind of take this to Rs.1 lakh Crores on FY2030.",
+     "page": 30,
+     "speaker": "Ketan Mody",
+     "verified": true,
+     "id": "g3.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Group overall EBITDA is more than Rs.54,000 Crores, up 10% year-on-year",
+     "quote": "our overall EBITDA is more than Rs.54,000 Crores, so we are up 10%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Jio subscriber base reached 533 million with 285 million on 5G network",
+     "quote": "we have 533 million customers and with about 285 on the 5G network.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Retail revenue grew 12% to Rs.90,000 Crores for the quarter",
+     "quote": "On moving to retail side, Rs.90,000 Crores, so it is 12% higher.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "O2C revenue increased 30% to Rs.17,000 Crores up 17%",
+     "quote": "Moving on to O2C specifically, 30% up on revenue basis. Rs.17,000 Crores and that's up 17%.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Digital services revenue growth acceleration and operating margins",
+     "quote": "do you see possibility of this growth accelerating in the foreseeable future and if so, what could drive that acceleration? From a margin profile perspective, today that piece operates at a lower margin",
+     "page": 21,
+     "verified": true
+    },
+    {
+     "topic": "Underlying ARPU growth pressures despite broadband and consumption tailwinds",
+     "quote": "if the ARPU growth is less than a percent quarter, which means underlying ARPU is actually under pressure what explains that?",
+     "page": 21,
+     "verified": true
+    },
+    {
+     "topic": "Quick commerce dark store investment timeline and profitability metrics",
+     "quote": "in terms of JioMart in particular, given just the investments you have called out in dark stores, one how long do you expect these investments to continue and how would you measure success in this business?",
+     "page": 22,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and pragmatic amidst extraordinary macro volatility and energy market shocks."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8e997741-4d35-4188-933a-cf020fb9c816.pdf",
+   "pages": 29,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "New energy earnings contribution starting in FY 2028",
+     "horizon": "FY 2028",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "And on new energy, I just wanted to say that it is accelerating and we see the benefit, earnings contribution definitely starting in FY 2028.",
+     "page": 3,
+     "speaker": "Sh V Srikanth",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Retail online investments to start being accretive to bottom line next year",
+     "horizon": "next year",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "while we are funding the investment right now, from next year onwards, we start seeing that it is being accretive because of the discipline with which we are growing.",
+     "page": 9,
+     "speaker": "Sh Dinesh Taluja",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Solar module capacity reaching 20 gigawatt early next year",
+     "horizon": "early next year",
+     "low": null,
+     "high": 20,
+     "unit": "units",
+     "quote": "when it comes to the solar value chain, as indicated, I think our module capacity is now six plus gigawatt, and we will be achieving up to 20 gigawatt early next year.",
+     "page": 24,
+     "speaker": "Sh Karan Suri",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "volume",
+     "promise": "Solar cell capacity reaching 20 gigawatt first half next year",
+     "horizon": "first half next year",
+     "low": null,
+     "high": 20,
+     "unit": "units",
+     "quote": "Similarly, solar cell is now nearing around 5-gigawatt and we will be achieving again 20-gigawatt capacity sometime first half next year.",
+     "page": 24,
+     "speaker": "Sh Karan Suri",
+     "verified": true,
+     "id": "g4.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated EBITDA reached Rs 62,409 crores, up 24% year-on-year",
+     "quote": "It was an EBITDA of Rs.62,409 Crores, which is 24% up on a year-on-year basis. This is the highest EBITDA that we have declared for consol",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated PAT crossed Rs 30,000 crores, up 34% year-on-year",
+     "quote": "simultaneously, the PAT also at close to Rs.30,000 Crores, up 34%. Again, all time high, and with this, we crossed the Rs.50,000 Crores mark as far as PAT is concerned.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "O2C EBITDA led the charge with a 68% increase year-on-year",
+     "quote": "So, O2C led the charge with EBITDA up 68%. Of course, we benefited from the unprecedented tightness that we saw in energy markets",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Jio subscriber base reached 542 million with 300 million 5G customers",
+     "quote": "The total subscriber base at 542 million, 36 million net adds over the last 12 months. Our 5G subscriber base has now touched 300 million.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Refinery outage duration and normalization timeline",
+     "quote": "so is it fair to assume this 5 million barrels is probably six to nine months away from normalization in a best case scenario, and worst case it could be it could stretch for even longer?",
+     "page": 21,
+     "verified": true
+    },
+    {
+     "topic": "Retail online grocery growth vs quick commerce competition",
+     "quote": "revenue growth number for online grocery that has been given about 46% or something this if we compare it to the biggest quick commerce players also, it is still underwhelming, to say the least.",
+     "page": 27,
+     "verified": true
+    },
+    {
+     "topic": "New energy commissioning and capital expenditure details",
+     "quote": "Can we get a quick update on the commissioning of the various new energy lines, please?",
+     "page": 24,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and transparent regarding strategic retail investments and structural O2C tailwinds."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company engages in oil to chemicals, oil and gas, retail, digital services, and media operations.",
+  "segments": [
+   {
+    "name": "Oil To Chemicals (O2C)",
+    "revenue": 662401,
+    "unit": "crore",
+    "what": "Refining, petrochemicals, fuels, and bulk wholesale marketing to various customers.",
+    "page": 52,
+    "share_pct": 54
+   },
+   {
+    "name": "Oil and Gas",
+    "revenue": 23861,
+    "unit": "crore",
+    "what": "Exploration, development, and production of crude oil and natural gas.",
+    "page": 168,
+    "share_pct": 2
+   },
+   {
+    "name": "Retail",
+    "revenue": 371085,
+    "unit": "crore",
+    "what": "Consumer retail and related services to customers.",
+    "page": 46,
+    "share_pct": 30
+   },
+   {
+    "name": "Digital Services",
+    "revenue": 176164,
+    "unit": "crore",
+    "what": "Digital services and connectivity platforms to consumers and businesses.",
+    "page": 168,
+    "share_pct": 14
+   }
+  ],
+  "mix_note": "External turnover within India was 7,48,203 crore and outside India was 4,27,716 crore in 2025-26.",
+  "risks_mgmt_flags": [
+   "Supply-side disruptions in energy markets from Middle East conflict posing stagflationary risks.",
+   "Depreciation pressure on Rupee intensified from foreign portfolio outflows and crude oil price surge.",
+   "Natural production decline in deepwater assets increasing focus on recovery and capital discipline."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cc08294f-ec68-4f15-aaa4-c14a3c4bdfb2.pdf",
+  "pages_read": [
+   44,
+   46,
+   47,
+   48,
+   49,
+   50,
+   52,
+   53,
+   115,
+   155,
+   168,
+   169
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g3.2",
+    "promise": "Achieve 20-gigawatt annual solar PV manufacturing capacity this year.",
+    "made_in": "Q1 FY27",
+    "delivered": "Management claimed solar module capacity is 6 plus gigawatt and will reach 20 gigawatt early next year (g4.3), missing the initial year-end deadline.",
+    "verdict": "missed",
+    "checked_against": "g4.3",
+    "quote": "And we are on track, and I have got a few pictures to also demonstrate that, to achieve 20-gigawatt annual capacity for our solar PV manufacturing in an integrated fashion.",
+    "page": 20,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf"
+   },
+   {
+    "ref": "g3.4",
+    "promise": "Reach 1 lakh Crores revenue in FMCG business by FY2030.",
+    "made_in": "Q1 FY27",
+    "delivered": "Q4 FY26 claim stated FMCG business closed FY2026 with Rs 22,000 crores in revenue; target remains open for FY2030.",
+    "verdict": "too_early",
+    "checked_against": "Q4 FY26 mgmt claim",
+    "quote": "we have anyway announced the target is to kind of take this to Rs.1 lakh Crores on FY2030.",
+    "page": 30,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "New energy earnings contribution starting in FY 2028.",
+    "made_in": "Q2 FY27",
+    "delivered": "Deadline is FY 2028; reported numbers cannot confirm earnings contribution yet.",
+    "verdict": "too_early",
+    "checked_against": "FY 2028 earnings",
+    "quote": "And on new energy, I just wanted to say that it is accelerating and we see the benefit, earnings contribution definitely starting in FY 2028.",
+    "page": 3,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8e997741-4d35-4188-933a-cf020fb9c816.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "Only one promise can be checked against reported numbers so far — too few to score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Revenue growth accelerated from 10.0% YoY in Sep 2025 to 29.8% YoY in Sep 2026, matching management's narrative of strong momentum."
+   },
+   {
+    "agree": true,
+    "point": "Consolidated EBITDA reached Rs 56,616 crores in Sep 2026, supporting claims of strong profitability expansion."
+   },
+   {
+    "agree": false,
+    "point": "Despite claims of rapid scaling, new energy capacity targets for solar and batteries have been repeatedly deferred."
+   }
+  ],
+  "bull": [
+   "Consolidated revenue growth accelerated strongly to 29.8% YoY in Sep 2026.",
+   "Operating cash flow reached Rs 192,113 crores for the year ended Mar 2026.",
+   "Consolidated PAT reached Rs 29,550 crores in Sep 2026, up 33.8% YoY."
+  ],
+  "bear": [
+   "Borrowings increased to Rs 405,322 crores as of Sep 2026.",
+   "Cash cycle stretched by 28 days over two years from -3 to 25.",
+   "Missed initial deadlines for 20-gigawatt solar and 40-gigawatt hour battery capacity."
+  ],
+  "watch": [
+   "Solar module capacity progress toward 20 gigawatt target",
+   "Borrowings and debt-to-equity ratio of 0.43",
+   "FMCG revenue trajectory toward the Rs 1 lakh Crore FY2030 goal"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 27833,
+   "out": 527,
+   "secs": 5.1,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 24732,
+   "out": 628,
+   "secs": 4.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 25302,
+   "out": 1118,
+   "secs": 6.1,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 24166,
+   "out": 1121,
+   "secs": 5.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13394,
+   "out": 414,
+   "secs": 11.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 3521,
+   "out": 1002,
+   "secs": 14.8,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 118948,
+  "tokens_out": 4810,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 51.7
+ }
+}

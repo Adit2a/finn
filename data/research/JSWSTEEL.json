@@ -1,0 +1,805 @@
+{
+ "symbol": "JSWSTEEL",
+ "name": "JSW Steel Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:27:22",
+ "latest_call": "Jul 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 329943.0,
+   "pe": 21.0,
+   "roce": 11.0,
+   "roe": 10.2,
+   "ttm_revenue": 199021.0,
+   "ttm_pat": 31708.0,
+   "margin_latest_q": 19.0,
+   "de": 0.62,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 41378.0,
+    "rev_yoy": -1.3,
+    "op_profit": 5579.0,
+    "margin": 13.0,
+    "ebit_margin": 7.8,
+    "pat": 719.0,
+    "pat_yoy": -70.7
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 44819.0,
+    "rev_yoy": -3.1,
+    "op_profit": 6135.0,
+    "margin": 14.0,
+    "ebit_margin": 8.1,
+    "pat": 1501.0,
+    "pat_yoy": 13.5
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 43147.0,
+    "rev_yoy": 0.5,
+    "op_profit": 7476.0,
+    "margin": 17.0,
+    "ebit_margin": 11.4,
+    "pat": 2209.0,
+    "pat_yoy": 154.8
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 45152.0,
+    "rev_yoy": 13.8,
+    "op_profit": 7027.0,
+    "margin": 16.0,
+    "ebit_margin": 9.9,
+    "pat": 1646.0,
+    "pat_yoy": 307.4
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 45991.0,
+    "rev_yoy": 11.1,
+    "op_profit": 6379.0,
+    "margin": 14.0,
+    "ebit_margin": 8.7,
+    "pat": 2410.0,
+    "pat_yoy": 235.2
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 51180.0,
+    "rev_yoy": 14.2,
+    "op_profit": 8464.0,
+    "margin": 17.0,
+    "ebit_margin": 12.3,
+    "pat": 19243.0,
+    "pat_yoy": 1182.0
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 47364.0,
+    "rev_yoy": 9.8,
+    "op_profit": 9285.0,
+    "margin": 20.0,
+    "ebit_margin": 15.1,
+    "pat": 4696.0,
+    "pat_yoy": 112.6
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 54486.0,
+    "rev_yoy": 20.7,
+    "op_profit": 10120.0,
+    "margin": 19.0,
+    "ebit_margin": 14.5,
+    "pat": 5359.0,
+    "pat_yoy": 225.6
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 73326.0,
+    "op_profit": 11813.0,
+    "margin": 16.0,
+    "pat": 3919.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 79839.0,
+    "op_profit": 20178.0,
+    "margin": 25.0,
+    "pat": 7873.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 146371.0,
+    "op_profit": 39114.0,
+    "margin": 27.0,
+    "pat": 20938.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 165960.0,
+    "op_profit": 18470.0,
+    "margin": 11.0,
+    "pat": 4139.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 175006.0,
+    "op_profit": 28157.0,
+    "margin": 16.0,
+    "pat": 8973.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 168824.0,
+    "op_profit": 22725.0,
+    "margin": 13.0,
+    "pat": 3491.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 185470.0,
+    "op_profit": 29464.0,
+    "margin": 16.0,
+    "pat": 25508.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 3.8,
+   "rev_cagr_5y": 18.4,
+   "pat_cagr_3y": 83.3,
+   "pat_cagr_5y": 26.5,
+   "margin_change_3y_bps": 500
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 72237.0,
+    "equity": 67297.0,
+    "de": 1.07
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 80853.0,
+    "equity": 65695.0,
+    "de": 1.23
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 87984.0,
+    "equity": 77669.0,
+    "de": 1.13
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 98752.0,
+    "equity": 79496.0,
+    "de": 1.24
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 99310.0,
+    "equity": 100053.0,
+    "de": 0.99
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 69820.0,
+    "equity": 113306.0,
+    "de": 0.62
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     21.0
+    ],
+    [
+     "Mar 2022",
+     19.0
+    ],
+    [
+     "Mar 2023",
+     16.0
+    ],
+    [
+     "Mar 2024",
+     16.0
+    ],
+    [
+     "Mar 2025",
+     18.0
+    ],
+    [
+     "Mar 2026",
+     22.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     160.0
+    ],
+    [
+     "Mar 2022",
+     208.0
+    ],
+    [
+     "Mar 2023",
+     130.0
+    ],
+    [
+     "Mar 2024",
+     151.0
+    ],
+    [
+     "Mar 2025",
+     142.0
+    ],
+    [
+     "Mar 2026",
+     124.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     171.0
+    ],
+    [
+     "Mar 2022",
+     190.0
+    ],
+    [
+     "Mar 2023",
+     149.0
+    ],
+    [
+     "Mar 2024",
+     133.0
+    ],
+    [
+     "Mar 2025",
+     132.0
+    ],
+    [
+     "Mar 2026",
+     130.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     9.0
+    ],
+    [
+     "Mar 2022",
+     36.0
+    ],
+    [
+     "Mar 2023",
+     -4.0
+    ],
+    [
+     "Mar 2024",
+     33.0
+    ],
+    [
+     "Mar 2025",
+     28.0
+    ],
+    [
+     "Mar 2026",
+     16.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -93.0
+    ],
+    [
+     "Mar 2022",
+     -24.0
+    ],
+    [
+     "Mar 2023",
+     -50.0
+    ],
+    [
+     "Mar 2024",
+     -29.0
+    ],
+    [
+     "Mar 2025",
+     -19.0
+    ],
+    [
+     "Mar 2026",
+     -15.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 18831.0,
+    "pat": 7873.0,
+    "fcf": 7916.0,
+    "conv": 2.39
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 26270.0,
+    "pat": 20938.0,
+    "fcf": 16222.0,
+    "conv": 1.25
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 23323.0,
+    "pat": 4139.0,
+    "fcf": 8574.0,
+    "conv": 5.63
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 12078.0,
+    "pat": 8973.0,
+    "fcf": -3469.0,
+    "conv": 1.35
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 20899.0,
+    "pat": 3491.0,
+    "fcf": 8264.0,
+    "conv": 5.99
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 25152.0,
+    "pat": 25508.0,
+    "fcf": 10610.0,
+    "conv": 0.99
+   }
+  ],
+  "cash_conv_5y": 1.71,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (83.3% vs 3.8%): operating leverage"
+   },
+   {
+    "tone": "good",
+    "text": "Operating margin up 500 bps over 3 years"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 171% of profit"
+   },
+   {
+    "tone": "good",
+    "text": "Cash cycle tightened by 17 days in 2 years (33 → 16)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://jsw-steel-s3.s3.ap-south-1.amazonaws.com/jsw-steel-images/uploads/2026/05/JSWSteel-Earnings-May14-2026_vF.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://jsw-steel-s3.s3.ap-south-1.amazonaws.com/jsw-steel-images/uploads/2026/07/JSWSL-Q1FY27-Earnings-July17-2026.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e44105ed-fc16-4d0a-a1a1-4521dc30b148.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://jsw-steel-s3.s3.ap-south-1.amazonaws.com/jsw-steel-images/uploads/2026/05/JSWSteel-Earnings-May14-2026_vF.pdf",
+   "pages": 21,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Spend about Rs.22,000 crores to Rs.24,000 crores in FY27",
+     "horizon": "FY27",
+     "low": 22000,
+     "high": 24000,
+     "unit": "cr",
+     "quote": "We expect to spend about Rs.22,000 crores to Rs.24,000 crores in FY27.",
+     "page": 6,
+     "speaker": "Jayant Acharya",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Consolidated steel production at 29.75 million tonnes and sales of 28.6 million tonnes in FY27",
+     "horizon": "FY27",
+     "low": 28.6,
+     "high": 29.75,
+     "unit": "units",
+     "quote": "and for FY27, we expect consolidated steel production at 29.75 million tonnes and a sale of 28.6 million tonnes.",
+     "page": 7,
+     "speaker": "Jayant Acharya",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "debt",
+     "promise": "Keep the leverage below 2.5x",
+     "horizon": "medium term",
+     "low": null,
+     "high": 2.5,
+     "unit": "x",
+     "quote": "However, our comfort level will be to keep the leverage below 2.5x.",
+     "page": 6,
+     "speaker": "Jayant Acharya",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "volume",
+     "promise": "Achieve a capacity of 62 million tonnes in India by FY32",
+     "horizon": "FY32",
+     "low": null,
+     "high": 62,
+     "unit": "units",
+     "quote": "We are now announcing a target of 62 million tonnes by FY32, which can be achieved through our existing sites.",
+     "page": 2,
+     "speaker": "Jayant Acharya",
+     "verified": true,
+     "id": "g3.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenues crossed Rs.51,100 crores, crossing Rs.50,000 crores for the first time.",
+     "quote": "Our consolidated revenues in Quarter 4 crossed Rs.51,100 crores, crossing Rs.50,000 crores for the first time.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Adjusted EBITDA stood at Rs.9,713 crores with a 19% EBITDA margin for Q4.",
+     "quote": "Adjusted EBITDA stood at Rs.9,713 crores with an EBITDA margin of 19%, while PAT stood at Rs.19,243 crores.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Achieved 99% of production guidance and 102% of sales volume guidance for the year.",
+     "quote": "We achieved 99% of our production guidance and 102% of our sales volume guidance for the year.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Net debt stands at Rs.54,000 crores with leverage falling to 1.81x as on March 31.",
+     "quote": "Our leverage has fallen to 1.81x as on 31st March, and net debt stands at Rs.54,000 crores.",
+     "page": 2,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Captive iron ore integration feasibility",
+     "quote": "So how confident are we in ramping up the captive mix from 1/3rd currently to 50%?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "JV strategy and potential conflicts",
+     "quote": "Is there a potential conflict in future? And I mean, a few years down the line, we have 3 large plants supplying flat steel from Odisha.",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Higher capex and debt impact",
+     "quote": "Because for -- in the near-term, I think your cash flows might not match, if I'm not mistaken.",
+     "page": 14,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and strategic regarding long-term growth and balance sheet deleveraging."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://jsw-steel-s3.s3.ap-south-1.amazonaws.com/jsw-steel-images/uploads/2026/07/JSWSL-Q1FY27-Earnings-July17-2026.pdf",
+   "pages": 22,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Spend between Rs 22,000 crores to Rs 24,000 crores in this financial year",
+     "horizon": "FY27",
+     "low": 22000,
+     "high": 24000,
+     "unit": "cr",
+     "quote": "we expect to spend between Rs.22,000 crores to Rs.24,000 crores in this financial year.",
+     "page": 4,
+     "speaker": "Jayant Acharya",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Indian domestic steel demand expected to grow at 7% to 9% in FY27",
+     "horizon": "FY27",
+     "low": 7,
+     "high": 9,
+     "unit": "%",
+     "quote": "India steel demand is expected to grow at a healthy rate of 7% to 9% in FY27, and we expect to add an incremental demand of 12 to 13 million tonnes in India.",
+     "page": 5,
+     "speaker": "Jayant Acharya",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "debt",
+     "promise": "Comfort level will be to keep the leverage below 2.5x",
+     "horizon": "medium term",
+     "low": null,
+     "high": 2.5,
+     "unit": "x",
+     "quote": "however, we would like to reiterate that our comfort level will be to keep the leverage below 2.5x.",
+     "page": 4,
+     "speaker": "Jayant Acharya",
+     "verified": true,
+     "id": "g4.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenues for Q1 FY27 were Rs 47,364 crores with an EBITDA margin of 20%",
+     "quote": "our consolidated revenues during the Quarter 1 FY27 were Rs.47,364 crores. Adjusted EBITDA stood at Rs.9,373 crores with an EBITDA margin of 20%, while PAT stood at Rs.4,696 crores.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Project SEED achieved cumulative emissions reduction of approximately 5 Mn tCO2 since 2022",
+     "quote": "project SEED, our flagship decarbonisation project has delivered a cumulative emissions reduction of approximately 5 Mn tCO2 since 2022.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Capacities utilization for Indian operations stood at approximately 94% excluding BF-3",
+     "quote": "Utilisation of capacities for our Indian operations stood at approximately 94%, excluding the BF-3 which was under shutdown, much higher than the 88% in Quarter 1 last year.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Second tranche of JFE equity investment of INR 7,875 crores received on June 30",
+     "quote": "The second tranche of JFE's equity investment of INR7,875 crores for JSW JV joint venture transaction has been received on 30th June, as scheduled.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Steel price trends and long steel correction impact on Q2",
+     "quote": "Now how do we see the prices moving and for us in the second quarter, considering that there has been a sharp correction especially in the long steel prices.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Capacities and debt breakdown between various projects and foreign debt",
+     "quote": "Considering all your capex is in India, wouldn't be more convenient or more cost-effective for you to basically take debt in domestic, and not have that forex impact at the end of the day",
+     "page": 15,
+     "verified": true
+    },
+    {
+     "topic": "JVML EBITDA per ton sustainability versus standalone",
+     "quote": "It seems that the realisation per ton sequentially has gone up by nearly Rs.8,000 in JVML with an EBITDA per ton improvement of almost Rs.6,500.",
+     "page": 18,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, resilient, and optimistic about India's steel demand growth and operational ramp-ups."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company manufactures and sells steel products.",
+  "segments": [
+   {
+    "name": "Domestic",
+    "revenue": 123637,
+    "unit": "crore",
+    "what": "Sells steel products to domestic customers in India",
+    "page": 525,
+    "share_pct": 93
+   },
+   {
+    "name": "Export",
+    "revenue": 9210,
+    "unit": "crore",
+    "what": "Sells steel products to export customers outside India",
+    "page": 525,
+    "share_pct": 7
+   }
+  ],
+  "mix_note": "Domestic markets account for nearly 90% of total sales.",
+  "risks_mgmt_flags": [
+   "Volatility in steel realisations and pricing pressures from Chinese steel exports.",
+   "Exposure to coking coal and power & fuel cost volatility."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e44105ed-fc16-4d0a-a1a1-4521dc30b148.pdf",
+  "pages_read": [
+   129,
+   138,
+   139,
+   140,
+   141,
+   151,
+   156,
+   261,
+   265,
+   323,
+   326,
+   327
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g3.1",
+    "promise": "Spend Rs.22,000 crores to Rs.24,000 crores in FY27 capex",
+    "made_in": "Q4 FY26",
+    "delivered": "Too early to verify final full-year FY27 capex as reported numbers cover up to Sep 2026.",
+    "verdict": "too_early",
+    "checked_against": "FY27 capex guidance",
+    "quote": "We expect to spend about Rs.22,000 crores to Rs.24,000 crores in FY27.",
+    "page": 6,
+    "verified": true,
+    "url": "https://jsw-steel-s3.s3.ap-south-1.amazonaws.com/jsw-steel-images/uploads/2026/05/JSWSteel-Earnings-May14-2026_vF.pdf"
+   },
+   {
+    "ref": "g3.2",
+    "promise": "Consolidated steel production at 29.75 million tonnes and sales of 28.6 million tonnes in FY27",
+    "made_in": "Q4 FY26",
+    "delivered": "Too early to verify full-year FY27 volume guidance against quarterly reported data.",
+    "verdict": "too_early",
+    "checked_against": "FY27 production and sales guidance",
+    "quote": "and for FY27, we expect consolidated steel production at 29.75 million tonnes and a sale of 28.6 million tonnes.",
+    "page": 7,
+    "verified": true,
+    "url": "https://jsw-steel-s3.s3.ap-south-1.amazonaws.com/jsw-steel-images/uploads/2026/05/JSWSteel-Earnings-May14-2026_vF.pdf"
+   },
+   {
+    "ref": "g3.3",
+    "promise": "Keep the leverage below 2.5x over medium term",
+    "made_in": "Q4 FY26",
+    "delivered": "Leverage reported at 1.81x as on March 31, 2026, and D/E at 0.62 as on Sep 2026.",
+    "verdict": "delivered",
+    "checked_against": "Mar 2026 leverage and Sep 2026 D/E",
+    "quote": "However, our comfort level will be to keep the leverage below 2.5x.",
+    "page": 6,
+    "verified": true,
+    "url": "https://jsw-steel-s3.s3.ap-south-1.amazonaws.com/jsw-steel-images/uploads/2026/05/JSWSteel-Earnings-May14-2026_vF.pdf"
+   },
+   {
+    "ref": "g3.4",
+    "promise": "Achieve a capacity of 62 million tonnes in India by FY32",
+    "made_in": "Q4 FY26",
+    "delivered": "Deadline FY32 is in the future; too early to verify.",
+    "verdict": "too_early",
+    "checked_against": "FY32 capacity target",
+    "quote": "We are now announcing a target of 62 million tonnes by FY32, which can be achieved through our existing sites.",
+    "page": 2,
+    "verified": true,
+    "url": "https://jsw-steel-s3.s3.ap-south-1.amazonaws.com/jsw-steel-images/uploads/2026/05/JSWSteel-Earnings-May14-2026_vF.pdf"
+   },
+   {
+    "ref": "g4.2",
+    "promise": "Indian domestic steel demand expected to grow at 7% to 9% in FY27",
+    "made_in": "Q1 FY27",
+    "delivered": "External demand metrics not tracked directly in financial tables; too early to verify.",
+    "verdict": "too_early",
+    "checked_against": "FY27 demand growth guidance",
+    "quote": "India steel demand is expected to grow at a healthy rate of 7% to 9% in FY27, and we expect to add an incremental demand of 12 to 13 million tonnes in India.",
+    "page": 5,
+    "verified": true,
+    "url": "https://jsw-steel-s3.s3.ap-south-1.amazonaws.com/jsw-steel-images/uploads/2026/07/JSWSL-Q1FY27-Earnings-July17-2026.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "Only one promise can be checked against reported numbers so far — too few to score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Management claimed consolidated revenues crossed Rs.51,100 crores in Q4 FY26; Mar 2026 revenue was reported at Rs.51,180.0 crores."
+   },
+   {
+    "agree": true,
+    "point": "Management stated Q1 FY27 EBITDA margin was 20%; reported June 2026 EBITDA margin matches at 20.0%."
+   },
+   {
+    "agree": true,
+    "point": "Management claimed net debt leverage fell to 1.81x as of March 31, 2026, supported by borrowings of Rs.99,310.0 crores."
+   }
+  ],
+  "bull": [
+   "Operating margin expanded with EBIT% rising to 15.1% in Jun 2026 and 14.5% in Sep 2026.",
+   "Strong 5-year operating cash conversion at 171% of profit with Mar 2026 OCF at Rs.25,152.0 crores.",
+   "Robust debt reduction seen in Sep 2026 with borrowings dropping to Rs.69,820.0 crores and D/E at 0.62."
+  ],
+  "bear": [
+   "Borrowings increased significantly over prior years, reaching Rs.99,310.0 crores by Mar 2026 before dropping in Sep 2026.",
+   "Historical free cash flow volatility, including -3,469.0 crores in Mar 2024.",
+   "PAT showed sharp historical fluctuations, dropping to Rs.3,491.0 crores in Mar 2025 before rising to Rs.25,508.0 crores in Mar 2026."
+  ],
+  "watch": [
+   "Full-year FY27 capex spend versus the Rs.22,000 to Rs.24,000 crores guidance.",
+   "Consolidated steel production and sales progress towards 29.75 Mt and 28.6 Mt targets.",
+   "Sustained leverage below 2.5x."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 16940,
+   "out": 1079,
+   "secs": 4.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 17375,
+   "out": 1033,
+   "secs": 3.9,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12128,
+   "out": 209,
+   "secs": 4.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 3032,
+   "out": 1157,
+   "secs": 6.9,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 4,
+  "fresh_calls": 4,
+  "tokens_in": 49475,
+  "tokens_out": 3478,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 26.6
+ }
+}

@@ -1,0 +1,1060 @@
+{
+ "symbol": "GRASIM",
+ "name": "Grasim Industries Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T22:35:50",
+ "latest_call": "Aug 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 218398.0,
+   "pe": 38.1,
+   "roce": 8.01,
+   "roe": 4.98,
+   "ttm_revenue": 184029.0,
+   "ttm_pat": 11261.0,
+   "margin_latest_q": 23.0,
+   "de": 2.2,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Sep 2024",
+    "revenue": 34223.0,
+    "rev_yoy": 13.2,
+    "op_profit": 6026.0,
+    "margin": 18.0,
+    "ebit_margin": 13.0,
+    "pat": 983.0,
+    "pat_yoy": -51.4
+   },
+   {
+    "q": "Dec 2024",
+    "revenue": 35378.0,
+    "rev_yoy": 10.7,
+    "op_profit": 6804.0,
+    "margin": 19.0,
+    "ebit_margin": 14.7,
+    "pat": 1734.0,
+    "pat_yoy": -33.4
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 44267.0,
+    "rev_yoy": 17.3,
+    "op_profit": 8750.0,
+    "margin": 20.0,
+    "ebit_margin": 15.6,
+    "pat": 2973.0,
+    "pat_yoy": 9.2
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 40118.0,
+    "rev_yoy": 15.9,
+    "op_profit": 8822.0,
+    "margin": 22.0,
+    "ebit_margin": 17.5,
+    "pat": 2771.0,
+    "pat_yoy": 34.1
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 39900.0,
+    "rev_yoy": 16.6,
+    "op_profit": 7671.0,
+    "margin": 19.0,
+    "ebit_margin": 14.5,
+    "pat": 1498.0,
+    "pat_yoy": 52.4
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 44312.0,
+    "rev_yoy": 25.3,
+    "op_profit": 8870.0,
+    "margin": 20.0,
+    "ebit_margin": 15.6,
+    "pat": 2233.0,
+    "pat_yoy": 28.8
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 51101.0,
+    "rev_yoy": 15.4,
+    "op_profit": 10874.0,
+    "margin": 21.0,
+    "ebit_margin": 17.3,
+    "pat": 3684.0,
+    "pat_yoy": 23.9
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 48716.0,
+    "rev_yoy": 21.4,
+    "op_profit": 11152.0,
+    "margin": 23.0,
+    "ebit_margin": 18.8,
+    "pat": 3846.0,
+    "pat_yoy": 38.8
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 68252.0,
+    "op_profit": 10373.0,
+    "margin": 15.0,
+    "pat": 6639.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 76404.0,
+    "op_profit": 18635.0,
+    "margin": 24.0,
+    "pat": 6987.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 95701.0,
+    "op_profit": 20431.0,
+    "margin": 21.0,
+    "pat": 11206.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 117627.0,
+    "op_profit": 21589.0,
+    "margin": 18.0,
+    "pat": 11078.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 130978.0,
+    "op_profit": 27195.0,
+    "margin": 21.0,
+    "pat": 9926.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 148478.0,
+    "op_profit": 28262.0,
+    "margin": 19.0,
+    "pat": 7756.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 175431.0,
+    "op_profit": 36296.0,
+    "margin": 21.0,
+    "pat": 10300.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 14.3,
+   "rev_cagr_5y": 18.1,
+   "pat_cagr_3y": -2.4,
+   "pat_cagr_5y": 8.1,
+   "margin_change_3y_bps": 300
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2021",
+    "debt": 79078.0,
+    "equity": 65494.0,
+    "de": 1.21
+   },
+   {
+    "y": "Mar 2022",
+    "debt": 74744.0,
+    "equity": 75699.0,
+    "de": 0.99
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 103039.0,
+    "equity": 78742.0,
+    "de": 1.31
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 137155.0,
+    "equity": 88653.0,
+    "de": 1.55
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 186326.0,
+    "equity": 97509.0,
+    "de": 1.91
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 227853.0,
+    "equity": 103470.0,
+    "de": 2.2
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     21.0
+    ],
+    [
+     "Mar 2022",
+     21.0
+    ],
+    [
+     "Mar 2023",
+     18.0
+    ],
+    [
+     "Mar 2024",
+     19.0
+    ],
+    [
+     "Mar 2025",
+     23.0
+    ],
+    [
+     "Mar 2026",
+     23.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     179.0
+    ],
+    [
+     "Mar 2022",
+     200.0
+    ],
+    [
+     "Mar 2023",
+     180.0
+    ],
+    [
+     "Mar 2024",
+     194.0
+    ],
+    [
+     "Mar 2025",
+     179.0
+    ],
+    [
+     "Mar 2026",
+     130.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     229.0
+    ],
+    [
+     "Mar 2022",
+     239.0
+    ],
+    [
+     "Mar 2023",
+     216.0
+    ],
+    [
+     "Mar 2024",
+     221.0
+    ],
+    [
+     "Mar 2025",
+     177.0
+    ],
+    [
+     "Mar 2026",
+     152.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     -29.0
+    ],
+    [
+     "Mar 2022",
+     -18.0
+    ],
+    [
+     "Mar 2023",
+     -17.0
+    ],
+    [
+     "Mar 2024",
+     -7.0
+    ],
+    [
+     "Mar 2025",
+     25.0
+    ],
+    [
+     "Mar 2026",
+     1.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -103.0
+    ],
+    [
+     "Mar 2022",
+     -88.0
+    ],
+    [
+     "Mar 2023",
+     -75.0
+    ],
+    [
+     "Mar 2024",
+     -91.0
+    ],
+    [
+     "Mar 2025",
+     -105.0
+    ],
+    [
+     "Mar 2026",
+     -81.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 15075.0,
+    "pat": 6987.0,
+    "fcf": 11525.0,
+    "conv": 2.16
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 7038.0,
+    "pat": 11206.0,
+    "fcf": -1467.0,
+    "conv": 0.63
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": -12685.0,
+    "pat": 11078.0,
+    "fcf": -24610.0,
+    "conv": -1.15
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": -10719.0,
+    "pat": 9926.0,
+    "fcf": -30042.0,
+    "conv": -1.08
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": -17170.0,
+    "pat": 7756.0,
+    "fcf": -33688.0,
+    "conv": -2.21
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": -17810.0,
+    "pat": 10300.0,
+    "fcf": -33130.0,
+    "conv": -1.73
+   }
+  ],
+  "cash_conv_5y": -1.02,
+  "flags": [
+   {
+    "tone": "bad",
+    "text": "Profit lagging sales over 3y (-2.4% vs 14.3%): margins under pressure"
+   },
+   {
+    "tone": "good",
+    "text": "Operating margin up 300 bps over 3 years"
+   },
+   {
+    "tone": "bad",
+    "text": "Only -102% of 5y profit showed up as operating cash"
+   },
+   {
+    "tone": "bad",
+    "text": "Borrowings 2.2x in 3 years (₹103,039 → ₹227,853 cr)"
+   },
+   {
+    "tone": "bad",
+    "text": "Leveraged balance sheet (D/E 2.2)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f37088cf-7f7f-44b6-bfcf-ab02e3c09a38.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=09ec268c-938c-466c-ac03-665ce62cacb4.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e57c46f9-e2c3-4887-88d1-59faf74c3afc.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=faf05132-2e28-4f71-a275-b376a6411208.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cb984eea-0f01-4339-9cf9-b1946e60f65a.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f37088cf-7f7f-44b6-bfcf-ab02e3c09a38.pdf",
+   "pages": 17,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Achieve profitable decorative paints business within 3 years of full-scale operations",
+     "horizon": "3 years of full-scale operations",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We have committed to be number two as well as profitable within three years of full-scale operation.",
+     "page": 10,
+     "speaker": "Himanshu Kapania",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "revenue",
+     "promise": "Achieve $1 billion scale in B2B e-commerce sooner than FY27",
+     "horizon": "FY27 or sooner",
+     "low": null,
+     "high": null,
+     "unit": "cr",
+     "quote": "There is a likely chance that we will get there and hit that milestone sooner.",
+     "page": 11,
+     "speaker": "Sandeep Komaravelly",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "capex",
+     "promise": "Outline capex outlay of INR2,263 crores for FY26",
+     "horizon": "FY26",
+     "low": 2263,
+     "high": 2263,
+     "unit": "cr",
+     "quote": "Grasim has outlined a capex outlay of INR2,263 crores for FY '26",
+     "page": 9,
+     "speaker": "Hemant Kadel",
+     "verified": true,
+     "id": "g1.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Standalone revenue grew by 26% year-on-year to a record high of INR9,610 crores.",
+     "quote": "The standalone revenue grew at a faster pace, reaching a record high of INR9,610 crores, up by 26% year-on-year.",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "claim": "Birla Opus decorative paints capacity reached 1,332 million liters per annum across 6 plants.",
+     "quote": "the decorative paints installed capacity is now 1,332 million liters per annum across the six plants.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated sales volume for the Cement business grew by 6.9% year-on-year to 33.85 million metric tons.",
+     "quote": "for quarter 2 FY '26, the consolidated sales volume were up by 6.9% year-on-year to 33.85 million metric tons.",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "claim": "Net debt declined by INR292 crores to stand at INR6,861 crores as on 30th September 2025.",
+     "quote": "net debt declined by INR292 crores and stood at INR6,861 crores as on 30th September 2025",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Paints business sequential revenue decline and dealer throughput",
+     "quote": "Your concern has been how is it that we have been expanding our reach, and it has not translated into revenue.",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Impact of Rakshit Hargave's resignation on paints strategy",
+     "quote": "My question is, should investor view this transition as a natural phase in generally difficult competitive business or as inflection point of any refreshed strategy?",
+     "page": 16,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and optimistic regarding growth strategies, capacity scale-up, and business trajectory."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=09ec268c-938c-466c-ac03-665ce62cacb4.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Deliver Rs. 10000 crores in third full year operation for paint business",
+     "horizon": "third full year operation",
+     "low": null,
+     "high": null,
+     "unit": "cr",
+     "quote": "We have a large portfolio of businesses. Consumer demand is building up and we remain confident and we continue to guide that we will deliver the Rs.10,000 crores in third full year operation.",
+     "page": 11,
+     "speaker": "Himanshu Kapania",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Exit FY27 at a breakeven level for Birla Pivot",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "I think from our current estimates, we will exit FY27 at a breakeven level. That is our current estimate.",
+     "page": 12,
+     "speaker": "Sandeep Komaravelly",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "profit",
+     "promise": "Targeting to be able to reach a profitable #2 position within three years of full scale operation",
+     "horizon": "within three years of full scale operation",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "Yes, we maintain our guidance. I will repeat. Within three years of full scale operation, we are targeting to be able to reach a profitable #2 position.",
+     "page": 18,
+     "speaker": "Himanshu Kapania",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Reach an exit rate of over 40% renewable energy in chemicals segment by end of FY27",
+     "horizon": "end of FY27",
+     "low": 40,
+     "high": null,
+     "unit": "%",
+     "quote": "Exit rate is around 22%, 23% right now. And actually are targeting to reach an exit rate of over 40% by end of FY27, if you want to make a projection.",
+     "page": 19,
+     "speaker": "Jayant Dhobley",
+     "verified": true,
+     "id": "g2.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenue stood highest at Rs. 44,312 crores, up 25% year-on-year.",
+     "quote": "I am happy to share that Grasim consolidated revenue for the current quarter stood highest at Rs.44,312 crores, an impressive improvement by 25% year-on-year",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "claim": "Birla Opus expanded revenue market share by over 300 bps year-on-year in Q3 FY26.",
+     "quote": "During the Quarter 3 of FY26, Birla Opus, the third largest decorative paints player, expanded its revenue market share by more than 300 basis points year-on-year",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Caustic soda sales volume for Q3 FY26 stood at highest ever 313,000 tons.",
+     "quote": "Caustic soda sales volume for Q3 FY26 stood at highest ever 313,000 tons, up by 4% year-on-year.",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "claim": "Birla Opus crossed the milestone of 500 million litres of paints sales cumulatively.",
+     "quote": "Early this January, Birla Opus has crossed the milestone of 500 million litres of paints sales cumulatively.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Paint business growth maturing and path to Rs. 10000 crores target",
+     "quote": "Now, to reach the scale of Rs.10,000 crores exit by Q4 '28... we need to grow at 40% CAGR year-on-year for us. So, I am just trying to understand, first of all, what different than now the company will do",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Dealer pushback and challenges in paints distribution",
+     "quote": "I met a couple of dealers from the time we started more recently and I have seen some of them saying that they have either stopped doing business or they are finding it difficult",
+     "page": 17,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and assertive regarding business execution and strategic growth targets."
+  },
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e57c46f9-e2c3-4887-88d1-59faf74c3afc.pdf",
+   "pages": 17,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Birla Pivot to exit financial year FY27 with EBITDA break-even",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "Our goal for this financial year FY27 is to exit with EBITDA break-even and we are well ahead, well on that path.",
+     "page": 14,
+     "speaker": "Sandeep Komaravelly",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "revenue",
+     "promise": "Guide Birla Opus towards INR10,000 crores profitable revenue in third year of full-scale operations",
+     "horizon": "third year of full-scale operations",
+     "low": null,
+     "high": 10000,
+     "unit": "cr",
+     "quote": "while we steer business towards guided INR10,000 crores profitable revenue in the third year of full-scale operations.",
+     "page": 6,
+     "speaker": "Himanshu Kapania",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "UltraTech to reach 240 plus million tons per annum capacity by March 2028",
+     "horizon": "March 2028",
+     "low": 240,
+     "high": null,
+     "unit": "units",
+     "quote": "we remain firmly on track to reach 240 plus million tons per annum by March 2028.",
+     "page": 9,
+     "speaker": "Hemant Kadel",
+     "verified": true,
+     "id": "g3.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Birla Opus decorative paints revenue grew 52% year-on-year in Q4 FY26.",
+     "quote": "In quarter four FY26, Birla Opus delivered revenue growth of 52% year-on-year on a like-to-like basis.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "UltraTech cement grey capacity crossed 200 million tons per annum in April 2026.",
+     "quote": "In April 2026, UltraTech crossed a historical milestone of 200 million tons per annum of total grey capacity.",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated revenue stood at INR1,75,431 crores for FY26.",
+     "quote": "Consolidated revenue stood highest at INR1,75,431 crores or exceeding $18 billion in US dollar terms",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Capital allocation strategy and investment in NBFC business",
+     "quote": "So just wanted to understand given the fact that previously we used to distribute it to our shareholders, what will be the capital allocation strategy going ahead?",
+     "page": 13,
+     "verified": true
+    },
+    {
+     "topic": "Paints throughput per dealer compared to industry",
+     "quote": "I get the strategic part of what you're saying, sir, but I just wanted to know a rough indexing in terms of because we have started some time back...",
+     "page": 13,
+     "verified": true
+    },
+    {
+     "topic": "Paints segment profitability and loss reduction trajectory",
+     "quote": "Now if I see your implied profitability numbers, you have been clocking three billion pre-tax losses every quarter for the last few quarters. Is it fair to say that this will come down materially through the year...",
+     "page": 16,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and optimistic about scaling new businesses while focusing on disciplined execution."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=faf05132-2e28-4f71-a275-b376a6411208.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Birla Pivot remains on track to achieve EBITDA break-even by exit of FY27",
+     "horizon": "exit of FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "Birla Pivot remains on track to achieve EBITDA break-even by exit of FY27.",
+     "page": 8,
+     "speaker": "Himanshu Kapania",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Deliver INR10,000 crores revenue for Birla Opus by FY28",
+     "horizon": "FY28",
+     "low": 10000,
+     "high": 10000,
+     "unit": "cr",
+     "quote": "building Birla Opus into a INR10,000 crores brand by FY28, and every leading indicator tells us we are firmly on that path.",
+     "page": 7,
+     "speaker": "Himanshu Kapania",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Guide over 50% revenue growth on a Y-on-Y basis for paints for FY27",
+     "horizon": "FY27",
+     "low": 50,
+     "high": null,
+     "unit": "%",
+     "quote": "Yes, on a Y-on-Y basis we are guiding over 50% revenue, which is the second part of your question.",
+     "page": 12,
+     "speaker": "Himanshu Kapania",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "capex",
+     "promise": "Standalone capex for FY27 expected at INR3,157 crores",
+     "horizon": "FY27",
+     "low": 3157,
+     "high": 3157,
+     "unit": "cr",
+     "quote": "The standalone plan for FY27 is expected at INR3,157 crores.",
+     "page": 9,
+     "speaker": "Hemant Kadel",
+     "verified": true,
+     "id": "g4.4"
+    },
+    {
+     "metric": "debt",
+     "promise": "Maintaining consolidated net debt to TTM EBITDA below two for the entire year",
+     "horizon": "FY27",
+     "low": null,
+     "high": 2,
+     "unit": "x",
+     "quote": "We will be maintaining our net debt below two.",
+     "page": 17,
+     "speaker": "Hemant Kadel",
+     "verified": true,
+     "id": "g4.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Highest ever quarterly consolidated revenues of INR48,716 crores with 21% Y-o-Y growth",
+     "quote": "In quarter one FY27, we achieved highest ever revenues of INR48,716 crores with a year-over-year growth of 21%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Standalone revenue grew 28% year-on-year to INR1,1795 crores and EBITDA more than doubled",
+     "quote": "Standalone revenues for the quarter one of 2027 grew at a faster rate, that is 28% year-on-year to INR11,795 crores. EBITDA more than doubled with a 107% growth to INR1,094 crores.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Birla Opus achieved revenue of INR1,661 crores, up 64% year-on-year",
+     "quote": "This quarter, Birla Opus delivered revenue of INR1,661 crores, up by 64% year-on-year and 17% sequentially.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Birla Pivot revenue grew 75% year-on-year to INR2,548 crores",
+     "quote": "The revenue for this quarter grew 75% year-on-year to INR2,548 crores. Our annualized run rate continue to trend above INR10,000 crores.",
+     "page": 7,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Paint sequential growth and profitability timeline",
+     "quote": "So my question was, how should we look at the journey incrementally? Because this quarter like I said is broadly at par on a Q-o-Q basis. So is it fair to assume that -- will it be fair to assume that growth is more matured and we'll focus on breaking even earlier or if required we'll continue to keep the push and first achieve the revenue target?",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Brand royalty payments and applicability cap",
+     "quote": "So royalty payable, so the peer entities talked about 0.25% of sales. Is this similar applicable from FY27 onwards for Grasim also?",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Renewables capital contribution and cash flow impact",
+     "quote": "So because of the recent transaction that we did. So broader questions here is like, if we can get a complete outlook of this particular segment in the sense if the entire 9.3 gigawatt of the capacity target will be up and running or available for the full year '29, if it's everything is booked under PPAs, what would be the potential debt levels, what is the infusion Grasim may require to keep it a subsidiary at 51% or more?",
+     "page": 10,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and growth-oriented across established core and new scaling businesses."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company operates in cellulosic fibres, chemicals, building materials, financial services, and textiles businesses.",
+  "segments": [
+   {
+    "name": "Cellulosic Fibres",
+    "revenue": 17104.48,
+    "unit": "crore",
+    "what": "Cellulosic Staple Fibre and Cellulosic Fashion Yarn.",
+    "page": 555,
+    "share_pct": 10
+   },
+   {
+    "name": "Chemicals",
+    "revenue": 9592.12,
+    "unit": "crore",
+    "what": "Chlor Alkali, Specialty Chemicals, and Chlorine Derivatives.",
+    "page": 555,
+    "share_pct": 5
+   },
+   {
+    "name": "Building Materials",
+    "revenue": 101201.56,
+    "unit": "crore",
+    "what": "Cement, Paints, and B2B E-Commerce businesses.",
+    "page": 555,
+    "share_pct": 57
+   },
+   {
+    "name": "Financial Services",
+    "revenue": 45426.61,
+    "unit": "crore",
+    "what": "Non-Bank Financial Services, Life Insurance, AMC, Housing Finance, Health Insurance.",
+    "page": 555,
+    "share_pct": 26
+   },
+   {
+    "name": "Others",
+    "revenue": 3892.35,
+    "unit": "crore",
+    "what": "Textiles, Insulators, and Renewable Power Business.",
+    "page": 555,
+    "share_pct": 2
+   }
+  ],
+  "mix_note": "Within India revenue is 37,023.21 crore and Rest of the World is 3,620.78 crore for standalone operations.",
+  "risks_mgmt_flags": [
+   "Production headwinds triggered by intermittent power availability at some plants.",
+   "Cyclical demand softness across major consumption markets limiting ability to pass on higher raw material costs.",
+   "Tariff-led shifts in global supply and increased competitive intensity."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cb984eea-0f01-4339-9cf9-b1946e60f65a.pdf",
+  "pages_read": [
+   47,
+   49,
+   54,
+   56,
+   59,
+   60,
+   341,
+   450,
+   554,
+   555,
+   556,
+   557
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.3",
+    "promise": "Outline capex outlay of INR2,263 crores for FY26",
+    "made_in": "Q2 FY26 call",
+    "delivered": "Cannot be verified from the reported financial tables as capital expenditure figures are not separately detailed.",
+    "verdict": "too_early",
+    "checked_against": "Reported financial tables",
+    "quote": "Grasim has outlined a capex outlay of INR2,263 crores for FY '26",
+    "page": 9,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f37088cf-7f7f-44b6-bfcf-ab02e3c09a38.pdf"
+   },
+   {
+    "ref": "g2.2",
+    "promise": "Exit FY27 at a breakeven level for Birla Pivot",
+    "made_in": "Q3 FY26 call",
+    "delivered": "Deadline is FY27 exit, which is beyond the current reported period ending June 2026 (Q1 FY27).",
+    "verdict": "too_early",
+    "checked_against": "Q1 FY27 reported numbers",
+    "quote": "I think from our current estimates, we will exit FY27 at a breakeven level. That is our current estimate.",
+    "page": 12,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=09ec268c-938c-466c-ac03-665ce62cacb4.pdf"
+   },
+   {
+    "ref": "g3.3",
+    "promise": "UltraTech to reach 240 plus million tons per annum capacity by March 2028",
+    "made_in": "Q4 FY26 call",
+    "delivered": "Deadline is March 2028; management claimed UltraTech cement grey capacity crossed 200 million tons in April 2026.",
+    "verdict": "too_early",
+    "checked_against": "Q4 FY26 management claims",
+    "quote": "we remain firmly on track to reach 240 plus million tons per annum by March 2028.",
+    "page": 9,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e57c46f9-e2c3-4887-88d1-59faf74c3afc.pdf"
+   },
+   {
+    "ref": "g4.4",
+    "promise": "Standalone capex for FY27 expected at INR3,157 crores",
+    "made_in": "Q1 FY27 call",
+    "delivered": "Deadline is FY27, so it cannot be verified from the reported Q1 FY27 figures.",
+    "verdict": "too_early",
+    "checked_against": "Q1 FY27 reported numbers",
+    "quote": "The standalone plan for FY27 is expected at INR3,157 crores.",
+    "page": 9,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=faf05132-2e28-4f71-a275-b376a6411208.pdf"
+   },
+   {
+    "ref": "g4.5",
+    "promise": "Maintaining consolidated net debt to TTM EBITDA below two for the entire year",
+    "made_in": "Q1 FY27 call",
+    "delivered": "Borrowings reached INR227,853 crores and D/E stood at 2.2 as of March 2026, exceeding the targeted leverage.",
+    "verdict": "missed",
+    "checked_against": "Mar 2026 D/E of 2.2",
+    "quote": "We will be maintaining our net debt below two.",
+    "page": 17,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=faf05132-2e28-4f71-a275-b376a6411208.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "Only one promise can be checked against reported numbers so far — too few to score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Consolidated revenue reached record highs, with Q1 FY27 revenue at INR48,716 crores and FY26 annual revenue at INR1,75,431 crores."
+   },
+   {
+    "agree": false,
+    "point": "Despite reported profitability, operating cash flow and free cash flow remained heavily negative at -INR17,810 crores and -INR33,130 crores in Mar 2026."
+   },
+   {
+    "agree": false,
+    "point": "Borrowings surged from INR103,039 crores in Mar 2023 to INR227,853 crores in Mar 2026, pushing D/E to 2.2."
+   }
+  ],
+  "bull": [
+   "Consolidated revenue grew to INR48,716 crores in Q1 FY27, up 21.4% year-on-year.",
+   "EBITDA margins improved to 23.0% in Q1 FY27 compared to 18.0% in Sep 2024.",
+   "Annual revenue scaled to INR1,75,431 crores for the year ended March 2026."
+  ],
+  "bear": [
+   "Operating cash flow for Mar 2026 was negative at -INR17,810 crores.",
+   "Borrowings increased to INR227,853 crores in Mar 2026, resulting in a high D/E ratio of 2.2.",
+   "Free cash flow remained deeply negative at -INR33,130 crores for Mar 2026."
+  ],
+  "watch": [
+   "Consolidated net debt to EBITDA trajectory",
+   "Birla Pivot EBITDA breakeven progress by FY27",
+   "Operating cash flow conversion relative to PAT"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13620,
+   "out": 871,
+   "secs": 13.3,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13759,
+   "out": 1108,
+   "secs": 4.0,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13889,
+   "out": 871,
+   "secs": 3.6,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 15021,
+   "out": 1347,
+   "secs": 8.5,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 10451,
+   "out": 474,
+   "secs": 2.9,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 3913,
+   "out": 1079,
+   "secs": 15.3,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 1,
+  "tokens_in": 70653,
+  "tokens_out": 5750,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 16.8
+ }
+}

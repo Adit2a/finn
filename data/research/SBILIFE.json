@@ -1,0 +1,998 @@
+{
+ "symbol": "SBILIFE",
+ "name": "SBI Life Insurance Company Ltd",
+ "basis": "standalone",
+ "generated_at": "2026-11-08T21:40:37",
+ "latest_call": "Nov 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 176428.0,
+   "pe": 66.4,
+   "roce": 15.0,
+   "roe": 13.7,
+   "ttm_revenue": 121160.0,
+   "ttm_pat": 2656.0,
+   "margin_latest_q": 2.3,
+   "de": -0.0,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 18862.0,
+    "rev_yoy": -51.7,
+    "op_profit": 596.0,
+    "margin": 3.2,
+    "ebit_margin": 3.2,
+    "pat": 551.0,
+    "pat_yoy": 71.1
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 23071.0,
+    "rev_yoy": -36.4,
+    "op_profit": -449.0,
+    "margin": -1.9,
+    "ebit_margin": -1.9,
+    "pat": 814.0,
+    "pat_yoy": 0.4
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 38996.0,
+    "rev_yoy": 12.5,
+    "op_profit": 664.0,
+    "margin": 1.7,
+    "ebit_margin": 1.7,
+    "pat": 594.0,
+    "pat_yoy": 14.2
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 23115.0,
+    "rev_yoy": -42.6,
+    "op_profit": 516.0,
+    "margin": 2.2,
+    "ebit_margin": 2.2,
+    "pat": 495.0,
+    "pat_yoy": -6.4
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 46133.0,
+    "rev_yoy": 144.6,
+    "op_profit": 615.0,
+    "margin": 1.3,
+    "ebit_margin": 1.3,
+    "pat": 577.0,
+    "pat_yoy": 4.7
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 4071.0,
+    "rev_yoy": -82.4,
+    "op_profit": -1046.0,
+    "margin": -26.0,
+    "ebit_margin": -25.7,
+    "pat": 805.0,
+    "pat_yoy": -1.1
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 46337.0,
+    "rev_yoy": 18.8,
+    "op_profit": 757.0,
+    "margin": 1.6,
+    "ebit_margin": 1.6,
+    "pat": 725.0,
+    "pat_yoy": 22.1
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 24620.0,
+    "rev_yoy": 6.5,
+    "op_profit": 562.0,
+    "margin": 2.3,
+    "ebit_margin": 2.3,
+    "pat": 549.0,
+    "pat_yoy": 10.9
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 43798.0,
+    "op_profit": 1351.0,
+    "margin": 3.1,
+    "pat": 1422.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 81913.0,
+    "op_profit": 872.0,
+    "margin": 1.1,
+    "pat": 1456.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 82983.0,
+    "op_profit": 730.0,
+    "margin": 0.9,
+    "pat": 1506.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 80636.0,
+    "op_profit": 1923.0,
+    "margin": 2.4,
+    "pat": 1721.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 131988.0,
+    "op_profit": 2104.0,
+    "margin": 1.6,
+    "pat": 1894.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 116888.0,
+    "op_profit": 1420.0,
+    "margin": 1.2,
+    "pat": 2413.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 112315.0,
+    "op_profit": 864.0,
+    "margin": 0.8,
+    "pat": 2470.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 11.7,
+   "rev_cagr_5y": 6.5,
+   "pat_cagr_3y": 12.8,
+   "pat_cagr_5y": 11.1,
+   "margin_change_3y_bps": -160
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": -0.0,
+    "equity": 11622.0,
+    "de": -0.0
+   },
+   {
+    "y": "Mar 2023",
+    "debt": -0.0,
+    "equity": 13018.0,
+    "de": -0.0
+   },
+   {
+    "y": "Mar 2024",
+    "debt": -0.0,
+    "equity": 14908.0,
+    "de": -0.0
+   },
+   {
+    "y": "Mar 2025",
+    "debt": -0.0,
+    "equity": 16985.0,
+    "de": -0.0
+   },
+   {
+    "y": "Mar 2026",
+    "debt": -0.0,
+    "equity": 19086.0,
+    "de": -0.0
+   },
+   {
+    "y": "Sep 2026",
+    "debt": -0.0,
+    "equity": 20539.0,
+    "de": -0.0
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     -0.0
+    ],
+    [
+     "Mar 2022",
+     -0.0
+    ],
+    [
+     "Mar 2023",
+     -0.0
+    ],
+    [
+     "Mar 2024",
+     -0.0
+    ],
+    [
+     "Mar 2025",
+     -0.0
+    ],
+    [
+     "Mar 2026",
+     -0.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     -0.0
+    ],
+    [
+     "Mar 2022",
+     -0.0
+    ],
+    [
+     "Mar 2023",
+     -0.0
+    ],
+    [
+     "Mar 2024",
+     -0.0
+    ],
+    [
+     "Mar 2025",
+     -0.0
+    ],
+    [
+     "Mar 2026",
+     -0.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     1.0
+    ],
+    [
+     "Mar 2022",
+     -3.0
+    ],
+    [
+     "Mar 2023",
+     1.0
+    ],
+    [
+     "Mar 2024",
+     4.0
+    ],
+    [
+     "Mar 2025",
+     2.0
+    ],
+    [
+     "Mar 2026",
+     4.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 23878.0,
+    "pat": 1456.0,
+    "fcf": 23763.0,
+    "conv": 16.4
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 21852.0,
+    "pat": 1506.0,
+    "fcf": 21785.0,
+    "conv": 14.51
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 28656.0,
+    "pat": 1721.0,
+    "fcf": 28581.0,
+    "conv": 16.65
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 29122.0,
+    "pat": 1894.0,
+    "fcf": 29008.0,
+    "conv": 15.38
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 25547.0,
+    "pat": 2413.0,
+    "fcf": 25441.0,
+    "conv": 10.59
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 34523.0,
+    "pat": 2470.0,
+    "fcf": 34338.0,
+    "conv": 13.98
+   }
+  ],
+  "cash_conv_5y": 13.96,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 1396% of profit"
+   },
+   {
+    "tone": "good",
+    "text": "Practically debt-free (D/E -0.0)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70cf3e58-47e2-4f46-a934-6e024af5ef53.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f50bc473-267d-4994-8843-16a9e3c51c51.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d066f482-f5e7-4274-8d43-deefa3beceab.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f6141ef-1b01-4623-91f3-a0accb6aec40.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/14b49afc-218e-4be7-8bce-e5fb86f2a632.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70cf3e58-47e2-4f46-a934-6e024af5ef53.pdf",
+   "pages": 21,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "maintain VONB margin between 26% and 28% in the coming quarter",
+     "horizon": "coming quarter",
+     "low": 26,
+     "high": 28,
+     "unit": "%",
+     "quote": "So we continue to stick to our guidance of between 26% and 28% in the coming quarter also.",
+     "page": 8,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "achieve overall APE growth guidance of 13% to 14% for the full year",
+     "horizon": "FY26",
+     "low": 13,
+     "high": 14,
+     "unit": "%",
+     "quote": "As far as growth is concerned, for the entire year, we had given a guidance of 13%-14%. And we continue to stick to that for the entire financial year also.",
+     "page": 11,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g1.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Assets under management surpassed INR 5 trillion reflecting sustained customer confidence.",
+     "quote": "Our assets under management, the AUM, surpassed INR 5 trillion i.e. INR 5 lakh crores, reflecting sustained customer confidence",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "New Business Premium stands at INR 313.3 billion with a 19% growth.",
+     "quote": "New Business Premium stands at INR 313.3 billion with a 19% growth and a private market share of 23.5%.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Profit after tax grew by 4% to INR 16.7 billion.",
+     "quote": "Our profit after tax grew by 4% to INR 16.7 billion as compared to the corresponding period last year.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Value of New Business stands at INR 50.4 billion with a growth of 17%.",
+     "quote": "Value of New Business stands at INR 50.4 billion with a growth of 17%.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Full year growth guidance versus 9-month run rate",
+     "quote": "Nine months we have grown 16%. Our guidance for full year is 13% to 14%. So, that implies that 4Q growth will be 10% at the higher end",
+     "page": 14,
+     "verified": true
+    },
+    {
+     "topic": "Solvency ratio and dividend impact",
+     "quote": "So, it is now in this quarter at a multi-year low and we have a potential dividend announcement coming in 4Q when we typically see 10 to 15 percentage point for the drop in solvency.",
+     "page": 13,
+     "verified": true
+    },
+    {
+     "topic": "Participating products sales spike versus non-par",
+     "quote": "So, this quarter, the amount of par that we have sold is almost more than what we have sold the entire last year or last four quarters.",
+     "page": 13,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and transparent, addressing regulatory impacts while reiterating annual guidance."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f50bc473-267d-4994-8843-16a9e3c51c51.pdf",
+   "pages": 27,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Maintain VNB margin in the 26% to 28% range",
+     "horizon": "coming years",
+     "low": 26,
+     "high": 28,
+     "unit": "%",
+     "quote": "So we stuck to our range and we will continue to maintain that kind of margin in coming years also.",
+     "page": 13,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Maintain growth rate at around 14% in coming years",
+     "horizon": "coming years",
+     "low": 14,
+     "high": 14,
+     "unit": "%",
+     "quote": "Going forward also, we intend to maintain the growth rate at around 14%, which has been our CAGR for the last 3 to 5 years.",
+     "page": 8,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Seek regulatory forbearance for Ind AS adoption from April 1, 2027",
+     "horizon": "April 1, 2027",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "proposes to seek regulatory forbearance for an adoption from April 1, 2027, with comprehensive preparatory measures already initiated.",
+     "page": 4,
+     "speaker": "Amit Jhingran",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Launch deferred annuity product in this quarter or next",
+     "horizon": "Q1 / Q2 FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "So our endeavor is to launch this deferred annuity product in this quarter itself. So we are aiming to go live by June, we should launch the deferred annuity.",
+     "page": 17,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g2.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered APE of INR242.7 billion, registering a growth of 13%.",
+     "quote": "Annualized premium equivalent APE stands at INR242.7 billion, registering a growth of 13%.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Profit after tax for the current year grew by 2% to INR24.7 billion.",
+     "quote": "Profit after tax for the current year grew by 2%, standing at INR24.7 billion as compared to the previous year.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Value of new business stands at INR66.7 billion with 12% growth.",
+     "quote": "Value of new business stands at INR66.7 billion with a growth of 12%. VoNB margin stands at 27.5%",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Solvency ratio remains strong at 1.90 against regulatory requirement of 1.50.",
+     "quote": "Solvency ratio of 1.90 as against the regulatory requirement of 1.50.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Persistency drop and assumption changes",
+     "quote": "is that operating assumption changes that are kind of a negative in the VNB walk. Are they kind of leading to some bit of a reset in persistency assumptions",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Banca growth sustainability and open architecture",
+     "quote": "Second question is there was a media interview by the Department of Financial Services Secretary, where he yet again raised the topic of banks should be open architecture",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Cost ratio increase and permanent GST impact",
+     "quote": "So from that perspective, how do you see the cost ratio? And my last question was on VNB margin trajectory going ahead?",
+     "page": 12,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and focused on sustainable growth and product mix balancing."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d066f482-f5e7-4274-8d43-deefa3beceab.pdf",
+   "pages": 17,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Maintain VoNB margin in the 26% to 28% range for the year",
+     "horizon": "FY27",
+     "low": 26,
+     "high": 28,
+     "unit": "%",
+     "quote": "The margin guidance was 26% to 28%, and we are within the range, although at the lower end of that.",
+     "page": 7,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Deliver Individual Rated Premium growth around 14% to 15% for the year",
+     "horizon": "FY27",
+     "low": 14,
+     "high": 15,
+     "unit": "%",
+     "quote": "And our growth projections for the year on IRP basis remains at 14%, 15%.",
+     "page": 7,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Move towards the upper range of VoNB margin guidance in coming quarters",
+     "horizon": "Remaining quarters of FY27",
+     "low": 26,
+     "high": 28,
+     "unit": "%",
+     "quote": "And going forward, with higher focus on individual policies, the margin is going to be towards the upper range of our guidance.",
+     "page": 8,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g3.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered 14% increase in Individual Rated Premium supported by product mix shift",
+     "quote": "SBI Life continued its growth trajectory from FY 2026 into the first quarter of FY 2027, delivering a 14% increase in Individual Rated Premium, supported by a favorable shift in product mix.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "New business premium reached INR 89.1 billion with a 23% growth",
+     "quote": "New business premium stands at INR89.1 billion with a growth of 23% and private market share of 20.5%.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Profit after tax for the quarter stood at INR 7.2 billion, registering 22% growth",
+     "quote": "The company's profit after tax for the quarter stood at INR7.2 billion, registering a strong growth of 22% over the corresponding quarter of previous year.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Value of new business grew by 29% to INR 14.1 billion with 26.2% margin",
+     "quote": "Value of new business stands at INR14.1 billion with a growth of 29%. VoNB margin stands at 26.2% for the period ended June 30, 2026.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "GST impact and margin drag",
+     "quote": "Sir, I have 2 questions. First is on the GST drag. So it was about 1.1 percentage in third quarter and 1.5 percentage in fourth quarter. Again, it's another 1.1 percentage...",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "GTI business nature and impact on margins",
+     "quote": "So, in that respect, I mean, if I do some math, it suggests that despite GST hit, your individual margins or ex GTI margins have improved very, very strongly.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Rise in other expenses",
+     "quote": "Sir, my second question is on your other expenses. There has been a pickup in your other expenses, even if we adjust for the GST impact. So any color around this?",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and optimistic regarding sustainable growth, margin recovery, and strong distribution performance."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f6141ef-1b01-4623-91f3-a0accb6aec40.pdf",
+   "pages": 21,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "Close the financial year with 14% to 15% individual rated premium growth",
+     "horizon": "FY27",
+     "low": 14,
+     "high": 15,
+     "unit": "%",
+     "quote": "for the financial year, we will be closing with 14% to 15% as we had guided for.",
+     "page": 8,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Maintain VNB margin in the 26% to 28% range",
+     "horizon": "FY27",
+     "low": 26,
+     "high": 28,
+     "unit": "%",
+     "quote": "So we will stick to our guidance of 26% to 28%...",
+     "page": 11,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Launch deferred annuity product soon in third quarter",
+     "horizon": "Q3 FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "So we will be launching soon this deferred annuity...",
+     "page": 12,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Finalize IFRS transition options and adopt by June 30, 2027",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "And once we go towards the end of this financial year, by the end of March, we will finalize and then move towards the June 30, 2027 for the adoption.",
+     "page": 12,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g4.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "New business premium grew 10% to INR202.6 billion with 20% private market share.",
+     "quote": "New business premium stands at INR202.6 billion with a growth of 10% and private market share of 20%.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Profit after tax grew 17% year-on-year to INR12.7 billion for H1 FY27.",
+     "quote": "Profit after tax stood at INR12.7 billion, registering a strong growth of 17% over the corresponding period last year.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Value of new business grew 19% to INR32.7 billion with a margin of 27.9%.",
+     "quote": "Value of new business stands at INR32.7 billion with a growth of 19%. VoNB margin stands at 27.9%.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Assets under management stand at INR5.3 trillion with 9% growth.",
+     "quote": "Our assets under management stand at INR5.3 trillion with a growth of 9% over the corresponding period last year.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Individual rated premium growth rate and sustainability",
+     "quote": "Now are you sort of satisfied with this growth or do you see certain things missing, I mean growth is not properly firing.",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Impact of yield curve movement on Q2 margin",
+     "quote": "And this strong margin performance and 29% plus margin that we're seeing in this quarter, how much of that is because of higher yield curve?",
+     "page": 16,
+     "verified": true
+    },
+    {
+     "topic": "IFRS transition details and CSM release methodology",
+     "quote": "So if I can ask like which transition approach will you use for the in-force book? Will it be like full retrospective for these cohorts or fair value of modified retrospective for the older ones?",
+     "page": 12,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, reassuring, and constructive regarding long-term growth and regulatory changes."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company provides life insurance, pension, savings, health and group insurance products to individuals and institutions in India.",
+  "segments": [
+   {
+    "name": "Unit Linked",
+    "revenue": 5424261,
+    "unit": "lakh",
+    "what": "Unit-linked life and pension insurance products for individuals and groups.",
+    "page": 365,
+    "share_pct": 54
+   },
+   {
+    "name": "Participating",
+    "revenue": 778465,
+    "unit": "lakh",
+    "what": "Participating life, pension and variable insurance products for individuals.",
+    "page": 365,
+    "share_pct": 8
+   },
+   {
+    "name": "Non Participating",
+    "revenue": 3925885,
+    "unit": "lakh",
+    "what": "Non-participating life, annuity, pension, health and variable insurance products.",
+    "page": 365,
+    "share_pct": 39
+   }
+  ],
+  "mix_note": "Operates across 35 locations in India, serving mass market, middle-class, affluent, and institutional customers.",
+  "risks_mgmt_flags": [
+   "Lower renewal rates or poor persistency could impact long-term profitability.",
+   "Equity market volatility can impact investment income and demand for market-linked products."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/14b49afc-218e-4be7-8bce-e5fb86f2a632.pdf",
+  "pages_read": [
+   19,
+   53,
+   63,
+   64,
+   65,
+   66,
+   108,
+   169,
+   171,
+   178,
+   196,
+   197
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.2",
+    "promise": "Achieve overall APE growth guidance of 13% to 14% for FY26",
+    "made_in": "Q3 FY26 call",
+    "delivered": "Management claimed delivered APE of INR242.7 billion registering 13% growth for FY26.",
+    "verdict": "delivered",
+    "checked_against": "Company claims on Q4 FY26 call",
+    "quote": "As far as growth is concerned, for the entire year, we had given a guidance of 13%-14%. And we continue to stick to that for the entire financial year also.",
+    "page": 11,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70cf3e58-47e2-4f46-a934-6e024af5ef53.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "Maintain VoNB margin in the 26% to 28% range for FY27",
+    "made_in": "Q1 FY27 call",
+    "delivered": "Reported Q1 FY27 VNB margin at 26.2% and Q2 FY27 margin at 27.9%, staying within the 26% to 28% range.",
+    "verdict": "delivered",
+    "checked_against": "Q1 and Q2 FY27 reported VNB margins",
+    "quote": "The margin guidance was 26% to 28%, and we are within the range, although at the lower end of that.",
+    "page": 7,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d066f482-f5e7-4274-8d43-deefa3beceab.pdf"
+   },
+   {
+    "ref": "g2.4",
+    "promise": "Launch deferred annuity product by June",
+    "made_in": "Q4 FY26 call",
+    "delivered": "Targeted for Q1 FY27 launch by June 2026; later Q2 FY27 call noted launching soon in third quarter.",
+    "verdict": "partly",
+    "checked_against": "Q2 FY27 call update",
+    "quote": "So our endeavor is to launch this deferred annuity product in this quarter itself. So we are aiming to go live by June, we should launch the deferred annuity.",
+    "page": 17,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f50bc473-267d-4994-8843-16a9e3c51c51.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 8,
+   "line": "Management consistently meets its guidance ranges for growth and VNB margins, supported by reported operational metrics."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Management claimed 17% PAT growth for H1 FY27 to INR12.7 billion, supported by reported Q2 FY27 PAT of INR549 crore and Q1 FY27 PAT of INR725 crore."
+   },
+   {
+    "agree": true,
+    "point": "Annual PAT grew from INR2413 crore in FY25 to INR2470 crore in FY26, aligning with reported profit growth claims."
+   },
+   {
+    "agree": true,
+    "point": "Equity increased steadily from INR16985 crore in March 2025 to INR19086 crore in March 2026 and INR20539 crore by Sep 2026."
+   }
+  ],
+  "bull": [
+   "PAT grew 17% year-on-year to INR12.7 billion for H1 FY27.",
+   "Equity base expanded to INR20539 crore as of Sep 2026 from INR16985 crore in March 2025.",
+   "Company remains practically debt-free with a debt-to-equity ratio of -0.0."
+  ],
+  "bear": [
+   "Quarterly revenue shows extreme volatility, dropping 82.4% YoY in Mar 2026.",
+   "EBITDA margins remain depressed below 3%, hitting negative figures in Mar 2025 and Mar 2026.",
+   "Operating cash flow conversion and financial volatility do not match the steady insurance metric claims."
+  ],
+  "watch": [
+   "Deferred annuity product launch status in Q3 FY27",
+   "IFRS transition progress toward June 30, 2027 adoption"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14761,
+   "out": 812,
+   "secs": 13.4,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 17253,
+   "out": 1005,
+   "secs": 4.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11008,
+   "out": 968,
+   "secs": 6.4,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12774,
+   "out": 1019,
+   "secs": 4.4,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14256,
+   "out": 317,
+   "secs": 2.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 3600,
+   "out": 966,
+   "secs": 3.9,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 73652,
+  "tokens_out": 5087,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 41.1
+ }
+}

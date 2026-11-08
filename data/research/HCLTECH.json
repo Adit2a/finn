@@ -1,0 +1,993 @@
+{
+ "symbol": "HCLTECH",
+ "name": "HCL Technologies Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T22:38:14",
+ "latest_call": "Oct 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 391691.0,
+   "pe": 20.6,
+   "roce": 30.4,
+   "roe": 23.8,
+   "ttm_revenue": 138052.0,
+   "ttm_pat": 18330.0,
+   "margin_latest_q": 21.0,
+   "de": 0.08,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 29890.0,
+    "rev_yoy": 5.1,
+    "op_profit": 6860.0,
+    "margin": 23.0,
+    "ebit_margin": 19.5,
+    "pat": 4594.0,
+    "pat_yoy": 5.6
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 30246.0,
+    "rev_yoy": 6.1,
+    "op_profit": 6482.0,
+    "margin": 21.0,
+    "ebit_margin": 18.0,
+    "pat": 4309.0,
+    "pat_yoy": 7.9
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 30349.0,
+    "rev_yoy": 8.2,
+    "op_profit": 6035.0,
+    "margin": 20.0,
+    "ebit_margin": 16.3,
+    "pat": 3844.0,
+    "pat_yoy": -9.7
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 31942.0,
+    "rev_yoy": 10.7,
+    "op_profit": 6545.0,
+    "margin": 20.0,
+    "ebit_margin": 17.2,
+    "pat": 4236.0,
+    "pat_yoy": -0.0
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 33872.0,
+    "rev_yoy": 13.3,
+    "op_profit": 7412.0,
+    "margin": 22.0,
+    "ebit_margin": 18.6,
+    "pat": 4082.0,
+    "pat_yoy": -11.1
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 33981.0,
+    "rev_yoy": 12.3,
+    "op_profit": 6712.0,
+    "margin": 20.0,
+    "ebit_margin": 16.5,
+    "pat": 4490.0,
+    "pat_yoy": 4.2
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 34579.0,
+    "rev_yoy": 13.9,
+    "op_profit": 6870.0,
+    "margin": 20.0,
+    "ebit_margin": 16.9,
+    "pat": 4626.0,
+    "pat_yoy": 20.3
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 35620.0,
+    "rev_yoy": 11.5,
+    "op_profit": 7439.0,
+    "margin": 21.0,
+    "ebit_margin": 18.0,
+    "pat": 5132.0,
+    "pat_yoy": 21.2
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 70676.0,
+    "op_profit": 17316.0,
+    "margin": 24.0,
+    "pat": 11057.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 75379.0,
+    "op_profit": 20048.0,
+    "margin": 27.0,
+    "pat": 11169.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 85651.0,
+    "op_profit": 20529.0,
+    "margin": 24.0,
+    "pat": 13523.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 101456.0,
+    "op_profit": 22628.0,
+    "margin": 22.0,
+    "pat": 14845.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 109913.0,
+    "op_profit": 24198.0,
+    "margin": 22.0,
+    "pat": 15710.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 117055.0,
+    "op_profit": 25504.0,
+    "margin": 22.0,
+    "pat": 17399.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 130144.0,
+    "op_profit": 26752.0,
+    "margin": 21.0,
+    "pat": 16652.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 8.7,
+   "rev_cagr_5y": 11.5,
+   "pat_cagr_3y": 3.9,
+   "pat_cagr_5y": 8.3,
+   "margin_change_3y_bps": -100
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 6343.0,
+    "equity": 61914.0,
+    "de": 0.1
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 4794.0,
+    "equity": 65405.0,
+    "de": 0.07
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 5756.0,
+    "equity": 68263.0,
+    "de": 0.08
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 6276.0,
+    "equity": 69655.0,
+    "de": 0.09
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 5215.0,
+    "equity": 75165.0,
+    "de": 0.07
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 6013.0,
+    "equity": 76092.0,
+    "de": 0.08
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     85.0
+    ],
+    [
+     "Mar 2022",
+     88.0
+    ],
+    [
+     "Mar 2023",
+     92.0
+    ],
+    [
+     "Mar 2024",
+     85.0
+    ],
+    [
+     "Mar 2025",
+     81.0
+    ],
+    [
+     "Mar 2026",
+     88.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     85.0
+    ],
+    [
+     "Mar 2022",
+     88.0
+    ],
+    [
+     "Mar 2023",
+     92.0
+    ],
+    [
+     "Mar 2024",
+     85.0
+    ],
+    [
+     "Mar 2025",
+     81.0
+    ],
+    [
+     "Mar 2026",
+     88.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     48.0
+    ],
+    [
+     "Mar 2022",
+     44.0
+    ],
+    [
+     "Mar 2023",
+     43.0
+    ],
+    [
+     "Mar 2024",
+     31.0
+    ],
+    [
+     "Mar 2025",
+     17.0
+    ],
+    [
+     "Mar 2026",
+     23.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 19618.0,
+    "pat": 11169.0,
+    "fcf": 17865.0,
+    "conv": 1.76
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 16900.0,
+    "pat": 13523.0,
+    "fcf": 15345.0,
+    "conv": 1.25
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 18009.0,
+    "pat": 14845.0,
+    "fcf": 16565.0,
+    "conv": 1.21
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 22448.0,
+    "pat": 15710.0,
+    "fcf": 21432.0,
+    "conv": 1.43
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 22261.0,
+    "pat": 17399.0,
+    "fcf": 21178.0,
+    "conv": 1.28
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 19975.0,
+    "pat": 16652.0,
+    "fcf": 18576.0,
+    "conv": 1.2
+   }
+  ],
+  "cash_conv_5y": 1.27,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 127% of profit"
+   },
+   {
+    "tone": "good",
+    "text": "Practically debt-free (D/E 0.08)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=08d64f75-ab38-4158-8b8a-0d933bc007d3.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48f5d6fd-b499-45da-bc6d-2e0439495ec2.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=11be9fba-0308-4756-a474-e4f2903fdaac.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ccce0001-ff5d-4875-b1e5-5c558669f49c.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4bc45f66-7fb5-4fab-a87a-b32321b63059.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=08d64f75-ab38-4158-8b8a-0d933bc007d3.pdf",
+   "pages": 22,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "revenue growth",
+     "promise": "Raise full year services revenue growth guidance to 4.75% to 5.25% in constant currency.",
+     "horizon": "FY26",
+     "low": 4.75,
+     "high": 5.25,
+     "unit": "%",
+     "quote": "we are raising our full year services revenue growth guidance to 4.75% to 5.25% in constant currency terms and the company level guidance to 4% to 4.5% in constant currency terms.",
+     "page": 13,
+     "speaker": "Shiv Walia",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Raise company level revenue growth guidance to 4% to 4.5% in constant currency terms for full year.",
+     "horizon": "FY26",
+     "low": 4,
+     "high": 4.5,
+     "unit": "%",
+     "quote": "we are raising our full year services revenue growth guidance to 4.75% to 5.25% in constant currency terms and the company level guidance to 4% to 4.5% in constant currency terms.",
+     "page": 13,
+     "speaker": "Shiv Walia",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Deliver full year EBIT margin guidance of 17% to 18%.",
+     "horizon": "FY26",
+     "low": 17,
+     "high": 18,
+     "unit": "%",
+     "quote": "We remain on track to deliver on our full year EBIT margin guidance of 17% to 18%.",
+     "page": 13,
+     "speaker": "Shiv Walia",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "margin",
+     "promise": "Expect restructuring impact of 50 basis points for the full year and similar impact in Q4.",
+     "horizon": "Q4 FY26",
+     "low": 50,
+     "high": 50,
+     "unit": "bps",
+     "quote": "If you recall, we have indicated that for the full year, we will have an impact of 50 basis points on our margins. This is a one-off restructuring cost this year. And we expect the similar kind of impact in Q4 also.",
+     "page": 15,
+     "speaker": "Shiv Walia",
+     "verified": true,
+     "id": "g1.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered Q3 revenue of $3.79 billion, up 4.8% YoY and 4.2% QoQ in constant currency.",
+     "quote": "Our revenue for Q3 came in at $3.79 billion, a growth of 4.8% YoY and 4.2% on a QoQ in constant currency terms.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Crossed $15 billion of annualized revenue this quarter.",
+     "quote": "This quarter, we also crossed $15 billion of annualized revenue.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Net new bookings reached a strong $3 billion, up 17% QoQ and 43% YoY.",
+     "quote": "Our net new bookings were strong at $3 billion, which is a 17% QoQ and 43% YoY growth.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Operating margin including restructuring costs and excluding labour code impact came at 18.6%.",
+     "quote": "Our operating margin, including restructuring costs, but excluding the one-time impact of new labour code, came at 18.6%",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Guidance conservatism vs strong deal wins",
+     "quote": "With such strong deal wins over the last nine months, why is the guidance still implying a slight decline in the lower end of the guidance for Q4 for services?",
+     "page": 16,
+     "verified": true
+    },
+    {
+     "topic": "Manufacturing vertical uncertainties and auto headwinds",
+     "quote": "How do we see the composition in this vertical with the clients? If you could break up your answer into non-auto part of manufacturing- how is that looking?",
+     "page": 18,
+     "verified": true
+    },
+    {
+     "topic": "Restructuring costs and margin recovery trajectory for FY27",
+     "quote": "beyond that, are we basically looking at possibly going back to over 18% to 19% margin guidance range in FY27?",
+     "page": 18,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and transparent regarding strong performance and ongoing strategic AI investments."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48f5d6fd-b499-45da-bc6d-2e0439495ec2.pdf",
+   "pages": 25,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "revenue growth",
+     "promise": "FY27 revenue growth of 1% to 4% in constant currency",
+     "horizon": "FY27",
+     "low": 1,
+     "high": 4,
+     "unit": "%",
+     "quote": "The revenue growth guidance for the full year is 1% to 4% in constant currency and 1.5% to 4.5% for Services.",
+     "page": 12,
+     "speaker": "C. Vijayakumar",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "FY27 Services revenue growth of 1.5% to 4.5%",
+     "horizon": "FY27",
+     "low": 1.5,
+     "high": 4.5,
+     "unit": "%",
+     "quote": "The revenue growth guidance for the full year is 1% to 4% in constant currency and 1.5% to 4.5% for Services.",
+     "page": 12,
+     "speaker": "C. Vijayakumar",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "FY27 EBIT margin guidance of 17.5% to 18.5%",
+     "horizon": "FY27",
+     "low": 17.5,
+     "high": 18.5,
+     "unit": "%",
+     "quote": "EBIT margin guidance is 17.5% to 18.5%.",
+     "page": 12,
+     "speaker": "C. Vijayakumar",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "debt",
+     "promise": "Return at least 75% of Net Income back to shareholders over next 5 years",
+     "horizon": "next 5 years",
+     "low": 75,
+     "high": null,
+     "unit": "%",
+     "quote": "we are committed to return at least 75% of our Net Income back to the shareholders over the next 5 years.",
+     "page": 16,
+     "speaker": "Shiv Walia",
+     "verified": true,
+     "id": "g2.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered Q4 revenue of $3.7 billion, down 3.3% QoQ and up 2.4% YoY in constant currency",
+     "quote": "Coming to our Q4 performance, our revenue for the quarter was $3.7 billion, a decline of 3.3% QoQ, and an increase of 2.4% YoY in constant currency.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Marked third consecutive year of highest organic revenue growth amongst scale players",
+     "quote": "the year marks the third consecutive year of HCLTech's likely to deliver the highest organic revenue growth amongst scale players.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Advanced AI revenue for the quarter reached $155.1 million, marking 6.1% QoQ growth",
+     "quote": "Advanced AI revenue for the quarter stood at $155.1 million, marking a 6.1% QoQ growth.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "FY26 consolidated revenue reached $14.7 billion, an increase of 3.9% in constant currency",
+     "quote": "In FY'26, we reported a consolidated revenue of $14.7 billion, an increase of 3.9% in constant currency.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "AI deflation impact and margin risk",
+     "quote": "what is the risk that this number kind of keeps expanding over, let's say, the next 2 to 3 years as model capabilities improve",
+     "page": 16,
+     "verified": true
+    },
+    {
+     "topic": "Guidance conservatism and client-specific headwinds",
+     "quote": "if you add back that 50 basis points of impact because of these two accounts, still it would be like you are essentially talking about 2% to 5% kind of growth in services",
+     "page": 18,
+     "verified": true
+    },
+    {
+     "topic": "Product business trajectory and delayed closures",
+     "quote": "So is the revenue that we missed in this quarter kind of a spillover we can expect to come back in Q1. And hence the next year performance for product business could look better?",
+     "page": 23,
+     "verified": true
+    }
+   ],
+   "tone": "Prudent, realistic, and focused on strategic AI investments amidst external uncertainties."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=11be9fba-0308-4756-a474-e4f2903fdaac.pdf",
+   "pages": 29,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "revenue growth",
+     "promise": "FY27 organic revenue growth guidance of 1% to 4%",
+     "horizon": "FY27",
+     "low": 1,
+     "high": 4,
+     "unit": "%",
+     "quote": "Looking ahead, we are retaining our guidance of 1% to 4% and margin guidance of 17.5% to 18.5% for FY27. The guidance is organic growth guidance and does not include acquisitions including Jaspersoft.",
+     "page": 14,
+     "speaker": "C. Vijayakumar",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "FY27 operating margin guidance of 17.5% to 18.5%",
+     "horizon": "FY27",
+     "low": 17.5,
+     "high": 18.5,
+     "unit": "%",
+     "quote": "Looking ahead, we are retaining our guidance of 1% to 4% and margin guidance of 17.5% to 18.5% for FY27.",
+     "page": 14,
+     "speaker": "C. Vijayakumar",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "capex",
+     "promise": "Strategic investment of up to INR3,500 crores for AI datacenter capacity",
+     "horizon": "long-term",
+     "low": null,
+     "high": 3500,
+     "unit": "cr",
+     "quote": "In this regard, we will make a strategic investment of up to INR3,500 crores and with the potential to scale to 50 megawatts of capacity.",
+     "page": 13,
+     "speaker": "C. Vijayakumar",
+     "verified": true,
+     "id": "g3.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Q1 revenue declined 0.5% sequentially and grew 2.6% YoY in constant currency",
+     "quote": "Our revenue declined by 0.5% sequentially and increased by 2.6% on YoY basis in constant currency.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Q1 net new TCV bookings reached $2.4 billion, highest ever Q1 bookings",
+     "quote": "Our net new TCV booking for the quarter was $2.4 billion, highest ever Q1 bookings.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Advanced AI revenue for the quarter stood at $171 million, up 62.1% YoY",
+     "quote": "Advanced AI revenue for the quarter stood at $171 million, marking 10.6% QoQ and 62.1% YoY growth.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Datacenter investment and compute costs",
+     "quote": "So, I'm a little confused, what makes you say it's a AI datacenter? Are there any increasing or commitments on the investments once you deploy the INR3,500 crores?",
+     "page": 17,
+     "verified": true
+    },
+    {
+     "topic": "Guidance conservatism despite record bookings",
+     "quote": "So what are the various moving parts which is, restricting you from increasing the guidance from here?",
+     "page": 17,
+     "verified": true
+    },
+    {
+     "topic": "Token costs and AI services revenue impact",
+     "quote": "If they had not been so high, do you think our AI services revenue would have been higher? And over a 2-to-3-year perspective, how does your team look at token costs?",
+     "page": 18,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, focused on AI-led growth, execution capabilities, and strategic expansion into AI datacenters."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ccce0001-ff5d-4875-b1e5-5c558669f49c.pdf",
+   "pages": 26,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "revenue growth",
+     "promise": "FY27 constant currency revenue growth expected between 2.5% and 4%",
+     "horizon": "FY27",
+     "low": 2.5,
+     "high": 4.0,
+     "unit": "%",
+     "quote": "Our FY27 growth guidance is now 2.5% to 4%, and our EBIT margin guidance remains at 17.5% to 18.5%.",
+     "page": 12,
+     "speaker": "C Vijayakumar",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "FY27 EBIT margin expected between 17.5% and 18.5%",
+     "horizon": "FY27",
+     "low": 17.5,
+     "high": 18.5,
+     "unit": "%",
+     "quote": "Our FY27 growth guidance is now 2.5% to 4%, and our EBIT margin guidance remains at 17.5% to 18.5%.",
+     "page": 12,
+     "speaker": "C Vijayakumar",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "FY27 Services revenue growth expected to be 3% to 4%",
+     "horizon": "FY27",
+     "low": 3.0,
+     "high": 4.0,
+     "unit": "%",
+     "quote": "Services revenue growth guidance is 3% to 4%.",
+     "page": 12,
+     "speaker": "C Vijayakumar",
+     "verified": true,
+     "id": "g4.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Advanced AI revenue reached $219 million, up 28.4% sequentially and 78% YoY",
+     "quote": "Advanced AI revenue reached $219 million this quarter, up 28.4% sequentially and 78% YoY.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "New deal bookings reached $3.3 billion, up 27% YoY and 35% sequentially",
+     "quote": "New deal bookings reached $3.3 billion, up 27% YoY and 35% sequentially.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "EBIT margin was 18.2%, an improvement of 131 basis points sequentially",
+     "quote": "Our EBIT margin was 18.2%, an improvement of 131 basis points sequentially and 71 basis points YoY",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Software revenue decline and ARR disconnect",
+     "quote": "So just a clarification, like last six quarters, I am looking at the data, the ARR has been growing. So I am just trying to understand, how long can this disconnect between ARR and the reported growth continue?",
+     "page": 23,
+     "verified": true
+    },
+    {
+     "topic": "Guidance conservatism despite strong Q2",
+     "quote": "So, why not really raise or keep the top end the way it was at 4.5%?",
+     "page": 20,
+     "verified": true
+    }
+   ],
+   "tone": "Cautiously optimistic with solid delivery, disciplined execution, and strong focus on Advanced AI scaling."
+  }
+ ],
+ "business": {
+  "what_it_does": "The company provides technology services, digital solutions, engineering and R&D services, and software products globally.",
+  "segments": [
+   {
+    "name": "IT and Business Services",
+    "revenue": 96095,
+    "unit": "crore",
+    "what": "Digital transformation, applications, infrastructure, cloud, AI, and business process operations.",
+    "page": 139,
+    "share_pct": 74
+   },
+   {
+    "name": "Engineering and R&D Services",
+    "revenue": 22063,
+    "unit": "crore",
+    "what": "Engineering services and solutions across software, embedded, mechanical, VLSI, and platform engineering.",
+    "page": 139,
+    "share_pct": 17
+   },
+   {
+    "name": "HCLSoftware",
+    "revenue": 12397,
+    "unit": "crore",
+    "what": "Modernized software products and IP-led offerings for global clients.",
+    "page": 139,
+    "share_pct": 9
+   }
+  ],
+  "mix_note": "Top 20 clients contribute around 28.5% of revenue. USA and Europe constitute major portions of revenue.",
+  "risks_mgmt_flags": [
+   "Top twenty clients contribute around 28.5% of total revenue.",
+   "Concentration in certain business segments, industry sectors, and geographic regions."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4bc45f66-7fb5-4fab-a87a-b32321b63059.pdf",
+  "pages_read": [
+   108,
+   114,
+   118,
+   126,
+   139,
+   146,
+   152,
+   336,
+   412,
+   450,
+   451,
+   452
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.3",
+    "promise": "Deliver full year EBIT margin guidance of 17% to 18%",
+    "made_in": "Q3 FY26",
+    "delivered": "Full year Mar 2026 EBIT% not explicitly listed as a single annual EBIT percentage, but reported quarterly EBIT% reached 18.6% in Dec 2025 and 16.5% in Mar 2026.",
+    "verdict": "partly",
+    "checked_against": "Reported quarterly EBIT%",
+    "quote": "We remain on track to deliver on our full year EBIT margin guidance of 17% to 18%.",
+    "page": 13,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=08d64f75-ab38-4158-8b8a-0d933bc007d3.pdf"
+   },
+   {
+    "ref": "g2.1",
+    "promise": "FY27 revenue growth of 1% to 4% in constant currency",
+    "made_in": "Q4 FY26",
+    "delivered": "Management raised FY27 constant currency revenue growth guidance to 2.5% to 4% on the Q2 FY27 call.",
+    "verdict": "walked_back",
+    "checked_against": "g4.1",
+    "quote": "The revenue growth guidance for the full year is 1% to 4% in constant currency and 1.5% to 4.5% for Services.",
+    "page": 12,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48f5d6fd-b499-45da-bc6d-2e0439495ec2.pdf"
+   },
+   {
+    "ref": "g2.3",
+    "promise": "FY27 EBIT margin guidance of 17.5% to 18.5%",
+    "made_in": "Q4 FY26",
+    "delivered": "Management retained EBIT margin guidance of 17.5% to 18.5% through Q1 FY27 and Q2 FY27 calls.",
+    "verdict": "delivered",
+    "checked_against": "g3.2 and g4.2",
+    "quote": "EBIT margin guidance is 17.5% to 18.5%.",
+    "page": 12,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48f5d6fd-b499-45da-bc6d-2e0439495ec2.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 7,
+   "line": "Management consistently delivers on margin guidance and updates top-line expectations proactively."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Advanced AI revenue scaling rapidly, reaching $219 million in Sep 2026, up 78% YoY."
+   },
+   {
+    "agree": true,
+    "point": "EBIT margin improved sequentially to 18.0% in Sep 2026 from 16.9% in Jun 2026."
+   },
+   {
+    "agree": true,
+    "point": "Strong cash conversion maintained with 5-year operating cash flow at 127% of profit."
+   }
+  ],
+  "bull": [
+   "Virtually debt-free with a D/E ratio of 0.08 as of Sep 2026.",
+   "New deal bookings reached $3.3 billion in Sep 2026, up 27% YoY.",
+   "ROCE stands at 30.4% and ROE at 23.8%."
+  ],
+  "bear": [
+   "PAT YoY growth has fluctuated, showing negative quarters through FY26.",
+   "Borrowings increased to 6013.0 crore in Sep 2026 from 5215.0 crore in Mar 2026.",
+   "Software revenue decline and ARR disconnect questioned by analysts."
+  ],
+  "watch": [
+   "FY27 constant currency revenue growth outcome",
+   "AI datacenter investment execution up to INR3,500 crores"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11897,
+   "out": 1130,
+   "secs": 4.6,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12202,
+   "out": 1095,
+   "secs": 7.2,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12962,
+   "out": 903,
+   "secs": 6.2,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12622,
+   "out": 797,
+   "secs": 8.9,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 9589,
+   "out": 326,
+   "secs": 2.1,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 3818,
+   "out": 976,
+   "secs": 7.7,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 1,
+  "tokens_in": 63090,
+  "tokens_out": 5227,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 8.4
+ }
+}

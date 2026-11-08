@@ -1,0 +1,1042 @@
+{
+ "symbol": "BEL",
+ "name": "Bharat Electronics Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:17:17",
+ "latest_call": "Nov 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 291077.0,
+   "pe": 45.5,
+   "roce": 36.4,
+   "roe": 27.5,
+   "ttm_revenue": 30253.0,
+   "ttm_pat": 6401.0,
+   "margin_latest_q": 28.0,
+   "de": 0.0,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 5771.0,
+    "rev_yoy": 38.7,
+    "op_profit": 1669.0,
+    "margin": 29.0,
+    "ebit_margin": 27.0,
+    "pat": 1312.0,
+    "pat_yoy": 52.6
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 9150.0,
+    "rev_yoy": 6.8,
+    "op_profit": 2816.0,
+    "margin": 31.0,
+    "ebit_margin": 29.3,
+    "pat": 2127.0,
+    "pat_yoy": 18.4
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 4440.0,
+    "rev_yoy": 4.6,
+    "op_profit": 1238.0,
+    "margin": 28.0,
+    "ebit_margin": 25.2,
+    "pat": 969.0,
+    "pat_yoy": 22.5
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 5792.0,
+    "rev_yoy": 25.8,
+    "op_profit": 1702.0,
+    "margin": 29.0,
+    "ebit_margin": 27.2,
+    "pat": 1287.0,
+    "pat_yoy": 17.7
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 7154.0,
+    "rev_yoy": 24.0,
+    "op_profit": 2127.0,
+    "margin": 30.0,
+    "ebit_margin": 27.8,
+    "pat": 1580.0,
+    "pat_yoy": 20.4
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 10224.0,
+    "rev_yoy": 11.7,
+    "op_profit": 2982.0,
+    "margin": 29.0,
+    "ebit_margin": 27.5,
+    "pat": 2226.0,
+    "pat_yoy": 4.7
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 5547.0,
+    "rev_yoy": 24.9,
+    "op_profit": 1388.0,
+    "margin": 25.0,
+    "ebit_margin": 22.1,
+    "pat": 1055.0,
+    "pat_yoy": 8.9
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 7328.0,
+    "rev_yoy": 26.5,
+    "op_profit": 2041.0,
+    "margin": 28.0,
+    "ebit_margin": 25.5,
+    "pat": 1540.0,
+    "pat_yoy": 19.7
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 12968.0,
+    "op_profit": 2759.0,
+    "margin": 21.0,
+    "pat": 1825.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 14109.0,
+    "op_profit": 3214.0,
+    "margin": 23.0,
+    "pat": 2100.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 15368.0,
+    "op_profit": 3344.0,
+    "margin": 22.0,
+    "pat": 2400.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 17734.0,
+    "op_profit": 4090.0,
+    "margin": 23.0,
+    "pat": 2986.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 20268.0,
+    "op_profit": 5051.0,
+    "margin": 25.0,
+    "pat": 3985.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 23769.0,
+    "op_profit": 6837.0,
+    "margin": 29.0,
+    "pat": 5323.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 27610.0,
+    "op_profit": 8053.0,
+    "margin": 29.0,
+    "pat": 6062.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 15.9,
+   "rev_cagr_5y": 14.4,
+   "pat_cagr_3y": 26.6,
+   "pat_cagr_5y": 23.6,
+   "margin_change_3y_bps": 600
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 53.0,
+    "equity": 12286.0,
+    "de": 0.0
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 61.0,
+    "equity": 13862.0,
+    "de": 0.0
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 63.0,
+    "equity": 16326.0,
+    "de": 0.0
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 61.0,
+    "equity": 19974.0,
+    "de": 0.0
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 65.0,
+    "equity": 23988.0,
+    "de": 0.0
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 85.0,
+    "equity": 26259.0,
+    "de": 0.0
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     170.0
+    ],
+    [
+     "Mar 2022",
+     145.0
+    ],
+    [
+     "Mar 2023",
+     145.0
+    ],
+    [
+     "Mar 2024",
+     133.0
+    ],
+    [
+     "Mar 2025",
+     140.0
+    ],
+    [
+     "Mar 2026",
+     170.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     233.0
+    ],
+    [
+     "Mar 2022",
+     230.0
+    ],
+    [
+     "Mar 2023",
+     240.0
+    ],
+    [
+     "Mar 2024",
+     257.0
+    ],
+    [
+     "Mar 2025",
+     273.0
+    ],
+    [
+     "Mar 2026",
+     265.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     155.0
+    ],
+    [
+     "Mar 2022",
+     139.0
+    ],
+    [
+     "Mar 2023",
+     124.0
+    ],
+    [
+     "Mar 2024",
+     128.0
+    ],
+    [
+     "Mar 2025",
+     100.0
+    ],
+    [
+     "Mar 2026",
+     93.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     248.0
+    ],
+    [
+     "Mar 2022",
+     237.0
+    ],
+    [
+     "Mar 2023",
+     261.0
+    ],
+    [
+     "Mar 2024",
+     262.0
+    ],
+    [
+     "Mar 2025",
+     313.0
+    ],
+    [
+     "Mar 2026",
+     342.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     47.0
+    ],
+    [
+     "Mar 2022",
+     4.0
+    ],
+    [
+     "Mar 2023",
+     28.0
+    ],
+    [
+     "Mar 2024",
+     18.0
+    ],
+    [
+     "Mar 2025",
+     85.0
+    ],
+    [
+     "Mar 2026",
+     135.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 5093.0,
+    "pat": 2100.0,
+    "fcf": 4625.0,
+    "conv": 2.43
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 4207.0,
+    "pat": 2400.0,
+    "fcf": 3660.0,
+    "conv": 1.75
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 1199.0,
+    "pat": 2986.0,
+    "fcf": 611.0,
+    "conv": 0.4
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 4659.0,
+    "pat": 3985.0,
+    "fcf": 4015.0,
+    "conv": 1.17
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 564.0,
+    "pat": 5323.0,
+    "fcf": -444.0,
+    "conv": 0.11
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 1541.0,
+    "pat": 6062.0,
+    "fcf": 560.0,
+    "conv": 0.25
+   }
+  ],
+  "cash_conv_5y": 0.59,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (26.6% vs 15.9%): operating leverage"
+   },
+   {
+    "tone": "good",
+    "text": "Operating margin up 600 bps over 3 years"
+   },
+   {
+    "tone": "bad",
+    "text": "Only 59% of 5y profit showed up as operating cash"
+   },
+   {
+    "tone": "good",
+    "text": "Practically debt-free (D/E 0.0)"
+   },
+   {
+    "tone": "bad",
+    "text": "Cash cycle stretched by 80 days in 2 years (262 → 342)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bb8b13a8-bf5d-410c-ac76-7a0f41a3cbdc.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f32d2ed7-e599-42b4-ab37-d8e5e79ae0ca.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d2a747a3-664c-4c5d-9373-fcddc0d2a3ae.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ae1ae7ce-d870-47a4-900c-c087a6e84e65.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fe7510ea-01e4-4f93-99bd-b41007aebe1d.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bb8b13a8-bf5d-410c-ac76-7a0f41a3cbdc.pdf",
+   "pages": 24,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "revenue growth",
+     "promise": "Maintain revenue growth guidance of more than 15% year-on-year for the current year",
+     "horizon": "FY26",
+     "low": 15,
+     "high": null,
+     "unit": "%",
+     "quote": "revenue growth more than 15%, EBITDA margin definitely more than 27%, order inflow INR 27,000 crores plus",
+     "page": 24,
+     "speaker": "Manoj Jain",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Maintain EBITDA margin of 27% for the current financial year",
+     "horizon": "FY26",
+     "low": 27,
+     "high": 27,
+     "unit": "%",
+     "quote": "Presently, we maintain the EBITDA margin of 27% for the current financial year.",
+     "page": 5,
+     "speaker": "Damodar Bhattad",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "orders",
+     "promise": "Achieve order inflows of INR 27,000 crores plus for the current year",
+     "horizon": "FY26",
+     "low": 27000,
+     "high": null,
+     "unit": "cr",
+     "quote": "order inflow INR 27,000 crores plus, R&D investment although we told INR 1,600 crore, but I am confident we may cross INR 1,700",
+     "page": 24,
+     "speaker": "Manoj Jain",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "capex",
+     "promise": "Achieve R&D investment of more than INR 1,600 crores for the current year",
+     "horizon": "FY26",
+     "low": 1600,
+     "high": null,
+     "unit": "cr",
+     "quote": "R&D investment although we told INR 1,600 crore, but I am confident we may cross INR 1,700 but at least INR 1,600 plus definitely we are going to be there, CAPEX INR 1,000 crore",
+     "page": 24,
+     "speaker": "Manoj Jain",
+     "verified": true,
+     "id": "g1.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Achieved revenue from operations of INR 17,302 crores up to Q3 with 19% growth",
+     "quote": "till Q3, we have achieved revenue from operations of INR 17,302 crores as compared to INR 14,538 crores, which was up to Q3 of last year with the overall growth of 19%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Profit before tax increased to INR 5,171 crores up to Q3 with 22% growth",
+     "quote": "The profit before tax increased to INR 5,171 crores up to Q3 as compared to INR 4,242 crores up to Q3 last year with a growth of 22%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Profit after tax increased to INR 3,845 crores up to Q3 with 21% growth",
+     "quote": "The profit after tax also increased to INR 3,845 crores as compared to INR 3,183 crores up to Q3 last year with a growth of 21%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Order book position as on 28th January 2026 stands at INR 73,450 crores",
+     "quote": "And order book position as on 1st January 2026 is INR 73,015 crores, and as on 28th January 2026, as on today, is INR 73,450 crores.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "EBITDA margin guidance revision",
+     "quote": "So, what stops us to revise the guidance, because the ask rate for guidance at 27% for 4Q is only 25%. So, are we expecting the product mix to be not favorable in 4Q or maybe next year as well?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Semiconductor shortage impact",
+     "quote": "So, are you also seeing any impact of that in your bill of materials? And can you quantify for us what percentage of this semiconductor chips comprise?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Order pipeline and growth sustainability",
+     "quote": "So, does that give you confidence that we are going to have this kind of intake? And are there any medium to large orders which you are expecting in next 12-18 months",
+     "page": 7,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic and transparent about financial results and execution pipelines."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f32d2ed7-e599-42b4-ab37-d8e5e79ae0ca.pdf",
+   "pages": 21,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "revenue growth",
+     "promise": "FY27 revenue growth of more than 15%",
+     "horizon": "FY27",
+     "low": 15,
+     "high": null,
+     "unit": "%",
+     "quote": "So, we are retaining our revenue growth of more than 15%. So definitely, we are going to have more than 15% as a revenue growth for '26-'27.",
+     "page": 20,
+     "speaker": "Manoj Jain",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "FY27 EBITDA margins of more than 28%",
+     "horizon": "FY27",
+     "low": 28,
+     "high": null,
+     "unit": "%",
+     "quote": "EBITDA margins will be more than 28%.",
+     "page": 20,
+     "speaker": "Manoj Jain",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "orders",
+     "promise": "FY27 order inflow of more than INR55,000 crores",
+     "horizon": "FY27",
+     "low": 55000,
+     "high": null,
+     "unit": "cr",
+     "quote": "The order inflow we are expecting this year more than INR55,000 crores. That includes, of course, QRSAM, which we are expecting very soon.",
+     "page": 20,
+     "speaker": "Manoj Jain",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "capex",
+     "promise": "FY27 capital investment of more than INR1,200 crores",
+     "horizon": "FY27",
+     "low": 1200,
+     "high": null,
+     "unit": "cr",
+     "quote": "So, we are targeting more than INR1,200 crores as a capital investment for this year.",
+     "page": 21,
+     "speaker": "Manoj Jain",
+     "verified": true,
+     "id": "g2.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Revenue increased 16% to INR27,480 crores in FY25-26",
+     "quote": "the revenue from operations has increased to INR27,480 crores in '25-'26 as compared to INR23,658 crores previous year with a growth of 16%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Profit after tax grew 14% to INR6,048 crores in FY25-26",
+     "quote": "The profit after tax increased to INR6,048 crores in '25-'26 as compared to INR5,288 crores in the previous year, with a growth of 14%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Order book position as on 01/04/2026 is INR73,882 crores",
+     "quote": "The order book position as on 01/04/2026 is INR73,882 crores and order acquired till 31st March 2026 in the previous year was INR30,045 crores.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Order book flat growth and maintaining 15% revenue growth",
+     "quote": "So, in that situation, how long can you maintain this 15% plus kind of revenue growth? Is it feasible to maintain that level? Or do we come down to a lower level of 12%, 13% over medium term?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Operating cash flow conversion to EBITDA",
+     "quote": "And if I look at the cumulative operating cash flow reported over the last 4 years to cumulative EBITDA reported over the last 4 years, the conversion factor is about 33%. So -- I mean typically, companies in the capital goods sector would have better conversions of EBITDA to operating cash flow.",
+     "page": 14,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic about long-term growth trajectory, indigenization benefits, and meeting forward guidance parameters."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d2a747a3-664c-4c5d-9373-fcddc0d2a3ae.pdf",
+   "pages": 21,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "FY27 EBITDA margin of 21% to 23%",
+     "horizon": "FY27",
+     "low": 21,
+     "high": 23,
+     "unit": "%",
+     "quote": "EBITDA margin 21% to 23%",
+     "page": 21,
+     "speaker": "Manoj Jain",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "FY27 revenue growth of 15%",
+     "horizon": "FY27",
+     "low": 15,
+     "high": 15,
+     "unit": "%",
+     "quote": "The revenue growth of 15%",
+     "page": 21,
+     "speaker": "Manoj Jain",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Overall yearly EBITDA margin of 28%",
+     "horizon": "FY27",
+     "low": 28,
+     "high": 28,
+     "unit": "%",
+     "quote": "Overall on a yearly basis, we maintain the EBITDA margin of 28%, which we have given already.",
+     "page": 5,
+     "speaker": "Damodar Bhattad",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "orders",
+     "promise": "Order inflow guidance of INR 55,000+ crores including QRSAM",
+     "horizon": "FY27",
+     "low": 55000,
+     "high": null,
+     "unit": "cr",
+     "quote": "So, that is INR55,000 plus crores, including QRSAM. So, we are sticking to that",
+     "page": 5,
+     "speaker": "Manoj Jain",
+     "verified": true,
+     "id": "g3.4"
+    },
+    {
+     "metric": "capex",
+     "promise": "Invest INR 1,200+ crores under capex for production and capacity enhancement",
+     "horizon": "FY27",
+     "low": 1200,
+     "high": null,
+     "unit": "cr",
+     "quote": "INR1,200 plus crores we are investing under capex which will take care of our production and other type of investments.",
+     "page": 13,
+     "speaker": "Manoj Jain",
+     "verified": true,
+     "id": "g3.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Revenue from operations increased by 25.27% to INR 5,533 crores in Q1",
+     "quote": "The revenue from operations has increased to INR5,533 crores up to Q1 as compared to INR4,417 crores in the previous year Q1, with a growth of 25.27 percentage.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Order book position as on 1st July 2026 is INR 72,258 crores",
+     "quote": "The order book position as on 1st July 2026 is INR72,258 crores and orders acquired in this quarter is INR3,754 crores.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Order inflow slowdown in Q1",
+     "quote": "Just wanted to understand the reasons for that, whether you see a more structural component to it or it is just, the timing of the orders.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "topic": "Margins and product mix",
+     "quote": "Is this just product mix or are there any one-offs, etcetera, as well?",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and reassuring regarding guidance, execution, and upcoming order inflows."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ae1ae7ce-d870-47a4-900c-c087a6e84e65.pdf",
+   "pages": 33,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "revenue growth",
+     "promise": "FY27 revenue growth of 15% plus",
+     "horizon": "FY27",
+     "low": 15,
+     "high": null,
+     "unit": "%",
+     "quote": "We are working for that revenue growth of 15-plus percent, although there may be some positive surprises as you have predicted. But right now, we are confident we will have 15-plus.",
+     "page": 32,
+     "speaker": "Manoj Jain",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "FY27 EBITDA margins of around 28%",
+     "horizon": "FY27",
+     "low": 28,
+     "high": 28,
+     "unit": "%",
+     "quote": "EBITDA margins of around 28%, the order inflow of INR25,000 crores minimum, excluding QRSAM and including QRSAM, INR50,000-plus crores.",
+     "page": 32,
+     "speaker": "Manoj Jain",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "orders",
+     "promise": "FY27 order inflow minimum of INR25000 crores excluding QRSAM",
+     "horizon": "FY27",
+     "low": 25000,
+     "high": null,
+     "unit": "cr",
+     "quote": "EBITDA margins of around 28%, the order inflow of INR25,000 crores minimum, excluding QRSAM and including QRSAM, INR50,000-plus crores.",
+     "page": 32,
+     "speaker": "Manoj Jain",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "orders",
+     "promise": "FY27 order inflow including QRSAM of INR50000 plus crores",
+     "horizon": "FY27",
+     "low": 50000,
+     "high": null,
+     "unit": "cr",
+     "quote": "EBITDA margins of around 28%, the order inflow of INR25,000 crores minimum, excluding QRSAM and including QRSAM, INR50,000-plus crores.",
+     "page": 32,
+     "speaker": "Manoj Jain",
+     "verified": true,
+     "id": "g4.4"
+    },
+    {
+     "metric": "capex",
+     "promise": "FY27 capex of around INR1200 crores",
+     "horizon": "FY27",
+     "low": 1200,
+     "high": 1200,
+     "unit": "cr",
+     "quote": "R&D investment of INR2,200-plus crores, capex of around INR1,200 crores.",
+     "page": 32,
+     "speaker": "Manoj Jain",
+     "verified": true,
+     "id": "g4.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "H1 FY27 revenue from operations increased to INR12824 crores with 25.97% growth",
+     "quote": "The revenue from operations increased to INR12,824 crores up to Q2 as compared to INR10,180 crores with a growth of 25.97%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "H1 FY27 profit after tax increased to INR2589 crores with 14.80% growth",
+     "quote": "The profit after tax has increased to INR2,589 crores up to Q2 as compared to INR2,255 crores previous year up to the same time with a growth of 14.80%.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "QRSAM timeline and private sector competition",
+     "quote": "First of all, congratulations for a very good set of numbers. Sir, 2 questions from my side. The first one is with respect to QRSAM. If you can mention when can we expect to get this order.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "topic": "Next Generation Corvette order realization and margins",
+     "quote": "This is Mahesh Raut here from Nomura. Congrats on a very good strong operating performance in second quarter FY27. My first question is pertaining to Next Generation Corvette.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and transparent regarding order pipelines and guidance targets."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company provides defence electronics products and services to Indian armed forces and civilian sectors.",
+  "segments": [
+   {
+    "name": "Defence",
+    "revenue": 23513,
+    "unit": "crore",
+    "what": "Defence electronic products and services to armed forces",
+    "page": 32,
+    "share_pct": 89
+   },
+   {
+    "name": "Non-Defence",
+    "revenue": 1655,
+    "unit": "crore",
+    "what": "Innovative products and solutions for civilian requirements",
+    "page": 32,
+    "share_pct": 6
+   },
+   {
+    "name": "Exports",
+    "revenue": 1331,
+    "unit": "crore",
+    "what": "Products and services exported",
+    "page": 32,
+    "share_pct": 5
+   }
+  ],
+  "mix_note": "Defence segment generated 88% of business and non-defence generated 6%.",
+  "risks_mgmt_flags": [
+   "Exposure to fall in interest rates impacting defined benefit plan obligations.",
+   "Liquidity risk from potential short-term gratuity payout shortfalls.",
+   "Salary escalation risk relative to actuarial assumptions."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fe7510ea-01e4-4f93-99bd-b41007aebe1d.pdf",
+  "pages_read": [
+   32,
+   73,
+   74,
+   75,
+   78,
+   144,
+   146,
+   162,
+   193,
+   195,
+   197,
+   215
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Revenue growth >15% YoY for FY26",
+    "made_in": "Q3 FY26",
+    "delivered": "FY26 revenue 27,610 cr vs 23,769 cr FY25 = 16% growth",
+    "verdict": "delivered",
+    "checked_against": "FY26 revenue YoY",
+    "quote": "revenue growth more than 15%, EBITDA margin definitely more than 27%, order inflow INR 27,000 crores plus",
+    "page": 24,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bb8b13a8-bf5d-410c-ac76-7a0f41a3cbdc.pdf"
+   },
+   {
+    "ref": "g1.2",
+    "promise": "EBITDA margin ≥27% for FY26",
+    "made_in": "Q3 FY26",
+    "delivered": "FY26 EBITDA 8,053 cr / 27,610 cr = 29% margin",
+    "verdict": "delivered",
+    "checked_against": "FY26 EBITDA%",
+    "quote": "Presently, we maintain the EBITDA margin of 27% for the current financial year.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bb8b13a8-bf5d-410c-ac76-7a0f41a3cbdc.pdf"
+   },
+   {
+    "ref": "g2.3",
+    "promise": "FY27 order inflow >55,000 cr",
+    "made_in": "Q4 FY26",
+    "delivered": "Order inflow not disclosed in reported numbers",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "The order inflow we are expecting this year more than INR55,000 crores. That includes, of course, QRSAM, which we are expecting very soon.",
+    "page": 20,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f32d2ed7-e599-42b4-ab37-d8e5e79ae0ca.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "FY27 EBITDA margin 21‑23%",
+    "made_in": "Q1 FY27",
+    "delivered": "Q1 FY27 EBITDA margin 29% (Q1 FY27 not in data, latest quarter Sep 2026 shows 28%)",
+    "verdict": "missed",
+    "checked_against": "Sep 2026 EBITDA%",
+    "quote": "EBITDA margin 21% to 23%",
+    "page": 21,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d2a747a3-664c-4c5d-9373-fcddc0d2a3ae.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 7,
+   "line": "Management met FY26 growth and margin targets but FY27 promises remain unverified."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Mgmt said FY25‑26 revenue rose 16% to 27,480 cr; reported FY26 revenue 27,610 cr confirms claim."
+   },
+   {
+    "agree": false,
+    "point": "Mgmt promised FY27 EBITDA 21‑23% but Sep 2026 margin is 28%, higher than promised range."
+   },
+   {
+    "agree": false,
+    "point": "Mgmt highlighted strong order book (≈73,000 cr) yet no order‑inflow data to verify FY27 inflow targets."
+   }
+  ],
+  "bull": [
+   "FY26 revenue grew 16% YoY, beating 15% guidance.",
+   "FY26 EBITDA margin hit 29%, above 27% target.",
+   "Operating cash flow turned positive in FY26 (1,541 cr)."
+  ],
+  "bear": [
+   "FY27 EBITDA margin guidance (21‑23%) appears lower than current 28% trend.",
+   "Order‑inflow targets for FY27 lack any disclosed evidence.",
+   "Profit after tax growth slowed to 4.7% YoY in FY26."
+  ],
+  "watch": [
+   "FY27 order inflow actuals",
+   "FY27 EBITDA margin actual",
+   "QRSAM order realization"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 18370,
+   "out": 1206,
+   "secs": 4.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 17001,
+   "out": 1015,
+   "secs": 4.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 16944,
+   "out": 923,
+   "secs": 4.1,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 17563,
+   "out": 1071,
+   "secs": 3.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11760,
+   "out": 284,
+   "secs": 10.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 3485,
+   "out": 995,
+   "secs": 3.0,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 85123,
+  "tokens_out": 5494,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 36.4
+ }
+}

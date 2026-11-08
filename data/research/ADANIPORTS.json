@@ -1,0 +1,984 @@
+{
+ "symbol": "ADANIPORTS",
+ "name": "Adani Ports & Special Economic Zone Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:10:05",
+ "latest_call": "Jul 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 449111.0,
+   "pe": 32.5,
+   "roce": 14.1,
+   "roe": 16.4,
+   "ttm_revenue": 42603.0,
+   "ttm_pat": 13683.0,
+   "margin_latest_q": 60.0,
+   "de": 0.65,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 7964.0,
+    "rev_yoy": 15.1,
+    "op_profit": 4802.0,
+    "margin": 60.0,
+    "ebit_margin": 46.4,
+    "pat": 2518.0,
+    "pat_yoy": 14.0
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 8488.0,
+    "rev_yoy": 23.1,
+    "op_profit": 5006.0,
+    "margin": 59.0,
+    "ebit_margin": 45.0,
+    "pat": 3023.0,
+    "pat_yoy": 50.0
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 9126.0,
+    "rev_yoy": 20.7,
+    "op_profit": 5495.0,
+    "margin": 60.0,
+    "ebit_margin": 46.5,
+    "pat": 3311.0,
+    "pat_yoy": 6.6
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 9167.0,
+    "rev_yoy": 29.7,
+    "op_profit": 5340.0,
+    "margin": 58.0,
+    "ebit_margin": 44.5,
+    "pat": 3120.0,
+    "pat_yoy": 29.3
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 9705.0,
+    "rev_yoy": 21.9,
+    "op_profit": 5786.0,
+    "margin": 60.0,
+    "ebit_margin": 45.4,
+    "pat": 3043.0,
+    "pat_yoy": 20.8
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 10738.0,
+    "rev_yoy": 26.5,
+    "op_profit": 6020.0,
+    "margin": 56.0,
+    "ebit_margin": 41.0,
+    "pat": 3308.0,
+    "pat_yoy": 9.4
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 10821.0,
+    "rev_yoy": 18.6,
+    "op_profit": 6253.0,
+    "margin": 58.0,
+    "ebit_margin": 42.0,
+    "pat": 3650.0,
+    "pat_yoy": 10.2
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 11340.0,
+    "rev_yoy": 23.7,
+    "op_profit": 6807.0,
+    "margin": 60.0,
+    "ebit_margin": 44.9,
+    "pat": 3682.0,
+    "pat_yoy": 18.0
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 11873.0,
+    "op_profit": 5947.0,
+    "margin": 50.0,
+    "pat": 3785.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 12550.0,
+    "op_profit": 8688.0,
+    "margin": 69.0,
+    "pat": 5049.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 17119.0,
+    "op_profit": 9528.0,
+    "margin": 56.0,
+    "pat": 4953.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 20852.0,
+    "op_profit": 10947.0,
+    "margin": 52.0,
+    "pat": 5391.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 26711.0,
+    "op_profit": 15589.0,
+    "margin": 58.0,
+    "pat": 8104.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 30475.0,
+    "op_profit": 18421.0,
+    "margin": 60.0,
+    "pat": 11061.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 38736.0,
+    "op_profit": 22868.0,
+    "margin": 59.0,
+    "pat": 12782.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 22.9,
+   "rev_cagr_5y": 25.3,
+   "pat_cagr_3y": 33.3,
+   "pat_cagr_5y": 20.4,
+   "margin_change_3y_bps": 700
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 47935.0,
+    "equity": 41821.0,
+    "de": 1.15
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 53434.0,
+    "equity": 45389.0,
+    "de": 1.18
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 49470.0,
+    "equity": 52778.0,
+    "de": 0.94
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 51621.0,
+    "equity": 62269.0,
+    "de": 0.83
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 63566.0,
+    "equity": 95959.0,
+    "de": 0.66
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 65998.0,
+    "equity": 102240.0,
+    "de": 0.65
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     85.0
+    ],
+    [
+     "Mar 2022",
+     54.0
+    ],
+    [
+     "Mar 2023",
+     69.0
+    ],
+    [
+     "Mar 2024",
+     50.0
+    ],
+    [
+     "Mar 2025",
+     53.0
+    ],
+    [
+     "Mar 2026",
+     60.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     85.0
+    ],
+    [
+     "Mar 2022",
+     54.0
+    ],
+    [
+     "Mar 2023",
+     69.0
+    ],
+    [
+     "Mar 2024",
+     50.0
+    ],
+    [
+     "Mar 2025",
+     53.0
+    ],
+    [
+     "Mar 2026",
+     60.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -5.0
+    ],
+    [
+     "Mar 2022",
+     -85.0
+    ],
+    [
+     "Mar 2023",
+     -56.0
+    ],
+    [
+     "Mar 2024",
+     -101.0
+    ],
+    [
+     "Mar 2025",
+     -114.0
+    ],
+    [
+     "Mar 2026",
+     -33.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 7556.0,
+    "pat": 5049.0,
+    "fcf": 5208.0,
+    "conv": 1.5
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 10420.0,
+    "pat": 4953.0,
+    "fcf": 6774.0,
+    "conv": 2.1
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 11900.0,
+    "pat": 5391.0,
+    "fcf": 2962.0,
+    "conv": 2.21
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 15018.0,
+    "pat": 8104.0,
+    "fcf": 7628.0,
+    "conv": 1.85
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 17226.0,
+    "pat": 11061.0,
+    "fcf": 9228.0,
+    "conv": 1.56
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 20356.0,
+    "pat": 12782.0,
+    "fcf": 5074.0,
+    "conv": 1.59
+   }
+  ],
+  "cash_conv_5y": 1.77,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (33.3% vs 22.9%): operating leverage"
+   },
+   {
+    "tone": "good",
+    "text": "Operating margin up 700 bps over 3 years"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 177% of profit"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.adaniports.com/-/media/Project/Ports/Investor/Transcripts/Transcript-InvestecQ2--H1-FY26--Updated.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.adaniports.com/-/media/Project/Ports/Investor/Transcripts/Q3--9M-FY26-earnings-call-transcript-UPDATED.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.adaniports.com/-/media/project/ports/investor/transcripts/apsez-q4fy26-earnings-conference-call_transcript.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.adaniports.com/-/media/project/ports/investor/transcripts/transcript.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aaa81a60-9ae5-42c6-870c-2abb13d032bb.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Nov 2025",
+   "url": "https://www.adaniports.com/-/media/Project/Ports/Investor/Transcripts/Transcript-InvestecQ2--H1-FY26--Updated.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Deploy INR 75,000 crores in 5-year CAPEX plan",
+     "horizon": "5-year plan",
+     "low": 75000,
+     "high": 75000,
+     "unit": "cr",
+     "quote": "We continue to invest strategically in growth in line with our 5-year CAPEX plan of Rs 75,000 crores.",
+     "page": 3,
+     "speaker": "Ashwani Gupta",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Reach 1 billion metric ton capacity volume",
+     "horizon": "by 2030",
+     "low": 1.0,
+     "high": 1.0,
+     "unit": "units",
+     "quote": "We are extremely confident and hopeful to achieve the 1 billion metric ton.",
+     "page": 8,
+     "speaker": "Ashwani Gupta",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "debt",
+     "promise": "Maintain average net debt to EBITDA policy of 2.5x",
+     "horizon": "long-term",
+     "low": 2.5,
+     "high": 2.5,
+     "unit": "x",
+     "quote": "Our approach to leverage, we have said that we would like to actually have a policy of average net debt to EBITDA of 2.5x.",
+     "page": 8,
+     "speaker": "D. Muthukumaran",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "margin",
+     "promise": "International Ports EBITDA margin to reach 45% when stabilized",
+     "horizon": "long-term",
+     "low": 26,
+     "high": 45,
+     "unit": "%",
+     "quote": "We expect the EBITDA margin when all these operations are stabilized to go from 26% to somewhere between, around 45%.",
+     "page": 6,
+     "speaker": "D. Muthukumaran",
+     "verified": true,
+     "id": "g1.4"
+    },
+    {
+     "metric": "margin",
+     "promise": "Domestic Port EBITDA margins to remain in 75% to 77% range over long period",
+     "horizon": "long-term",
+     "low": 75,
+     "high": 77,
+     "unit": "%",
+     "quote": "we expect that to be somewhere in the region of 75% to 77% whenever we are able to, over a long period of time",
+     "page": 15,
+     "speaker": "D. Muthukumaran",
+     "verified": true,
+     "id": "g1.5"
+    },
+    {
+     "metric": "margin",
+     "promise": "Logistics business to give 40% to 45% margin on non-IFN and non-trucking",
+     "horizon": "over a period of time",
+     "low": 40,
+     "high": 45,
+     "unit": "%",
+     "quote": "we are talking about over a period of time, Logistics business to give 40% to 45% margin on the non-IFN and the non-trucking business.",
+     "page": 13,
+     "speaker": "D. Muthukumaran",
+     "verified": true,
+     "id": "g1.6"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered record quarter with revenue INR 9,167 crores, up 30%",
+     "quote": "Our Quarter 2 revenue hit INR 9,167 crores, up 30%. EBITDA at INR 5,550 crores, grew 27%, and the net profit was at INR 3,120 crores, up 29%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Marine revenue grew 237% to INR 641 crores in Q2 FY26",
+     "quote": "Marine revenue grew remarkably by 237% to INR 641 crores in Quarter 2 FY '26.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated ROCE increased to 16% in H1 FY26 from 15% in FY25",
+     "quote": "Consolidated ROCE increased to 16% in H1 FY '26 compared to 15% in FY '25",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Logistics revenue grew 79% to Rs 1,055 crores",
+     "quote": "The Logistics revenue grew to Rs 1,055 crores, up 79%.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Domestic ports volume growth and muted performance",
+     "quote": "We have seen while the overall Ports business has done well, but Domestic continues to be a little muted even if we see October numbers for that matter. So, just wanted to understand what's happening there.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "topic": "Volume bridge to 1 billion metric tons by FY30",
+     "quote": "if you can help us bridging today's volume versus the billion ton, because at least on my number, it becomes very difficult how you can maintain this leverage.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Gujarat portfolio concession renewal timeline for Mundra",
+     "quote": "any sense on the renewal of concession for your Gujarat portfolio, particularly in Mundra, because we have been hearing about it for the last few years, where do we stand in terms of timeline?",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and transparent regarding operational execution and financial growth."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.adaniports.com/-/media/Project/Ports/Investor/Transcripts/Q3--9M-FY26-earnings-call-transcript-UPDATED.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Reach FY29 5-year plan of INR65,500 crores revenue and INR36,500 crores EBITDA",
+     "horizon": "FY29",
+     "low": 36500,
+     "high": 36500,
+     "unit": "cr",
+     "quote": "our end of 5-year plan, where we said we will be doing INR65,500 crores of revenue and INR36,500 crores of EBITDA.",
+     "page": 3,
+     "speaker": "Ashwani Gupta",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "capex",
+     "promise": "Vizhinjam expansion capex until FY29 and payments until FY30",
+     "horizon": "FY30",
+     "low": null,
+     "high": null,
+     "unit": "cr",
+     "quote": "The capex will go on until FY29 and the payments will happen until FY30",
+     "page": 6,
+     "speaker": "D. Muthukumaran",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Target double-digit growth in Adani Logistics rail container volumes",
+     "horizon": "next 3, 4 years",
+     "low": 10,
+     "high": null,
+     "unit": "%",
+     "quote": "if I'm looking at Adani Logistics, in particular, we are targeting double-digit growth",
+     "page": 9,
+     "speaker": "Divij Taneja",
+     "verified": true,
+     "id": "g2.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Domestic ports delivered highest ever 9-month container share at 45.6%",
+     "quote": "The domestic ports delivered the highest ever 9-month container share at 45.6%, which is our main pillar of growth.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Leverage remains under check at 1.8x despite NQXT acquisition",
+     "quote": "we are still able to keep our leverage under a check of 1.8x, which means moving forward",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Revised guidance upward by INR800 crores",
+     "quote": "So with the operational excellence and the financial discipline, we have revised our guidance by INR800 crores.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Container volume growth and Mundra outlook",
+     "quote": "If I look at the continued volume growth for last 3 quarters, it's minus 3%, plus 4% and plus 6% at Mundra port.",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Impact of DFC on rail container volumes and business",
+     "quote": "Just wanted to hear your thoughts on how you are looking at the next 3, 4 years post DFC?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Thermal coal exposure and cargo mix",
+     "quote": "How is the company looking at sort of diversifying away from this exposure to coal?",
+     "page": 16,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, bullish, and transparent regarding operational execution, financial discipline, and meeting long-term targets."
+  },
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "Apr 2026",
+   "url": "https://www.adaniports.com/-/media/project/ports/investor/transcripts/apsez-q4fy26-earnings-conference-call_transcript.pdf",
+   "pages": 25,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Deliver twice the growth in 5 years with 20% return on capital at consolidated level",
+     "horizon": "next 5 years",
+     "low": null,
+     "high": null,
+     "unit": "%",
+     "quote": "our commitment, our promise is to deliver twice the growth in 5 years with a 20% return on capital at consolidated level.",
+     "page": 5,
+     "speaker": "Ashwani Gupta",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "debt",
+     "promise": "Hold net debt to EBITDA guidance at 2.5x over the next 5 years",
+     "horizon": "next 5 years",
+     "low": null,
+     "high": 2.5,
+     "unit": "x",
+     "quote": "So which means 2.5, we will hold it better than that. That's our plan for the next 5 years.",
+     "page": 14,
+     "speaker": "Krishna Menon",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "revenue",
+     "promise": "Grow at CAGR of 18% to 19% moving forward for next 5 years",
+     "horizon": "next 5 years",
+     "low": 18,
+     "high": 19,
+     "unit": "%",
+     "quote": "So with that story in mind, we keep the target of growing at CAGR of 18% to 19%.",
+     "page": 25,
+     "speaker": "Ashwani Gupta",
+     "verified": true,
+     "id": "g3.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "FY26 revenue grew 25%, EBITDA grew 20% and PAT grew 16%.",
+     "quote": "FY '26 revenue grew by 25%, EBITDA grew by 20% and PAT grew by 16%.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Domestic ports handled 451 million metric tons with 27.1% market share.",
+     "quote": "Domestic ports handled 451 million metric tons. Revenue and EBITDA grew by 13% and 14%, respectively, and the market share at 27.1%.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Logistics ROCE hit 10% in FY26.",
+     "quote": "we said that we will take 3 to 4 years to bring the return on capital employed on Logistics to double digit, but I think in FY '26 itself, we hit 10%.",
+     "page": 2,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Margins",
+     "quote": "So, is it like a one-off there? Or if you could just elaborate on that?",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "topic": "Volume and Capacity",
+     "quote": "Now, if we do the math, then out of the 1 billion capacity, is it really possible to kind of handle 850 million tons",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "topic": "Concession Extensions",
+     "quote": "Similarly, I mean, our largest port as well, concession is due at that time. So I wanted to check if there's some clarity on the modality on the extension of the concession agreements for ports in Gujarat or otherwise?",
+     "page": 11,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and conservative on macro headwinds while emphasizing long-term execution discipline."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.adaniports.com/-/media/project/ports/investor/transcripts/transcript.pdf",
+   "pages": 23,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Capex guidance maintained slightly ahead of guidance at this point.",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "It is actually slightly ahead of the guidance at this point.",
+     "page": 13,
+     "speaker": "Rahul Agarwal",
+     "verified": true,
+     "id": "g4.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Q1 FY27 revenue and EBITDA both grew 19% year-on-year.",
+     "quote": "Quarter 1 FY27, revenue and EBITDA both grew 19% year-on-year to INR10,821 crores and INR6,541 crores, respectively.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Domestic ports achieved 12% revenue and 11% EBITDA growth with 74% margin.",
+     "quote": "The domestic ports business remained a strong growth engine, delivering 12% revenue, 11% EBITDA jump, while maintaining an industry-leading EBITDA margin of 74%.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "International ports recorded 80% revenue growth and 256% EBITDA surge.",
+     "quote": "international ports... delivered record revenue of INR1,747 crores, up 80% year-on-year, while EBITDA surged 256%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Net debt-to-EBITDA remains healthy at 1.9x.",
+     "quote": "Despite sustaining a high-growth trajectory, net debt-to-EBITDA remains healthy at 1.9x.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Acquisition of ABP U.K. port",
+     "quote": "So there have been news articles floating today on the acquisition of ABP U.K. port. So just any comment on there?",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "topic": "Domestic volume and Krishnapatnam degrowth",
+     "quote": "So domestic volumes still kind of continue to be muted. So ideally this number could have been much better... specifically, I think Krishnapatnam has seen a big degrowth",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "topic": "Logistics top-line growth and volume trends",
+     "quote": "And even in the Logistics business, if you can highlight what's been on the volume side, because there also we have seen pretty strong volumes coming off.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and disciplined regarding capital allocation and international expansion."
+  }
+ ],
+ "business": {
+  "what_it_does": "Operates ports, provides logistics services, and develops special economic zones.",
+  "segments": [
+   {
+    "name": "Port and SEZ activities",
+    "revenue": 33532.0,
+    "unit": "crore",
+    "what": "Port operation services, logistics services, and special economic zone development.",
+    "page": 374,
+    "share_pct": 86
+   },
+   {
+    "name": "Others",
+    "revenue": 5438.6,
+    "unit": "crore",
+    "what": "Other business activities and services not classified under port and SEZ.",
+    "page": 374,
+    "share_pct": 14
+   }
+  ],
+  "mix_note": "There is no transaction with single external customer which amounts to 10% or more of the Group's revenue.",
+  "risks_mgmt_flags": [
+   "Exposure to movement in interest rate due to cash accumulation plan duration differences.",
+   "Foreign exchange rate fluctuations impacting return on equity and profit margins."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aaa81a60-9ae5-42c6-870c-2abb13d032bb.pdf",
+  "pages_read": [
+   13,
+   14,
+   188,
+   189,
+   277,
+   301,
+   303,
+   341,
+   346,
+   373,
+   374,
+   375
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.3",
+    "promise": "Maintain average net debt to EBITDA of 2.5x",
+    "made_in": "Q2 FY26",
+    "delivered": "Sep 2026 net debt 65,998 cr vs EBITDA 6,807 cr → ~9.7x; repeat in g3.2 also missed",
+    "verdict": "missed",
+    "checked_against": "Sep 2026 net debt/EBITDA",
+    "quote": "Our approach to leverage, we have said that we would like to actually have a policy of average net debt to EBITDA of 2.5x.",
+    "page": 8,
+    "verified": true,
+    "url": "https://www.adaniports.com/-/media/Project/Ports/Investor/Transcripts/Transcript-InvestecQ2--H1-FY26--Updated.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Capex guidance slightly ahead of guidance",
+    "made_in": "Q1 FY27",
+    "delivered": "Capex amount not disclosed in reported data",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "It is actually slightly ahead of the guidance at this point.",
+    "page": 13,
+    "verified": true,
+    "url": "https://www.adaniports.com/-/media/project/ports/investor/transcripts/transcript.pdf"
+   },
+   {
+    "ref": "g2.1",
+    "promise": "FY29 revenue INR 65,500 cr and EBITDA INR 36,500 cr",
+    "made_in": "Q3 FY26",
+    "delivered": "FY26 revenue INR 38,736 cr and EBITDA INR 22,868 cr; target beyond current horizon",
+    "verdict": "too_early",
+    "checked_against": "FY26 revenue and EBITDA",
+    "quote": "our end of 5-year plan, where we said we will be doing INR65,500 crores of revenue and INR36,500 crores of EBITDA.",
+    "page": 3,
+    "verified": true,
+    "url": "https://www.adaniports.com/-/media/Project/Ports/Investor/Transcripts/Q3--9M-FY26-earnings-call-transcript-UPDATED.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "Only one promise can be checked against reported numbers so far — too few to score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Management touted low leverage (1.8x) but reported net debt/EBITDA ~9.7x."
+   },
+   {
+    "agree": true,
+    "point": "FY26 revenue grew 27% vs claimed 25% growth."
+   },
+   {
+    "agree": true,
+    "point": "FY26 EBITDA grew 24% vs claimed 20% growth."
+   }
+  ],
+  "bull": [
+   "Revenue up 27% YoY to INR 38,736 cr shows strong top‑line momentum.",
+   "EBITDA up 24% YoY to INR 22,868 cr confirms operating leverage.",
+   "Operating cash flow rose to INR 20,356 cr, supporting cash conversion."
+  ],
+  "bear": [
+   "Net debt/EBITDA at ~9.7x far exceeds 2.5x policy, indicating high leverage.",
+   "PAT growth 15.6% falls short of the 16% claim, hinting margin pressure.",
+   "Debt‑to‑equity ratio rose to 0.65, higher than prior years, raising risk."
+  ],
+  "watch": [
+   "Quarterly net debt and EBITDA to see if leverage improves.",
+   "Capex spend trends for the 5‑year plan.",
+   "Domestic port volume trends toward 1 bn mt target."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14056,
+   "out": 1359,
+   "secs": 27.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 15210,
+   "out": 809,
+   "secs": 4.7,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 20236,
+   "out": 851,
+   "secs": 4.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 18078,
+   "out": 659,
+   "secs": 26.4,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12447,
+   "out": 243,
+   "secs": 2.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 3246,
+   "out": 1488,
+   "secs": 4.5,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 83273,
+  "tokens_out": 5409,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 78.7
+ }
+}

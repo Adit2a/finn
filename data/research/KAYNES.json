@@ -1,0 +1,975 @@
+{
+ "symbol": "KAYNES",
+ "name": "Kaynes Technology India Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T20:22:38",
+ "latest_call": "Aug 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 21955.0,
+   "pe": 63.2,
+   "roce": 12.7,
+   "roe": 8.69,
+   "ttm_revenue": 3899.0,
+   "ttm_pat": 346.0,
+   "margin_latest_q": 16.0,
+   "de": 0.19,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Sep 2024",
+    "revenue": 572.0,
+    "rev_yoy": 58.4,
+    "op_profit": 82.0,
+    "margin": 14.0,
+    "ebit_margin": 12.8,
+    "pat": 60.0,
+    "pat_yoy": 87.5
+   },
+   {
+    "q": "Dec 2024",
+    "revenue": 661.0,
+    "rev_yoy": 29.9,
+    "op_profit": 94.0,
+    "margin": 14.0,
+    "ebit_margin": 12.6,
+    "pat": 66.0,
+    "pat_yoy": 46.7
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 984.0,
+    "rev_yoy": 54.5,
+    "op_profit": 168.0,
+    "margin": 17.0,
+    "ebit_margin": 15.3,
+    "pat": 116.0,
+    "pat_yoy": 43.2
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 673.0,
+    "rev_yoy": 33.5,
+    "op_profit": 113.0,
+    "margin": 17.0,
+    "ebit_margin": 14.4,
+    "pat": 75.0,
+    "pat_yoy": 47.1
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 906.0,
+    "rev_yoy": 58.4,
+    "op_profit": 148.0,
+    "margin": 16.0,
+    "ebit_margin": 14.5,
+    "pat": 121.0,
+    "pat_yoy": 101.7
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 804.0,
+    "rev_yoy": 21.6,
+    "op_profit": 119.0,
+    "margin": 15.0,
+    "ebit_margin": 12.3,
+    "pat": 77.0,
+    "pat_yoy": 16.7
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 1243.0,
+    "rev_yoy": 26.3,
+    "op_profit": 194.0,
+    "margin": 16.0,
+    "ebit_margin": 11.3,
+    "pat": 91.0,
+    "pat_yoy": -21.6
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 946.0,
+    "rev_yoy": 40.6,
+    "op_profit": 148.0,
+    "margin": 16.0,
+    "ebit_margin": 11.7,
+    "pat": 56.0,
+    "pat_yoy": -25.3
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 368.0,
+    "op_profit": 43.0,
+    "margin": 12.0,
+    "pat": 9.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 420.0,
+    "op_profit": 42.0,
+    "margin": 10.0,
+    "pat": 10.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 706.0,
+    "op_profit": 95.0,
+    "margin": 13.0,
+    "pat": 42.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 1126.0,
+    "op_profit": 170.0,
+    "margin": 15.0,
+    "pat": 95.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 1805.0,
+    "op_profit": 257.0,
+    "margin": 14.0,
+    "pat": 183.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 2722.0,
+    "op_profit": 416.0,
+    "margin": 15.0,
+    "pat": 293.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 3626.0,
+    "op_profit": 578.0,
+    "margin": 16.0,
+    "pat": 364.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 47.7,
+   "rev_cagr_5y": 53.9,
+   "pat_cagr_3y": 56.5,
+   "pat_cagr_5y": 105.2,
+   "margin_change_3y_bps": 100
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2021",
+    "debt": 148.0,
+    "equity": 139.0,
+    "de": 1.06
+   },
+   {
+    "y": "Mar 2022",
+    "debt": 189.0,
+    "equity": 202.0,
+    "de": 0.94
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 155.0,
+    "equity": 959.0,
+    "de": 0.16
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 323.0,
+    "equity": 2487.0,
+    "de": 0.13
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 903.0,
+    "equity": 2840.0,
+    "de": 0.32
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 913.0,
+    "equity": 4748.0,
+    "de": 0.19
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     106.0
+    ],
+    [
+     "Mar 2022",
+     102.0
+    ],
+    [
+     "Mar 2023",
+     74.0
+    ],
+    [
+     "Mar 2024",
+     72.0
+    ],
+    [
+     "Mar 2025",
+     77.0
+    ],
+    [
+     "Mar 2026",
+     154.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     209.0
+    ],
+    [
+     "Mar 2022",
+     167.0
+    ],
+    [
+     "Mar 2023",
+     191.0
+    ],
+    [
+     "Mar 2024",
+     150.0
+    ],
+    [
+     "Mar 2025",
+     156.0
+    ],
+    [
+     "Mar 2026",
+     169.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     122.0
+    ],
+    [
+     "Mar 2022",
+     121.0
+    ],
+    [
+     "Mar 2023",
+     103.0
+    ],
+    [
+     "Mar 2024",
+     99.0
+    ],
+    [
+     "Mar 2025",
+     131.0
+    ],
+    [
+     "Mar 2026",
+     131.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     193.0
+    ],
+    [
+     "Mar 2022",
+     148.0
+    ],
+    [
+     "Mar 2023",
+     162.0
+    ],
+    [
+     "Mar 2024",
+     123.0
+    ],
+    [
+     "Mar 2025",
+     102.0
+    ],
+    [
+     "Mar 2026",
+     193.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     50.0
+    ],
+    [
+     "Mar 2022",
+     53.0
+    ],
+    [
+     "Mar 2023",
+     107.0
+    ],
+    [
+     "Mar 2024",
+     66.0
+    ],
+    [
+     "Mar 2025",
+     -7.0
+    ],
+    [
+     "Mar 2026",
+     133.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 28.0,
+    "pat": 10.0,
+    "fcf": 3.0,
+    "conv": 2.8
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 21.0,
+    "pat": 42.0,
+    "fcf": -21.0,
+    "conv": 0.5
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": -42.0,
+    "pat": 95.0,
+    "fcf": -100.0,
+    "conv": -0.44
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 88.0,
+    "pat": 183.0,
+    "fcf": -295.0,
+    "conv": 0.48
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": -82.0,
+    "pat": 293.0,
+    "fcf": -1031.0,
+    "conv": -0.28
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": -600.0,
+    "pat": 364.0,
+    "fcf": -1841.0,
+    "conv": -1.65
+   }
+  ],
+  "cash_conv_5y": -0.63,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (56.5% vs 47.7%): operating leverage"
+   },
+   {
+    "tone": "bad",
+    "text": "Only -63% of 5y profit showed up as operating cash"
+   },
+   {
+    "tone": "bad",
+    "text": "Borrowings 5.9x in 3 years (₹155 → ₹913 cr)"
+   },
+   {
+    "tone": "bad",
+    "text": "Cash cycle stretched by 70 days in 2 years (123 → 193)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d42ff5a9-4c9e-4163-ae33-ed915881baa4.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7fcb06f1-08f9-4ebd-a6ac-783e8abfda40.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c2aa16ac-08ab-430a-819a-833f94c09dde.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e8d82234-f369-467f-a76f-75bb2747aaa1.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7b3ec474-8dc9-46bc-bf3b-64d55d3b6c30.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Dec 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d42ff5a9-4c9e-4163-ae33-ed915881baa4.pdf",
+   "pages": 22,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "OSAT remaining balance of 10.3 billion funded through QIP, internal accruals, and transitory debt",
+     "horizon": "over five years",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "First balance requirement for OSAT INR10.3 billion will be funded through QIP and spent amount of about 3.8 billion and balance internal accruals capex spread over five years and some transitory debt.",
+     "page": 7,
+     "speaker": "Jairam Sampath",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "capex",
+     "promise": "PCB current plan includes capex of 14 billion with balance requirement 3.2 billion",
+     "horizon": "current plan",
+     "low": null,
+     "high": null,
+     "unit": "cr",
+     "quote": "Second thing is that with regard to PCB, the current plan includes only capex of 14 billion for which the balance requirement is 3.2 billion and up central government subsidy of about 3 billion.",
+     "page": 7,
+     "speaker": "Jairam Sampath",
+     "verified": true,
+     "id": "g1.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Iskraemeco second half FY25 net margin was 9% with INR5,327 million revenues and INR489 million PAT.",
+     "quote": "Now the H2 FY '25 net margin is only 9% actually, the revenues of INR5,327 million and PAT of INR489 million.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Working capital normalization measures are already underway and expected to show visible improvement going forward.",
+     "quote": "Working capital normalization measures are already underway and expected to show visible improvement going forward.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Three OSAT clients have been acquired and sample shipments have started.",
+     "quote": "we'll be happy to note that we have acquired three clients... the samples have been shipped out, so in some sense, technically, the commercial production has started.",
+     "page": 19,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Receivables and aging",
+     "quote": "And also, in Iskraemeco FY '25 statements, there was a INR45 crores sort of overdue or more than 1 year pending receivable.",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Accounting disclosures and errors",
+     "quote": "So, do you think there is something that structurally needs to change, one, in the way you manage things, and second, in the way you communicate things",
+     "page": 15,
+     "verified": true
+    }
+   ],
+   "tone": "Defensive yet reassuring, addressing observations directly while reaffirming strong growth drivers and execution momentum."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7fcb06f1-08f9-4ebd-a6ac-783e8abfda40.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "revenue",
+     "promise": "Reach $1 billion revenue by fiscal 2028",
+     "horizon": "FY28",
+     "low": 1000,
+     "high": 1000,
+     "unit": "USD",
+     "quote": "See, on the growth, what we have projected $1 billion, we are still sticking on to that",
+     "page": 9,
+     "speaker": "Ramesh Kunhikannan",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "debt",
+     "promise": "Consolidated operating cash flow will be positive by the end of the year",
+     "horizon": "FY26",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "So this year, you can expect at consol level, definitely a significant positive operating cash flow.",
+     "page": 14,
+     "speaker": "Jairam Sampath",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "capex",
+     "promise": "Spend approximately another INR400 crores of capex in the current year",
+     "horizon": "FY26",
+     "low": 400,
+     "high": 400,
+     "unit": "cr",
+     "quote": "So, you can take broadly in this year, maybe about another INR400-odd crores of capex will be spent.",
+     "page": 15,
+     "speaker": "Jairam Sampath",
+     "verified": true,
+     "id": "g2.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Total revenue for the 9-month period ended December '25 stood at INR23,837 million with 37% Y-o-Y growth",
+     "quote": "Our total revenue stood at INR23,837 million, reflecting a year-on-year growth of 37%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Operational EBITDA for the quarter was INR3,778 million with 55% growth and 15.9% margin",
+     "quote": "Operational EBITDA for the quarter was INR3,778 million, registering a growth of 55% over the same period last year. This translates into an EBITDA margin of 15.9%",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Pending order book stands at around INR90,000 million",
+     "quote": "We have an order book of around INR90,000 million, which is pending with us.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Profit after tax came in at INR2,726 million representing 11.4% PAT margin",
+     "quote": "Profit after tax came in at INR2,726 million, representing a PAT margin of 11.4%.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Revenue execution delays and lower growth relative to order book",
+     "quote": "the gap in terms of execution seems to have widened a bit in terms of the growth in the revenues. So, can you just talk us through some of these things?",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "topic": "Elevated working capital and receivable days",
+     "quote": "this quarter, the working capital was elevated even sequentially, about 23 days higher as compared to September '25. So firstly, what is the reason for this?",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Guidance cuts and project deferrals",
+     "quote": "last year also, we have guided INR3,000 crores of revenue and end up INR2,700 crores. And in the beginning of the year, we guided at INR4,400 crores, now we are targeting INR4,100 crores.",
+     "page": 11,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and reassuring, acknowledging near-term execution hurdles while firmly maintaining long-term strategic and revenue targets."
+  },
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c2aa16ac-08ab-430a-819a-833f94c09dde.pdf",
+   "pages": 20,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "revenue growth",
+     "promise": "Outgrow the market and double the market growth rate",
+     "horizon": "Future periods",
+     "low": null,
+     "high": null,
+     "unit": "x",
+     "quote": "we'll be outgrowing the market and we'll be doubling the market growth, so that our penetration is much more.",
+     "page": 8,
+     "speaker": "N. Muthukumar",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Increase NPD-led and value-added solutions to nearly 30% of total revenue",
+     "horizon": "Coming years",
+     "low": null,
+     "high": 30,
+     "unit": "%",
+     "quote": "our goal is to steadily increase the contribution of NPD-led and value-added solutions to nearly 30% of the total revenue in the coming years.",
+     "page": 6,
+     "speaker": "N. Muthukumar",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Reverse metering business working capital trend and be positive by end of year",
+     "horizon": "By end of the year",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "And by end of the year, we'll be positive. We have a very clear strategy quarter-on-quarter.",
+     "page": 13,
+     "speaker": "N. Muthukumar",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Rail business to grow by 20% to 25% this year",
+     "horizon": "This year",
+     "low": 20,
+     "high": 25,
+     "unit": "%",
+     "quote": "So rail business, I'm expecting this year to grow by around 20%, 25% because of these coming in.",
+     "page": 14,
+     "speaker": "Ramesh Kunhikannan",
+     "verified": true,
+     "id": "g3.4"
+    },
+    {
+     "metric": "revenue",
+     "promise": "PCB revenue of around 300 crores to 400 crores",
+     "horizon": "First year",
+     "low": 300,
+     "high": 400,
+     "unit": "cr",
+     "quote": "I'm sure and certain we will do a good number of PCB of around INR300 crores to INR400 crores",
+     "page": 19,
+     "speaker": "Ramesh Kunhikannan",
+     "verified": true,
+     "id": "g3.5"
+    },
+    {
+     "metric": "revenue",
+     "promise": "OSAT revenue of around 250 crores to 300 crores",
+     "horizon": "First year",
+     "low": 250,
+     "high": 300,
+     "unit": "cr",
+     "quote": "and OSAT of around INR250 crores to INR300 crores.",
+     "page": 19,
+     "speaker": "Ramesh Kunhikannan",
+     "verified": true,
+     "id": "g3.6"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated total revenue for FY26 stood at INR3,626.4 crores, up 33.2% YoY.",
+     "quote": "Our total revenue stood at INR3,626.4 crores, reflecting a year-on-year growth of 33.2%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Mysore facility crossed INR10,000 million in revenue during FY26.",
+     "quote": "our Mysore facility achieved a significant milestone by crossing INR10,000 million in revenue.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Stand-alone EMS business cash flow improved to over INR250 crores positive.",
+     "quote": "as a stand-alone EMS business, our cash flow was INR250 crores positive when compared to INR65 crores last year.",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "claim": "EV segment grew 28% despite a major customer dropping production.",
+     "quote": "you can see our growth in the EV segment this year is about 28% growth despite the fact that one of our largest customers in 2-wheelers has dropped the production significantly",
+     "page": 13,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Missed guidance and lack of forecast reliability",
+     "quote": "Sir, how should, as investors, we look at this guidance? And what is the sanctity of the guidance that we are providing, sir? Because there is a very vast variance between what was expected versus what is delivered, sir?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Severe negative operating cash flow and high receivables",
+     "quote": "Sir, OCF INR600 crores of negative, I think that is a bigger disappointment, especially when you kind of guided that you will be just about neutral or slightly negative, sir?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Confusion on smart meter subsidiary receivables and execution delays",
+     "quote": "Sorry to harp on it again and again on smart meter business, but the communication from your side seems to be very off since last 2, 3 quarters on smart meter business and has created a lot of confusion.",
+     "page": 17,
+     "verified": true
+    }
+   ],
+   "tone": "Defensive yet reassuring, acknowledging execution and guidance shortfalls while emphasizing strategic shifts and long-term prospects."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e8d82234-f369-467f-a76f-75bb2747aaa1.pdf",
+   "pages": 20,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "FY27 capex of INR300 crores for OSAT, INR300 crores for PCB, INR250 crores for EMS",
+     "horizon": "FY27",
+     "low": 850,
+     "high": 850,
+     "unit": "cr",
+     "quote": "We said we will be funding for this capex for this year is about INR300 crores for OSAT, INR300 crores for PCB, and about INR250 crores for EMS business. We are on track for that.",
+     "page": 16,
+     "speaker": "Dr. Muthukumar Narayanaswamy",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Achieve 2x the market growth in revenue for the year",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": "x",
+     "quote": "revenue growth, we have committed the 2x of the market growth... we are quite confident of achieving the twice the market growth.",
+     "page": 14,
+     "speaker": "Dr. Muthukumar Narayanaswamy",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "revenue",
+     "promise": "Full year revenue of INR450 to INR500 crores combined between OSAT and PCB",
+     "horizon": "FY27",
+     "low": 450,
+     "high": 500,
+     "unit": "cr",
+     "quote": "we have committed a full year revenue of totally INR500 crores between both, INR450 to INR500 crores, which is what we are targeting at this point in time, we are on the target.",
+     "page": 14,
+     "speaker": "Dr. Muthukumar Narayanaswamy",
+     "verified": true,
+     "id": "g4.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Total revenue stood at INR946 crores, reflecting 40% year-on-year growth driven by EMS.",
+     "quote": "Our total revenue stood at INR946 crores, reflecting an year-on-year growth of 40%, which is largely driven by EMS business.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "EBITDA for the quarter was INR147.6 crores with 15.6% margin and 31% year-on-year growth.",
+     "quote": "EBITDA for the quarter was INR147.6 crores, translating into an EBITDA margin of 15.6% and 31% year-on-year growth.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Standalone EMS business grew 53% year-on-year to INR639 crores.",
+     "quote": "As a stand-alone EMS business if you see, our growth is 53%, from INR480 crores of last year to this year of INR639 crores stand-alone EMS business.",
+     "page": 11,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Smart metering business working capital and receivables issues",
+     "quote": "any thought process does the management have to correct this strategic decision that we had taken 2 years back? Any views in terms of opportunities to divest this business in future?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Component cost inflation, inventory build-up and margin compression",
+     "connector": "",
+     "quote": "do you expect in the coming 9 months we will see the gross margin compression because of that?",
+     "page": 16,
+     "verified": true
+    }
+   ],
+   "tone": "Pragmatic and transparent, acknowledging supply chain challenges and balance sheet priorities while reaffirming growth targets."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company provides end-to-end electronics manufacturing, design, and assembly services.",
+  "segments": [
+   {
+    "name": "Electronics Manufacturing Services",
+    "revenue": null,
+    "unit": null,
+    "what": "Electronics manufacturing services sold to global original equipment manufacturers",
+    "page": 210
+   }
+  ],
+  "mix_note": "In India revenue is 32,752.70 Mn and outside India is 3,510.84 Mn for FY 2025-26.",
+  "risks_mgmt_flags": [
+   "Over-reliance on import of customer-referred parts and absence of reliable local sourcing partners",
+   "Trade barriers, tariff fluctuations, and concentrated geographic dependencies affecting essential materials"
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7b3ec474-8dc9-46bc-bf3b-64d55d3b6c30.pdf",
+  "pages_read": [
+   3,
+   4,
+   20,
+   47,
+   49,
+   50,
+   54,
+   186,
+   210,
+   211,
+   257,
+   280
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g2.2",
+    "promise": "Consolidated operating cash flow will be positive by end of FY26",
+    "made_in": "Q3 FY26 call",
+    "delivered": "Operating cash flow was -600 cr in FY26, negative, so missed",
+    "verdict": "missed",
+    "checked_against": "FY26 operating cash flow",
+    "quote": "So this year, you can expect at consol level, definitely a significant positive operating cash flow.",
+    "page": 14,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7fcb06f1-08f9-4ebd-a6ac-783e8abfda40.pdf"
+   },
+   {
+    "ref": "g4.3",
+    "promise": "Full year revenue of INR450-500 cr combined OSAT and PCB FY27",
+    "made_in": "Q1 FY27 call",
+    "delivered": "Q1 FY27 revenue 946 cr reported; full‑year not yet, so too early",
+    "verdict": "too_early",
+    "checked_against": "Q1 FY27 revenue",
+    "quote": "we have committed a full year revenue of totally INR500 crores between both, INR450 to INR500 crores, which is what we are targeting at this point in time, we are on the target.",
+    "page": 14,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e8d82234-f369-467f-a76f-75bb2747aaa1.pdf"
+   },
+   {
+    "ref": "g4.2",
+    "promise": "Achieve 2x market growth in revenue for FY27",
+    "made_in": "Q1 FY27 call",
+    "delivered": "Revenue growth not yet measurable; Q1 FY27 946 cr vs FY26 full‑year 3626 cr, too early",
+    "verdict": "too_early",
+    "checked_against": "Q1 FY27 revenue",
+    "quote": "revenue growth, we have committed the 2x of the market growth... we are quite confident of achieving the twice the market growth.",
+    "page": 14,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e8d82234-f369-467f-a76f-75bb2747aaa1.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "Only one promise can be checked against reported numbers so far — too few to score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Guidance promised positive cash flow but OCF was -600 cr in FY26."
+   },
+   {
+    "agree": false,
+    "point": "2x market‑growth claim for FY27 cannot be verified; Q1 FY27 revenue 946 cr vs FY26 full‑year 3626 cr."
+   },
+   {
+    "agree": true,
+    "point": "FY26 revenue of 3626 cr matches the stated 33.2% YoY increase."
+   }
+  ],
+  "bull": [
+   "FY26 revenue hit 3626 cr, a 33% YoY rise, showing strong top‑line momentum.",
+   "EBITDA margin rose to 16% in FY26, up from 14% in FY25.",
+   "Q1 FY27 quarter delivered 946 cr revenue, indicating continued growth."
+  ],
+  "bear": [
+   "Operating cash flow stayed deeply negative at -600 cr in FY26, missing the positive‑cash‑flow pledge.",
+   "Free cash flow was -1841 cr in FY26, highlighting cash‑conversion weakness.",
+   "Cash‑cycle stretched by 70 days, suggesting liquidity pressure."
+  ],
+  "watch": [
+   "Will FY27 achieve the INR450‑500 cr OSAT+PCB revenue target?",
+   "Will operating cash flow turn positive in FY27 as pledged?"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 16622,
+   "out": 687,
+   "secs": 3.0,
+   "cached": true
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13888,
+   "out": 964,
+   "secs": 4.0,
+   "cached": true
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 15036,
+   "out": 1320,
+   "secs": 4.5,
+   "cached": true
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14519,
+   "out": 903,
+   "secs": 3.9,
+   "cached": true
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 9924,
+   "out": 187,
+   "secs": 2.8,
+   "cached": true
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 3347,
+   "out": 2001,
+   "secs": 44.4,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 1,
+  "tokens_in": 73336,
+  "tokens_out": 6062,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 44.8
+ }
+}

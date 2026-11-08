@@ -1,0 +1,1130 @@
+{
+ "symbol": "HSCL",
+ "name": "Himadri Speciality Chemical Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T22:28:57",
+ "latest_call": "Oct 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 29068.0,
+   "pe": 34.0,
+   "roce": 22.1,
+   "roe": 17.8,
+   "ttm_revenue": 5595.0,
+   "ttm_pat": 859.0,
+   "margin_latest_q": 19.0,
+   "de": 0.23,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 1141.0,
+    "rev_yoy": 8.4,
+    "op_profit": 221.0,
+    "margin": 19.0,
+    "ebit_margin": 18.1,
+    "pat": 141.0,
+    "pat_yoy": 29.4
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 1135.0,
+    "rev_yoy": -3.6,
+    "op_profit": 233.0,
+    "margin": 21.0,
+    "ebit_margin": 19.3,
+    "pat": 155.0,
+    "pat_yoy": 34.8
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 1118.0,
+    "rev_yoy": -6.8,
+    "op_profit": 245.0,
+    "margin": 22.0,
+    "ebit_margin": 20.6,
+    "pat": 179.0,
+    "pat_yoy": 45.5
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 1071.0,
+    "rev_yoy": -5.8,
+    "op_profit": 233.0,
+    "margin": 22.0,
+    "ebit_margin": 20.2,
+    "pat": 176.0,
+    "pat_yoy": 29.4
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 1184.0,
+    "rev_yoy": 3.8,
+    "op_profit": 243.0,
+    "margin": 20.0,
+    "ebit_margin": 19.0,
+    "pat": 192.0,
+    "pat_yoy": 36.2
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 1288.0,
+    "rev_yoy": 13.5,
+    "op_profit": 242.0,
+    "margin": 19.0,
+    "ebit_margin": 17.3,
+    "pat": 208.0,
+    "pat_yoy": 34.2
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 1432.0,
+    "rev_yoy": 28.1,
+    "op_profit": 288.0,
+    "margin": 20.0,
+    "ebit_margin": 18.6,
+    "pat": 228.0,
+    "pat_yoy": 27.4
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 1691.0,
+    "rev_yoy": 57.9,
+    "op_profit": 315.0,
+    "margin": 19.0,
+    "ebit_margin": 17.3,
+    "pat": 231.0,
+    "pat_yoy": 31.2
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 1806.0,
+    "op_profit": 280.0,
+    "margin": 16.0,
+    "pat": 205.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 1679.0,
+    "op_profit": 131.0,
+    "margin": 8.0,
+    "pat": 47.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 2791.0,
+    "op_profit": 156.0,
+    "margin": 6.0,
+    "pat": 39.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 4172.0,
+    "op_profit": 399.0,
+    "margin": 10.0,
+    "pat": 216.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 4185.0,
+    "op_profit": 645.0,
+    "margin": 15.0,
+    "pat": 411.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 4613.0,
+    "op_profit": 854.0,
+    "margin": 19.0,
+    "pat": 555.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 4661.0,
+    "op_profit": 962.0,
+    "margin": 21.0,
+    "pat": 755.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 3.8,
+   "rev_cagr_5y": 22.7,
+   "pat_cagr_3y": 51.8,
+   "pat_cagr_5y": 74.2,
+   "margin_change_3y_bps": 1100
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 587.0,
+    "equity": 1868.0,
+    "de": 0.31
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 842.0,
+    "equity": 2280.0,
+    "de": 0.37
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 605.0,
+    "equity": 3045.0,
+    "de": 0.2
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 313.0,
+    "equity": 3721.0,
+    "de": 0.08
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 770.0,
+    "equity": 4706.0,
+    "de": 0.16
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 1160.0,
+    "equity": 5135.0,
+    "de": 0.23
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     100.0
+    ],
+    [
+     "Mar 2022",
+     66.0
+    ],
+    [
+     "Mar 2023",
+     44.0
+    ],
+    [
+     "Mar 2024",
+     57.0
+    ],
+    [
+     "Mar 2025",
+     50.0
+    ],
+    [
+     "Mar 2026",
+     55.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     100.0
+    ],
+    [
+     "Mar 2022",
+     125.0
+    ],
+    [
+     "Mar 2023",
+     61.0
+    ],
+    [
+     "Mar 2024",
+     85.0
+    ],
+    [
+     "Mar 2025",
+     68.0
+    ],
+    [
+     "Mar 2026",
+     96.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     45.0
+    ],
+    [
+     "Mar 2022",
+     127.0
+    ],
+    [
+     "Mar 2023",
+     39.0
+    ],
+    [
+     "Mar 2024",
+     69.0
+    ],
+    [
+     "Mar 2025",
+     28.0
+    ],
+    [
+     "Mar 2026",
+     47.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     155.0
+    ],
+    [
+     "Mar 2022",
+     65.0
+    ],
+    [
+     "Mar 2023",
+     66.0
+    ],
+    [
+     "Mar 2024",
+     73.0
+    ],
+    [
+     "Mar 2025",
+     90.0
+    ],
+    [
+     "Mar 2026",
+     103.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     15.0
+    ],
+    [
+     "Mar 2022",
+     -1.0
+    ],
+    [
+     "Mar 2023",
+     1.0
+    ],
+    [
+     "Mar 2024",
+     32.0
+    ],
+    [
+     "Mar 2025",
+     69.0
+    ],
+    [
+     "Mar 2026",
+     57.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": -40.0,
+    "pat": 47.0,
+    "fcf": -76.0,
+    "conv": -0.85
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 331.0,
+    "pat": 39.0,
+    "fcf": 308.0,
+    "conv": 8.49
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 54.0,
+    "pat": 216.0,
+    "fcf": -22.0,
+    "conv": 0.25
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 405.0,
+    "pat": 411.0,
+    "fcf": 352.0,
+    "conv": 0.99
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 447.0,
+    "pat": 555.0,
+    "fcf": 276.0,
+    "conv": 0.81
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 382.0,
+    "pat": 755.0,
+    "fcf": -63.0,
+    "conv": 0.51
+   }
+  ],
+  "cash_conv_5y": 0.82,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (51.8% vs 3.8%): operating leverage"
+   },
+   {
+    "tone": "good",
+    "text": "Operating margin up 1100 bps over 3 years"
+   },
+   {
+    "tone": "bad",
+    "text": "Borrowings 1.9x in 3 years (₹605 → ₹1,160 cr)"
+   },
+   {
+    "tone": "bad",
+    "text": "Cash cycle stretched by 30 days in 2 years (73 → 103)"
+   },
+   {
+    "tone": "good",
+    "text": "Revenue growth accelerating (4% → 14% → 28% → 58%)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1448ca83-4f42-4c4c-92fc-6ecb61d0192b.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d692690-5309-49f1-9328-33ae32723066.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aba2c1e9-bf26-4569-afee-2e8b196215cb.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a3c36537-38f2-4ff1-aff7-a71cbd5cda43.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8cbe5c4e-369b-466b-8197-fbebde03cb8c.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1448ca83-4f42-4c4c-92fc-6ecb61d0192b.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Double profit from FY25 to FY28 in 2 years",
+     "horizon": "FY28",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "with all these projects coming in, with new capacities coming in, value-added products coming in, we are confident that the profit will again double from FY '25 to FY '28, so in 2 years from now.",
+     "page": 8,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Reach 85% capacity utilization for speciality carbon next year",
+     "horizon": "next year",
+     "low": 85,
+     "high": 85,
+     "unit": "%",
+     "quote": "So for the next year, you can look at around 85% capacity utilization for speciality carbon.",
+     "page": 13,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "capex",
+     "promise": "Spend INR1,125 crores for Phase 1 cathode capacity",
+     "horizon": "Phase 1",
+     "low": 1125,
+     "high": 1125,
+     "unit": "cr",
+     "quote": "INR1,125 crores.",
+     "page": 16,
+     "speaker": "Anurag Choudhary",
+     "verified": false,
+     "id": "g1.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Started trial production of speciality carbon black expansion project achieving 130000 MT capacity",
+     "quote": "I am pleased to share that we have started trial production of speciality carbon black expansion project, a landmark achievement for Himadri.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "EcoVadis awarded Himadri the platinum medal for a second consecutive year",
+     "quote": "Our commitment to sustainability was once again reaffirmed as EcoVadis awarded Himadri the platinum medal for a second consecutive year",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Commissioned Mangalore port terminal delivering 3600 metric tons of liquid coal tar pitch",
+     "quote": "In coal tar pitch, we achieved a key milestone with the commissioning of a Mangalore port terminal, successfully delivering 3,600 metric tons of liquid coal tar pitch to the Middle East.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "EBITDA per ton sequential decline",
+     "quote": "in this particular quarter, when I did my calculations for EBITDA per ton, I have noticed that we've seen a decline on a sequential basis",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Other income jump",
+     "quote": "Second, I wanted to understand the sporadic increase in the total income -- in the other income, sorry. Other income has almost grown by 290% on a year-on-year basis.",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Cathode customer names",
+     "quote": "Sir, can you name some customers?",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic about long-term battery materials strategy and expanding high-value speciality product lines."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d692690-5309-49f1-9328-33ae32723066.pdf",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Double PAT in next three years to INR 1,100 plus crores in FY28",
+     "horizon": "FY28",
+     "low": 1100,
+     "high": null,
+     "unit": "cr",
+     "quote": "We have committed to double this PAT in next three years in FY28 to INR 1,100 plus crores.",
+     "page": 11,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission first milestone capacity of 2,000 metric tons of LFP cathode active material by Q3 FY27",
+     "horizon": "Q3 FY27",
+     "low": 2000,
+     "high": null,
+     "unit": "units",
+     "quote": "As part of this phased execution, the first milestone capacity of 2,000 metric tons is targeted for commissioning by Q3 FY27.",
+     "page": 4,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Achieve full Phase 1 LFP operations with 40,000 metric tons capacity in FY29",
+     "horizon": "FY29",
+     "low": 40000,
+     "high": null,
+     "unit": "units",
+     "quote": "with FY29 envisaged as the year for full Phase 1 operations.",
+     "page": 4,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission Sicona capacity expansion by Q2 FY27",
+     "horizon": "Q2 FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "with further capacity expansion currently underway and targeted for completion by Q2 FY27",
+     "page": 5,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g2.4"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission anthraquinone and carbazole project in Q2 FY27",
+     "horizon": "Q2 FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "anthraquinone and carbazole project is progressing as planned and expected to commission in Q2 FY27",
+     "page": 7,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g2.5"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Reach around INR 3,000 crores of top line from Birla Tyres business in next 4 years",
+     "horizon": "next 4 years",
+     "low": 3000,
+     "high": null,
+     "unit": "cr",
+     "quote": "we expect to be around INR 3,000 crores of top line from this business in next 4 years.",
+     "page": 11,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g2.6"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered highest ever consolidated EBITDA of INR 1,006 crores and PAT of INR 755 crores for FY26.",
+     "quote": "On a consolidated basis, EBITDA stood at INR 1,006 crores, PBT at INR1,001 crores and Profit after Tax at INR 755 crores",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Commissioned operation at first anode material manufacturing facility in Mahistikry with 200 metric tons capacity.",
+     "quote": "On 23rd April 2026, we successfully commissioned operation at our first anode material manufacturing facility in Mahistikry, West Bengal with an initial capacity of 200 metric tons per annum",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Commissioned additional 70,000 metric ton speciality carbon black facility taking total capacity to 130,000 metric tons.",
+     "quote": "we successfully commissioned an additional 70,000 metric ton speciality carbon black facility at Mahistikry, taking our total speciality carbon black capacity to 130,000 metric tons per annum",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Debottlenecked coal-tar pitch distillation capacity taking it to 600,000 metric tons per annum.",
+     "quote": "With the successful de-bottling of our coal-tar pitch distillation capacity, taking it to 600,000 metric tons per annum.",
+     "page": 6,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Anode capacity and revenue timeline",
+     "quote": "Can you tell us what will be the peak revenue potential from there, and how will the utilizations look like in FY '27?",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Forex volatility impact on other expenses",
+     "quote": "This significant jump in the other expenses is because of the forex loss. Is that correct? What is our hedging policy in that case?",
+     "page": 13,
+     "verified": true
+    },
+    {
+     "topic": "Decline in net cash and rise in standalone borrowings",
+     "quote": "standalone current borrowings also rose from INR 306 crores, INR 719 crores. Could you please walk me through the FY26 sources and uses?",
+     "page": 18,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, disciplined, and optimistic about long-term transformation and strategic execution."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aba2c1e9-bf26-4569-afee-2e8b196215cb.pdf",
+   "pages": 22,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Total capex of INR2,000 Crores expected with INR1,000 Crores this year and INR1,000 Crores next year",
+     "horizon": "next 2-3 years",
+     "low": null,
+     "high": null,
+     "unit": "cr",
+     "quote": "Out of this, we expect around INR1,000 Crores of capex happening this year and INR1,000 Crores next year.",
+     "page": 18,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission 200 MTPA Carbon Nanotube manufacturing facility in Q4FY27",
+     "horizon": "Q4 FY27",
+     "low": null,
+     "high": null,
+     "unit": "units",
+     "quote": "our upcoming 200 MTPA CNT manufacturing facility targeted for commissioning in Q4FY27",
+     "page": 4,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission initial 2,000 MTPA LFP cathode capacity in Q3FY27",
+     "horizon": "Q3 FY27",
+     "low": null,
+     "high": null,
+     "unit": "units",
+     "quote": "Our initial 2,000 MTPA capacity is expected to be commissioned in Q3FY27",
+     "page": 4,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission Phase 1 of 40,000 MTPA LFP expansion plan in FY28",
+     "horizon": "FY28",
+     "low": null,
+     "high": null,
+     "unit": "units",
+     "quote": "That will be operational in FY '28?",
+     "page": 12,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g3.4"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission Passenger Car Radial facility by FY28",
+     "horizon": "FY28",
+     "low": null,
+     "high": null,
+     "unit": "units",
+     "quote": "Birla Tyres' next strategic milestone is the commissioning of Passenger Car Radial (PCR) facility by FY28",
+     "page": 5,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g3.5"
+    },
+    {
+     "metric": "other",
+     "promise": "Achieve EBITDA breakeven and be cash positive in Birla Tyres this financial year",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We reach EBITDA breakeven in this financial year only. We will be cash positive.",
+     "page": 19,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g3.6"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenue stood at INR1,432 Crores with EBITDA at INR313 Crores and PAT at INR228 Crores",
+     "quote": "On a consolidated basis, revenue stood at INR 1,432 Crores. EBITDA was at INR313 Crores with a margin of 22% and profit after tax was INR228 Crores",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Successfully commissioned 200 MTPA anode material facility at Mahistikry in April 2026",
+     "quote": "On the anode side, we have commissioned our 200 MTPA anode material facility at Mahistikry in April 2026.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "LFP pricing and margins versus Chinese players",
+     "quote": "Just wanted to know from our workings, we arrived that we won't be making any money like we are arriving at a gross -- negative gross spread on this",
+     "page": 19,
+     "verified": true
+    },
+    {
+     "topic": "Forex losses and other expenses swing",
+     "quote": "My first question is regarding the big swing that we had seen in forex change from a profit to a loss this quarter. So what's driving it?",
+     "page": 18,
+     "verified": true
+    },
+    {
+     "topic": "Super speciality carbon black and technical differentiation",
+     "quote": "No, no. But I just want to understand like conductive grade, it helps in improving the conductivity in the material. What property does this super speciality adding in",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, disciplined, and focused on value addition and self-funded growth."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a3c36537-38f2-4ff1-aff7-a71cbd5cda43.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Achieve PAT of over INR 1,100 crores by FY28",
+     "horizon": "FY28",
+     "low": 1100,
+     "high": null,
+     "unit": "cr",
+     "quote": "We remain confident in achieving our previously guided target of INR 1,100 crores plus PAT by FY28.",
+     "page": 6,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "capex",
+     "promise": "Total capex spend of INR 800 crores to INR 900 crores in FY27",
+     "horizon": "FY27",
+     "low": 800,
+     "high": 900,
+     "unit": "cr",
+     "quote": "And we expect in this year to be around INR 800 crores to INR 900 crores of spend in total.",
+     "page": 8,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Maintain EBITDA per metric ton between 20,000 to 24,000",
+     "horizon": "upcoming quarters",
+     "low": 20000,
+     "high": 24000,
+     "unit": null,
+     "quote": "See, you should factor in EBITDA per metric ton from 20,000 to 24,000.",
+     "page": 11,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission 200 TPA Carbon Nanotube facility in Q4 FY27",
+     "horizon": "Q4 FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "Our 200 TPA Carbon Nanotube facility remains targeted for commissioning in Q4 FY27.",
+     "page": 3,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g4.4"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission 6,000 TPA Super Speciality Carbon Black capacity in Q4 FY28",
+     "horizon": "Q4 FY28",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "In Super Speciality Carbon Black, our planned 6,000 TPA capacity remains targeted for Q4 FY28.",
+     "page": 4,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g4.5"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission initial 2,000 TPA LFP cathode capacity in Q3 FY27",
+     "horizon": "Q3 FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "Our LFP cathode active materials roadmap is also progressing well with the initial 2,000 TPA capacity targeted for commissioning in Q3 FY27.",
+     "page": 4,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g4.6"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission 40,000 TPA LFP capacity next year",
+     "horizon": "next year",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "The progress in customer engagements together with strong visibility on future demand gives us confidence to move into the next phase of expansion with 40,000 TPA capacity planned for commissioning next year.",
+     "page": 4,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g4.7"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission full capacity 5,300 TPA anthraquinone and carbazole in Q4 FY27",
+     "horizon": "Q4 FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "In anthraquinone and carbazole, our in-house engineering team has enabled us to accelerate execution with full capacity 5,300 TPA now targeted for commissioning together in Q4 FY27.",
+     "page": 4,
+     "speaker": "Anurag Choudhary",
+     "verified": true,
+     "id": "g4.8"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "H1 FY27 revenue surpassed INR 3,000 crores, EBITDA exceeded INR 600 crores, and PAT crossed INR 450 crores.",
+     "quote": "For H1 FY27 on a consolidated basis, revenue surpassed INR 3,000 crores, EBITDA exceeded INR 600 crores and profit after tax crossed INR 450 crores.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Standalone Q2 FY27 revenue reached INR 1,543 crores, EBITDA INR 308 crores, and PAT INR 240 crores.",
+     "quote": "On a standalone basis, our revenue from operations for Q2 FY27 stood at INR 1,543 crores compared to INR 1,070 crores in Q2 FY26. EBITDA for the quarter came in at INR 308 crores... PAT stood at INR 240 crores",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated Q2 FY27 revenue was INR 1,691 crores, EBITDA INR 303 crores, and PAT INR 231 crores.",
+     "quote": "On a consolidated basis, revenue for Q2 FY27 stood at INR 1,691 crores versus INR 1,071 crores in the same period last year. EBITDA for Q2 FY27 stood at INR 303 crores... and PAT at INR 231 crores",
+     "page": 6,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Gross margin and EBITDA moderation",
+     "quote": "Firstly, what explains the sharp moderation in the gross margins during the quarter? Are there any one-offs? And when can we see the recovery?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Birla Tyres performance and breakeven",
+     "quote": "What was the revenue during the quarter? And are we on a track to attain breakeven during this year?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Sustainability of margins and realization trends",
+     "quote": "Should we take the current realisation as a base?",
+     "page": 15,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and transparent regarding strategic transformations and growth guidance."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company manufactures carbon materials and chemicals, power generation and distribution, and tyres.",
+  "segments": [
+   {
+    "name": "Carbon materials and chemicals",
+    "revenue": 436693.83,
+    "unit": "lakh",
+    "what": "Carbon materials and chemicals sold to customers",
+    "page": 504,
+    "share_pct": 94
+   },
+   {
+    "name": "Power",
+    "revenue": 1929.95,
+    "unit": "lakh",
+    "what": "Generation and distribution of electricity",
+    "page": 504,
+    "share_pct": 0
+   },
+   {
+    "name": "Others",
+    "revenue": 27446.09,
+    "unit": "lakh",
+    "what": "Mining and other business operations",
+    "page": 504,
+    "share_pct": 6
+   }
+  ],
+  "mix_note": "Revenue from nil customer of the Carbon material and chemical segment is nil which is more than 10 percent.",
+  "risks_mgmt_flags": [
+   "Probable claims arising out of disputes pending with sales tax authorities",
+   "Foreign exchange gain or loss net impacts profitability"
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8cbe5c4e-369b-466b-8197-fbebde03cb8c.pdf",
+  "pages_read": [
+   21,
+   47,
+   71,
+   74,
+   98,
+   405,
+   434,
+   489,
+   492,
+   503,
+   504,
+   505
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.3",
+    "promise": "Spend INR1,125 crores for Phase 1 cathode capacity",
+    "made_in": "Q3 FY26",
+    "delivered": "Capex guidance for FY27 is INR2,000 crores total, split INR1,000 crores each year, so Phase 1 spend not yet observable",
+    "verdict": "too_early",
+    "checked_against": "FY27 total capex guidance",
+    "quote": "INR1,125 crores.",
+    "page": 16,
+    "verified": false,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1448ca83-4f42-4c4c-92fc-6ecb61d0192b.pdf"
+   },
+   {
+    "ref": "g2.2",
+    "promise": "Commission 2,000 mt LFP cathode capacity by Q3 FY27",
+    "made_in": "Q4 FY26",
+    "delivered": "No capacity data reported for Q3 FY27; PAT rose to INR231 crores but LFP volume not disclosed",
+    "verdict": "too_early",
+    "checked_against": "Q3 FY27 PAT",
+    "quote": "As part of this phased execution, the first milestone capacity of 2,000 metric tons is targeted for commissioning by Q3 FY27.",
+    "page": 4,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d692690-5309-49f1-9328-33ae32723066.pdf"
+   },
+   {
+    "ref": "g4.2",
+    "promise": "Total capex spend INR800‑900 crores in FY27",
+    "made_in": "Q2 FY27",
+    "delivered": "Borrowings increased to INR1,160 crores, implying capex likely within range but not directly reported",
+    "verdict": "too_early",
+    "checked_against": "FY27 borrowings",
+    "quote": "And we expect in this year to be around INR 800 crores to INR 900 crores of spend in total.",
+    "page": 8,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a3c36537-38f2-4ff1-aff7-a71cbd5cda43.pdf"
+   },
+   {
+    "ref": "g2.1",
+    "promise": "Double PAT to INR1,100 crores by FY28",
+    "made_in": "Q4 FY26",
+    "delivered": "FY26 PAT reported INR755 crores; FY27 PAT not yet available, target still pending",
+    "verdict": "too_early",
+    "checked_against": "FY26 PAT",
+    "quote": "We have committed to double this PAT in next three years in FY28 to INR 1,100 plus crores.",
+    "page": 11,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d692690-5309-49f1-9328-33ae32723066.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "None of these promises can be checked against reported numbers yet — no score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Management touts double‑digit PAT growth but reported PAT only rose 27% YoY in FY26"
+   },
+   {
+    "agree": false,
+    "point": "Capex commitments exceed disclosed spending; borrowings rose but free cash flow turned negative"
+   },
+   {
+    "agree": true,
+    "point": "Revenue acceleration is evident: YoY growth jumped to 57.9% in Sep 2026"
+   }
+  ],
+  "bull": [
+   "Revenue YoY 57.9% in Sep 2026 shows strong top‑line momentum",
+   "EBITDA grew to INR315 crores in Sep 2026, confirming operating leverage",
+   "Borrowings remain modest at D/E 0.23, indicating capacity to fund capex"
+  ],
+  "bear": [
+   "PAT only 31% YoY in Sep 2026, far below the INR1,100 crore FY28 target",
+   "Free cash flow turned negative in FY26, raising cash‑flow concerns",
+   "EBITDA per ton guidance (20‑24k) not substantiated by disclosed margins"
+  ],
+  "watch": [
+   "FY27 full‑year PAT vs FY28 target",
+   "Actual capex spend versus INR2,000 crores plan",
+   "Commissioning of LFP and CNT facilities"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13670,
+   "out": 806,
+   "secs": 29.8,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12759,
+   "out": 1357,
+   "secs": 5.0,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 16096,
+   "out": 1164,
+   "secs": 4.1,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14278,
+   "out": 1618,
+   "secs": 13.3,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11343,
+   "out": 285,
+   "secs": 3.6,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 3880,
+   "out": 1719,
+   "secs": 4.7,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 1,
+  "tokens_in": 72026,
+  "tokens_out": 6949,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 6.0
+ }
+}

@@ -1,0 +1,1078 @@
+{
+ "symbol": "ULTRACEMCO",
+ "name": "UltraTech Cement Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:47:01",
+ "latest_call": "Oct 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 368466.0,
+   "pe": 41.4,
+   "roce": 12.7,
+   "roe": 11.1,
+   "ttm_revenue": 95572.0,
+   "ttm_pat": 8835.0,
+   "margin_latest_q": 16.0,
+   "de": 0.4,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 17779.0,
+    "rev_yoy": 6.2,
+    "op_profit": 2893.0,
+    "margin": 16.0,
+    "ebit_margin": 10.7,
+    "pat": 1363.0,
+    "pat_yoy": -23.2
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 23063.0,
+    "rev_yoy": 12.9,
+    "op_profit": 4608.0,
+    "margin": 20.0,
+    "ebit_margin": 15.1,
+    "pat": 2475.0,
+    "pat_yoy": 9.6
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 21275.0,
+    "rev_yoy": 13.1,
+    "op_profit": 4406.0,
+    "margin": 21.0,
+    "ebit_margin": 15.5,
+    "pat": 2221.0,
+    "pat_yoy": 48.8
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 19607.0,
+    "rev_yoy": 20.3,
+    "op_profit": 3089.0,
+    "margin": 16.0,
+    "ebit_margin": 9.9,
+    "pat": 1238.0,
+    "pat_yoy": 74.9
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 21830.0,
+    "rev_yoy": 22.8,
+    "op_profit": 3911.0,
+    "margin": 18.0,
+    "ebit_margin": 12.5,
+    "pat": 1729.0,
+    "pat_yoy": 26.9
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 25799.0,
+    "rev_yoy": 11.9,
+    "op_profit": 5599.0,
+    "margin": 22.0,
+    "ebit_margin": 17.0,
+    "pat": 3000.0,
+    "pat_yoy": 21.2
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 24648.0,
+    "rev_yoy": 15.9,
+    "op_profit": 5015.0,
+    "margin": 20.0,
+    "ebit_margin": 15.5,
+    "pat": 2604.0,
+    "pat_yoy": 17.2
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 23295.0,
+    "rev_yoy": 18.8,
+    "op_profit": 3719.0,
+    "margin": 16.0,
+    "ebit_margin": 10.8,
+    "pat": 1501.0,
+    "pat_yoy": 21.2
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 42430.0,
+    "op_profit": 9246.0,
+    "margin": 22.0,
+    "pat": 5751.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 44726.0,
+    "op_profit": 11568.0,
+    "margin": 26.0,
+    "pat": 5462.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 52599.0,
+    "op_profit": 11514.0,
+    "margin": 22.0,
+    "pat": 7334.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 63240.0,
+    "op_profit": 10620.0,
+    "margin": 17.0,
+    "pat": 5073.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 70908.0,
+    "op_profit": 12979.0,
+    "margin": 18.0,
+    "pat": 7004.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 75955.0,
+    "op_profit": 12547.0,
+    "margin": 17.0,
+    "pat": 6040.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 88512.0,
+    "op_profit": 17004.0,
+    "margin": 19.0,
+    "pat": 8188.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 11.9,
+   "rev_cagr_5y": 14.6,
+   "pat_cagr_3y": 17.3,
+   "pat_cagr_5y": 8.4,
+   "margin_change_3y_bps": 200
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 11299.0,
+    "equity": 50436.0,
+    "de": 0.22
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 11058.0,
+    "equity": 54325.0,
+    "de": 0.2
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 11403.0,
+    "equity": 60228.0,
+    "de": 0.19
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 24102.0,
+    "equity": 70707.0,
+    "de": 0.34
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 23755.0,
+    "equity": 76624.0,
+    "de": 0.31
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 29289.0,
+    "equity": 73588.0,
+    "de": 0.4
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     21.0
+    ],
+    [
+     "Mar 2022",
+     21.0
+    ],
+    [
+     "Mar 2023",
+     22.0
+    ],
+    [
+     "Mar 2024",
+     22.0
+    ],
+    [
+     "Mar 2025",
+     28.0
+    ],
+    [
+     "Mar 2026",
+     25.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     207.0
+    ],
+    [
+     "Mar 2022",
+     256.0
+    ],
+    [
+     "Mar 2023",
+     248.0
+    ],
+    [
+     "Mar 2024",
+     255.0
+    ],
+    [
+     "Mar 2025",
+     255.0
+    ],
+    [
+     "Mar 2026",
+     206.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     234.0
+    ],
+    [
+     "Mar 2022",
+     269.0
+    ],
+    [
+     "Mar 2023",
+     271.0
+    ],
+    [
+     "Mar 2024",
+     260.0
+    ],
+    [
+     "Mar 2025",
+     248.0
+    ],
+    [
+     "Mar 2026",
+     217.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     -6.0
+    ],
+    [
+     "Mar 2022",
+     9.0
+    ],
+    [
+     "Mar 2023",
+     -0.0
+    ],
+    [
+     "Mar 2024",
+     17.0
+    ],
+    [
+     "Mar 2025",
+     35.0
+    ],
+    [
+     "Mar 2026",
+     13.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -83.0
+    ],
+    [
+     "Mar 2022",
+     -56.0
+    ],
+    [
+     "Mar 2023",
+     -56.0
+    ],
+    [
+     "Mar 2024",
+     -52.0
+    ],
+    [
+     "Mar 2025",
+     -64.0
+    ],
+    [
+     "Mar 2026",
+     -57.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 12500.0,
+    "pat": 5462.0,
+    "fcf": 10662.0,
+    "conv": 2.29
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 9283.0,
+    "pat": 7334.0,
+    "fcf": 3677.0,
+    "conv": 1.27
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 9069.0,
+    "pat": 5073.0,
+    "fcf": 2963.0,
+    "conv": 1.79
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 10898.0,
+    "pat": 7004.0,
+    "fcf": 2013.0,
+    "conv": 1.56
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 10673.0,
+    "pat": 6040.0,
+    "fcf": 1723.0,
+    "conv": 1.77
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 15316.0,
+    "pat": 8188.0,
+    "fcf": 5805.0,
+    "conv": 1.87
+   }
+  ],
+  "cash_conv_5y": 1.64,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (17.3% vs 11.9%): operating leverage"
+   },
+   {
+    "tone": "good",
+    "text": "Operating margin up 200 bps over 3 years"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 164% of profit"
+   },
+   {
+    "tone": "bad",
+    "text": "Borrowings 2.6x in 3 years (₹11,403 → ₹29,289 cr)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2974562d-4ddc-4eab-bb39-5c69215eecc3.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4e6bf58-5985-4eda-b714-7489b4b926b0.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4fd54e8a-8de9-4547-8a4c-908568d1cd0e.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3892cb51-dbcd-43ad-955f-fe9fafe54003.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1551898a-ebd8-40be-960b-1b16f0a1af60.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2974562d-4ddc-4eab-bb39-5c69215eecc3.pdf",
+   "pages": 16,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "debt",
+     "promise": "Reach 0.8x to 0.9x net debt to EBITDA by end of fiscal year",
+     "horizon": "end of fiscal year",
+     "low": 0.8,
+     "high": 0.9,
+     "unit": "x",
+     "quote": "I believe and I'm very confident that we'll reach the mark of 1x and be in 0.8, 0.9x net debt EBITDA by the end of this fiscal year.",
+     "page": 5,
+     "speaker": "Atul Daga",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "orders",
+     "promise": "Launch cable and wires products in October-December 2026 quarter",
+     "horizon": "October-December '26 quarter",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "civil work has started, and we are on schedule to see the launch of our product in the October-December '26 quarter as was committed earlier.",
+     "page": 5,
+     "speaker": "Atul Daga",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "capex",
+     "promise": "Add approximately 8 to 9 million tons capacity in Q4",
+     "horizon": "Q4",
+     "low": 8,
+     "high": 9,
+     "unit": "units",
+     "quote": "So, we should have approximately 8 to 9 million tons more coming in this quarter.",
+     "page": 6,
+     "speaker": "Atul Daga",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "capex",
+     "promise": "Add 12 million tons capacity in fiscal '27",
+     "horizon": "fiscal '27",
+     "low": 12,
+     "high": 12,
+     "unit": "units",
+     "quote": "And the balance,12 million tons in fiscal '27 and then balance remaining will be in '28.",
+     "page": 6,
+     "speaker": "Atul Daga",
+     "verified": true,
+     "id": "g1.4"
+    },
+    {
+     "metric": "capex",
+     "promise": "Reach total capacity of 235 million tons by FY '28",
+     "horizon": "FY '28",
+     "low": 235,
+     "high": 235,
+     "unit": "units",
+     "quote": "235 by FY fiscal ' 28.",
+     "page": 12,
+     "speaker": "Atul Daga",
+     "verified": true,
+     "id": "g1.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Operating at more than 90% of existing installed capacity in January-March quarter",
+     "quote": "January-March quarter, God willing, we will operate at more than 90% of our existing installed capacity",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Kesoram brand conversion reached 69% in December '25",
+     "quote": "brand conversion at Kesoram having reached 69% in December '25.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Lead distance dropped to 363 kilometers and clinker conversion factor improved to 1.49",
+     "quote": "you would have noticed the lead distance has dropped to 363 kilometers. The clinker conversion factor has improved to 1.49.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "India Cements brand conversion crossed 58% at the end of December '25",
+     "quote": "India Cements has already crossed 58% at the end of December '25.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Pricing pressure and sustainability of price hikes",
+     "quote": "What do you think industry's stance will be in this kind of a high expansion scenario?",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Southern India volatile cement pricing dynamics",
+     "quote": "What in your view needs to change in industry dynamics in South for pricing to be more stable with upward bias?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "India Cements non-core asset sales and legal issues",
+     "quote": "Sir, third question on India Cements. Anything on non-core asset sale? And any thoughts on merger, basically simplifying the structure? Any time lines around that?",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, bullish, and highly optimistic about demand growth and operational efficiencies."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4e6bf58-5985-4eda-b714-7489b4b926b0.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Invest around 8,000 crores to 10,000 crores every year for the foreseeable future",
+     "horizon": "foreseeable future",
+     "low": 8000,
+     "high": 10000,
+     "unit": "cr",
+     "quote": "We see a plan of investing around INR8,000 crores to INR10,000 crores every year for the foreseeable future.",
+     "page": 5,
+     "speaker": "Atul Daga",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Sustainable volume growth of 7% to 8% per annum",
+     "horizon": "long-term",
+     "low": 7,
+     "high": 8,
+     "unit": "%",
+     "quote": "We expect a sustainable volume growth of 7% to 8% per annum.",
+     "page": 5,
+     "speaker": "Atul Daga",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Reach about 85% of power requirements from green energy by end of fiscal 2030",
+     "horizon": "FY2030",
+     "low": null,
+     "high": 85,
+     "unit": "%",
+     "quote": "We have committed to reach about 85% of our power requirements from green energy by the end of fiscal 2030",
+     "page": 4,
+     "speaker": "Atul Daga",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Add a further 37 million tons taking capacity over 242.5 million tons by fiscal 28",
+     "horizon": "FY28",
+     "low": null,
+     "high": 37,
+     "unit": "units",
+     "quote": "We have committed to add a further 37 million tons, which will take us over 242.5 million tons in a phased manner by fiscal '28.",
+     "page": 3,
+     "speaker": "Atul Daga",
+     "verified": true,
+     "id": "g2.4"
+    },
+    {
+     "metric": "debt",
+     "promise": "Maintain leverage below 1x year after year after meeting growth capex",
+     "horizon": "year after year",
+     "low": null,
+     "high": 1,
+     "unit": "x",
+     "quote": "We'll maintain our leverage below 1x year after year after meeting our growth capex.",
+     "page": 5,
+     "speaker": "Atul Daga",
+     "verified": true,
+     "id": "g2.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Crossed 200 million tons of cement production capacity in India",
+     "quote": "UltraTech crossed 200 million tons of cement production capacity in India, a first for any company in a single country outside of China.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Completed 100% brand migration for India Cements and Kesoram at end of March 26",
+     "quote": "Brand migration - 100% brand migration has been completed at the end of March '26.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated sales volumes crossed 44 million tons this quarter",
+     "quote": "Consolidated sales volumes, as you have already seen, has crossed a rocking 44 million tons this quarter.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "West Asia conflict impact and cost pressures",
+     "quote": "Sir, secondly, I'm just following up on the question from the previous participant on the Slide 6 where you speak about the impact of West Asia conflict.",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Cement price hikes versus other building materials",
+     "quote": "Sir, one question we keep on getting from investors over the last few months is that the other industries, industries like steel and agri and PVC has taken aggressive price hike in the face of cost pressures.",
+     "page": 14,
+     "verified": true
+    },
+    {
+     "topic": "Special dividend payout sustainability and balance sheet usage",
+     "quote": "So Satyadeep Jain: Yes. Thank you. Mr. Daga, just a follow-up question on the dividend. Heartening to see that special dividend.",
+     "page": 18,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, bullish, highly disciplined and transparent regarding integration and capital return."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4fd54e8a-8de9-4547-8a4c-908568d1cd0e.pdf",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Deploy INR17,000 crores capex in the next 2 to 2.5 years for capacity growth",
+     "horizon": "next 2 to 2.5 years",
+     "low": null,
+     "high": 17000,
+     "unit": "cr",
+     "quote": "Projects under execution for capacity growth are backed by a capex of about INR17,000 crores in the next 2 to 2.5 years.",
+     "page": 6,
+     "speaker": "Atul Daga",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "debt",
+     "promise": "End the year with net debt to EBITDA below 1x",
+     "horizon": "FY27",
+     "low": null,
+     "high": 1,
+     "unit": "x",
+     "quote": "Our belief is, and we are confident that this year also, we'll end the net debt to EBITDA below 1x.",
+     "page": 6,
+     "speaker": "Atul Daga",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Target double-digit volume growth this fiscal year",
+     "horizon": "FY27",
+     "low": 10,
+     "high": null,
+     "unit": "%",
+     "quote": "Yes, we are targeting double-digit volume growth this year.",
+     "page": 16,
+     "speaker": "Atul Daga",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Commission Cables and Wires product launch in Q3 fiscal 27",
+     "horizon": "Q3 fiscal '27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We reaffirm commissioning and product launch in Q3 fiscal '27, October - December '26 quarter, precisely as committed to you",
+     "page": 7,
+     "speaker": "Atul Daga",
+     "verified": true,
+     "id": "g3.4"
+    },
+    {
+     "metric": "margin",
+     "promise": "Reach INR1,000 per ton EBITDA for India Cements by Q4 fiscal 28",
+     "horizon": "Q4 fiscal '28",
+     "low": 1000,
+     "high": 1000,
+     "unit": null,
+     "quote": "an EBITDA of INR1,000 per ton for India Cements remains very much in sight with the full benefit of the capex program flowing through the P&L from Q4 fiscal '28.",
+     "page": 6,
+     "speaker": "Atul Daga",
+     "verified": true,
+     "id": "g3.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Achieved highest ever first quarter performance across volumes, revenues, EBITDA and profit.",
+     "quote": "Q1 was the highest ever first quarter performance for UltraTech across volumes, revenues, EBITDA and profit.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Domestic grey cement volume grew 13.1% in Q1.",
+     "quote": "Our domestic grey cement volumes growth of 13.1%, I believe will be well ahead of industry's growth, translating directly into market share gains.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Capacity utilization improved to 81% in Q1.",
+     "quote": "Capacity utilization was stronger at 81% as compared to 76%",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Completed 100% brand conversion for Kesoram and India Cements to UltraTech.",
+     "quote": "Interestingly, I'm very proud to tell you, we have converted the Kesoram and India Cements brands to 100% UltraTech.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Capital allocation priorities",
+     "quote": "So how do you think this growing cash flow will get utilized across dividends, cement capex? And is there any plan to scale up the cables and wires building material capex further?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Cost pressures and inflation",
+     "quote": "And I know things are still volatile, but any guidance for the next quarter that may come up in terms of cost?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Volume growth and pricing power sustainability",
+     "quote": "Now if we look at other large players, they are able to either prioritize volumes or they prioritize pricing. But in your case, despite your base, you have been gaining share on both sides.",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, bullish, consistent, and assertive regarding market dominance and delivery execution."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3892cb51-dbcd-43ad-955f-fe9fafe54003.pdf",
+   "pages": 17,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Maintain FY27 capex guidance at around INR10,000 crores",
+     "horizon": "FY27",
+     "low": 10000,
+     "high": 10000,
+     "unit": "cr",
+     "quote": "I will still stick to INR10,000, but it will be better to look at a full year number after the Q3 results. Plus minus INR10,000 crores.",
+     "page": 8,
+     "speaker": "Atul Daga",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "debt",
+     "promise": "Reduce net debt to EBITDA below 1x by end of March",
+     "horizon": "March 2027",
+     "low": null,
+     "high": 1,
+     "unit": "x",
+     "quote": "We are at 1.26x net debt EBITDA at the end of September '26. But by the end of March, I will be below 1x net debt to EBITDA.",
+     "page": 9,
+     "speaker": "Atul Daga",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Reach 240 million tons of cement capacity as planned without surprises",
+     "horizon": "FY27",
+     "low": 240,
+     "high": 240,
+     "unit": "units",
+     "quote": "We are on track to reach 240 million tons of capacity as planned without surprises.",
+     "page": 6,
+     "speaker": "K.C. Jhanwar",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "profit",
+     "promise": "Deliver INR1,400 EBITDA per ton by March 2028 vision",
+     "horizon": "March 2028",
+     "low": 1400,
+     "high": 1400,
+     "unit": "units",
+     "quote": "Business as usual is what my expectation is to deliver that INR1,400. If the cost pressures come in, they will get covered by price increases. So yes, we will deliver our commitment.",
+     "page": 14,
+     "speaker": "Atul Daga",
+     "verified": true,
+     "id": "g4.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Achieved 13.8% volume growth and 21% net profit increase this quarter.",
+     "quote": "As for UltraTech, despite increase in cost, the company has achieved an improvement in operating performance... and a 21% increase in net profit.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Commissioned 4.6 million tons of capacity in September taking domestic capacity to 204.7 million tons.",
+     "quote": "We commissioned 4.6 million tons of capacity in the month of September, taking our domestic cement capacity to 204.7 million tons",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Added 116 megawatts of renewable power and 10 megawatt of waste heat recovery during the quarter.",
+     "quote": "During the quarter, also added 116 megawatts of renewable power, 10 megawatt of waste heat recovery.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Fuel and variable cost inflation outlook",
+     "quote": "First, if we were to take spot costs across all front, fuel, industrial diesel, etcetera, what kind of variable cost inflation can we see in the second half from the current levels?",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Wires and Cables strategy and pricing",
+     "quote": "Second question on Ultravolt. Any change in strategy over there to enter into cables or broad consumer electrical segment? And how are we pricing the current wires versus the existing players?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Sustainability of INR1,400 EBITDA per ton target amidst cost inflation",
+     "quote": "We had a INR1,400 EBITDA per ton exit March '28 vision or guidance. Do we assume that it would be on hold until we see the peak of cost inflation behind us?",
+     "page": 14,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and optimistic about strong demand, pricing momentum, and cost management."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company manufactures, markets, and distributes building materials and provides building solutions and support services.",
+  "segments": [
+   {
+    "name": "Building Materials and Building Solutions",
+    "revenue": 87383.52,
+    "unit": "crore",
+    "what": "Building materials, solutions, and support services to customers.",
+    "page": 543,
+    "share_pct": 100
+   }
+  ],
+  "mix_note": "Revenue from India is 83,127.72 crore and others is 4,255.80 crore for the year ended March 31, 2026.",
+  "risks_mgmt_flags": [],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1551898a-ebd8-40be-960b-1b16f0a1af60.pdf",
+  "pages_read": [
+   48,
+   52,
+   207,
+   208,
+   210,
+   233,
+   234,
+   266,
+   267,
+   268,
+   269,
+   299
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Reach 0.8x to 0.9x net debt to EBITDA by end of fiscal year.",
+    "made_in": "Q3 FY26",
+    "delivered": "Reported net debt to EBITDA was 1.26x at September '26, missing the sub-1x expectation for the year.",
+    "verdict": "missed",
+    "checked_against": "Q2 FY27 call management statements",
+    "quote": "I believe and I'm very confident that we'll reach the mark of 1x and be in 0.8, 0.9x net debt EBITDA by the end of this fiscal year.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2974562d-4ddc-4eab-bb39-5c69215eecc3.pdf"
+   },
+   {
+    "ref": "g2.2",
+    "promise": "Sustainable volume growth of 7% to 8% per annum.",
+    "made_in": "Q4 FY26",
+    "delivered": "Achieved domestic grey cement volume growth of 13.1% in Q1 FY27 and overall volume growth of 13.8% in Q2 FY27.",
+    "verdict": "delivered",
+    "checked_against": "Q1 FY27 and Q2 FY27 management claims",
+    "quote": "We expect a sustainable volume growth of 7% to 8% per annum.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4e6bf58-5985-4eda-b714-7489b4b926b0.pdf"
+   },
+   {
+    "ref": "g3.3",
+    "promise": "Target double-digit volume growth this fiscal year.",
+    "made_in": "Q1 FY27",
+    "delivered": "Achieved 13.1% volume growth in Q1 and 13.8% in Q2 FY27, meeting the double-digit target.",
+    "verdict": "delivered",
+    "checked_against": "Q1 FY27 and Q2 FY27 management claims",
+    "quote": "Yes, we are targeting double-digit volume growth this year.",
+    "page": 16,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4fd54e8a-8de9-4547-8a4c-908568d1cd0e.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Maintain FY27 capex guidance at around INR10,000 crores.",
+    "made_in": "Q2 FY27",
+    "delivered": "Guidance was maintained at plus-minus INR10,000 crores pending Q3 results evaluation.",
+    "verdict": "delivered",
+    "checked_against": "Q2 FY27 call guidance",
+    "quote": "I will still stick to INR10,000, but it will be better to look at a full year number after the Q3 results. Plus minus INR10,000 crores.",
+    "page": 8,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3892cb51-dbcd-43ad-955f-fe9fafe54003.pdf"
+   },
+   {
+    "ref": "g1.2",
+    "promise": "Launch cable and wires products in October-December 2026 quarter.",
+    "made_in": "Q3 FY26",
+    "delivered": "Reaffirmed in Q1 FY27 for Q3 fiscal '27; pending final reporting of Q3 results.",
+    "verdict": "too_early",
+    "checked_against": "Q1 FY27 call guidance",
+    "quote": "civil work has started, and we are on schedule to see the launch of our product in the October-December '26 quarter as was committed earlier.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2974562d-4ddc-4eab-bb39-5c69215eecc3.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 6,
+   "line": "Management delivers volume targets and capex plans, but struggles to hit net debt to EBITDA reduction goals."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Management stated net debt to EBITDA would drop below 1x by March, but reported 1.26x at September '26."
+   },
+   {
+    "agree": true,
+    "point": "Reported financial data shows borrowings rose 2.6x from INR11,403 crores in Mar 2024 to INR29,289 crores in Sep 2026."
+   },
+   {
+    "agree": true,
+    "point": "Operating cash flow strength is supported by 5y cash conversion at 1.64x of profit."
+   }
+  ],
+  "bull": [
+   "Consolidated annual revenue grew to INR88,512 crores in FY26.",
+   "Strong 5-year operating cash flow conversion at 1.64x of profit.",
+   "Domestic grey cement volume grew 13.1% in Q1 FY27."
+  ],
+  "bear": [
+   "Borrowings increased significantly to INR29,289 crores in Sep 2026 from INR11,403 crores in Mar 2024.",
+   "Net debt to EBITDA stood at 1.26x in September '26, missing targets.",
+   "Equity decreased from INR76,624 crores in Mar 2026 to INR73,588 crores in Sep 2026."
+  ],
+  "watch": [
+   "Net debt to EBITDA ratio status in March 2027",
+   "Cables and wires product launch in Q3 FY27",
+   "Capex execution versus INR10,000 crores guidance"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11862,
+   "out": 1109,
+   "secs": 11.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14976,
+   "out": 1089,
+   "secs": 4.4,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13899,
+   "out": 1144,
+   "secs": 4.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13418,
+   "out": 1054,
+   "secs": 13.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 10734,
+   "out": 164,
+   "secs": 8.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 4070,
+   "out": 1042,
+   "secs": 11.2,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 68959,
+  "tokens_out": 5602,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 64.3
+ }
+}

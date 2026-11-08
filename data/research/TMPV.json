@@ -1,0 +1,1029 @@
+{
+ "symbol": "TMPV",
+ "name": "Tata Motors Passenger Vehicles Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:46:21",
+ "latest_call": "Aug 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 108759.0,
+   "pe": 109.0,
+   "roce": 2.73,
+   "roe": 75.7,
+   "ttm_revenue": 343703.0,
+   "ttm_pat": 79502.0,
+   "margin_latest_q": 6.0,
+   "de": 0.71,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Sep 2024",
+    "revenue": 83656.0,
+    "rev_yoy": -20.4,
+    "op_profit": 9914.0,
+    "margin": 12.0,
+    "ebit_margin": 5.3,
+    "pat": 3521.0,
+    "pat_yoy": -8.1
+   },
+   {
+    "q": "Dec 2024",
+    "revenue": 94472.0,
+    "rev_yoy": -14.6,
+    "op_profit": 10402.0,
+    "margin": 11.0,
+    "ebit_margin": 5.9,
+    "pat": 5484.0,
+    "pat_yoy": -23.2
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 98377.0,
+    "rev_yoy": -17.4,
+    "op_profit": 14387.0,
+    "margin": 15.0,
+    "ebit_margin": 9.8,
+    "pat": 8556.0,
+    "pat_yoy": -51.2
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 87677.0,
+    "rev_yoy": -18.1,
+    "op_profit": 8162.0,
+    "margin": 9.0,
+    "ebit_margin": 3.8,
+    "pat": 4003.0,
+    "pat_yoy": -62.2
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 72349.0,
+    "rev_yoy": -13.5,
+    "op_profit": -1404.0,
+    "margin": -1.9,
+    "ebit_margin": -8.7,
+    "pat": 76248.0,
+    "pat_yoy": 2065.5
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 70108.0,
+    "rev_yoy": -25.8,
+    "op_profit": 879.0,
+    "margin": 1.2,
+    "ebit_margin": -5.8,
+    "pat": -3483.0,
+    "pat_yoy": -163.5
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 105447.0,
+    "rev_yoy": 7.2,
+    "op_profit": 11259.0,
+    "margin": 11.0,
+    "ebit_margin": 5.8,
+    "pat": 5878.0,
+    "pat_yoy": -31.3
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 95799.0,
+    "rev_yoy": 9.3,
+    "op_profit": 6176.0,
+    "margin": 6.0,
+    "ebit_margin": 1.4,
+    "pat": 859.0,
+    "pat_yoy": -78.5
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 261068.0,
+    "op_profit": 17987.0,
+    "margin": 7.0,
+    "pat": -11975.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 249795.0,
+    "op_profit": 32287.0,
+    "margin": 13.0,
+    "pat": -13395.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 278454.0,
+    "op_profit": 24720.0,
+    "margin": 9.0,
+    "pat": -11309.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 345967.0,
+    "op_profit": 31816.0,
+    "margin": 9.0,
+    "pat": 2690.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 434016.0,
+    "op_profit": 57809.0,
+    "margin": 13.0,
+    "pat": 31807.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 366094.0,
+    "op_profit": 47993.0,
+    "margin": 13.0,
+    "pat": 28149.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 335582.0,
+    "op_profit": 18719.0,
+    "margin": 6.0,
+    "pat": 82645.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": -1.0,
+   "rev_cagr_5y": 6.1,
+   "pat_cagr_3y": 213.2,
+   "pat_cagr_5y": null,
+   "margin_change_3y_bps": -300
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2021",
+    "debt": 142131.0,
+    "equity": 55247.0,
+    "de": 2.57
+   },
+   {
+    "y": "Mar 2022",
+    "debt": 146449.0,
+    "equity": 44561.0,
+    "de": 3.29
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 134113.0,
+    "equity": 45322.0,
+    "de": 2.96
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 107264.0,
+    "equity": 84918.0,
+    "de": 1.26
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 71540.0,
+    "equity": 116144.0,
+    "de": 0.62
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 79109.0,
+    "equity": 112068.0,
+    "de": 0.71
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     19.0
+    ],
+    [
+     "Mar 2022",
+     16.0
+    ],
+    [
+     "Mar 2023",
+     17.0
+    ],
+    [
+     "Mar 2024",
+     14.0
+    ],
+    [
+     "Mar 2025",
+     13.0
+    ],
+    [
+     "Mar 2026",
+     14.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     83.0
+    ],
+    [
+     "Mar 2022",
+     71.0
+    ],
+    [
+     "Mar 2023",
+     66.0
+    ],
+    [
+     "Mar 2024",
+     64.0
+    ],
+    [
+     "Mar 2025",
+     78.0
+    ],
+    [
+     "Mar 2026",
+     85.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     175.0
+    ],
+    [
+     "Mar 2022",
+     141.0
+    ],
+    [
+     "Mar 2023",
+     128.0
+    ],
+    [
+     "Mar 2024",
+     126.0
+    ],
+    [
+     "Mar 2025",
+     160.0
+    ],
+    [
+     "Mar 2026",
+     158.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     -74.0
+    ],
+    [
+     "Mar 2022",
+     -53.0
+    ],
+    [
+     "Mar 2023",
+     -45.0
+    ],
+    [
+     "Mar 2024",
+     -48.0
+    ],
+    [
+     "Mar 2025",
+     -69.0
+    ],
+    [
+     "Mar 2026",
+     -59.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -112.0
+    ],
+    [
+     "Mar 2022",
+     -88.0
+    ],
+    [
+     "Mar 2023",
+     -63.0
+    ],
+    [
+     "Mar 2024",
+     -55.0
+    ],
+    [
+     "Mar 2025",
+     -75.0
+    ],
+    [
+     "Mar 2026",
+     -81.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 29001.0,
+    "pat": -13395.0,
+    "fcf": 9146.0,
+    "conv": null
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 14283.0,
+    "pat": -11309.0,
+    "fcf": -655.0,
+    "conv": null
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 35388.0,
+    "pat": 2690.0,
+    "fcf": 16443.0,
+    "conv": 13.16
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 67915.0,
+    "pat": 31807.0,
+    "fcf": 36732.0,
+    "conv": 2.14
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 63102.0,
+    "pat": 28149.0,
+    "fcf": 26034.0,
+    "conv": 2.24
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 13041.0,
+    "pat": 82645.0,
+    "fcf": -23195.0,
+    "conv": 0.16
+   }
+  ],
+  "cash_conv_5y": 1.45,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (213.2% vs -1.0%): operating leverage"
+   },
+   {
+    "tone": "bad",
+    "text": "Operating margin down 300 bps over 3 years"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 145% of profit"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e6684a03-5a4d-4c7a-8da0-d5b2c52ec7d1.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7907e958-7953-4b49-b831-aab03d6e2746.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4d386d7-de53-4409-8e90-187e08cb4a91.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6f83a2dd-6bd9-4455-9fc6-4659b5ded6f8.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e6684a03-5a4d-4c7a-8da0-d5b2c52ec7d1.pdf",
+   "pages": 16,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "FY26 EBIT to be in the range of 0% to 2% positive",
+     "horizon": "FY26",
+     "low": 0,
+     "high": 2,
+     "unit": "%",
+     "quote": "For the full year, we expect EBIT to be in the range of 0% to 2% positive, and free cash flow to be in a range of negative GBP 2.2 billion to negative GBP 2.5 billion.",
+     "page": 5,
+     "speaker": "Richard Molyneux",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "other",
+     "promise": "FY26 free cash flow in a range of negative GBP 2.2 billion to negative GBP 2.5 billion",
+     "horizon": "FY26",
+     "low": -2.2,
+     "high": -2.5,
+     "unit": "cr",
+     "quote": "For the full year, we expect EBIT to be in the range of 0% to 2% positive, and free cash flow to be in a range of negative GBP 2.2 billion to negative GBP 2.5 billion.",
+     "page": 5,
+     "speaker": "Richard Molyneux",
+     "verified": true,
+     "id": "g1.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "JLR Q2 revenues dropped 24% due to production loss from cyber incident.",
+     "quote": "With the loss of production for the entire month of September due to the cyber incident, the JLR revenues dropped by 24%",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "India domestic PV volumes grew 10% year-on-year for the quarter.",
+     "quote": "After a particularly weak Q1, the domestic PV business has seen a strong rebound in Q2. Volumes grew 10% year-on-year for the quarter.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Recorded a notional profit of ~Rs. 83,000 Cr on disposal of the CV undertaking.",
+     "quote": "we have recorded a profit of ~Rs. 83,000 Cr on disposal of the CV undertaking, which is essentially the fair value of the CV assets, less the book value of net assets transferred.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Full year FY25 PLI of Rs. 350 Cr received in cash from MHI this quarter.",
+     "quote": "I must also add that the PLI accrued for the full year FY 25 of Rs. 350 Cr has now been received in cash from MHI this quarter.",
+     "page": 6,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "JLR margin guidance and cyber impact",
+     "quote": "What is the Q3 build rate and can the management please guide on the full year volume range on which you're basing your margin guidance? And have the full cyber costs have been taken or more to come in Q3?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "U.S. tariffs and China luxury tax impact on margins",
+     "quote": "Do you think the U.S. tariff and China luxury tax has structurally brought down margins outlook?",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "India PV realizations and discount trends",
+     "quote": "Why was India PV realization down despite rising share of EV and CNG? What's your estimate for second half volume growth for industry and TMPV and how are discounts shaping up post festive?",
+     "page": 11,
+     "verified": true
+    }
+   ],
+   "tone": "Prankly transparent about operational challenges from cyber incidents and market headwinds while highlighting domestic resilience."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7907e958-7953-4b49-b831-aab03d6e2746.pdf",
+   "pages": 15,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Reconfirming guidance of greater than 0% EBIT for the balance of the year",
+     "horizon": "FY26",
+     "low": 0,
+     "high": null,
+     "unit": "%",
+     "quote": "we are reconﬁrming our guidance of greater than 0% EBIT",
+     "page": 5,
+     "speaker": "Richard Molyneux",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Free cash flow in the range of negative GBP 2.2 billion to negative GBP 2.5 billion for the year",
+     "horizon": "FY26",
+     "low": -2500000000,
+     "high": -2200000000,
+     "unit": "cr",
+     "quote": "free cash ﬂow in the range of negative GBP 2.2 billion to negative GBP 2.5 billion.",
+     "page": 5,
+     "speaker": "Richard Molyneux",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "capex",
+     "promise": "Capex guidance will be GBP 3.6 billion to GBP 3.7 billion",
+     "horizon": "FY26",
+     "low": 3600000000,
+     "high": 3700000000,
+     "unit": "cr",
+     "quote": "Capex guidance, I think, will be GBP 3.6 billion, GBP 3.7 billion from what I can see today.",
+     "page": 9,
+     "speaker": "Richard Molyneux",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "capex",
+     "promise": "End the year around Rs 4,200 Cr to Rs 4,300 Cr for total Capex investments",
+     "horizon": "FY26",
+     "low": 4200000000,
+     "high": 4300000000,
+     "unit": "cr",
+     "quote": "We expect to end the year somewhere around Rs. 4,200 Cr to Rs. 4,300 Cr for the full year.",
+     "page": 7,
+     "speaker": "Dhiman Gupta",
+     "verified": true,
+     "id": "g2.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenue came in at approximately Rs 70,000 Cr, down 26% year-on-year",
+     "quote": "Consolidated revenue came in at ~Rs. 70,000 Cr, 26% down year-on-year",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Crossed 2.5 lakh EVs on road in the domestic business",
+     "quote": "We also crossed 2.5 lakh EVs on road, that's another milestone.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Sierra secured 70,000 bookings on the first day",
+     "quote": "It secured 70,000 bookings on the ﬁrst day and continues to see strong booking momentum.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Achieved all-time high monthly sales of 71,000 units in January 2026",
+     "quote": "we achieved all-time high monthly sales of 71,000 units, reﬂecting a 47% year-on-year increase.",
+     "page": 6,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "JLR cash breakeven and net cash timeline",
+     "quote": "where is the breakeven in FCF for JLR in terms of wholesales per year? I believe it used to be around 325,000 units per year. Is that the case? How is your order book at the end of Q3?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "JLR gross margins and VME increase",
+     "quote": "JLR gross margins can you please explain the sharp improvement quarter-on-quarter, even high VME, what is the outlook on account of commodities and semiconductor prices?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "China luxury market competition and debt recovery",
+     "quote": "How do you see increasing competition from local brands in the luxury car segment? JLR debt has increased substantially due to operational disruptions. Do you expect to go back to net cash position in the next two-three quarters?",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "tone": "Cautious yet resilient, addressing severe cyber and tariff headwinds while highlighting strong domestic recovery."
+  },
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "Jun 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4d386d7-de53-4409-8e90-187e08cb4a91.pdf",
+   "pages": 14,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "Deliver GBP1.7 billion of savings over two years to bring breakeven volume down towards 300,000 units a year",
+     "horizon": "two years",
+     "low": 1.7,
+     "high": null,
+     "unit": "cr",
+     "quote": "Together, we're targeting GBP1.7 billion of savings over two years to bring our breakeven volume back down towards 300,000 units a year.",
+     "page": 5,
+     "speaker": "Richard Molyneux",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Target 70% to 100% export growth in FY27 depending on production ramp-up",
+     "horizon": "FY27",
+     "low": 70,
+     "high": 100,
+     "unit": "%",
+     "quote": "And this year also, we are targeting anywhere between 70% to 100% kind of a growth, depending on how we are able to ramp up our production",
+     "page": 14,
+     "speaker": "Shailesh Chandra",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Industry to grow around 10% in FY27",
+     "horizon": "FY27",
+     "low": 10,
+     "high": 10,
+     "unit": "%",
+     "quote": " industry will grow very strong, and I am pegging the number around 10%",
+     "page": 11,
+     "speaker": "Shailesh Chandra",
+     "verified": true,
+     "id": "g3.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenue reached ~Rs. 105,000 Cr for the quarter, up 7% year-on-year",
+     "quote": "Revenue comes in at ~Rs. 105,000 Cr for the quarter, up 7% year-on-year on the back of strong India growth story and the currency appreciation.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "PV business FCF for the quarter came in at about Rs. 1,700 Cr",
+     "quote": "FCF for the quarter came in at about Rs. 1,700 Cr, both from strong operating profits, favorable working capital, and we also had about Rs. 500 Cr benefit of tax refunds",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Full year FY26 JLR wholesales achieved 308,000 units",
+     "quote": "On a full year basis, on the bottom row, we achieved 308,000 wholesales with again, Defender, Range Rover and Range Rover Sport showing the strongest performance.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "TMPV closed FY26 with a record 6.42 lakh units, delivering over 15% growth year-on-year",
+     "quote": "We closed the year at a record 6.42 lakh units, delivering over 15% growth year-on-year, nearly twice the pace of the broader industry",
+     "page": 6,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Commodity headwinds and price increase plans",
+     "quote": "Could you give us a sense of what is the kind of commodity headwind that we have seen and we are likely to see and how we are thinking of passing it on?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "JLR ASPs and gross margins trending down",
+     "quote": "JLR ASPs trended down quarter-on-quarter, while the share of RR and Defender went up. If you could talk us through this. Also the gross margins went down quarter-on-quarter.",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "EV demand, profitability, and Middle East crisis impact",
+     "quote": "India EVs, can you talk about the demand environment? And how long-term are you thinking of EV profitability versus ICE?",
+     "page": 10,
+     "verified": true
+    }
+   ],
+   "tone": "Prudent and confident, addressing structural and geopolitical headwinds while emphasizing strong operational recovery and cost-out missions."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6f83a2dd-6bd9-4455-9fc6-4659b5ded6f8.pdf",
+   "pages": 14,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Targeting 12,000 cars this year on the EV space for FY27",
+     "horizon": "FY27",
+     "low": 12000,
+     "high": 12000,
+     "unit": "units",
+     "quote": "and therefore, as far as FY 27 is concerned, basis the production start that is planned, I think we are tentatively penciling about 12,000 cars this year on the EV space.",
+     "page": 14,
+     "speaker": "PB Balaji",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Setting a goal of 10% revenue growth per annum",
+     "horizon": "per annum",
+     "low": 10,
+     "high": 10,
+     "unit": "%",
+     "quote": "So we are setting a goal of 10% revenue growth per annum and focusing on the US market for a significant part of that.",
+     "page": 4,
+     "speaker": "Richard Molyneux",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "profit",
+     "promise": "Save $1.7 billion in ex-works cost, warranty, and fixed cost base",
+     "horizon": "medium term",
+     "low": 1.7,
+     "high": 1.7,
+     "unit": null,
+     "quote": "On costs, our focus is the ex-works cost of our cars, warranty, and our fixed cost base. And our intent is to save $1.7 billion in this space.",
+     "page": 4,
+     "speaker": "Richard Molyneux",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Formal and definitive agreement with Stellantis by end of year",
+     "horizon": "end of the year",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We signed an MoU a couple of months ago. We are aiming to get that to a formal and definitive agreement by the end of the year.",
+     "page": 13,
+     "speaker": "Richard Molyneux",
+     "verified": true,
+     "id": "g4.4"
+    },
+    {
+     "metric": "other",
+     "promise": "Launch Avinya product in 2027",
+     "horizon": "2027",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "And that is going to delay the project a bit, but in 2027, we should be able to launch the product.",
+     "page": 13,
+     "speaker": "Shailesh Chandra",
+     "verified": true,
+     "id": "g4.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "TMPV delivered revenues of Rs. 95,800 Cr with 2.4% EBIT margins and Rs. 1,600 Cr PBT.",
+     "quote": "TMPV delivered revenues of Rs. 95,800 Cr for the quarter, EBIT margins at 2.4%, and PBT for the quarter stood at Rs. 1,600 Cr, down on a year-on-year basis.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "India business revenues grew 65% year-on-year to Rs. 18,000 crores.",
+     "quote": "India business revenues at Rs.18,000 crores, grew 65% year-on-year, but the gains were nearly entirely offset by the steep commodity increases",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Delivered highest-ever EV volumes of over 34,000 units in the quarter.",
+     "quote": "Coming to our EV performance, we delivered our highest-ever volumes of over 34,000 units in the quarter and sustained market leadership position.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "JLR wholesales were down 10% year-over-year with revenue of GBP 6 billion.",
+     "quote": "Wholesales were down about 10% year-over-year... This drove revenue to GBP 6 billion with EBIT of 2.8%, a positive PBT of GBP 109 million",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Price increase sensitivity versus raw material costs",
+     "quote": "Despite such strong raw material headwinds, we've only taken a 1% price increase. Do you believe that customers are, what do you see the price sensitivity that customers had despite demand being so strong?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "JLR guidance and North America production localization",
+     "quote": "Has the JLR FY 27 guidance been dropped or does it still stand? And with the focus on North America, do you intend to localize some production or do we assume lower margins on any incremental volumes that you sell through?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Credit ratings and debt levels at JLR",
+     "quote": "what is the view that the credit rating agencies have on the credit rating, and what's the linkage to the overall cost of debt at JLR?",
+     "page": 14,
+     "verified": true
+    }
+   ],
+   "tone": "Cautiously optimistic, transparent about operational headwinds, and focused on cost actions and upcoming product launches."
+  }
+ ],
+ "business": {
+  "what_it_does": "The company develops, designs, manufactures, assembles, and sells passenger vehicles, parts, accessories, and provides related IT services.",
+  "segments": [
+   {
+    "name": "Tata and other brand vehicles",
+    "revenue": 58465,
+    "unit": "crore",
+    "what": "Passenger vehicles and related parts sold to customers",
+    "page": 269,
+    "share_pct": 17
+   },
+   {
+    "name": "Jaguar Land Rover",
+    "revenue": 273303,
+    "unit": "crore",
+    "what": "Luxury vehicles and related parts sold globally",
+    "page": 269,
+    "share_pct": 81
+   },
+   {
+    "name": "Others",
+    "revenue": 5513,
+    "unit": "crore",
+    "what": "Information technology services and insurance broking",
+    "page": 269,
+    "share_pct": 2
+   }
+  ],
+  "mix_note": "Jaguar Land Rover contributed 82.4% of total automotive revenue in FY26.",
+  "risks_mgmt_flags": [
+   "Production stoppages following cyber incident and Jaguar sunset affecting JLR revenues.",
+   "Introduction of incremental US trade tariffs affecting revenues.",
+   "Risks inherent in delivering the Reimagine strategy at JLR during EV transition investments."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
+  "pages_read": [
+   67,
+   167,
+   264,
+   265,
+   269,
+   270,
+   271,
+   388,
+   421,
+   422,
+   423,
+   509
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "FY26 EBIT to be in the range of 0% to 2% positive",
+    "made_in": "Q2 FY26 call",
+    "delivered": "Reported company-level EBIT% for Mar 2026 was 5.8% for the quarter and negative for the full year 2026 based on EBITDA of 18719.0 crore on revenue of 335582.0 crore.",
+    "verdict": "missed",
+    "checked_against": "Mar 2026 EBIT% and EBITDA",
+    "quote": "For the full year, we expect EBIT to be in the range of 0% to 2% positive, and free cash flow to be in a range of negative GBP 2.2 billion to negative GBP 2.5 billion.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e6684a03-5a4d-4c7a-8da0-d5b2c52ec7d1.pdf"
+   },
+   {
+    "ref": "g1.2",
+    "promise": "FY26 free cash flow in a range of negative GBP 2.2 billion to negative GBP 2.5 billion",
+    "made_in": "Q2 FY26 call",
+    "delivered": "Reported free cash flow for the year ended Mar 2026 was negative 23195.0 crore rupees (GBP values not reported in financials).",
+    "verdict": "missed",
+    "checked_against": "Mar 2026 free cash flow",
+    "quote": "For the full year, we expect EBIT to be in the range of 0% to 2% positive, and free cash flow to be in a range of negative GBP 2.2 billion to negative GBP 2.5 billion.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e6684a03-5a4d-4c7a-8da0-d5b2c52ec7d1.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "Deliver GBP1.7 billion of savings over two years to bring breakeven volume down towards 300,000 units",
+    "made_in": "Q4 FY26 call",
+    "delivered": "Still open with a two-year horizon; Q4 FY26 JLR wholesales were 308,000 units.",
+    "verdict": "too_early",
+    "checked_against": "Q4 FY26 JLR wholesales",
+    "quote": "Together, we're targeting GBP1.7 billion of savings over two years to bring our breakeven volume back down towards 300,000 units a year.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4d386d7-de53-4409-8e90-187e08cb4a91.pdf"
+   },
+   {
+    "ref": "g4.2",
+    "promise": "Setting a goal of 10% revenue growth per annum",
+    "made_in": "Q1 FY27 call",
+    "delivered": "Reported Jun 2026 revenue was 95799.0 crore, representing a 9.3% YoY growth, falling short of the 10% annual goal.",
+    "verdict": "missed",
+    "checked_against": "Jun 2026 Rev YoY%",
+    "quote": "So we are setting a goal of 10% revenue growth per annum and focusing on the US market for a significant part of that.",
+    "page": 4,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6f83a2dd-6bd9-4455-9fc6-4659b5ded6f8.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 3,
+   "line": "Management missed major FY26 guidance targets for EBIT and free cash flow and missed the Q1 FY27 revenue growth goal."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Management claimed consolidated revenue reached ~Rs. 105,000 Cr in Q4 FY26, whereas reported revenue was 105447.0 crore."
+   },
+   {
+    "agree": false,
+    "point": "Management guided for positive FY26 EBIT of 0% to 2%, but reported Mar 2026 full-year EBITDA was 18719.0 crore (6.0%)."
+   },
+   {
+    "agree": false,
+    "point": "Management claimed JLR revenue of GBP 6 billion in Q1 FY27, while reported company revenue was 95799.0 crore rupees."
+   }
+  ],
+  "bull": [
+   "Operating cash flow was 13041.0 crore for the year ended Mar 2026.",
+   "Reported Jun 2026 revenue grew 9.3% year-on-year to 95799.0 crore.",
+   "Debt-to-equity improved to 0.71 as of Mar 2026 compared to 1.26 in Mar 2024."
+  ],
+  "bear": [
+   "Free cash flow for the year ended Mar 2026 was negative 23195.0 crore.",
+   "Operating margin decreased by 300 bps over 3 years.",
+   "EBIT% dropped to 1.4% in Jun 2026 compared to 3.8% in Jun 2025."
+  ],
+  "watch": [
+   "Next quarter EBIT margin",
+   "Free cash flow generation",
+   "Debt levels"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14733,
+   "out": 889,
+   "secs": 5.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13591,
+   "out": 1134,
+   "secs": 10.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12749,
+   "out": 1029,
+   "secs": 4.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12758,
+   "out": 1293,
+   "secs": 5.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11792,
+   "out": 315,
+   "secs": 2.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 3928,
+   "out": 1010,
+   "secs": 3.7,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 69551,
+  "tokens_out": 5670,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 39.0
+ }
+}

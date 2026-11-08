@@ -1,0 +1,577 @@
+{
+ "symbol": "TRENT",
+ "name": "Trent Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T20:24:50",
+ "latest_call": null,
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 163248.0,
+   "pe": 85.2,
+   "roce": 28.3,
+   "roe": 27.7,
+   "ttm_revenue": 22001.0,
+   "ttm_pat": 1909.0,
+   "margin_latest_q": 18.0,
+   "de": 0.3,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 4657.0,
+    "rev_yoy": 34.3,
+    "op_profit": 847.0,
+    "margin": 18.0,
+    "ebit_margin": 12.9,
+    "pat": 497.0,
+    "pat_yoy": 34.0
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 4217.0,
+    "rev_yoy": 27.9,
+    "op_profit": 651.0,
+    "margin": 15.0,
+    "ebit_margin": 9.0,
+    "pat": 312.0,
+    "pat_yoy": -56.2
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 4883.0,
+    "rev_yoy": 19.0,
+    "op_profit": 848.0,
+    "margin": 17.0,
+    "ebit_margin": 11.4,
+    "pat": 425.0,
+    "pat_yoy": 8.7
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 4818.0,
+    "rev_yoy": 15.9,
+    "op_profit": 816.0,
+    "margin": 17.0,
+    "ebit_margin": 10.2,
+    "pat": 373.0,
+    "pat_yoy": 11.3
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 5345.0,
+    "rev_yoy": 14.8,
+    "op_profit": 1081.0,
+    "margin": 20.0,
+    "ebit_margin": 13.4,
+    "pat": 510.0,
+    "pat_yoy": 2.6
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 5028.0,
+    "rev_yoy": 19.2,
+    "op_profit": 911.0,
+    "margin": 18.0,
+    "ebit_margin": 10.6,
+    "pat": 413.0,
+    "pat_yoy": 32.4
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 5755.0,
+    "rev_yoy": 17.9,
+    "op_profit": 1119.0,
+    "margin": 19.0,
+    "ebit_margin": 12.3,
+    "pat": 518.0,
+    "pat_yoy": 21.9
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 5873.0,
+    "rev_yoy": 21.9,
+    "op_profit": 1057.0,
+    "margin": 18.0,
+    "ebit_margin": 10.8,
+    "pat": 468.0,
+    "pat_yoy": 25.5
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 3486.0,
+    "op_profit": 529.0,
+    "margin": 15.0,
+    "pat": 106.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 2593.0,
+    "op_profit": 114.0,
+    "margin": 4.4,
+    "pat": -181.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 4498.0,
+    "op_profit": 595.0,
+    "margin": 13.0,
+    "pat": 35.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 8242.0,
+    "op_profit": 1114.0,
+    "margin": 14.0,
+    "pat": 394.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 12375.0,
+    "op_profit": 1971.0,
+    "margin": 16.0,
+    "pat": 1477.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 17135.0,
+    "op_profit": 2820.0,
+    "margin": 16.0,
+    "pat": 1534.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 20074.0,
+    "op_profit": 3745.0,
+    "margin": 19.0,
+    "pat": 1721.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 34.5,
+   "rev_cagr_5y": 50.6,
+   "pat_cagr_3y": 63.5,
+   "pat_cagr_5y": null,
+   "margin_change_3y_bps": 500
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 4725.0,
+    "equity": 2364.0,
+    "de": 2.0
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 4464.0,
+    "equity": 2596.0,
+    "de": 1.72
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 1753.0,
+    "equity": 4068.0,
+    "de": 0.43
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 2237.0,
+    "equity": 5462.0,
+    "de": 0.41
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 2561.0,
+    "equity": 6985.0,
+    "de": 0.37
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 2328.0,
+    "equity": 7769.0,
+    "de": 0.3
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     3.0
+    ],
+    [
+     "Mar 2022",
+     1.0
+    ],
+    [
+     "Mar 2023",
+     2.0
+    ],
+    [
+     "Mar 2024",
+     2.0
+    ],
+    [
+     "Mar 2025",
+     1.0
+    ],
+    [
+     "Mar 2026",
+     1.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     102.0
+    ],
+    [
+     "Mar 2022",
+     128.0
+    ],
+    [
+     "Mar 2023",
+     105.0
+    ],
+    [
+     "Mar 2024",
+     83.0
+    ],
+    [
+     "Mar 2025",
+     77.0
+    ],
+    [
+     "Mar 2026",
+     74.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     65.0
+    ],
+    [
+     "Mar 2022",
+     56.0
+    ],
+    [
+     "Mar 2023",
+     51.0
+    ],
+    [
+     "Mar 2024",
+     41.0
+    ],
+    [
+     "Mar 2025",
+     35.0
+    ],
+    [
+     "Mar 2026",
+     39.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     40.0
+    ],
+    [
+     "Mar 2022",
+     74.0
+    ],
+    [
+     "Mar 2023",
+     55.0
+    ],
+    [
+     "Mar 2024",
+     45.0
+    ],
+    [
+     "Mar 2025",
+     43.0
+    ],
+    [
+     "Mar 2026",
+     36.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -14.0
+    ],
+    [
+     "Mar 2022",
+     42.0
+    ],
+    [
+     "Mar 2023",
+     29.0
+    ],
+    [
+     "Mar 2024",
+     16.0
+    ],
+    [
+     "Mar 2025",
+     15.0
+    ],
+    [
+     "Mar 2026",
+     -2.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 285.0,
+    "pat": -181.0,
+    "fcf": 194.0,
+    "conv": null
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 58.0,
+    "pat": 35.0,
+    "fcf": -152.0,
+    "conv": 1.66
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 595.0,
+    "pat": 394.0,
+    "fcf": 371.0,
+    "conv": 1.51
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 1349.0,
+    "pat": 1477.0,
+    "fcf": 955.0,
+    "conv": 0.91
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 1661.0,
+    "pat": 1534.0,
+    "fcf": 799.0,
+    "conv": 1.08
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 2668.0,
+    "pat": 1721.0,
+    "fcf": 931.0,
+    "conv": 1.55
+   }
+  ],
+  "cash_conv_5y": 1.23,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (63.5% vs 34.5%): operating leverage"
+   },
+   {
+    "tone": "good",
+    "text": "Operating margin up 500 bps over 3 years"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 123% of profit"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2025 (outlook)",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/305e1656-360b-4f28-b00d-fd6b152723b5.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c3f6fa4a-3c51-453e-b634-3c3ef98f7361.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "AR 2025",
+   "date": "2025",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/305e1656-360b-4f28-b00d-fd6b152723b5.pdf",
+   "pages": 237,
+   "scanned": false,
+   "source": "annual_report",
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "Replace fossil fuel energy with renewable energy by 50% intensity per sq ft by FY27",
+     "horizon": "FY 2026-27",
+     "low": null,
+     "high": 50,
+     "unit": "%",
+     "quote": "replace the use of fossil fuel-based energy with renewable energy by 50% of intensity per sq. ft. and reduce consumption by 10% per sq. ft.",
+     "page": 139,
+     "speaker": null,
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Reduce energy consumption by 10% per sq ft by FY27",
+     "horizon": "FY 2026-27",
+     "low": null,
+     "high": 10,
+     "unit": "%",
+     "quote": "replace the use of fossil fuel-based energy with renewable energy by 50% of intensity per sq. ft. and reduce consumption by 10% per sq. ft.",
+     "page": 139,
+     "speaker": null,
+     "verified": true,
+     "id": "g1.2"
+    }
+   ],
+   "claims": [],
+   "pushback": [],
+   "tone": "Confident and focused on sustainable growth, operational efficiency, brand expansion, and resource optimization."
+  }
+ ],
+ "business": {
+  "what_it_does": "Retail and trade merchandise predominantly in India.",
+  "segments": [
+   {
+    "name": "Retailing/trading of merchandise",
+    "revenue": null,
+    "unit": null,
+    "what": "Retailing and trading of merchandise to customers in India",
+    "page": 193
+   }
+  ],
+  "mix_note": "Single reportable business segment operating predominantly in India.",
+  "risks_mgmt_flags": [],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c3f6fa4a-3c51-453e-b634-3c3ef98f7361.pdf",
+  "pages_read": [
+   116,
+   123,
+   128,
+   157,
+   180,
+   193,
+   197,
+   202,
+   221,
+   232,
+   236,
+   241
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Replace fossil fuel energy with renewable energy by 50% intensity per sq ft by FY27",
+    "made_in": "AR 2025",
+    "delivered": "Energy intensity data not reported; cannot confirm achievement",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "replace the use of fossil fuel-based energy with renewable energy by 50% of intensity per sq. ft. and reduce consumption by 10% per sq. ft.",
+    "page": 139,
+    "verified": true,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/305e1656-360b-4f28-b00d-fd6b152723b5.pdf"
+   },
+   {
+    "ref": "g1.2",
+    "promise": "Reduce energy consumption by 10% per sq ft by FY27",
+    "made_in": "AR 2025",
+    "delivered": "Energy consumption data not reported; cannot confirm achievement",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "replace the use of fossil fuel-based energy with renewable energy by 50% of intensity per sq. ft. and reduce consumption by 10% per sq. ft.",
+    "page": 139,
+    "verified": true,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/305e1656-360b-4f28-b00d-fd6b152723b5.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "None of these promises can be checked against reported numbers yet — no score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Sustainability targets lack supporting data despite robust financial performance"
+   },
+   {
+    "agree": true,
+    "point": "Operating margin rose from 14% (Mar 2023) to 19% (Mar 2026), confirming operating leverage claim"
+   },
+   {
+    "agree": true,
+    "point": "Cash conversion ratio stayed above 1.0, matching cash‑flow strength narrative"
+   }
+  ],
+  "bull": [
+   "Revenue grew 21.9% YoY in Sep 2026 (₹5,873 cr)",
+   "EBITDA margin reached 19% in Mar 2026, up 500 bps over three years",
+   "Operating cash flow of ₹2,668 cr in Mar 2026 exceeds PAT of ₹1,721 cr (OCF/PAT 1.55)"
+  ],
+  "bear": [
+   "Profit growth (63.5% over 3y) outpaces revenue (34.5%), indicating rising leverage risk",
+   "Debt‑to‑Equity rose to 0.37 in Mar 2026 after a dip, showing borrowing rebounded",
+   "No disclosed energy metrics make sustainability promises unverifiable"
+  ],
+  "watch": [
+   "Energy intensity per sq ft in next quarter",
+   "Total renewable energy share by FY27",
+   "Debt level trend post‑Sep 2026"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 15159,
+   "out": 512,
+   "secs": 4.1,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12454,
+   "out": 113,
+   "secs": 2.1,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 1990,
+   "out": 1198,
+   "secs": 3.2,
+   "cached": true,
+   "fallback": false
+  }
+ ],
+ "promise_source": "annual_report",
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 3,
+  "fresh_calls": 0,
+  "tokens_in": 29603,
+  "tokens_out": 1823,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 0.9
+ }
+}

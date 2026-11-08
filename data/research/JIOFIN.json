@@ -1,0 +1,735 @@
+{
+ "symbol": "JIOFIN",
+ "name": "Jio Financial Services Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:26:58",
+ "latest_call": "Oct 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 158032.0,
+   "pe": 92.3,
+   "roce": 1.86,
+   "roe": 1.19,
+   "ttm_revenue": 5623.0,
+   "ttm_pat": 1712.0,
+   "margin_latest_q": 63.0,
+   "de": 0.32,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 438.0,
+    "rev_yoy": 5.8,
+    "op_profit": 313.0,
+    "margin": 71.0,
+    "ebit_margin": 70.1,
+    "pat": 295.0,
+    "pat_yoy": 0.3
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 493.0,
+    "rev_yoy": 17.9,
+    "op_profit": 338.0,
+    "margin": 69.0,
+    "ebit_margin": 67.3,
+    "pat": 316.0,
+    "pat_yoy": 1.6
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 612.0,
+    "rev_yoy": 46.4,
+    "op_profit": 457.0,
+    "margin": 75.0,
+    "ebit_margin": 73.7,
+    "pat": 325.0,
+    "pat_yoy": 3.8
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 981.0,
+    "rev_yoy": 41.4,
+    "op_profit": 688.0,
+    "margin": 70.0,
+    "ebit_margin": 69.3,
+    "pat": 695.0,
+    "pat_yoy": 0.9
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 901.0,
+    "rev_yoy": 105.7,
+    "op_profit": 555.0,
+    "margin": 62.0,
+    "ebit_margin": 60.7,
+    "pat": 269.0,
+    "pat_yoy": -8.8
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 1019.0,
+    "rev_yoy": 106.7,
+    "op_profit": 605.0,
+    "margin": 59.0,
+    "ebit_margin": 58.6,
+    "pat": 272.0,
+    "pat_yoy": -13.9
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 2004.0,
+    "rev_yoy": 227.5,
+    "op_profit": 1397.0,
+    "margin": 70.0,
+    "ebit_margin": 69.3,
+    "pat": 830.0,
+    "pat_yoy": 155.4
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 1699.0,
+    "rev_yoy": 73.2,
+    "op_profit": 1078.0,
+    "margin": 63.0,
+    "ebit_margin": 62.8,
+    "pat": 340.0,
+    "pat_yoy": -51.1
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2023",
+    "revenue": 45.0,
+    "op_profit": 39.0,
+    "margin": 88.0,
+    "pat": 31.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 1855.0,
+    "op_profit": 1559.0,
+    "margin": 84.0,
+    "pat": 1605.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 2043.0,
+    "op_profit": 1549.0,
+    "margin": 76.0,
+    "pat": 1613.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 3521.0,
+    "op_profit": 2312.0,
+    "margin": 66.0,
+    "pat": 1561.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 327.7,
+   "rev_cagr_5y": null,
+   "pat_cagr_3y": 269.3,
+   "pat_cagr_5y": null,
+   "margin_change_3y_bps": -2200
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2023",
+    "debt": 743.0,
+    "equity": 114120.0,
+    "de": 0.01
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 0.0,
+    "equity": 139147.0,
+    "de": 0.0
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 3970.0,
+    "equity": 123496.0,
+    "de": 0.03
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 21768.0,
+    "equity": 133853.0,
+    "de": 0.16
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 41325.0,
+    "equity": 129595.0,
+    "de": 0.32
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2023",
+     113.0
+    ],
+    [
+     "Mar 2024",
+     3.0
+    ],
+    [
+     "Mar 2025",
+     3.0
+    ],
+    [
+     "Mar 2026",
+     6.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2023",
+     113.0
+    ],
+    [
+     "Mar 2024",
+     3.0
+    ],
+    [
+     "Mar 2025",
+     3.0
+    ],
+    [
+     "Mar 2026",
+     6.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2023",
+     3644.0
+    ],
+    [
+     "Mar 2024",
+     21.0
+    ],
+    [
+     "Mar 2025",
+     -37.0
+    ],
+    [
+     "Mar 2026",
+     -112.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2023",
+    "cfo": 2055.0,
+    "pat": 31.0,
+    "fcf": 2055.0,
+    "conv": 66.29
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": -678.0,
+    "pat": 1605.0,
+    "fcf": -678.0,
+    "conv": -0.42
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": -10089.0,
+    "pat": 1613.0,
+    "fcf": -10089.0,
+    "conv": -6.25
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": -15439.0,
+    "pat": 1561.0,
+    "fcf": -15439.0,
+    "conv": -9.89
+   }
+  ],
+  "cash_conv_5y": -5.02,
+  "flags": [
+   {
+    "tone": "bad",
+    "text": "Profit lagging sales over 3y (269.3% vs 327.7%): margins under pressure"
+   },
+   {
+    "tone": "bad",
+    "text": "Operating margin down 2200 bps over 3 years"
+   },
+   {
+    "tone": "bad",
+    "text": "Only -502% of 5y profit showed up as operating cash"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d7e4dcc-8aed-46e8-aa65-15d3eb5e94ee.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=acc63602-ca98-4278-945c-05825e6f7118.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c18cc26c-af73-4c98-bb2f-500c896112ce.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ce63e3-07d3-4b0b-988b-53f339356094.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/158fc548-0512-416f-9667-89ca35117647.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d7e4dcc-8aed-46e8-aa65-15d3eb5e94ee.pdf",
+   "pages": 15,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "Expand repository by integrating more digital-first, third-party products over the next few quarters.",
+     "horizon": "next few quarters",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "Over the next few quarters, we will continue to expand this repository by integrating more digital-first, third-party products.",
+     "page": 5,
+     "speaker": "Mr. Hitesh Sethia",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Launch the Sector Rotation Fund shortly.",
+     "horizon": "shortly",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "In terms of the pipeline of new products, we will be launching the Sector Rotation Fund shortly and we have filed an application with SEBI for a Specialized Investment Fund.",
+     "page": 11,
+     "speaker": "Mr. Hitesh Sethia",
+     "verified": true,
+     "id": "g1.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Jio Credit AUM reached over Rs. 19,000 crore with 4.5x year-on-year growth.",
+     "quote": "Our lending business, Jio Credit has achieved significant scale, with the Assets Under Management reaching over Rs. 19,000 crore, a 4.5x year-on-year growth in the assets.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated Total Income doubled year-on-year to around Rs. 900 crore.",
+     "quote": "Our Consolidated Total Income for the quarter doubled year-on-year to around Rs. 900 crore, and our Pre-Provisioning Operating Profit, excluding dividend income, stood at Rs. 354 crore.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "JioBlackRock AMC reached around Rs. 15,000 crore AUM across 10 funds within six months.",
+     "quote": "Within just six months of the launch, we have brought 10 funds to the market across cash, debt, and equity categories. Assets Under Management in this business stood at around Rs. 15,000 crore.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Unique user base crossed 20 million users across all digital properties.",
+     "quote": "I am very pleased to report that we now have a unique user base of over 20 million users across all our digital properties.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [],
+   "tone": "Confident, optimistic about achieving an inflection point with strong core operations growth and scalable new ventures."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=acc63602-ca98-4278-945c-05825e6f7118.pdf",
+   "pages": 24,
+   "scanned": false,
+   "guidance": [],
+   "claims": [
+    {
+     "claim": "Jio Credit AUM crossed Rs. 25,700 crores as of March 31, 2026.",
+     "quote": "Our lending business, Jio Credit crossed an important milestone in FY26, with its Assets Under Management standing at over Rs. 25,700 crores as of March 31, 2026.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated total income excluding dividends grew to Rs. 3,274 crore in FY26.",
+     "quote": "Our Consolidated Total Income, excluding dividends, grew to Rs. 3,274 crore in FY26, a 78% increase over FY25.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated net worth reached Rs 1.33 lakh crore as of March 31, 2026.",
+     "quote": "As of March 31, 2026, our Consolidated Net Worth reached Rs 1.33 lakh crore, bolstered by the receipt of the first tranche of Rs 3,956 crore from our promoters in Q2 FY26.",
+     "page": 21,
+     "verified": true
+    },
+    {
+     "claim": "Unique user base across digital properties reached 23 million users.",
+     "quote": "Underpinning this momentum is our unique user base of 23 million users across all our digital properties, which grew 2.5 times year-on-year",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [],
+   "tone": "Confident, optimistic, and transparent regarding strategic transition, scale achieved, and operational execution momentum."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c18cc26c-af73-4c98-bb2f-500c896112ce.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "Beta launch of securities broking platform in Q2 FY27",
+     "horizon": "Q2 FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "we are now well-positioned for the beta launch of our Securities Broking platform in Q2 FY27.",
+     "page": 12,
+     "speaker": "Mr. Hitesh Sethia",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Roll out a personal CFO for every Indian in the near future",
+     "horizon": "near future",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "I am happy to share that in the near future we are rolling out a personal CFO for every Indian.",
+     "page": 13,
+     "speaker": "Mr. Hitesh Sethia",
+     "verified": true,
+     "id": "g3.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Jio Credit Gross AUM surged 2.6x year-on-year to ₹30,667 crores",
+     "quote": "Our lending business, Jio Credit, saw its Gross AUM surge 2.6x year-on-year, standing at ₹30,667 crores.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated Total Income excluding dividends grew 141% year-on-year to ₹1,496 crores",
+     "quote": "Our Consolidated Total Income, excluding dividends, grew 141% year-on-year to ₹1,496 crores.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Total Consolidated Shareholders Equity stood at ₹1.37 lakh crores as of June 30, 2026",
+     "quote": "The company’s Total Consolidated Shareholders' Equity stood at ₹1.37 lakh crores as of June 30, 2026.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated Profit After Tax increased 156% year-on-year and 205% quarter-on-quarter to ₹830 crore",
+     "quote": "Consolidated Profit after Tax increased 156% year-on-year and 205% quarter-on-quarter to ₹830 crore.",
+     "page": 16,
+     "verified": true
+    }
+   ],
+   "pushback": [],
+   "tone": "Confident, optimistic, and focused on strong growth, technology-driven scaling, and disciplined execution."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ce63e3-07d3-4b0b-988b-53f339356094.pdf",
+   "pages": 20,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "Launch the BlackRock Advantage World Equity Fund during current quarter from GIFT City entity",
+     "horizon": "current quarter",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "The fund planned for launch during the current quarter, opens up global investment pipelines for Indian investors.",
+     "page": 14,
+     "speaker": "Annapoorna Venkataramanan",
+     "verified": true,
+     "id": "g4.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Jio Credit Gross AUM reached Rs. 37,320 crore, representing a 154% YoY growth.",
+     "quote": "Jio Credit‘s Gross Assets Under Management rose to Rs. 37,320 crore as of September 30, 2026, representing a 154% year-on-year growth",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated Total Income excluding dividend grew 132% YoY to Rs. 1,699 crore in Q2 FY27.",
+     "quote": "Excluding the impact of dividend in Q2 FY26, Consolidated Total Income grew 132% year-on-year to Rs. 1,699 crore for Q2 FY27;",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "JioBlackRock AMC Closing AUM reached Rs. 22,746 crore, growing 57% YoY and 24% sequentially.",
+     "quote": "JioBlackRock AMC saw its Closing AUM reach Rs. 22,746 crore, growing 57% year-on-year and 24% sequentially.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Total Consolidated Shareholders' Equity stood at Rs. 1.3 lakh crore as of September 30, 2026.",
+     "quote": "Total Consolidated Shareholders' Equity standing at Rs. 1.3 lakh crore as of September 30, 2026.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [],
+   "tone": "Confident, transparent, and focused on disciplined execution and strategic growth."
+  }
+ ],
+ "business": {
+  "what_it_does": "Jio Financial Services operates as a core investment company providing financial services through subsidiaries and joint ventures.",
+  "segments": [
+   {
+    "name": "Investing",
+    "revenue": null,
+    "unit": null,
+    "what": "Investing in India",
+    "page": 94
+   }
+  ],
+  "mix_note": null,
+  "risks_mgmt_flags": [
+   "Cyber threats and AI-driven fraud impacting digital transaction volumes"
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/158fc548-0512-416f-9667-89ca35117647.pdf",
+  "pages_read": [
+   33,
+   56,
+   57,
+   84,
+   86,
+   87,
+   94,
+   96,
+   114,
+   117,
+   130,
+   133
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Expand repository by integrating more digital-first, third-party products over the next few quarters.",
+    "made_in": "Q3 FY26",
+    "delivered": "Unique user base grew from 20 million in Q3 FY26 to 23 million in Q4 FY26.",
+    "verdict": "delivered",
+    "checked_against": "Unique user base claims",
+    "quote": "Over the next few quarters, we will continue to expand this repository by integrating more digital-first, third-party products.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d7e4dcc-8aed-46e8-aa65-15d3eb5e94ee.pdf"
+   },
+   {
+    "ref": "g1.2",
+    "promise": "Launch the Sector Rotation Fund shortly and apply for Specialized Investment Fund.",
+    "made_in": "Q3 FY26",
+    "delivered": "JioBlackRock AMC reached Rs. 22,746 crore closing AUM across funds by Q2 FY27.",
+    "verdict": "delivered",
+    "checked_against": "JioBlackRock AMC AUM claims",
+    "quote": "In terms of the pipeline of new products, we will be launching the Sector Rotation Fund shortly and we have filed an application with SEBI for a Specialized Investment Fund.",
+    "page": 11,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d7e4dcc-8aed-46e8-aa65-15d3eb5e94ee.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "Beta launch of securities broking platform in Q2 FY27.",
+    "made_in": "Q1 FY27",
+    "delivered": "Management reported execution of pipeline initiatives, but specific broking platform launch metrics are pending.",
+    "verdict": "too_early",
+    "checked_against": "Q2 FY27 management commentary",
+    "quote": "we are now well-positioned for the beta launch of our Securities Broking platform in Q2 FY27.",
+    "page": 12,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c18cc26c-af73-4c98-bb2f-500c896112ce.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Launch the BlackRock Advantage World Equity Fund during current quarter from GIFT City.",
+    "made_in": "Q2 FY27",
+    "delivered": "JioBlackRock AMC AUM reached Rs. 22,746 crore in Q2 FY27, up 57% YoY.",
+    "verdict": "delivered",
+    "checked_against": "Q2 FY27 JioBlackRock AMC AUM claim",
+    "quote": "The fund planned for launch during the current quarter, opens up global investment pipelines for Indian investors.",
+    "page": 14,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ce63e3-07d3-4b0b-988b-53f339356094.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 6,
+   "line": "Management delivers on product launch timelines and AUM growth, but cash flows remain deeply negative."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Jio Credit AUM surged to Rs. 37,320 crore by Q2 FY27, matching aggressive growth claims."
+   },
+   {
+    "agree": false,
+    "point": "PAT dropped 51.1% YoY to Rs. 340 crore in Sep 2026 despite revenue growing 73.2%."
+   },
+   {
+    "agree": false,
+    "point": "Operating cash flow for Mar 2026 was -Rs. 15,439 crore despite reported revenue of Rs. 3,521 crore."
+   }
+  ],
+  "bull": [
+   "Jio Credit Gross AUM reached Rs. 37,320 crore in Q2 FY27 with 154% YoY growth.",
+   "JioBlackRock AMC Closing AUM scaled to Rs. 22,746 crore as of Sep 2026.",
+   "Consolidated Shareholders Equity stood strong at Rs. 1,29,595 crore as of Sep 2026."
+  ],
+  "bear": [
+   "Free cash flow deteriorated to -Rs. 15,439 crore for the year ended Mar 2026.",
+   "Borrowings spiked to Rs. 41,325 crore by Sep 2026 from zero in Mar 2024.",
+   "EBITDA margin compressed from 88% in Mar 2023 to 63% in Sep 2026."
+  ],
+  "watch": [
+   "Operating cash flow conversion trajectory",
+   "Borrowings growth and D/E ratio of 0.32",
+   "Securities broking platform beta launch metrics"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 8543,
+   "out": 646,
+   "secs": 3.1,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12443,
+   "out": 406,
+   "secs": 2.5,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 9552,
+   "out": 622,
+   "secs": 2.9,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11386,
+   "out": 535,
+   "secs": 4.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11208,
+   "out": 119,
+   "secs": 3.1,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 2738,
+   "out": 917,
+   "secs": 4.8,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 55870,
+  "tokens_out": 3245,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 24.4
+ }
+}

@@ -1,0 +1,1028 @@
+{
+ "symbol": "BAJAJ-AUTO",
+ "name": "Bajaj Auto Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:15:16",
+ "latest_call": "Nov 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 299674.0,
+   "pe": 22.9,
+   "roce": 28.2,
+   "roe": 29.2,
+   "ttm_revenue": 80851.0,
+   "ttm_pat": 12815.0,
+   "margin_latest_q": 19.0,
+   "de": 0.72,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 13169.0,
+    "rev_yoy": 8.3,
+    "op_profit": 2751.0,
+    "margin": 21.0,
+    "ebit_margin": 20.1,
+    "pat": 2196.0,
+    "pat_yoy": 8.0
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 12646.0,
+    "rev_yoy": 9.4,
+    "op_profit": 2358.0,
+    "margin": 19.0,
+    "ebit_margin": 17.7,
+    "pat": 1802.0,
+    "pat_yoy": -10.4
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 13133.0,
+    "rev_yoy": 10.1,
+    "op_profit": 2793.0,
+    "margin": 21.0,
+    "ebit_margin": 20.4,
+    "pat": 2210.0,
+    "pat_yoy": 13.8
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 15735.0,
+    "rev_yoy": 18.8,
+    "op_profit": 2829.0,
+    "margin": 18.0,
+    "ebit_margin": 17.2,
+    "pat": 2122.0,
+    "pat_yoy": 53.2
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 16204.0,
+    "rev_yoy": 23.0,
+    "op_profit": 3730.0,
+    "margin": 23.0,
+    "ebit_margin": 22.3,
+    "pat": 2750.0,
+    "pat_yoy": 25.2
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 17832.0,
+    "rev_yoy": 41.0,
+    "op_profit": 3075.0,
+    "margin": 17.0,
+    "ebit_margin": 15.6,
+    "pat": 3492.0,
+    "pat_yoy": 93.8
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 21689.0,
+    "rev_yoy": 65.1,
+    "op_profit": 4528.0,
+    "margin": 21.0,
+    "ebit_margin": 19.0,
+    "pat": 3189.0,
+    "pat_yoy": 44.3
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 25126.0,
+    "rev_yoy": 59.7,
+    "op_profit": 4896.0,
+    "margin": 19.0,
+    "ebit_margin": 17.9,
+    "pat": 3384.0,
+    "pat_yoy": 59.5
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 29919.0,
+    "op_profit": 5109.0,
+    "margin": 17.0,
+    "pat": 5212.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 27741.0,
+    "op_profit": 4938.0,
+    "margin": 18.0,
+    "pat": 4857.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 33145.0,
+    "op_profit": 5259.0,
+    "margin": 16.0,
+    "pat": 6166.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 36455.0,
+    "op_profit": 6465.0,
+    "margin": 18.0,
+    "pat": 6060.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 44870.0,
+    "op_profit": 8765.0,
+    "margin": 20.0,
+    "pat": 7708.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 50995.0,
+    "op_profit": 9555.0,
+    "margin": 19.0,
+    "pat": 7325.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 62905.0,
+    "op_profit": 13097.0,
+    "margin": 21.0,
+    "pat": 10574.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 19.9,
+   "rev_cagr_5y": 17.8,
+   "pat_cagr_3y": 20.4,
+   "pat_cagr_5y": 16.8,
+   "margin_change_3y_bps": 300
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 123.0,
+    "equity": 29859.0,
+    "de": 0.0
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 124.0,
+    "equity": 29362.0,
+    "de": 0.0
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 1912.0,
+    "equity": 28962.0,
+    "de": 0.07
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 9364.0,
+    "equity": 35188.0,
+    "de": 0.27
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 22713.0,
+    "equity": 38832.0,
+    "de": 0.58
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 26401.0,
+    "equity": 36606.0,
+    "de": 0.72
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     36.0
+    ],
+    [
+     "Mar 2022",
+     17.0
+    ],
+    [
+     "Mar 2023",
+     18.0
+    ],
+    [
+     "Mar 2024",
+     17.0
+    ],
+    [
+     "Mar 2025",
+     15.0
+    ],
+    [
+     "Mar 2026",
+     20.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     28.0
+    ],
+    [
+     "Mar 2022",
+     18.0
+    ],
+    [
+     "Mar 2023",
+     22.0
+    ],
+    [
+     "Mar 2024",
+     19.0
+    ],
+    [
+     "Mar 2025",
+     22.0
+    ],
+    [
+     "Mar 2026",
+     54.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     85.0
+    ],
+    [
+     "Mar 2022",
+     54.0
+    ],
+    [
+     "Mar 2023",
+     58.0
+    ],
+    [
+     "Mar 2024",
+     64.0
+    ],
+    [
+     "Mar 2025",
+     66.0
+    ],
+    [
+     "Mar 2026",
+     76.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     -22.0
+    ],
+    [
+     "Mar 2022",
+     -19.0
+    ],
+    [
+     "Mar 2023",
+     -18.0
+    ],
+    [
+     "Mar 2024",
+     -28.0
+    ],
+    [
+     "Mar 2025",
+     -29.0
+    ],
+    [
+     "Mar 2026",
+     -1.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -0.0
+    ],
+    [
+     "Mar 2022",
+     -3.0
+    ],
+    [
+     "Mar 2023",
+     -9.0
+    ],
+    [
+     "Mar 2024",
+     -30.0
+    ],
+    [
+     "Mar 2025",
+     -6.0
+    ],
+    [
+     "Mar 2026",
+     22.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 3120.0,
+    "pat": 4857.0,
+    "fcf": 2866.0,
+    "conv": 0.64
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 4197.0,
+    "pat": 6166.0,
+    "fcf": 3680.0,
+    "conv": 0.68
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 5277.0,
+    "pat": 6060.0,
+    "fcf": 4304.0,
+    "conv": 0.87
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 6558.0,
+    "pat": 7708.0,
+    "fcf": 5847.0,
+    "conv": 0.85
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": -1406.0,
+    "pat": 7325.0,
+    "fcf": -2273.0,
+    "conv": -0.19
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 2597.0,
+    "pat": 10574.0,
+    "fcf": 1885.0,
+    "conv": 0.25
+   }
+  ],
+  "cash_conv_5y": 0.46,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Operating margin up 300 bps over 3 years"
+   },
+   {
+    "tone": "bad",
+    "text": "Only 46% of 5y profit showed up as operating cash"
+   },
+   {
+    "tone": "bad",
+    "text": "Borrowings 13.8x in 3 years (₹1,912 → ₹26,401 cr)"
+   },
+   {
+    "tone": "bad",
+    "text": "Cash cycle stretched by 27 days in 2 years (-28 → -1)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8874f8f9-b675-43ce-ad9c-6ed3bfffeb9a.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cbc90a41-3f6e-4dcb-b47c-36dc70b66634.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8490aae2-16b7-41b1-a0a3-de3e86380cf9.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c7171a79-5c93-47e1-b324-9056d5abea0e.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5cfa2fc3-ea76-452d-a3a9-71d3c9bf5ad6.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8874f8f9-b675-43ce-ad9c-6ed3bfffeb9a.pdf",
+   "pages": 20,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Expect export volume run rate to reach 200,000 units plus in Q4",
+     "horizon": "Q4",
+     "low": 200000,
+     "high": null,
+     "unit": "units",
+     "quote": "In fact, this quarter, which is quarter 4, we expect hopefully that we will turn in a 200,000 unit plus performance.",
+     "page": 12,
+     "speaker": "Rakesh Sharma",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Expand joint KTM-Triumph showrooms to over 100 by March",
+     "horizon": "March",
+     "low": 100,
+     "high": null,
+     "unit": null,
+     "quote": "We currently have about 50 KT showrooms operational and plan to expand these to over 100 by March.",
+     "page": 6,
+     "speaker": "Rakesh Sharma",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Complete top management team exercise for KTM AG by 1st April",
+     "horizon": "1st April",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "The top deck is now largely in place, and the exercise will be completed by 1st April.",
+     "page": 6,
+     "speaker": "Rakesh Sharma",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "volume",
+     "promise": "Expect motorcycle industry to continue to grow at 12% to 15%",
+     "horizon": "near term",
+     "low": 12,
+     "high": 15,
+     "unit": "%",
+     "quote": "We expect this growth momentum in the industry to continue and the motorcycle industry to continue to grow at, say, 12% to 15%.",
+     "page": 4,
+     "speaker": "Rakesh Sharma",
+     "verified": true,
+     "id": "g1.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Top line crossed INR15,000 crores with 19% growth, EBITDA at 20.8%, and PAT crossed INR2,500 crores.",
+     "quote": "We closed the quarter with a top line of over INR15,000 crores, an all-time high with 19% growth. EBITDA came in at over INR3,100 crores at 20.8%, another all-time high and PAT crossed INR2,500 crores",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Exports crossed 600,000 units mark after 15 quarters with 18% year-on-year growth.",
+     "quote": "surpassing the 600,000 units mark after 15 quarters. Last time this happened was in Q3 FY2022. The business grew at 18% year-on-year this quarter in volume terms",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "EV portfolio contributes 25% of domestic revenues with individual segments crossing INR1,000 crores.",
+     "quote": "our EV portfolio comprising both electric 2-wheelers and 3-wheelers now contributes to a staggering 25% of domestic revenues. And individually, both the segments... crossed INR1,000 crores of quarterly revenues each",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "BACL generated INR200 crores PAT in Q3 with AUM over INR16,000 crores.",
+     "quote": "It delivered a PAT of INR200 crores in Q3 itself... and now has an AUM of over INR16,000 crores",
+     "page": 6,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Export growth outlook and run rates",
+     "quote": "And this 200,000-run rate seems to suggest that, that 20% run rate can continue even though export volumes seem to be closer to the previous peak made during COVID.",
+     "page": 15,
+     "verified": true
+    },
+    {
+     "topic": "Commodity cost inflation lag and pricing actions",
+     "quote": "So, when you talk about this 50-60 bps, does it factor in the commodity prices that we are seeing on the screen today? Or will today's commodity prices as we see it is that something that will hit us maybe with the quarter's lag, say, in the June quarter?",
+     "page": 18,
+     "verified": true
+    },
+    {
+     "topic": "Domestic volume growth convergence to industry growth",
+     "quote": "So, over the next couple of quarters, as you mentioned, with your market share recovery efforts and potential product launches, do you see your own volume growth converging to that mid-teens level that the industry could grow versus the current sort of low single-digit run rate?",
+     "page": 16,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and optimistic about record-breaking performance, strategic market share recovery, and successful turnaround actions."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cbc90a41-3f6e-4dcb-b47c-36dc70b66634.pdf",
+   "pages": 24,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Push exports to 220K plus levels per month this quarter",
+     "horizon": "this quarter",
+     "low": 220000,
+     "high": null,
+     "unit": "units",
+     "quote": "We are looking at moving the exports needle to 2,20,000 units per month this quarter, up from the 2,00,000 levels.",
+     "page": 4,
+     "speaker": "Rakesh Sharma",
+     "verified": true,
+     "id": "g2.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Record Q4 performance with revenues crossing INR16,000 crores and margins at 20.8%.",
+     "quote": "Quarter 4 was a standout quarter with revenues crossing INR16,000 crores, EBITDA at INR3,300 crores and margins at 20.8%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Full year FY26 delivered record revenue exceeding INR58,000 crores and EBITDA crossing INR12,000 crores.",
+     "quote": "Record revenues at INR58,000-plus crores, record EBITDA crossing INR12,000 crores for the first time with margins at 20.5%",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Chetak crossed 1 lakh retail mark for the first time in a single quarter.",
+     "quote": "In quarter 4, Chetak crossed the 1 lakh retail mark for the very first time in a single quarter, the highest ever quarterly retails for the brand.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Board approved 100% profit payout via dividend and buyback.",
+     "quote": "Lastly, the Board of Directors at its meeting earlier today approved a payout of 100% of the profits that we have made last year",
+     "page": 14,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Price hike impact on demand and export growth",
+     "quote": "Sir, I just want to go back to the comments you mentioned about the price hike and related impact on demand.",
+     "page": 14,
+     "verified": true
+    },
+    {
+     "topic": "Commodity inflation impact and pricing actions",
+     "quote": "So, any thoughts on our appetite to take more price hikes? And what is really the tolerance level when you think about the range of margin?",
+     "page": 19,
+     "verified": true
+    },
+    {
+     "topic": "Motorcycle growth moderation and service availability",
+     "quote": "Amyn Pirani: Thanks for the opportunity and yet another congratulations going your way, Rakesh. I have two questions. The first one is on your comment on the moderation in the motorcycle growth.",
+     "page": 20,
+     "verified": true
+    }
+   ],
+   "tone": "Optimistic and confident while addressing supply chain and inflationary challenges."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8490aae2-16b7-41b1-a0a3-de3e86380cf9.pdf",
+   "pages": 21,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Move exports to beyond 250,000 per month level this quarter and onwards",
+     "horizon": "this quarter and onwards",
+     "low": 250000,
+     "high": null,
+     "unit": "units",
+     "quote": "Overall, the exports business, which like I said is 40% of our revenue, has established an outstanding growth momentum and we are looking at moving exports to beyond the 2,50,000 per month level this quarter and onwards.",
+     "page": 4,
+     "speaker": "Rakesh Sharma",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "capex",
+     "promise": "Expand capacity by 25% from 7 million to 9 million units per annum in medium term",
+     "horizon": "medium term",
+     "low": 7,
+     "high": 9,
+     "unit": "units",
+     "quote": "So, with an eye on the future, we are undertaking an expansion of capacity by almost 25% from the current 7 million units per annum across different businesses to progressively go up to 9 million units per annum.",
+     "page": 6,
+     "speaker": "Rakesh Sharma",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Accomplish exhaustive portfolio makeover of 150cc and 125cc segments within next 6 weeks",
+     "horizon": "next 6 weeks",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "Our aim is to accomplish this exhaustive portfolio makeover within the next 6 weeks. So, by the time we meet next in October, we should be able to give you some early reports of their acceptance.",
+     "page": 5,
+     "speaker": "Rakesh Sharma",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "volume",
+     "promise": "Unlock Chetak EV capacity to 60000 units in immediate term",
+     "horizon": "immediate term",
+     "low": null,
+     "high": 60000,
+     "unit": "units",
+     "quote": "And then, of course, to address your specific question on Chetak, it will be about 60,000 units in the immediate term.",
+     "page": 13,
+     "speaker": "Rakesh Sharma",
+     "verified": true,
+     "id": "g3.4"
+    },
+    {
+     "metric": "other",
+     "promise": "Introduce 2 new brands in 125cc segment during the year",
+     "horizon": "during the year",
+     "low": null,
+     "high": 2,
+     "unit": null,
+     "quote": "Further, in the year, we aim to introduce 2 new brands in the 125cc segment to cover the full spectrum of customers in this large segment as well as proposition customers from the 100cc segment to upgrade.",
+     "page": 5,
+     "speaker": "Rakesh Sharma",
+     "verified": true,
+     "id": "g3.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered highest quarterly performance across volumes, revenue, EBITDA, and PAT in Q1 FY27",
+     "quote": "So, quarter 1 has built further on the record-breaking financial year '26 by delivering the highest quarterly performance across all parameters.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Generated over INR2,300 crores of free cash flow during the quarter at 80% conversion",
+     "quote": "We generated over INR2,300 crores of free cash flow during this quarter, almost double that of the same period last year, translating into a cash conversion of almost 80% of profit after tax.",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated revenue crossed INR21,689 crores and PAT reached INR3,226 crores up 46% YoY",
+     "quote": "standalone revenues of INR17,200 crores translated into consolidated revenues of INR21,689 crores, reflecting a 65% year-on-year growth, while consolidated profit after tax came in at INR3,226 crores for the quarter, up 46% year-on-year.",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "claim": "Electric two-wheeler and three-wheeler businesses delivered largest ever quarter at 30% domestic revenues",
+     "quote": "Taken together, our electric two-wheeler and three-wheeler businesses delivered their largest ever quarter and are now at 30% of domestic revenues with double-digit EBITDA percentage.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Demand divergence between lower and upper segments",
+     "quote": "So, is it the customer preference or that is changing very rapidly? Or is it that the customer in that segment itself is facing some kind of stress?",
+     "page": 12,
+     "verified": true
+    },
+    {
+     "topic": "Wholesale market share decline in motorcycles",
+     "quote": "So, is this a new direction in which we are focusing more on the premium segment, and the overall market share could keep coming down and that is a strategic direction?",
+     "page": 16,
+     "verified": true
+    },
+    {
+     "topic": "Surplus cash accumulation and shareholder payout options",
+     "quote": "Do you want to continue through the buyback route, which gets restricted for a year period? Or you want to start going through the dividend route, you increase your payout ratio and that gives a greater predictability on how much you're going to pay out each year?",
+     "page": 17,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and resilient, highlighting record performance despite severe headwinds and volatile operating environment."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c7171a79-5c93-47e1-b324-9056d5abea0e.pdf",
+   "pages": 22,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Expand overall capacity to about 7,75,000 units per month over next 6 to 9 months",
+     "horizon": "next 6 to 9 months",
+     "low": 775000,
+     "high": 775000,
+     "unit": "units",
+     "quote": "The overall capacity of 6,25,000 units per month is being expanded to about 7,75,000 units per month over the next 6 to 9 months in a phased manner.",
+     "page": 7,
+     "speaker": "Rakesh Sharma",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Expand Chetak capacity to 80,000 per month by quarter 4",
+     "horizon": "quarter 4",
+     "low": 80000,
+     "high": 80000,
+     "unit": "units",
+     "quote": "We are expanding Chetak capacity to 80,000 per month by quarter 4, which will help us get market share and unlock new reach.",
+     "page": 5,
+     "speaker": "Rakesh Sharma",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Expect the PLI rate for the second half to remain at the maximum level of 18%",
+     "horizon": "second half",
+     "low": 18,
+     "high": 18,
+     "unit": "%",
+     "quote": "And therefore, that now represents the maximum applicable rate under the scheme that we have exited, right. So therefore, the rate for the second half is expected to remain at this maximum level.",
+     "page": 10,
+     "speaker": "Dinesh Thapar",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "volume",
+     "promise": "Launch 2 new brands spanning the 125cc to 250cc space in FY27",
+     "horizon": "FY27",
+     "low": 2,
+     "high": 2,
+     "unit": null,
+     "quote": "In addition, we will have 2 new brands in the pipeline, spanning the 125cc to 250cc space getting lined up for launch in FY27.",
+     "page": 5,
+     "speaker": "Rakesh Sharma",
+     "verified": true,
+     "id": "g4.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Q2 volumes crossed 1.5 million units, revenue surpassed INR20,000 crores, and EBITDA exceeded INR4,000 crores.",
+     "quote": "Volumes exceeded 15 lakh units, revenue surpassed INR20,000 crores, EBITDA exceeded INR4,000 crores and profit after tax also crossed another INR3,000 crores.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "claim": "Exports crossed highest ever volume of 7.8 lakh units in Q2, growing 41% YoY.",
+     "quote": "The BU crossed its highest ever volume of 7.8 lakh units in Q2, a growth of 41% year-on-year.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Chetak unit economics reached double digits, making the overall EV business margin accretive domestically.",
+     "quote": "Significantly, the Chetak portfolio profitability has moved to double digits, in fact, at an overall level, our EV business... is now margin accretive at the corporate level.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Domestic market share disconnect",
+     "quote": "For some reason, when we look at VAHAN market share or when we look at even the wholesale market share, we are not sort of able to see that impact of new launches.",
+     "page": 12,
+     "verified": true
+    },
+    {
+     "topic": "EV business revenue, margins and PLI sustainability",
+     "quote": "Could you share what is the overall revenues from the EV business in this quarter if you can give the split of 2-wheeler and 3-wheeler.",
+     "page": 14,
+     "verified": true
+    },
+    {
+     "topic": "Rural demand and monsoon deficit impact",
+     "quote": "What percentage of our 2-wheeler and 3-wheeler sales come from rural? And given the weak monsoon we have seen, what is your outlook on rural demand?",
+     "page": 17,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and optimistic despite cost pressures and supply chain challenges."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company manufactures and sells two-wheelers, three-wheelers, quadricycles, and electric vehicles, and offers financing and investments.",
+  "segments": [
+   {
+    "name": "Automotive",
+    "revenue": 60530,
+    "unit": "crore",
+    "what": "Sells two-wheelers, three-wheelers, quadricycles, and electric vehicles.",
+    "page": 59,
+    "share_pct": 93
+   },
+   {
+    "name": "Financing",
+    "revenue": 3248,
+    "unit": "crore",
+    "what": "Provides financing services to customers.",
+    "page": 59,
+    "share_pct": 5
+   },
+   {
+    "name": "Investment and others",
+    "revenue": 1309,
+    "unit": "crore",
+    "what": "Manages investments and other related activities.",
+    "page": 59,
+    "share_pct": 2
+   }
+  ],
+  "mix_note": "Exports contribute 34% of the total turnover.",
+  "risks_mgmt_flags": [
+   "Claims against the company not acknowledged as debts.",
+   "Excise, service tax, GST, and customs matters under dispute.",
+   "Income-tax matters under dispute."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5cfa2fc3-ea76-452d-a3a9-71d3c9bf5ad6.pdf",
+  "pages_read": [
+   35,
+   59,
+   61,
+   189,
+   238,
+   247,
+   282,
+   291,
+   359,
+   367,
+   368,
+   385
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Export volume run rate 200,000+ units in Q4",
+    "made_in": "Q3 FY26",
+    "delivered": "No export volume data reported; cannot confirm",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "In fact, this quarter, which is quarter 4, we expect hopefully that we will turn in a 200,000 unit plus performance.",
+    "page": 12,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8874f8f9-b675-43ce-ad9c-6ed3bfffeb9a.pdf"
+   },
+   {
+    "ref": "g2.1",
+    "promise": "Push exports to 220,000+ units per month this quarter",
+    "made_in": "Q4 FY26",
+    "delivered": "Export figures not disclosed in reported numbers",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "We are looking at moving the exports needle to 2,20,000 units per month this quarter, up from the 2,00,000 levels.",
+    "page": 4,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cbc90a41-3f6e-4dcb-b47c-36dc70b66634.pdf"
+   },
+   {
+    "ref": "g3.2",
+    "promise": "Expand capacity from 7M to 9M units per annum",
+    "made_in": "Q1 FY27",
+    "delivered": "Capacity not quantified in financial tables",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "So, with an eye on the future, we are undertaking an expansion of capacity by almost 25% from the current 7 million units per annum across different businesses to progressively go up to 9 million units per annum.",
+    "page": 6,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8490aae2-16b7-41b1-a0a3-de3e86380cf9.pdf"
+   },
+   {
+    "ref": "g4.4",
+    "promise": "Launch 2 new brands spanning 125cc‑250cc in FY27",
+    "made_in": "Q2 FY27",
+    "delivered": "No brand‑launch data in reported figures",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "In addition, we will have 2 new brands in the pipeline, spanning the 125cc to 250cc space getting lined up for launch in FY27.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c7171a79-5c93-47e1-b324-9056d5abea0e.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "None of these promises can be checked against reported numbers yet — no score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Mgmt said Q3 FY26 revenue >15,000 cr with 19% growth; actual 17,832 cr and 41% YoY shows over‑promise on growth rate."
+   },
+   {
+    "agree": true,
+    "point": "Mgmt claimed Q4 FY26 revenue >16,000 cr; reported 25,126 cr confirms the revenue promise."
+   },
+   {
+    "agree": false,
+    "point": "Mgmt touted 20.8% EBITDA margin in Q4 FY26; reported EBITDA% 19% falls short."
+   }
+  ],
+  "bull": [
+   "Revenue rose to 25,126 cr in Sep 2026, well above the 16,000 cr target.",
+   "PAT surged to 3,384 cr in Sep 2026, a 59.5% YoY increase.",
+   "Operating cash flow turned positive at 2,597 cr in FY26 after a prior negative year."
+  ],
+  "bear": [
+   "EBITDA margin slipped to 19% in Sep 2026, missing the 20.8% goal.",
+   "Borrowings jumped to 26,401 cr by Sep 2026, a 13.8x rise over three years.",
+   "Free cash flow remained low at 1,885 cr in FY26, only 25% of PAT."
+  ],
+  "watch": [
+   "Export volume trends in upcoming quarters",
+   "Chetak capacity rollout to 80,000 units/month",
+   "Execution of new 125cc‑250cc brand launches"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 15934,
+   "out": 1217,
+   "secs": 4.7,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 18156,
+   "out": 699,
+   "secs": 3.5,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 17347,
+   "out": 1354,
+   "secs": 4.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 18329,
+   "out": 1090,
+   "secs": 9.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 10382,
+   "out": 299,
+   "secs": 3.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 3576,
+   "out": 1251,
+   "secs": 3.6,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 83724,
+  "tokens_out": 5910,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 33.3
+ }
+}

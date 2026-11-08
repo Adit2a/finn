@@ -1,0 +1,882 @@
+{
+ "symbol": "BHARTIARTL",
+ "name": "Bharti Airtel Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:17:54",
+ "latest_call": "Aug 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 1308488.0,
+   "pe": 39.2,
+   "roce": 17.6,
+   "roe": 20.3,
+   "ttm_revenue": 228781.0,
+   "ttm_pat": 38472.0,
+   "margin_latest_q": 57.0,
+   "de": 1.26,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 45129.0,
+    "rev_yoy": 19.1,
+    "op_profit": 24597.0,
+    "margin": 54.0,
+    "ebit_margin": 28.6,
+    "pat": 16135.0,
+    "pat_yoy": 461.0
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 47876.0,
+    "rev_yoy": 27.3,
+    "op_profit": 27009.0,
+    "margin": 56.0,
+    "ebit_margin": 30.7,
+    "pat": 12476.0,
+    "pat_yoy": 503.3
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 49463.0,
+    "rev_yoy": 28.5,
+    "op_profit": 27839.0,
+    "margin": 56.0,
+    "ebit_margin": 31.1,
+    "pat": 7422.0,
+    "pat_yoy": 57.3
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 52145.0,
+    "rev_yoy": 25.7,
+    "op_profit": 29561.0,
+    "margin": 57.0,
+    "ebit_margin": 31.4,
+    "pat": 8651.0,
+    "pat_yoy": 108.3
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 53982.0,
+    "rev_yoy": 19.6,
+    "op_profit": 30783.0,
+    "margin": 57.0,
+    "ebit_margin": 32.2,
+    "pat": 8503.0,
+    "pat_yoy": -47.3
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 55383.0,
+    "rev_yoy": 15.7,
+    "op_profit": 31492.0,
+    "margin": 57.0,
+    "ebit_margin": 32.2,
+    "pat": 9247.0,
+    "pat_yoy": -25.9
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 58539.0,
+    "rev_yoy": 18.3,
+    "op_profit": 33303.0,
+    "margin": 57.0,
+    "ebit_margin": 32.6,
+    "pat": 10012.0,
+    "pat_yoy": 34.9
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 60878.0,
+    "rev_yoy": 16.7,
+    "op_profit": 34946.0,
+    "margin": 57.0,
+    "ebit_margin": 33.4,
+    "pat": 10710.0,
+    "pat_yoy": 23.8
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 87539.0,
+    "op_profit": 36610.0,
+    "margin": 42.0,
+    "pat": -30664.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 100616.0,
+    "op_profit": 45279.0,
+    "margin": 45.0,
+    "pat": -12364.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 116547.0,
+    "op_profit": 57534.0,
+    "margin": 49.0,
+    "pat": 8305.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 139145.0,
+    "op_profit": 71274.0,
+    "margin": 51.0,
+    "pat": 12287.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 149982.0,
+    "op_profit": 77893.0,
+    "margin": 52.0,
+    "pat": 8558.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 172985.0,
+    "op_profit": 85060.0,
+    "margin": 49.0,
+    "pat": 37481.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 210973.0,
+    "op_profit": 116514.0,
+    "margin": 55.0,
+    "pat": 33823.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 14.9,
+   "rev_cagr_5y": 16.0,
+   "pat_cagr_3y": 40.1,
+   "pat_cagr_5y": null,
+   "margin_change_3y_bps": 400
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 169678.0,
+    "equity": 66554.0,
+    "de": 2.55
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 226020.0,
+    "equity": 77563.0,
+    "de": 2.91
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 215592.0,
+    "equity": 82019.0,
+    "de": 2.63
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 213642.0,
+    "equity": 113672.0,
+    "de": 1.88
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 195412.0,
+    "equity": 149057.0,
+    "de": 1.31
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 199432.0,
+    "equity": 158047.0,
+    "de": 1.26
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     13.0
+    ],
+    [
+     "Mar 2022",
+     13.0
+    ],
+    [
+     "Mar 2023",
+     10.0
+    ],
+    [
+     "Mar 2024",
+     12.0
+    ],
+    [
+     "Mar 2025",
+     16.0
+    ],
+    [
+     "Mar 2026",
+     14.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     13.0
+    ],
+    [
+     "Mar 2022",
+     13.0
+    ],
+    [
+     "Mar 2023",
+     10.0
+    ],
+    [
+     "Mar 2024",
+     12.0
+    ],
+    [
+     "Mar 2025",
+     16.0
+    ],
+    [
+     "Mar 2026",
+     14.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -270.0
+    ],
+    [
+     "Mar 2022",
+     -239.0
+    ],
+    [
+     "Mar 2023",
+     -217.0
+    ],
+    [
+     "Mar 2024",
+     -236.0
+    ],
+    [
+     "Mar 2025",
+     -277.0
+    ],
+    [
+     "Mar 2026",
+     -222.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 48205.0,
+    "pat": -12364.0,
+    "fcf": 21091.0,
+    "conv": null
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 55017.0,
+    "pat": 8305.0,
+    "fcf": 28996.0,
+    "conv": 6.62
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 65325.0,
+    "pat": 12287.0,
+    "fcf": 38875.0,
+    "conv": 5.32
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 78898.0,
+    "pat": 8558.0,
+    "fcf": 38970.0,
+    "conv": 9.22
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 98332.0,
+    "pat": 37481.0,
+    "fcf": 58990.0,
+    "conv": 2.62
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 122230.0,
+    "pat": 33823.0,
+    "fcf": 76683.0,
+    "conv": 3.61
+   }
+  ],
+  "cash_conv_5y": 4.18,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (40.1% vs 14.9%): operating leverage"
+   },
+   {
+    "tone": "good",
+    "text": "Operating margin up 400 bps over 3 years"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 418% of profit"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b8f70dc5-c46b-481a-961c-ecbd39a6f45d.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fbe1f35-07ac-4458-9799-d075511bcd53.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e76d0ca2-740a-4e0f-986a-2ad0ad39d515.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ca87613b-39c3-4571-8ea9-8f77df1b6428.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f8f6a174-8601-4747-9d0d-bd6b85fe53fc.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b8f70dc5-c46b-481a-961c-ecbd39a6f45d.pdf",
+   "pages": 17,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Capex trajectory directionally should moderate over time",
+     "horizon": "over time",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "directionally, it should moderate over time.",
+     "page": 16,
+     "speaker": "Soumen Ray",
+     "verified": true,
+     "id": "g1.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenues reached about 52000 Crores with an annualized run rate exceeding 200000 Crores.",
+     "quote": "Consolidated revenues came in at about 52,000 Crores with an annualized run rate of over Rs.200,000 Crores.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "India mobile segment delivered another quarter of industry-leading revenue growth.",
+     "quote": "The mobile segment delivered another quarter of industry-leading revenue growth.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Operating free cash flow, being EBITDAaL less capex, reached about Rs 10750 Crores.",
+     "quote": "The operating free cash flow, which is the EBITDAaL less capex, was strong, at about Rs.10,750 Crores.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Payments bank monthly transacting users crossed 104 million.",
+     "quote": "monthly transacting users crossed 100 million and now stands at over 104 million.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Google partnership and data center investments",
+     "quote": "can you advise on the scale of investments, which will be made by Airtel over the next five years",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Supreme Court AGR judgment applicability",
+     "quote": "how do you see the applicability for Airtel, it seems the order is applicable to Vodafone Idea, do you need to approach the Court",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Home broadband capex spike",
+     "quote": "Are you doing anything differently now and how should we look at home broadband capex?",
+     "page": 7,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and disciplined, emphasizing strategic execution, diversified growth, and operational efficiencies."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fbe1f35-07ac-4458-9799-d075511bcd53.pdf",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Reach 1 gigawatt Data Center capacity in next 3-4 years",
+     "horizon": "next 3-4 years",
+     "low": 1,
+     "high": null,
+     "unit": "units",
+     "quote": "Our plan is to reach 1 gigawatt capacity in the next three to four years and grow significantly ahead of the market.",
+     "page": 5,
+     "speaker": "Shashwat Sharma",
+     "verified": true,
+     "id": "g2.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenue reached Rs 54,000 crores, growing 3.5% sequentially.",
+     "quote": "Consolidated revenue came in at about Rs.54,000 crores, growing 3.5% sequentially.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated EBITDAaL stood at over Rs 27,700 crores with a 51.3% margin.",
+     "quote": "Consolidated EBITDAaL came in at over Rs.27,700 crores, a growth of 4.2%. Our EBITDAaL margin stood at 51.3%",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "India mobile ARPU came in at Rs 259.",
+     "quote": "ARPU came in at Rs.259, led by our continued efforts on premiumizing and improving our portfolio mix.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Broadband crossed 13 million connected homes with 1.2 million net adds.",
+     "quote": "We have crossed 13 million installed connected homes customer base.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Wireless revenue growth deceleration and tariff repair",
+     "quote": "till what extent would you be okay for your revenue growth to decelerate before you take a view that you definitely need to take the first step from a tariff repair perspective",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "AGR liabilities and parity with peers",
+     "quote": "How are you thinking about your repayment liabilities to the Government of India, both for AGR and spectrum, and what do you think are the likely potential outcomes",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Capital allocation and low leverage with surplus cash flow",
+     "quote": "given free cash flow is improving and deleveraging has also happened, is there a probability that we can also think of a special dividend or stepping up meaningfully on the dividend",
+     "page": 7,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and focused on long-term growth investments, digital capabilities, and portfolio premiumization."
+  },
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e76d0ca2-740a-4e0f-986a-2ad0ad39d515.pdf",
+   "pages": 16,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Capex ballpark of this year, give or take a little bit",
+     "horizon": "FY2027",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "our sense is that we will be in the ballpark of this year, give or take a little bit.",
+     "page": 8,
+     "speaker": "Gopal Vittal",
+     "verified": true,
+     "id": "g3.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenues crossed milestone to lifetime high of Rs.2,11,000 Crores for FY2026",
+     "quote": "Our consolidated revenue crossed another milestone and came in at a lifetime high of about Rs.2,11,000 Crores backed by strong performance in both India and Africa.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "India EBITDAaL margin excluding passive improved by 3.1% to stand at 51.7% in FY2026",
+     "quote": "India EBITDAaL excluding passive, came in at about Rs.72,500 Crores, growing around 18% and delivered a 3.1% improvement and stood at 51.7%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Board recommended a dividend of Rs.24 per share for FY2026",
+     "quote": "The Board recommended a dividend of Rs.24 per share, a significant increase over last year's Rs.16 per share.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Added 4.7 million customers in Q4 with 5.8 million smartphone customers",
+     "quote": "Mobile, we added 4.7 million customers in Q4 and 5.8 million out of those were smartphone customers.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Capital allocation and dividend payout sustainability",
+     "quote": "how are you thinking about progressively, what payout may look like in a steady state and two, if you can just talk about what are the other priorities in terms of assets outside of India",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "ARPU growth drivers and tariff hike necessity",
+     "quote": "so in the context of that, one- is it even realistic to assume any meaningful tariff hikes in the foreseeable future, like, what would be the rationale for more tariff hikes?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Enterprise segment growth and margin trajectory",
+     "quote": "how should we see growth rate, now that the commodity business, which we discontinued is behind and the growth rate for FY2027 should be significantly better than FY2026 and will this also mean that the new business will come with a better ROCE",
+     "page": 11,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and disciplined, emphasizing structural growth, digital adjacencies, and strict capital allocation."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ca87613b-39c3-4571-8ea9-8f77df1b6428.pdf",
+   "pages": 17,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Build out data center portfolio from 130 MW to 1 gigawatt over next few years",
+     "horizon": "next few years",
+     "low": 1,
+     "high": 1,
+     "unit": "units",
+     "quote": "We are working towards our ambition to build one gigawatt in the next few years.",
+     "page": 4,
+     "speaker": "Gopal Vittal",
+     "verified": true,
+     "id": "g4.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenue reached Rs 58,500 Crores, growing 5.7% sequentially",
+     "quote": "Our consolidated revenue was Rs.58,500 Crores, growing at about 5.7% sequentially.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated EBITDAaL stood at Rs 29,800 Crores with 51% margin",
+     "quote": "Our consolidated EBITDAaL was at Rs.29,800 Crores, this is a growth of 4.2% and the margin stood at 51%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Operating free cash flow was over Rs 16,450 Crores",
+     "quote": "Our operating free cash flow, which is EBITDAaL minus capex, was at over Rs.16,450 Crores.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Mobile ARPU drivers and sustainability",
+     "quote": "what led to strong improvement quarter-on-quarter? Was there any product revamp or some specific plan adoption rows like Fast Lane?",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Capex allocation towards AI and data centers",
+     "quote": "how much reallocation of this capex is happening towards projects like AI infrastructure which include data centers, subsea cables and sovereign compute",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Home broadband slowdown and margins",
+     "quote": "is it a conscious slowdown given the cost inflation which you touched upon initially or is it a high base catching up",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and transparent regarding strategic growth bets and execution challenges."
+  }
+ ],
+ "business": {
+  "what_it_does": "The company provides telecommunications, digital, and enterprise solutions, including mobile voice and data, passive infrastructure, and digital TV services.",
+  "segments": [
+   {
+    "name": "Mobile Services India",
+    "revenue": 1103292,
+    "unit": "million",
+    "what": "Wireless voice and data telecom services to customers in India",
+    "page": 252,
+    "share_pct": 52
+   },
+   {
+    "name": "Mobile Services Africa",
+    "revenue": 564308,
+    "unit": "million",
+    "what": "Voice, data, and mobile money services to customers in Africa",
+    "page": 252,
+    "share_pct": 27
+   },
+   {
+    "name": "Airtel Business",
+    "revenue": 187403,
+    "unit": "million",
+    "what": "End-to-end telecom and digital solutions to large corporations",
+    "page": 252,
+    "share_pct": 9
+   },
+   {
+    "name": "Passive Infrastructure Services",
+    "revenue": 146923,
+    "unit": "million",
+    "what": "Wireless communication towers setting up and maintenance in India",
+    "page": 252,
+    "share_pct": 7
+   },
+   {
+    "name": "Homes Services",
+    "revenue": 77695,
+    "unit": "million",
+    "what": "Fixed-line, wireless, and broadband voice and data for homes",
+    "page": 252,
+    "share_pct": 4
+   },
+   {
+    "name": "Digital TV Services",
+    "revenue": 30107,
+    "unit": "million",
+    "what": "Digital broadcasting and IPTV services",
+    "page": 252,
+    "share_pct": 1
+   }
+  ],
+  "mix_note": "India is the primary geographical market, generating 1,513,274 million in external revenue.",
+  "risks_mgmt_flags": [
+   "Supply chain disruptions and cost inflation constraining network and non-network deployments",
+   "Telecom capex-intensive nature requiring continued capex and appropriate tariff structures",
+   "Intense price competition and disruptive new market entrants"
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f8f6a174-8601-4747-9d0d-bd6b85fe53fc.pdf",
+  "pages_read": [
+   92,
+   93,
+   94,
+   104,
+   132,
+   180,
+   194,
+   197,
+   224,
+   251,
+   252,
+   253
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g2.1",
+    "promise": "Reach 1 GW data center capacity in next 3-4 years",
+    "made_in": "Q3 FY26",
+    "delivered": "No capacity figure reported; cannot assess yet",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "Our plan is to reach 1 gigawatt capacity in the next three to four years and grow significantly ahead of the market.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fbe1f35-07ac-4458-9799-d075511bcd53.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "None of these promises can be checked against reported numbers yet — no score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Mgmt said Q2 FY26 revenue ~52,000 Cr, but reported Q2 FY27 (Sep 2025) revenue is 52,145 Cr"
+   },
+   {
+    "agree": false,
+    "point": "Mgmt claimed FY2026 revenue 211,000 Cr, but FY2026 reported revenue is 210,973 Cr"
+   },
+   {
+    "agree": false,
+    "point": "Mgmt said free cash flow ~10,750 Cr in Q2 FY26; reported Q2 FY27 free cash flow is 7,6683 Cr annual"
+   }
+  ],
+  "bull": [
+   "Revenue grew 16.7% YoY to 60,878 Cr in Sep 2026",
+   "EBITDA margin rose to 57% in Sep 2026",
+   "Free cash flow reached 76,683 Cr in FY2026"
+  ],
+  "bear": [
+   "Operating cash flow to PAT ratio fell to 3.61 in FY2026",
+   "Debt/equity improved but still 1.31, indicating leverage",
+   "Capex guidance unclear versus rising capex trend"
+  ],
+  "watch": [
+   "Q3 FY27 revenue growth rate",
+   "Data center capacity disclosures",
+   "Capex spend versus moderation promise"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 17886,
+   "out": 581,
+   "secs": 3.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 20546,
+   "out": 659,
+   "secs": 3.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 18963,
+   "out": 724,
+   "secs": 8.5,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 19345,
+   "out": 566,
+   "secs": 4.1,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13037,
+   "out": 513,
+   "secs": 11.7,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 2729,
+   "out": 754,
+   "secs": 2.7,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 92506,
+  "tokens_out": 3797,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 41.0
+ }
+}

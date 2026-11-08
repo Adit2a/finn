@@ -1,0 +1,964 @@
+{
+ "symbol": "ETERNAL",
+ "name": "Eternal Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:22:08",
+ "latest_call": "Oct 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 351804.0,
+   "pe": 714.0,
+   "roce": 2.48,
+   "roe": 0.38,
+   "ttm_revenue": 77956.0,
+   "ttm_pat": 493.0,
+   "margin_latest_q": 3.1,
+   "de": 0.18,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 5405.0,
+    "rev_yoy": 64.4,
+    "op_profit": 162.0,
+    "margin": 3.0,
+    "ebit_margin": -1.6,
+    "pat": 59.0,
+    "pat_yoy": -57.2
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 5833.0,
+    "rev_yoy": 63.8,
+    "op_profit": 72.0,
+    "margin": 1.2,
+    "ebit_margin": -3.7,
+    "pat": 39.0,
+    "pat_yoy": -77.7
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 7167.0,
+    "rev_yoy": 70.4,
+    "op_profit": 115.0,
+    "margin": 1.6,
+    "ebit_margin": -2.8,
+    "pat": 25.0,
+    "pat_yoy": -90.1
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 13590.0,
+    "rev_yoy": 183.2,
+    "op_profit": 239.0,
+    "margin": 1.8,
+    "ebit_margin": -1.0,
+    "pat": 65.0,
+    "pat_yoy": -63.1
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 16315.0,
+    "rev_yoy": 201.9,
+    "op_profit": 368.0,
+    "margin": 2.3,
+    "ebit_margin": -0.4,
+    "pat": 102.0,
+    "pat_yoy": 72.9
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 17292.0,
+    "rev_yoy": 196.5,
+    "op_profit": 486.0,
+    "margin": 2.8,
+    "ebit_margin": 0.1,
+    "pat": 174.0,
+    "pat_yoy": 346.2
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 20211.0,
+    "rev_yoy": 182.0,
+    "op_profit": 594.0,
+    "margin": 2.9,
+    "ebit_margin": 0.2,
+    "pat": 92.0,
+    "pat_yoy": 268.0
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 24138.0,
+    "rev_yoy": 77.6,
+    "op_profit": 752.0,
+    "margin": 3.1,
+    "ebit_margin": 0.5,
+    "pat": 125.0,
+    "pat_yoy": 92.3
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 2605.0,
+    "op_profit": -2305.0,
+    "margin": -88.0,
+    "pat": -2386.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 1994.0,
+    "op_profit": -467.0,
+    "margin": -23.0,
+    "pat": -816.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 4192.0,
+    "op_profit": -1851.0,
+    "margin": -44.0,
+    "pat": -1222.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 7079.0,
+    "op_profit": -1211.0,
+    "margin": -17.0,
+    "pat": -971.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 12114.0,
+    "op_profit": 43.0,
+    "margin": 0.3,
+    "pat": 351.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 20243.0,
+    "op_profit": 637.0,
+    "margin": 3.1,
+    "pat": 527.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 54364.0,
+    "op_profit": 1208.0,
+    "margin": 2.2,
+    "pat": 366.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 97.3,
+   "rev_cagr_5y": 93.7,
+   "pat_cagr_3y": null,
+   "pat_cagr_5y": null,
+   "margin_change_3y_bps": 1920
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 70.0,
+    "equity": 16505.0,
+    "de": 0.0
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 507.0,
+    "equity": 19460.0,
+    "de": 0.03
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 749.0,
+    "equity": 20413.0,
+    "de": 0.04
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 2045.0,
+    "equity": 30317.0,
+    "de": 0.07
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 4592.0,
+    "equity": 30980.0,
+    "de": 0.15
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 5757.0,
+    "equity": 31275.0,
+    "de": 0.18
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     24.0
+    ],
+    [
+     "Mar 2022",
+     14.0
+    ],
+    [
+     "Mar 2023",
+     24.0
+    ],
+    [
+     "Mar 2024",
+     24.0
+    ],
+    [
+     "Mar 2025",
+     35.0
+    ],
+    [
+     "Mar 2026",
+     12.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     28.0
+    ],
+    [
+     "Mar 2022",
+     28.0
+    ],
+    [
+     "Mar 2023",
+     22.0
+    ],
+    [
+     "Mar 2024",
+     11.0
+    ],
+    [
+     "Mar 2025",
+     12.0
+    ],
+    [
+     "Mar 2026",
+     26.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     565.0
+    ],
+    [
+     "Mar 2022",
+     298.0
+    ],
+    [
+     "Mar 2023",
+     178.0
+    ],
+    [
+     "Mar 2024",
+     112.0
+    ],
+    [
+     "Mar 2025",
+     101.0
+    ],
+    [
+     "Mar 2026",
+     36.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     -513.0
+    ],
+    [
+     "Mar 2022",
+     -257.0
+    ],
+    [
+     "Mar 2023",
+     -132.0
+    ],
+    [
+     "Mar 2024",
+     -77.0
+    ],
+    [
+     "Mar 2025",
+     -54.0
+    ],
+    [
+     "Mar 2026",
+     2.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     96.0
+    ],
+    [
+     "Mar 2022",
+     316.0
+    ],
+    [
+     "Mar 2023",
+     200.0
+    ],
+    [
+     "Mar 2024",
+     41.0
+    ],
+    [
+     "Mar 2025",
+     45.0
+    ],
+    [
+     "Mar 2026",
+     23.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": -1018.0,
+    "pat": -816.0,
+    "fcf": -1028.0,
+    "conv": null
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": -693.0,
+    "pat": -1222.0,
+    "fcf": -750.0,
+    "conv": null
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": -844.0,
+    "pat": -971.0,
+    "fcf": -945.0,
+    "conv": null
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 646.0,
+    "pat": 351.0,
+    "fcf": 444.0,
+    "conv": 1.84
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 308.0,
+    "pat": 527.0,
+    "fcf": -623.0,
+    "conv": 0.58
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 632.0,
+    "pat": 366.0,
+    "fcf": -1114.0,
+    "conv": 1.73
+   }
+  ],
+  "cash_conv_5y": null,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Operating margin up 1920 bps over 3 years"
+   },
+   {
+    "tone": "bad",
+    "text": "Borrowings 7.7x in 3 years (₹749 → ₹5,757 cr)"
+   },
+   {
+    "tone": "bad",
+    "text": "Cash cycle stretched by 79 days in 2 years (-77 → 2)"
+   },
+   {
+    "tone": "bad",
+    "text": "Revenue growth decelerated every quarter for the last 4 quarters (202% → 196% → 182% → 78%)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91f3f29f-c5c0-49b5-b425-a22374bf08ad.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=60af607c-5f1b-4d5d-8425-4929efa6aad1.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=faa4f0f7-06e4-4066-9d68-3da95dfe02d9.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=64f36e3b-87e9-426e-be3e-515dca4525d2.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4b6a4218-6bde-4c99-b10c-39ec7553cc42.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91f3f29f-c5c0-49b5-b425-a22374bf08ad.pdf",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "District business losses to come down sequentially towards breakeven in next 4-6 quarters",
+     "horizon": "next four to six quarters",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "Irrespective of that, as we have mentioned in question 13, we now expect the losses to come down sequentially from here towards breakeven in the next four to six quarters.",
+     "page": 8,
+     "speaker": "Akshant Goyal",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Long-term quick commerce Adjusted EBITDA margins to reach 5% to 6% of NOV",
+     "horizon": "long term",
+     "low": 5,
+     "high": 6,
+     "unit": "%",
+     "quote": "Just to add, in the long term, in our letter we have mentioned that our confidence on margins going to 5% to 6% of NOV remains high",
+     "page": 7,
+     "speaker": "Akshant Goyal",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "capex",
+     "promise": "Capex per store to go up over next few quarters due to automation opportunities",
+     "horizon": "next few quarters",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "Even though we might see capex per store going up over the next few quarters, we don't expect net working capital to be beyond those 18 days that we had shared earlier",
+     "page": 6,
+     "speaker": "Akshant Goyal",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "margin",
+     "promise": "ROCE outcome to remain north of 40%",
+     "horizon": "long term",
+     "low": 40,
+     "high": null,
+     "unit": "%",
+     "quote": "and hence, as a consequence of that, the ROCE outcome should still be north of 40%. That's what we're solving for.",
+     "page": 6,
+     "speaker": "Akshant Goyal",
+     "verified": true,
+     "id": "g1.4"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Food delivery year-on-year growth to continue slowly trending up towards 20% YoY",
+     "horizon": "current sense on the market",
+     "low": null,
+     "high": 20,
+     "unit": "%",
+     "quote": "As of now, as we have mentioned, we expect year-on-year growth to continue slowly trending up towards 20% YoY, is what our current sense on the market is.",
+     "page": 11,
+     "speaker": "Akshant Goyal",
+     "verified": true,
+     "id": "g1.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Blinkit quick commerce business achieved breakeven in Q3 FY26",
+     "quote": "quick commerce margins or losses, and congratulations on the breakeven there.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Inventory model shift accounts for 90% of the business",
+     "quote": "In the shareholders’ letter you mentioned that 90% of your business has shifted to inventory",
+     "page": 10,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Quick commerce margin trajectory and pace of expansion",
+     "quote": "then why should, directionally, margins not continue to improve at the same pace as what you did in this quarter?",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "topic": "Store throughput decline and linkage to 100% YoY growth guidance",
+     "quote": "quarter on quarter, your store throughput was down about 6% or 7%. What explains that?",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "topic": "District going-out segment losses jump",
+     "quote": "There has been a sudden jump in this particular quarter and against that we didn't have that kind of growth as well, 20% YoY.",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "tone": "Cautious, transparent, and measured regarding short-term volatility and competitive intensity."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=60af607c-5f1b-4d5d-8425-4929efa6aad1.pdf",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Reach 5-6% margin in quick commerce",
+     "horizon": "medium term",
+     "low": 5,
+     "high": 6,
+     "unit": "%",
+     "quote": "As we move to 5-6% margin that we are saying we will get to at some point, contribution margin will go up",
+     "page": 6,
+     "speaker": "Akshant Goyal",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Reach 3,000 stores by March",
+     "horizon": "March",
+     "low": 3000,
+     "high": 3000,
+     "unit": "units",
+     "quote": "On store addition, we're on track on our guidance for March of 3,000 stores.",
+     "page": 4,
+     "speaker": "Akshant Goyal",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Deliver 60% CAGR growth in quick commerce",
+     "horizon": "three years",
+     "low": 60,
+     "high": 60,
+     "unit": "%",
+     "quote": "We've given overall guidance of 60% CAGR and that would obviously mean some reasonable store expansion",
+     "page": 4,
+     "speaker": "Akshant Goyal",
+     "verified": true,
+     "id": "g2.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Fixed cost in quick commerce remained flattish while MTU additions stayed strong.",
+     "quote": "We see that your fixed cost in quick commerce has been sort of flattish this quarter and yet the MTU numbers have been quite strong.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Store additions were flattish during the quarter.",
+     "quote": "I remember you had mentioned that maybe you'll pick up the additions in this quarter, but sort of flattish again.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Quick commerce 60% CAGR sustainability amidst competition",
+     "quote": "when you give your medium term guidance of 60% CAGR, what margin of safety or room for error are you building in that guidance?",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "topic": "Reconciliation of flat orders per day per store",
+     "quote": "The other number I was tracking was your orders per day per store. That number has been broadly flat for a long period of time.",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, resolute, and transparent while maintaining flexibility on short-term market dynamics."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=faa4f0f7-06e4-4066-9d68-3da95dfe02d9.pdf",
+   "pages": 17,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "End quick commerce at the higher end of the previously guided range",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "we think at this point we're likely to end at the higher end of the range that we had guided earlier and hence, the communication.",
+     "page": 3,
+     "speaker": "Akshant Goyal",
+     "verified": true,
+     "id": "g3.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Blinkit achieved 21% QoQ volume growth in Q1 FY27.",
+     "quote": "you did deliver 21% QoQ volume growth.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "claim": "First quarter saw the peak of competitive intensity till date.",
+     "quote": "First quarter, so far, was the peak of competitive intensity that we have seen till date because the number of players is higher and everybody was more aggressive.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Bistro business is expanding by adding about 10 kitchens per quarter.",
+     "quote": "Broadly, we are adding about 10-odd kitchens in a quarter, that's the pace of expansion there.",
+     "page": 7,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Blinkit Average Order Value (AOV) Drop",
+     "quote": "we saw a lower AOV now for two quarters in a row while we have seen very strong order growth. Can you just explain what led to this drop in AOV?",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "topic": "Blinkit Take Rate vs Contribution Margin",
+     "quote": "You are seeing some decent improvement in the take rate, but that doesn't seem to be flowing down to your contribution margin. Is there any particular reason that is hurting you here?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Capex Discrepancy per Store",
+     "quote": "You added around 200 stores this quarter, but your capex was around INR 700 crore. There is a meaningful difference between what you are suggesting as typical capex versus what is there in your cash flow statement.",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "tone": "Confident in long-term strategy, disciplined against discounting, and focused on sustainable unit economics and scale benefits."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=64f36e3b-87e9-426e-be3e-515dca4525d2.pdf",
+   "pages": 16,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Expect food delivery margins to remain flattish over the next 1 or 2 years",
+     "horizon": "next 1 or 2 years",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "broadly, over the next 1 or 2 years, we expect the margins to remain flattish.",
+     "page": 3,
+     "speaker": "Akshant Goyal",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "profit",
+     "promise": "Maintain the three-year Adjusted EBITDA guidance of $1 billion for FY29",
+     "horizon": "FY29",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We maintain that guidance as of now.",
+     "page": 8,
+     "speaker": "Akshant Goyal",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Expect NOV growth to pick up starting the December quarter on a YoY basis",
+     "horizon": "December quarter",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "That's right... NOV growth pickup starting the December quarter on a YoY basis?",
+     "page": 8,
+     "speaker": "Akshant Goyal",
+     "verified": true,
+     "id": "g4.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Competitive intensity in food delivery was higher last quarter, partly driven by Zomato.",
+     "quote": "Generally, the competitive intensity last quarter in food delivery was higher compared to the previous few quarters, and partly also driven by Zomato.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Quick commerce 1P steady state is at about 90-95% of SKUs.",
+     "quote": "We are at that steady state now where about 90-95% is 1P, and we don't expect any more incremental working capital change on that account",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "In mature cities, Blinkit MTU is already multiple times that of Zomato.",
+     "quote": "For example, in our mature cities, Blinkit MTU is already multiple times that of Zomato, and we don't see any plateau there yet.",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Food delivery margin peak and reinvestment",
+     "quote": "should we assume that margins of the food delivery business have peaked out and any surplus would just be reinvested towards growth?",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "topic": "Quick commerce indirect cost growth",
+     "quote": "the sort of 15-20% QoQ growth that you are seeing on indirect cost — how do we think about this going forward?",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "topic": "Dark.ai monetization and compute capex",
+     "quote": "Can you elaborate a little more on what capex this could entail and how you see monetization? And is this within Eternal?",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and willing to invest heavily in long-term growth and new AI bets."
+  }
+ ],
+ "business": {
+  "what_it_does": "The company operates food ordering, delivery, quick commerce, B2B supplies, and dining and event ticketing platforms.",
+  "segments": [
+   {
+    "name": "India food ordering and delivery",
+    "revenue": 10159,
+    "unit": "crore",
+    "what": "Online food ordering and delivery connecting users, restaurants, and partners.",
+    "page": 278,
+    "share_pct": 19
+   },
+   {
+    "name": "Hyperpure supplies (B2B business)",
+    "revenue": 5366,
+    "unit": "crore",
+    "what": "Farm-to-fork supplies for restaurants and items for businesses.",
+    "page": 278,
+    "share_pct": 10
+   },
+   {
+    "name": "Quick Commerce business",
+    "revenue": 37779,
+    "unit": "crore",
+    "what": "Online platform Blinkit for quick delivery of items to end users.",
+    "page": 278,
+    "share_pct": 69
+   },
+   {
+    "name": "Going Out",
+    "revenue": 973,
+    "unit": "crore",
+    "what": "Dining-out discovery, reservations, and entertainment ticketing services.",
+    "page": 278,
+    "share_pct": 2
+   },
+   {
+    "name": "All other segments (residual)",
+    "revenue": 87,
+    "unit": "crore",
+    "what": "Non-reportable balancing number of residual operations.",
+    "page": 278,
+    "share_pct": 0
+   }
+  ],
+  "mix_note": "No single customer represents 10% or more of the Group's total revenue.",
+  "risks_mgmt_flags": [
+   "Absence of reasonable certainty of realization for deferred tax assets."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4b6a4218-6bde-4c99-b10c-39ec7553cc42.pdf",
+  "pages_read": [
+   162,
+   221,
+   224,
+   225,
+   226,
+   248,
+   277,
+   278,
+   279,
+   333,
+   361,
+   394
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.4",
+    "promise": "ROCE outcome to remain north of 40% long term",
+    "made_in": "Q3 FY26",
+    "delivered": "Reported ROCE is 2.48%, far below 40%",
+    "verdict": "missed",
+    "checked_against": "ROCE 2.48%",
+    "quote": "and hence, as a consequence of that, the ROCE outcome should still be north of 40%. That's what we're solving for.",
+    "page": 6,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91f3f29f-c5c0-49b5-b425-a22374bf08ad.pdf"
+   },
+   {
+    "ref": "g1.1",
+    "promise": "District business losses to reach breakeven in next 4‑6 quarters",
+    "made_in": "Q3 FY26",
+    "delivered": "Quarterly data through Sep 2026 shows no breakeven; deadline not yet reached",
+    "verdict": "too_early",
+    "checked_against": "No district loss figure provided",
+    "quote": "Irrespective of that, as we have mentioned in question 13, we now expect the losses to come down sequentially from here towards breakeven in the next four to six quarters.",
+    "page": 8,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91f3f29f-c5c0-49b5-b425-a22374bf08ad.pdf"
+   },
+   {
+    "ref": "g2.2",
+    "promise": "Reach 3,000 stores by March",
+    "made_in": "Q4 FY26",
+    "delivered": "Store count not disclosed; March deadline pending",
+    "verdict": "too_early",
+    "checked_against": "No store count disclosed",
+    "quote": "On store addition, we're on track on our guidance for March of 3,000 stores.",
+    "page": 4,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=60af607c-5f1b-4d5d-8425-4929efa6aad1.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "Only one promise can be checked against reported numbers so far — too few to score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Management touts margin improvement; EBITDA% rose from 0.3% (Mar 2024) to 2.2% (Mar 2026)."
+   },
+   {
+    "agree": false,
+    "point": "Claims of near‑breakeven district losses conflict with no evidence of loss reduction."
+   }
+  ],
+  "bull": [
+   "EBITDA% climbed to 2.2% FY26, indicating operating efficiency gains.",
+   "Operating margin up 1920 bps over three years supports margin narrative.",
+   "Revenue grew 77.6% YoY in Sep 2026, still strong absolute growth."
+  ],
+  "bear": [
+   "ROCE at 2.48% starkly misses the >40% target.",
+   "Free cash flow turned negative in Mar 2026 (-1114 cr).",
+   "Borrowings surged 7.7x to 5,757 cr, raising leverage concerns."
+  ],
+  "watch": [
+   "Quarterly district loss trends for breakeven assessment.",
+   "Store count versus 3,000‑store goal.",
+   "ROCE trajectory in upcoming quarters."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11186,
+   "out": 1009,
+   "secs": 3.6,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11385,
+   "out": 654,
+   "secs": 3.0,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11054,
+   "out": 585,
+   "secs": 3.1,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 10694,
+   "out": 789,
+   "secs": 3.2,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 8611,
+   "out": 418,
+   "secs": 2.6,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 3033,
+   "out": 1009,
+   "secs": 7.4,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 1,
+  "tokens_in": 55963,
+  "tokens_out": 4464,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 8.0
+ }
+}

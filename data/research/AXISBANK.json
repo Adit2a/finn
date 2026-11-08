@@ -1,0 +1,815 @@
+{
+ "symbol": "AXISBANK",
+ "name": "Axis Bank Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:14:21",
+ "latest_call": "Jul 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 410331.0,
+   "pe": 13.7,
+   "roce": 6.24,
+   "roe": 13.1,
+   "ttm_revenue": 141510.0,
+   "ttm_pat": 30038.0,
+   "margin_latest_q": null,
+   "de": 1.41,
+   "is_financial": true,
+   "margin_label": "Financing margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 32162.0,
+    "rev_yoy": 11.4,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 6779.0,
+    "pat_yoy": 4.0
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 32452.0,
+    "rev_yoy": 7.3,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 7509.0,
+    "pat_yoy": -1.6
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 32348.0,
+    "rev_yoy": 3.8,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 6279.0,
+    "pat_yoy": -2.9
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 32310.0,
+    "rev_yoy": 2.2,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 5567.0,
+    "pat_yoy": -25.1
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 33709.0,
+    "rev_yoy": 4.8,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 7060.0,
+    "pat_yoy": 4.1
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 34171.0,
+    "rev_yoy": 5.3,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 7642.0,
+    "pat_yoy": 1.8
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 35542.0,
+    "rev_yoy": 9.9,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 7670.0,
+    "pat_yoy": 22.2
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 38087.0,
+    "rev_yoy": 17.9,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 7666.0,
+    "pat_yoy": 37.7
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 63716.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 1879.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 64397.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 7252.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 68846.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 14207.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 87448.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 10919.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 112759.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 26492.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 127374.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 28191.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 132538.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 26548.0,
+    "ebit_margin": null
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 14.9,
+   "rev_cagr_5y": 15.5,
+   "pat_cagr_3y": 34.5,
+   "pat_cagr_5y": 29.6,
+   "margin_change_3y_bps": null
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 199778.0,
+    "equity": 118261.0,
+    "de": 1.69
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 206214.0,
+    "equity": 129781.0,
+    "de": 1.59
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 228200.0,
+    "equity": 157023.0,
+    "de": 1.45
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 220687.0,
+    "equity": 187235.0,
+    "de": 1.18
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 280511.0,
+    "equity": 215036.0,
+    "de": 1.3
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 324488.0,
+    "equity": 229665.0,
+    "de": 1.41
+   }
+  ],
+  "working_capital": {},
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 12633.0,
+    "pat": 7252.0,
+    "fcf": 11708.0,
+    "conv": 1.74
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 28137.0,
+    "pat": 14207.0,
+    "fcf": 26736.0,
+    "conv": 1.98
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 22075.0,
+    "pat": 10919.0,
+    "fcf": 20697.0,
+    "conv": 2.02
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": -5555.0,
+    "pat": 26492.0,
+    "fcf": -7931.0,
+    "conv": -0.21
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 44384.0,
+    "pat": 28191.0,
+    "fcf": 41951.0,
+    "conv": 1.57
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": -8637.0,
+    "pat": 26548.0,
+    "fcf": -10797.0,
+    "conv": -0.33
+   }
+  ],
+  "cash_conv_5y": 0.76,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (34.5% vs 14.9%): operating leverage"
+   },
+   {
+    "tone": "good",
+    "text": "Revenue growth accelerating (5% → 5% → 10% → 18%)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.axisbank.com/docs/default-source/call-transcript/q2fy26-media-conference-call-transcript.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.axis.bank.in/docs/default-source/shareholders/financial-results-and-other-information/call-transcript/2025-2026/q3fy26-earnings-call-transcript.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.axis.bank.in/docs/default-source/shareholders/financial-results-and-other-information/call-transcript/2025-2026/q4fy26-earnings-call.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.axis.bank.in/docs/default-source/shareholders/financial-results-and-other-information/call-transcript/2026-2027/q1fy27-earnings-call.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/854bc96b-9951-492e-ad95-d44fcc856195.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Oct 2025",
+   "url": "https://www.axisbank.com/docs/default-source/call-transcript/q2fy26-media-conference-call-transcript.pdf",
+   "pages": 27,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Margins to bottom out in Q3, subject to no incremental rate cuts",
+     "horizon": "Q3",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "for our franchise, we should see margins bottom up out in Q3. But please do note that this is subject to no incremental rate cuts.",
+     "page": 14,
+     "speaker": "Puneet Sharma",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Grow about 300 basis points above market in medium term",
+     "horizon": "medium term",
+     "low": 300,
+     "high": 300,
+     "unit": "bps",
+     "quote": "reiterate our aspiration in the medium term to grow about 300 basis points above market.",
+     "page": 25,
+     "speaker": "Subrat Mohanty",
+     "verified": true,
+     "id": "g1.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Total advances grew 5% QOQ and 12% YOY in Q2.",
+     "quote": "total advances grew 5% QOQ and 12% YOY.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Credit card business crossed 15 million cards in force.",
+     "quote": "our credit card business crossed 15 million Cards in force",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Net interest margin stood at 3.73% annualized for the quarter.",
+     "quote": "Our net interest margin stood at 3.73% for the quarter, annualized.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "claim": "GNPA at 1.46% down 11 basis points QOQ.",
+     "quote": "Our GNPA at 1.46% was down 11 basis points QOQ and 2 basis points YOY.",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "One-time standard asset provision details and rationale",
+     "quote": "Can you give some more color on what was the concern regarding the RBI had that you had to take this standard asset provision?",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Acquisition financing strategy against foreign lenders",
+     "quote": "I wanted to understand how are large banks like yours, large local banks like yours, kind of pitting yourself against the already established foreign lenders in the acquisition financing space?",
+     "page": 20,
+     "verified": true
+    },
+    {
+     "topic": "Concerns over regulatory and compliance issues",
+     "quote": "So, a week ago, I think around October 10th, the RBI's high-level committee issued a letter of caution to Axis Bank citing lapses in KYC norms related to an old account.",
+     "page": 23,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and transparent, emphasizing stable asset quality and strong growth amidst regulatory changes."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Jan 2026",
+   "url": "https://www.axis.bank.in/docs/default-source/shareholders/financial-results-and-other-information/call-transcript/2025-2026/q3fy26-earnings-call-transcript.pdf",
+   "pages": 23,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Maintain through cycle Net Interest Margin stance at 3.80%",
+     "horizon": "through cycle",
+     "low": 3.8,
+     "high": 3.8,
+     "unit": "%",
+     "quote": "The Bank maintains its through cycle stance of NIMs at 3.80% (cycle measured in terms of duration, starting from the date of last rate cut).",
+     "page": 6,
+     "speaker": "Puneet Sharma",
+     "verified": true,
+     "id": "g2.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Total advances grew 4% QoQ and 14% YoY in Q3",
+     "quote": "Our total advances grew 4% QOQ and 14% YOY.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "PAT grew 28% QoQ in Q3",
+     "quote": "Our PAT was up 28% QOQ.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "CET 1 ratio stands at 14.50%",
+     "quote": "The Bank remains well capitalized with a CET 1 ratio of 14.50%.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Deposits month-end balances grew 5% QoQ and 15% YoY",
+     "quote": "Our Deposits growth momentum continued with month‑end balances growing 5% QoQ and 15% YoY",
+     "page": 2,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Net Interest Margin guidance and mix effects",
+     "quote": "My second, again on NIMs, is you've seen 27%, year-on-year corporate loan growth, 6% year on your retail loan growth. And of course, you highlighted disbursements are improving. But how should we think about this impacting your NIMs on mix effects?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Deposit growth convergence timeline",
+     "quote": "What was surprising was the length of time you think the convergence will take..",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Retail asset book growth and strategy",
+     "quote": "What strategy are we adopting to improve the traction there? What do you think about the market share gain opportunities that exist in the retail asset side? Because the last few quarters, it's growing in a very narrow band, if I'm not wrong, between 1% to 2% quarter on quarter?",
+     "page": 19,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, resilient, and transparent regarding cycle navigation and strategic execution."
+  },
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "Apr 2026",
+   "url": "https://www.axis.bank.in/docs/default-source/shareholders/financial-results-and-other-information/call-transcript/2025-2026/q4fy26-earnings-call.pdf",
+   "pages": 17,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Through-cycle NIM of 3.80% within 15 to 18 months from transmission of last rate cut",
+     "horizon": "15 to 18 months",
+     "low": 3.8,
+     "high": 3.8,
+     "unit": "%",
+     "quote": "We'll reiterate we'll get to through-cycle 3.80%, 15 to 18 months from transmission of last rate cut. That's a consistent comment we've offered.",
+     "page": 11,
+     "speaker": "Puneet Sharma",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Maintain product mix target of 70% retail and SME and 30% wholesale plus-minus 3% or 4%",
+     "horizon": "medium term",
+     "low": 66,
+     "high": 74,
+     "unit": "%",
+     "quote": "we expect 70-30, 70% is what is retail and SME kind of business and 30% is wholesale, plus-minus 3% or 4% here and there, and that's what we expect to maintain.",
+     "page": 11,
+     "speaker": "Amitabh Chaudhry",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "profit",
+     "promise": "Aspire for an ROE of 18 percent at the bank level",
+     "horizon": "aspirational",
+     "low": 18,
+     "high": 18,
+     "unit": "%",
+     "quote": "At the bank level, we continue to aspire for 18% is what we would like to state.",
+     "page": 15,
+     "speaker": "Puneet Sharma",
+     "verified": true,
+     "id": "g3.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Total advances grew 6% QoQ and 19% YoY, with wholesale up 38%, SME 24% and retail 8% YoY",
+     "quote": "Our total advances grew 6% QOQ and 19% YOY, within which Wholesale grew 38%, SME 24% and Retail 8% on YOY basis.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated Q4FY26 ROA was 1.64% and ROE was 15.15%",
+     "quote": "Our consolidated Q4FY26 ROA was 1.64% and ROE was 15.15%",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "GNPA was at 1.23%, declining 17 bps QoQ and 5 bps YoY, with net credit cost at 0.37%",
+     "quote": "Our GNPA was at 1.23%, declining 17 bps QOQ and 5 bps YOY; while the Net credit cost was at 0.37%, down 13 bps YOY and 39 bps QoQ",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Created additional one-time standard asset provision of 2,001 crores during Q4 FY26",
+     "quote": "the Bank created an additional one-time provision of ₹2,001 crores during the quarter.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "NII optimization versus loan growth and NIM timing",
+     "quote": "Could you remind us if there is any day-count convention benefit in your NIMs? Secondly, if the full 25 bps rate cut from December has been passed on your EBLR book? And thirdly, if there's any residual TD repricing left on your book?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Wholesale growth acceleration and RAROC sustainability",
+     "quote": "At 34% year-on-year, you are growing your corporate book meaningfully faster than your peers. What opportunity do you see that others may not be seeing?",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Contingency provision usage conditions regarding West Asia crisis",
+     "quote": "So does that mean that if indeed the situation gets worse from here on, you would actually be drawing down on these provisions this year itself because you've not drawn down on your earlier contingency provisions?",
+     "page": 16,
+     "verified": true
+    }
+   ],
+   "tone": "Cautious, conservative, and disciplined amidst global macroeconomic and geopolitical uncertainties."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.axis.bank.in/docs/default-source/shareholders/financial-results-and-other-information/call-transcript/2026-2027/q1fy27-earnings-call.pdf",
+   "pages": 20,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Achieve structural NIM guidance of 3.8% including the time period mentioned in the past",
+     "horizon": "medium term",
+     "low": 3.8,
+     "high": 3.8,
+     "unit": "%",
+     "quote": "On the direction of NIM, we have not changed our structural NIM guidance of 3.8% including the time period that we have mentioned in the past.",
+     "page": 10,
+     "speaker": "Subrat Mohanty",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Grow at industry plus 300 bps in the medium term",
+     "horizon": "medium term",
+     "low": null,
+     "high": null,
+     "unit": "bps",
+     "quote": "I think what we've consistently said is we feel comfortable that we'll grow at industry plus 300 in the medium term.",
+     "page": 13,
+     "speaker": "Puneet Sharma",
+     "verified": true,
+     "id": "g4.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Total advances grew 19% YoY and 2% QoQ in Q1 FY27.",
+     "quote": "Our total advances grew 19% YOY and 2% QOQ, within which Wholesale grew 38%, SME 25% and Retail 8% on YOY basis.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Q1 FY27 Net Interest Margin (NIM) stood at 3.46%.",
+     "quote": "Our NIM for Q1FY27 at 3.46% is our cycle bottom.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Q1 FY27 consolidated PAT reached 7,114 crores, up 23% YoY.",
+     "quote": "PAT at ₹ 7,114 cr, up 23% YOY and 1% QOQ",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "NIM bridge and loan pricing impact",
+     "quote": "Can I get some color on the 9 basis points of pricing of loans that you gave in the quarter-on-quarter NIM bridge.",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Weekend reporting format",
+     "quote": "And I would urge if we could go back to week day reporting.",
+     "page": 16,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and firm in strategic direction amidst margin and macro pressures."
+  }
+ ],
+ "business": {
+  "what_it_does": "Bank providing retail, corporate, treasury, and other financial services.",
+  "segments": [
+   {
+    "name": "Treasury",
+    "revenue": 30409.97,
+    "unit": "crore",
+    "what": "Investments, trading, derivative trading and foreign exchange operations.",
+    "page": 499,
+    "share_pct": 14
+   },
+   {
+    "name": "Corporate/Wholesale Banking",
+    "revenue": 49329.2,
+    "unit": "crore",
+    "what": "Corporate relationships, advisory, syndication, project appraisals and cash management.",
+    "page": 499,
+    "share_pct": 22
+   },
+   {
+    "name": "Retail Banking",
+    "revenue": 39655.73,
+    "unit": "crore",
+    "what": "Lending, liability products, card services, internet and mobile banking to individuals and small businesses.",
+    "page": 499,
+    "share_pct": 18
+   },
+   {
+    "name": "Other Banking Business",
+    "revenue": 105438.09,
+    "unit": "crore",
+    "what": "Para banking activities including third party product distribution.",
+    "page": 499,
+    "share_pct": 47
+   }
+  ],
+  "mix_note": "Secured portfolio accounts for 73% of total retail loan book.",
+  "risks_mgmt_flags": [],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/854bc96b-9951-492e-ad95-d44fcc856195.pdf",
+  "pages_read": [
+   154,
+   175,
+   325,
+   440,
+   455,
+   498,
+   499,
+   500,
+   556,
+   566,
+   567,
+   568
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g2.1",
+    "promise": "Maintain through cycle NIM at 3.80%",
+    "made_in": "Q3 FY26 call",
+    "delivered": "Q2 FY26 NIM 3.73% and Q1 FY27 NIM 3.46% below 3.80%",
+    "verdict": "missed",
+    "checked_against": "Q2 FY26 NIM, Q1 FY27 NIM",
+    "quote": "The Bank maintains its through cycle stance of NIMs at 3.80% (cycle measured in terms of duration, starting from the date of last rate cut).",
+    "page": 6,
+    "verified": true,
+    "url": "https://www.axis.bank.in/docs/default-source/shareholders/financial-results-and-other-information/call-transcript/2025-2026/q3fy26-earnings-call-transcript.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Achieve structural NIM guidance of 3.8%",
+    "made_in": "Q1 FY27 call",
+    "delivered": "Q1 FY27 NIM 3.46% falls short of 3.8%",
+    "verdict": "missed",
+    "checked_against": "Q1 FY27 NIM",
+    "quote": "On the direction of NIM, we have not changed our structural NIM guidance of 3.8% including the time period that we have mentioned in the past.",
+    "page": 10,
+    "verified": true,
+    "url": "https://www.axis.bank.in/docs/default-source/shareholders/financial-results-and-other-information/call-transcript/2026-2027/q1fy27-earnings-call.pdf"
+   },
+   {
+    "ref": "g3.3",
+    "promise": "Aspire for ROE of 18% at bank level",
+    "made_in": "Q4 FY26 call",
+    "delivered": "Reported ROE 13.1% in Sep 2026",
+    "verdict": "missed",
+    "checked_against": "Sep 2026 ROE",
+    "quote": "At the bank level, we continue to aspire for 18% is what we would like to state.",
+    "page": 15,
+    "verified": true,
+    "url": "https://www.axis.bank.in/docs/default-source/shareholders/financial-results-and-other-information/call-transcript/2025-2026/q4fy26-earnings-call.pdf"
+   },
+   {
+    "ref": "g1.1",
+    "promise": "Margins to bottom out in Q3, no incremental rate cuts",
+    "made_in": "Q2 FY26 call",
+    "delivered": "No margin data reported; cannot assess yet",
+    "verdict": "too_early",
+    "checked_against": "NIM figures",
+    "quote": "for our franchise, we should see margins bottom up out in Q3. But please do note that this is subject to no incremental rate cuts.",
+    "page": 14,
+    "verified": true,
+    "url": "https://www.axisbank.com/docs/default-source/call-transcript/q2fy26-media-conference-call-transcript.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 3,
+   "line": "Management consistently falls short of its NIM and ROE targets."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Guidance of 3.80% NIM contrasts with reported 3.73% and 3.46%."
+   },
+   {
+    "agree": false,
+    "point": "ROE aspiration of 18% is far above the 13.1% actually delivered."
+   },
+   {
+    "agree": true,
+    "point": "Revenue growth of 17.9% YoY in Sep 2026 aligns with upbeat narrative."
+   }
+  ],
+  "bull": [
+   "Revenue rose 17.9% YoY in Sep 2026, showing strong top‑line momentum.",
+   "PAT grew 37.7% YoY in Sep 2026, indicating improving profitability.",
+   "Operating cash flow turned positive in Mar 2025, supporting liquidity."
+  ],
+  "bear": [
+   "NIM slipped to 3.46% in Q1 FY27, missing the 3.80% structural target.",
+   "ROE at 13.1% lags far behind the 18% aspiration.",
+   "Free cash flow negative in Mar 2026, raising cash‑generation concerns."
+  ],
+  "watch": [
+   "Q2 FY27 NIM to see if it approaches 3.80% target.",
+   "ROE trend in the next quarter for progress toward 18% goal."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13585,
+   "out": 729,
+   "secs": 23.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 17887,
+   "out": 646,
+   "secs": 3.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13769,
+   "out": 1084,
+   "secs": 14.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 15401,
+   "out": 632,
+   "secs": 3.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11998,
+   "out": 339,
+   "secs": 2.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 2901,
+   "out": 1108,
+   "secs": 3.2,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 75541,
+  "tokens_out": 4538,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 55.8
+ }
+}

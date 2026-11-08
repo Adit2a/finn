@@ -1,0 +1,890 @@
+{
+ "symbol": "BSE",
+ "name": "BSE Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:18:36",
+ "latest_call": "Aug 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 154996.0,
+   "pe": 50.3,
+   "roce": 60.0,
+   "roe": 46.0,
+   "ttm_revenue": 5806.0,
+   "ttm_pat": 3072.0,
+   "margin_latest_q": 68.0,
+   "de": 0.0,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 768.0,
+    "rev_yoy": 80.3,
+    "op_profit": 236.0,
+    "margin": 31.0,
+    "ebit_margin": 26.8,
+    "pat": 219.0,
+    "pat_yoy": 106.6
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 847.0,
+    "rev_yoy": 57.1,
+    "op_profit": 484.0,
+    "margin": 57.0,
+    "ebit_margin": 53.6,
+    "pat": 494.0,
+    "pat_yoy": 361.7
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 958.0,
+    "rev_yoy": 59.1,
+    "op_profit": 625.0,
+    "margin": 65.0,
+    "ebit_margin": 62.4,
+    "pat": 538.0,
+    "pat_yoy": 103.8
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 1068.0,
+    "rev_yoy": 31.4,
+    "op_profit": 680.0,
+    "margin": 64.0,
+    "ebit_margin": 60.7,
+    "pat": 557.0,
+    "pat_yoy": 61.0
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 1244.0,
+    "rev_yoy": 62.0,
+    "op_profit": 732.0,
+    "margin": 59.0,
+    "ebit_margin": 55.2,
+    "pat": 597.0,
+    "pat_yoy": 172.6
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 1564.0,
+    "rev_yoy": 84.7,
+    "op_profit": 1041.0,
+    "margin": 67.0,
+    "ebit_margin": 63.0,
+    "pat": 795.0,
+    "pat_yoy": 60.9
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 1566.0,
+    "rev_yoy": 63.5,
+    "op_profit": 1046.0,
+    "margin": 67.0,
+    "ebit_margin": 64.0,
+    "pat": 873.0,
+    "pat_yoy": 62.3
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 1433.0,
+    "rev_yoy": 34.2,
+    "op_profit": 973.0,
+    "margin": 68.0,
+    "ebit_margin": 64.7,
+    "pat": 808.0,
+    "pat_yoy": 45.1
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 609.0,
+    "op_profit": 127.0,
+    "margin": 21.0,
+    "pat": 121.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 630.0,
+    "op_profit": 202.0,
+    "margin": 32.0,
+    "pat": 142.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 841.0,
+    "op_profit": 352.0,
+    "margin": 42.0,
+    "pat": 245.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 925.0,
+    "op_profit": 316.0,
+    "margin": 34.0,
+    "pat": 206.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 1568.0,
+    "op_profit": 711.0,
+    "margin": 45.0,
+    "pat": 772.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 3212.0,
+    "op_profit": 1876.0,
+    "margin": 58.0,
+    "pat": 1322.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 5124.0,
+    "op_profit": 3480.0,
+    "margin": 68.0,
+    "pat": 2487.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 76.9,
+   "rev_cagr_5y": 52.1,
+   "pat_cagr_3y": 129.4,
+   "pat_cagr_5y": 77.3,
+   "margin_change_3y_bps": 3400
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 0.0,
+    "equity": 2654.0,
+    "de": 0.0
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 0.0,
+    "equity": 2701.0,
+    "de": 0.0
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 0.0,
+    "equity": 3302.0,
+    "de": 0.0
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 0.0,
+    "equity": 4424.0,
+    "de": 0.0
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 0.0,
+    "equity": 6673.0,
+    "de": 0.0
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 0.0,
+    "equity": 7952.0,
+    "de": 0.0
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     51.0
+    ],
+    [
+     "Mar 2022",
+     28.0
+    ],
+    [
+     "Mar 2023",
+     36.0
+    ],
+    [
+     "Mar 2024",
+     49.0
+    ],
+    [
+     "Mar 2025",
+     33.0
+    ],
+    [
+     "Mar 2026",
+     39.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     51.0
+    ],
+    [
+     "Mar 2022",
+     28.0
+    ],
+    [
+     "Mar 2023",
+     36.0
+    ],
+    [
+     "Mar 2024",
+     49.0
+    ],
+    [
+     "Mar 2025",
+     33.0
+    ],
+    [
+     "Mar 2026",
+     39.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -792.0
+    ],
+    [
+     "Mar 2022",
+     -1148.0
+    ],
+    [
+     "Mar 2023",
+     -846.0
+    ],
+    [
+     "Mar 2024",
+     -1107.0
+    ],
+    [
+     "Mar 2025",
+     -452.0
+    ],
+    [
+     "Mar 2026",
+     -333.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": -68.0,
+    "pat": 142.0,
+    "fcf": -106.0,
+    "conv": -0.48
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 1442.0,
+    "pat": 245.0,
+    "fcf": 1410.0,
+    "conv": 5.89
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": -137.0,
+    "pat": 206.0,
+    "fcf": -280.0,
+    "conv": -0.67
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 2643.0,
+    "pat": 772.0,
+    "fcf": 2513.0,
+    "conv": 3.42
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 414.0,
+    "pat": 1322.0,
+    "fcf": 262.0,
+    "conv": 0.31
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 3104.0,
+    "pat": 2487.0,
+    "fcf": 2589.0,
+    "conv": 1.25
+   }
+  ],
+  "cash_conv_5y": 1.48,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (129.4% vs 76.9%): operating leverage"
+   },
+   {
+    "tone": "good",
+    "text": "Operating margin up 3400 bps over 3 years"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 148% of profit"
+   },
+   {
+    "tone": "good",
+    "text": "Practically debt-free (D/E 0.0)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://nsearchives.nseindia.com/corporate/BSE1_17112025150702_NSEIntimation.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://nsearchives.nseindia.com/corporate/BSE1_13022026174918_NSEintimation13022026.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://nsearchives.nseindia.com/corporate/BSE1_13052026172037_NSEintimation.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://nsearchives.nseindia.com/corporate/BSE1_10082026115817_NSEIntimation.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://archives.nseindia.com/annual_reports/AR_29957_BSE_2025_2026_A_15352240_23072026103201.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Nov 2025",
+   "url": "https://nsearchives.nseindia.com/corporate/BSE1_17112025150702_NSEIntimation.pdf",
+   "pages": 21,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "Add another 70 to 90 racks by the close of this financial year.",
+     "horizon": "close of this financial year",
+     "low": 70,
+     "high": 90,
+     "unit": "units",
+     "quote": "We are expecting another 70 to 90 racks to come within the close of this financial year and which also will be allocated by us.",
+     "page": 16,
+     "speaker": "S. Ramamurthy",
+     "verified": true,
+     "id": "g1.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "BSE achieved record quarterly revenue of Rs. 1,139 crores for the 10th consecutive quarter.",
+     "quote": "BSE has once again achieved a record quarterly revenue for the 10th consecutive quarter posting its highest-ever topline of Rs. 1,139 crores.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Operational revenues grew 44% year-on-year to Rs. 1,068 crores.",
+     "quote": "BSE’s operational revenues have grown by 44% to Rs. 1,068 crores from Rs. 740 crores.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Net profit attributable to shareholders grew 61% to Rs. 558 crores.",
+     "quote": "The net profit attributable to shareholders of the Company stands at Rs. 558 crores up from Rs. 346 crores a growth of 61%.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "SME platform reached 657 listed companies raising over Rs. 13,083 crores as of October 2025.",
+     "quote": "As of October 2025, the platform hosts 657 listed companies which have collectively raised over Rs. 13,083 crores since launch.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Derivative product suit changes and GIFT city 0-DTE",
+     "quote": "So, are we going to follow the suit?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Voluntary core SGF contribution policy and targets",
+     "quote": "Have I heard it right? Correct me if I am wrong. Thank you.",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Capital expenditure breakdown of Rs. 300+ crores",
+     "quote": "If you look into your cash flow statement, it is clear that there is about Rs. 305 crores.",
+     "page": 18,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and responsive to stakeholder and analyst questions."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/BSE1_13022026174918_NSEintimation13022026.pdf",
+   "pages": 20,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Plan to allocate 80 more racks for colocation soon",
+     "horizon": "soon",
+     "low": null,
+     "high": 80,
+     "unit": "units",
+     "quote": "At this point of time, we are planning to allocate 80 more racks which is in the offing soon, which way and how will depend upon multiple factors. With that we will be having around 500 racks in place.",
+     "page": 13,
+     "speaker": "S. Ramamurthy",
+     "verified": true,
+     "id": "g2.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered 11th consecutive quarter of record revenue with Rs 1,334 crores",
+     "quote": "BSE delivered its 11th consecutive quarter of record revenue with consolidated revenues of Rs. 1,334 crores",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Operating EBITDA including contribution to core SGF more than tripled to Rs 732 crores",
+     "quote": "The operating EBITDA including contribution to core SGF has more than tripled to Rs. 732 crores as compared to Rs. 236 crores",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Net profit attributable to shareholders more than doubled to Rs 602 crores",
+     "quote": "The net profit attributable to the shareholders of the company has demonstrated a significant acceleration, more than doubling to Rs. 602 crores from Rs. 220 crores",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "SME platform successfully listed its 700th SME company on February 1, 2026",
+     "quote": "BSE's SME platform achieved a significant milestone with the successful listing of its 700th SME company on February 1, 2026.",
+     "page": 6,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Core SGF contribution runway",
+     "quote": "So the limit that you have in mind, so how much runway for that is left if you could give some colour on that, that would be very helpful.",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Entry into commodities segment",
+     "quote": "Just wanted to understand how are you seeing that category, and is that -- this a category of interest that you would like to build in the next coming years?",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Option pricing charges compared to peers",
+     "quote": "To my knowledge, premium compared to the turnover, we are charging lower than the NSE. So what is plan there to increase the same?",
+     "page": 16,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and focused on broader capital formation and market infrastructure development."
+  },
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/BSE1_13052026172037_NSEintimation.pdf",
+   "pages": 22,
+   "scanned": false,
+   "guidance": [],
+   "claims": [
+    {
+     "claim": "Consolidated revenues for Q4 FY26 stood at Rs 1,630 crores, a growth of 22%.",
+     "quote": "For the quarter ending March 2026, consolidated revenues stood at Rs. 1,630 crores, surpassing the previous quarter's record of Rs. 1,334 crores, a growth of 22%.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Full year FY26 consolidated revenues reached Rs 5,148 crores, up 59% year-on-year.",
+     "quote": "On a full-year basis, FY26 revenues reached Rs. 5,148 crores, as compared to Rs. 3,236 crores in FY25, translating into a year-on-year growth of 59%.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Operating EBITDA more than doubled to Rs 3,079 crores with margins expanding to 64%.",
+     "quote": "The operating EBITDA, including contribution to core SGF, has more than doubled to Rs. 3,079 crores as compared to Rs. 1,500 crores, with margins expanding to 64% from 51%.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Net profit attributable to shareholders reached Rs 2,497 crores, representing 88% growth.",
+     "quote": "The net profit attributable to the shareholders of the company has demonstrated a significant acceleration to reach Rs. 2,497 crores from Rs. 1,326 crores, representing a robust year-on-year growth of 88%.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "SGF contribution and future trajectory",
+     "quote": "Right, sir. Some forward-looking view on SGF could be very helpful, sir. If you see some of this continued, like a 20 crores kind of a contribution of whatever, some kind of contribution, colour would be better.",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Options pricing and leverage",
+     "quote": "So, could you give us some colour around how are you thinking about pricing going into FY27, given you have a lever to increase pricing there, or if you could reduce the Investor Protection Fund contribution like your competition has also done?",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Dividend payout ratio and cash retention",
+     "quote": "So, if you would just spell out what could be the reasons that you are holding on to excess cash on the balance sheet? And it also, you might be just generating 4%-4.5% post-tax returns on the excess cash?",
+     "page": 19,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and focused on long-term strategy, shareholder wealth creation, and disciplined growth."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/BSE1_10082026115817_NSEIntimation.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "Co-lo racks to sustain for a minimum of 1.5 years",
+     "horizon": "next 1.5 years",
+     "low": 1.5,
+     "high": 1.5,
+     "unit": "units",
+     "quote": "As far as what is the state, at this point of time, we feel the 500 racks that we have, with the proper off-take that has already happened, will sustain ourselves for at least a minimum of 1.5 years.",
+     "page": 10,
+     "speaker": "S. Ramamurthy",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "market share",
+     "promise": "Touch at least a very meaningfully double-digit market share in cash market by beginning of calendar year 2027",
+     "horizon": "beginning of calendar year 2027",
+     "low": 10.0,
+     "high": null,
+     "unit": "%",
+     "quote": "maybe by the beginning of the calendar year 2027, we should have touched at least a very meaningfully double-digit market share in cash market.",
+     "page": 14,
+     "speaker": "S. Ramamurthy",
+     "verified": true,
+     "id": "g4.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenues reached Rs. 1,707 crores in Q1 FY27, the 14th consecutive quarter of record revenues.",
+     "quote": "Consolidated revenues stood at Rs. 1,707 crores, surpassing the previous quarter's record of Rs. 1,630 crores.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Net profit attributable to shareholders reached Rs. 873 crores, a year-on-year growth of 62%.",
+     "quote": "The net profit attributable to the shareholders of the company has demonstrated a significant acceleration to reach Rs. 873 crores from Rs. 539 crores, representing a robust year-on-year growth of 62%",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Total registered investor accounts on BSE reached 25.8 crores.",
+     "quote": "The total number of investor accounts registered on the BSE has reached an impressive 25.8 crores",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Equity cash segment recorded highest-ever quarterly average daily turnover of Rs. 9,955 crores in Q1 FY27.",
+     "quote": "In the equity cash segment, BSE recorded its highest-ever quarterly average daily turnover of Rs. 9,955 crores in Q1 FY27",
+     "page": 6,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Co-location revenue breakdown and racks",
+     "quote": "I just wanted to understand, so, I mean, the quarter-on-quarter improvement in the revenue, just wanted to understand what is the situation here, if you could give some color in terms of off-take and number of racks that you have and any plans of further monetization if you could highlight, sir.",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Derivatives monthly volumes, FPI share, and regulatory impacts",
+     "quote": "And what is the kind of rate we are seeing there and also in terms of the market share gap between the notional and the premium when we can see that converging? And also if you can like give your initial thoughts on the recent CAS mechanism, is it how is it going to impact the volumes?",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Impact of regulatory changes like RBI circular and STT hike on volumes",
+     "quote": "Sir, I would like to understand the impact of these regulations on the overall volumes. So, there are two things basically. One is this RBI circular, which went live from 1st of July. How has been the impact of that on the market volumes?",
+     "page": 15,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and transparent regarding financial achievements and strategic expansion."
+  }
+ ],
+ "business": {
+  "what_it_does": "Operates stock exchanges, clearing corporations, and related platforms facilitating trading in financial instruments and mutual funds.",
+  "segments": [
+   {
+    "name": "Equity Derivatives",
+    "revenue": 313437,
+    "unit": "lakh",
+    "what": "Derivatives trading services to market participants",
+    "page": 75,
+    "share_pct": 85
+   },
+   {
+    "name": "StAR MF (Mutual Fund Platform)",
+    "revenue": 28490,
+    "unit": "lakh",
+    "what": "Mutual fund distribution infrastructure to distributors and investors",
+    "page": 75,
+    "share_pct": 8
+   },
+   {
+    "name": "Equity Cash",
+    "revenue": 25021,
+    "unit": "lakh",
+    "what": "Equity cash trading services to market participants",
+    "page": 75,
+    "share_pct": 7
+   }
+  ],
+  "mix_note": "Revenues are concentrated within India, accounting for 478,316 lakhs out of 483,634 lakhs total income for the company.",
+  "risks_mgmt_flags": [
+   "Exposure to actuarial risks including investment risk, interest rate risk, demographic risk, and salary risk.",
+   "Dependence on regulatory contributions and volume-correlated statutory levies impacting operating costs."
+  ],
+  "year": 2026,
+  "url": "https://archives.nseindia.com/annual_reports/AR_29957_BSE_2025_2026_A_15352240_23072026103201.pdf",
+  "pages_read": [
+   53,
+   75,
+   76,
+   212,
+   228,
+   231,
+   232,
+   236,
+   259,
+   287,
+   303,
+   306
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Add another 70 to 90 racks by close of FY26",
+    "made_in": "Q2 FY26",
+    "delivered": "No rack count disclosed; cannot confirm fulfillment",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "We are expecting another 70 to 90 racks to come within the close of this financial year and which also will be allocated by us.",
+    "page": 16,
+    "verified": true,
+    "url": "https://nsearchives.nseindia.com/corporate/BSE1_17112025150702_NSEIntimation.pdf"
+   },
+   {
+    "ref": "g2.1",
+    "promise": "Allocate 80 more racks soon, reaching ~500 racks",
+    "made_in": "Q3 FY26",
+    "delivered": "Rack numbers not reported; status unknown",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "At this point of time, we are planning to allocate 80 more racks which is in the offing soon, which way and how will depend upon multiple factors. With that we will be having around 500 racks in place.",
+    "page": 13,
+    "verified": true,
+    "url": "https://nsearchives.nseindia.com/corporate/BSE1_13022026174918_NSEintimation13022026.pdf"
+   },
+   {
+    "ref": "g4.2",
+    "promise": "Touch double‑digit cash‑market share by start of 2027",
+    "made_in": "Q1 FY27",
+    "delivered": "Market‑share data not provided; outcome pending",
+    "verdict": "too_early",
+    "checked_against": "none",
+    "quote": "maybe by the beginning of the calendar year 2027, we should have touched at least a very meaningfully double-digit market share in cash market.",
+    "page": 14,
+    "verified": true,
+    "url": "https://nsearchives.nseindia.com/corporate/BSE1_10082026115817_NSEIntimation.pdf"
+   }
+  ],
+  "credibility": {
+   "score": null,
+   "line": "None of these promises can be checked against reported numbers yet — no score."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Mgmt claimed record Q2 FY26 revenue of Rs 1,139 cr, but reported Q2 FY26 revenue was Rs 1,068 cr."
+   },
+   {
+    "agree": false,
+    "point": "Mgmt said FY26 full‑year revenue Rs 5,148 cr; reported FY26 revenue was Rs 5,124 cr, slightly below."
+   },
+   {
+    "agree": true,
+    "point": "Operating EBITDA margin rose to ~68% in FY26, matching the claim of higher margins."
+   }
+  ],
+  "bull": [
+   "FY26 EBITDA margin of 68% shows strong operating leverage.",
+   "PAT grew 61% YoY to Rs 2,487 cr in FY26, confirming profit acceleration.",
+   "Debt‑free balance sheet (D/E 0) supports financial flexibility."
+  ],
+  "bear": [
+   "Revenue missed stated record levels in Q2 FY26 (1,068 cr vs 1,139 cr claim).",
+   "Full‑year FY26 revenue fell short of claimed Rs 5,148 cr (actual 5,124 cr).",
+   "Lack of disclosed colocation rack numbers prevents verification of key promises."
+  ],
+  "watch": [
+   "Q2 FY27 rack deployment vs promised targets.",
+   "Cash‑market share progress toward double‑digit goal.",
+   "Revenue growth trend in upcoming quarters versus guidance."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 10739,
+   "out": 678,
+   "secs": 12.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 10560,
+   "out": 686,
+   "secs": 4.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11923,
+   "out": 705,
+   "secs": 3.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 9245,
+   "out": 972,
+   "secs": 4.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 10329,
+   "out": 315,
+   "secs": 2.9,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 2869,
+   "out": 956,
+   "secs": 3.5,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 55665,
+  "tokens_out": 4312,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 36.9
+ }
+}

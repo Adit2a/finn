@@ -1,0 +1,895 @@
+{
+ "symbol": "SHRIRAMFIN",
+ "name": "Shriram Finance Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:42:28",
+ "latest_call": "Oct 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 226179.0,
+   "pe": 17.8,
+   "roce": 11.5,
+   "roe": 16.4,
+   "ttm_revenue": 51877.0,
+   "ttm_pat": 12687.0,
+   "margin_latest_q": null,
+   "de": 2.12,
+   "is_financial": true,
+   "margin_label": "Financing margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 10698.0,
+    "rev_yoy": 19.9,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 3249.0,
+    "pat_yoy": 73.4
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 11454.0,
+    "rev_yoy": 20.8,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 2144.0,
+    "pat_yoy": 6.1
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 11536.0,
+    "rev_yoy": 20.1,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 2159.0,
+    "pat_yoy": 6.3
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 11912.0,
+    "rev_yoy": 18.1,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 2314.0,
+    "pat_yoy": 7.5
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 12171.0,
+    "rev_yoy": 13.8,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 2530.0,
+    "pat_yoy": -22.1
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 12513.0,
+    "rev_yoy": 9.2,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 3021.0,
+    "pat_yoy": 40.9
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 13400.0,
+    "rev_yoy": 16.2,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 3453.0,
+    "pat_yoy": 59.9
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 13792.0,
+    "rev_yoy": 15.8,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 3684.0,
+    "pat_yoy": 59.2
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 16561.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 2512.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 17422.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 2499.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 19255.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 2721.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 30492.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 6020.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 36388.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 7399.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 43941.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 9576.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 48135.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 10024.0,
+    "ebit_margin": null
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 16.4,
+   "rev_cagr_5y": 22.5,
+   "pat_cagr_3y": 18.5,
+   "pat_cagr_5y": 32.0,
+   "margin_change_3y_bps": null
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 114846.0,
+    "equity": 26095.0,
+    "de": 4.4
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 164202.0,
+    "equity": 43512.0,
+    "de": 3.77
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 195496.0,
+    "equity": 48947.0,
+    "de": 3.99
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 234197.0,
+    "equity": 56470.0,
+    "de": 4.15
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 250692.0,
+    "equity": 65918.0,
+    "de": 3.8
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 236272.0,
+    "equity": 111435.0,
+    "de": 2.12
+   }
+  ],
+  "working_capital": {},
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": -4239.0,
+    "pat": 2499.0,
+    "fcf": -4264.0,
+    "conv": -1.7
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": -8859.0,
+    "pat": 2721.0,
+    "fcf": -8893.0,
+    "conv": -3.26
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": -17625.0,
+    "pat": 6020.0,
+    "fcf": -17818.0,
+    "conv": -2.93
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": -31101.0,
+    "pat": 7399.0,
+    "fcf": -31361.0,
+    "conv": -4.2
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": -43652.0,
+    "pat": 9576.0,
+    "fcf": -43903.0,
+    "conv": -4.56
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": -13281.0,
+    "pat": 10024.0,
+    "fcf": -13475.0,
+    "conv": -1.32
+   }
+  ],
+  "cash_conv_5y": -3.2,
+  "flags": []
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=81dc8e22-7094-4f30-9fda-5ec2ddceb5d9.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=278e04d1-97db-4692-a20f-b118741c8b9c.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=498dc529-b121-4ea2-a2c5-46f9937b9706.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=67fe5457-89b0-4317-a59c-1795b3b42528.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/281fe009-9bb2-4e56-864b-f6a00da8725c.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=81dc8e22-7094-4f30-9fda-5ec2ddceb5d9.pdf",
+   "pages": 15,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "revenue growth",
+     "promise": "Grow at around 18% to 20% compared to previous 16-17%",
+     "horizon": "long-term",
+     "low": 18,
+     "high": 20,
+     "unit": "%",
+     "quote": "We have been growing around 16%-17%. We would like to grow another 3%-4% more, that is anywhere between 18%-20%.",
+     "page": 3,
+     "speaker": "Umesh Revankar",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Achieve 100 basis point advantage over the next two years on borrowing cost",
+     "horizon": "next two years",
+     "low": 100,
+     "high": 100,
+     "unit": "bps",
+     "quote": "overall we believe the 100 basis point advantage will get over the next two years on our borrowing cost.",
+     "page": 4,
+     "speaker": "Umesh Revankar",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "profit",
+     "promise": "ROA to expand from current 2.8 to around 3.6 over the period",
+     "horizon": "over the period",
+     "low": 3.6,
+     "high": 3.6,
+     "unit": "%",
+     "quote": "the ROA part of it, because the capital and lower cost, the ROA will expand from current 2.8 to around 3.6 over the period",
+     "page": 4,
+     "speaker": "Umesh Revankar",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "profit",
+     "promise": "ROE to return to current levels by 2031, about 5 years from now",
+     "horizon": "by 2031",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "and we would be able to go back to the current ROE by 31, that is around 5 years from now.",
+     "page": 4,
+     "speaker": "Umesh Revankar",
+     "verified": true,
+     "id": "g1.4"
+    },
+    {
+     "metric": "margin",
+     "promise": "Improve credit cost by around 10 to 20 basis points",
+     "horizon": "future",
+     "low": 10,
+     "high": 20,
+     "unit": "bps",
+     "quote": "around 10 to 20 basis point improvement in credit cost is a possibility",
+     "page": 4,
+     "speaker": "Umesh Revankar",
+     "verified": true,
+     "id": "g1.5"
+    },
+    {
+     "metric": "volume",
+     "promise": "Double new vehicle market share in the next three years",
+     "horizon": "next three years",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "which we would like to double it in the next three years.",
+     "page": 5,
+     "speaker": "Umesh Revankar",
+     "verified": true,
+     "id": "g1.6"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Propose 20% stake partnership with MUFG with fresh capital injection of approximately US$4.4 billion.",
+     "quote": "The proposed partnership with MUFG will be with a 20% stake, in the sense, the professional allotment given to them. So fresh capital would be coming in with approximately US$4.4 billion.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "India's GDP growth in the last two quarters has been around 8% plus.",
+     "quote": "Last 2 quarter, the GDP growth in India, if you have witnessed, it is growing around 8% plus, which is a very positive sign",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Achieved rating upgrade to AAA from one rating agency.",
+     "quote": "yesterday also one rating agency has upgraded us to AAA.",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Non-compete payment fairness to minority investors",
+     "quote": "But sir, this is unfair to the other minority, right? It's just this one cohort of investors who get something.",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Drivers of growth acceleration following equity infusion",
+     "quote": "So is it just this incremental capital which kind of now makes us more aggressive and we want to do 20%?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Conservatism of ROE targets and calculations",
+     "quote": "when looking at your commentary, it appears that your ROE target for the next five years appears a bit conservative.",
+     "page": 15,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and conservative regarding strategic growth and capital deployment."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=278e04d1-97db-4692-a20f-b118741c8b9c.pdf",
+   "pages": 16,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "AUM growth budgeted at 18% for the financial year",
+     "horizon": "FY27",
+     "low": 18,
+     "high": 18,
+     "unit": "%",
+     "quote": "Yes. We have projected and budgeted 18%, and we'll grow at 18%.",
+     "page": 7,
+     "speaker": "Umesh G. Revankar",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Net interest margin budgeted at 8.5% for next year",
+     "horizon": "FY27",
+     "low": 8.5,
+     "high": 8.5,
+     "unit": "%",
+     "quote": "Interest margin, we have budgeted 8.5 only.",
+     "page": 12,
+     "speaker": "Umesh G. Revankar",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Cost-to-income ratio expected to be in long-term range of 26% to 27%",
+     "horizon": "long-term",
+     "low": 26,
+     "high": 27,
+     "unit": "%",
+     "quote": "And as we have been earlier guiding, we should be in the long-term range, it should be around between 26% to 27%.",
+     "page": 7,
+     "speaker": "S. Sunder",
+     "verified": true,
+     "id": "g2.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "AUM grew 14.85% year-on-year to reach 3,02,273.75 crores",
+     "quote": "Our assets under management as on 31st March 2026, registered a growth of 14.85% over Q4 FY '25... stood at INR3,02,273.75 crores",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Profit after tax grew by 40.86% year-on-year to INR3,013.57 crores",
+     "quote": "Our profit after tax grew by 40.86% in Q4 FY '26 over Q4 FY '25. We registered PAT of INR3,013.57 crores",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Net interest income registered a growth of 15.58% year-on-year",
+     "quote": "Our net interest income in Q4 FY '26 registered a growth of 15.58% year-on-year. We earned a net interest income of INR6,994.08 crores",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Completed preferential allotment to MUFG Bank resulting in 20% stake",
+     "quote": "successfully completing preferential allotment of INR47,11,21,055 fully paid up equity shares... resulting in MUFG Bank holding 20% stake",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Asset quality and Stage 2/3 increase",
+     "quote": "So second question was, sir, now post this MUFG infusion, we are at the same level as far as the stake is concerned between you and MUFG",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Achievability of 18% growth amid headwinds",
+     "quote": "So what really gives you the confidence that 18% would be really possible?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Impact of fuel prices and inflation on credit costs",
+     "quote": "So are we looking at a higher let's say, building in a higher credit cost number for FY '27?",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "tone": "Cautious yet confident about steady growth amid macroeconomic and geopolitical uncertainties."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=498dc529-b121-4ea2-a2c5-46f9937b9706.pdf",
+   "pages": 16,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "Grow assets more than 15% in next quarter",
+     "horizon": "next quarter",
+     "low": 15.0,
+     "high": null,
+     "unit": "%",
+     "quote": "we are confident that we'll be able to grow more than 15% at least for next quarter.",
+     "page": 6,
+     "speaker": "Umesh Revankar",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Full year growth guidance of 18% holds good",
+     "horizon": "full year",
+     "low": 18.0,
+     "high": null,
+     "unit": "%",
+     "quote": "Our earlier guidance of 18% will hold good unless after second quarter, we revise it.",
+     "page": 6,
+     "speaker": "Umesh Revankar",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Manage NIM at around 8.5% in the medium term",
+     "horizon": "medium term",
+     "low": 8.5,
+     "high": 8.5,
+     "unit": "%",
+     "quote": "we will be able to manage the NIM at around 8.5% in the medium term.",
+     "page": 7,
+     "speaker": "Umesh Revankar",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Maintain credit cost around 2% in near to medium term",
+     "horizon": "near to medium term",
+     "low": 2.0,
+     "high": 2.0,
+     "unit": "%",
+     "quote": "our guidance has been around 2%. So it will remain around that in the near term or even in the medium term.",
+     "page": 9,
+     "speaker": "Umesh Revankar",
+     "verified": true,
+     "id": "g3.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Disbursement growth of 19.51% year-on-year achieved in Q1 FY27",
+     "quote": "We registered a disbursement growth of 19.51% Y-o-Y. Our disbursement in Q1 FY '27 this year aggregated to INR49,974.49 crores",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "AUM grew 15.26% year-on-year to INR313,798.39 crores as of June 2026",
+     "quote": "Our assets under management as on 30th June 2026 registered a growth of 15.26% over Q1 FY '26... stood at INR3,13,798.39 crores",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Net interest income grew 33.67% year-on-year to INR8,055.70 crores",
+     "quote": "Our net interest income in Q1 FY '27 registered a growth of 33.67% Y-o-Y. We earned a net interest income of INR8,055.70 crores",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Profit after tax grew 59.79% to INR3,444.56 crores in Q1 FY27",
+     "quote": "Our profit after tax grew by 59.79% and stands at INR3,444.56 crores in Q1 FY '27",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "NIM sustainability and conservative guidance",
+     "quote": "I mean this is where I have a problem with your guidance, I don't understand this 8.5% number. You're currently at 9%.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Excess liquidity utilization and borrowing plans",
+     "quote": "And sir, so the only thing I don't understand then is you have surplus liquidity within your books, right? But you have again said that between August and October, you will be raising new funds. What is that going to use for?",
+     "page": 13,
+     "verified": true
+    }
+   ],
+   "tone": "Cautiously optimistic, confident in growth and asset quality despite seasonal and geopolitical uncertainties."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=67fe5457-89b0-4317-a59c-1795b3b42528.pdf",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Maintain credit cost guidance at 2% for the full year",
+     "horizon": "FY27",
+     "low": 2.0,
+     "high": 2.0,
+     "unit": "%",
+     "quote": "And our guidance will remain at 2% credit cost.",
+     "page": 6,
+     "speaker": "Umesh Revankar",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Grow AUM between 15% to 17% for the year",
+     "horizon": "FY27",
+     "low": 15.0,
+     "high": 17.0,
+     "unit": "%",
+     "quote": "We will be anywhere growing anywhere between these two 15% to 17%. So we are very cautious in our growth.",
+     "page": 8,
+     "speaker": "Umesh Revankar",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Net interest margin to moderate to around 9 in medium term and 8.5 in long term",
+     "horizon": "medium to long-term",
+     "low": 8.5,
+     "high": 9.0,
+     "unit": "%",
+     "quote": "so, in the medium term, it should come to around 9, then maybe in the long term, it will come to around 8.5.",
+     "page": 6,
+     "speaker": "Umesh Revankar",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "margin",
+     "promise": "Cost to income ratio medium to long-term guidance around 25%",
+     "horizon": "medium to long-term",
+     "low": 25.0,
+     "high": 25.0,
+     "unit": "%",
+     "quote": "Having said that, the medium to long-term guidance will be the cost to income will be around 25%.",
+     "page": 17,
+     "speaker": "S. Sunder",
+     "verified": true,
+     "id": "g4.4"
+    },
+    {
+     "metric": "volume",
+     "promise": "Grow gold loan portfolio to double in next 3 years from 2.5% to 5% of book",
+     "horizon": "next 3 years",
+     "low": 5.0,
+     "high": 5.0,
+     "unit": "%",
+     "quote": "target for gold financing is to grow the book double in next 3 years from around 2.5% to around 5% of the book.",
+     "page": 16,
+     "speaker": "Aditya Tiwari",
+     "verified": true,
+     "id": "g4.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Disbursements grew 25.71% year-on-year to INR54,079.02 crores in Q2 FY27",
+     "quote": "Our disbursement in Q2 FY27 this year aggregated to INR54,079.02 crores versus INR43,019.17 crores in Q2 FY26.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "AUM grew 16.96% year-on-year to INR3,29,021.72 crores in Q2 FY27",
+     "quote": "Our AUM stood at INR3,29,021.72 crores as against INR2,81,309.46 crores a year ago",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Profit after tax grew 59.37% year-on-year to INR3,677.03 crores in Q2 FY27",
+     "quote": "our profit after tax grew at 59.37% and stands at INR3,677.03 crores in Q2 FY27 as against INR2,307.18 crores in Q2 FY26.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Net interest margin for Q2 FY27 stood at 9.52%",
+     "quote": "Our net interest margin in Q2 FY27 was 9.52% as against 8.19% in Q2 FY26 and 9.04% in Q1 FY27.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Asset quality deterioration in Stage 2 and Stage 3",
+     "quote": "Could you help us understand what is kind of creating this increase in Stage 2, Stage 3 loans?",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Sustainability of credit cost guidance",
+     "quote": "So, just to be clear, on the credit cost, is the guidance still 2% for the full year? Because you're already 2.5% this quarter",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Rising Stage 2 and Stage 3 in gold loans",
+     "quote": "Now the GS2, GS3 growth for the past 3 quarters, if you look at the Q-o-Q movement, it's very high.",
+     "page": 13,
+     "verified": true
+    }
+   ],
+   "tone": "Cautious yet confident about business performance amidst temporary seasonal and macro headwinds."
+  }
+ ],
+ "business": {
+  "what_it_does": "Provides financing services for pre-owned commercial vehicles, two-wheelers, MSMEs, gold loans, and personal loans.",
+  "segments": [],
+  "mix_note": "No single external customer contributes 10% or more to revenues.",
+  "risks_mgmt_flags": [
+   "Portfolio remains predominantly focused on the pre-owned commercial vehicle segment.",
+   "Loan book linked to commercial vehicles which move with freight activity and infrastructure cycles.",
+   "Operates with a higher cost of funds than banks as an NBFC."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/281fe009-9bb2-4e56-864b-f6a00da8725c.pdf",
+  "pages_read": [
+   40,
+   42,
+   105,
+   121,
+   126,
+   155,
+   183,
+   209,
+   215,
+   246,
+   272,
+   273
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Grow at around 18% to 20% compared to previous 16-17%",
+    "made_in": "Q3 FY26",
+    "delivered": "Reported Q4 FY26 revenue growth of 9.2% and AUM of 3,02,273.75 crores; Q2 FY27 AUM grew 16.96% year-on-year to 3,29,021.72 crores, missing 18-20%",
+    "verdict": "missed",
+    "checked_against": "Q4 FY26 revenue YoY 9.2%, Q2 FY27 AUM growth 16.96%",
+    "quote": "We have been growing around 16%-17%. We would like to grow another 3%-4% more, that is anywhere between 18%-20%.",
+    "page": 3,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=81dc8e22-7094-4f30-9fda-5ec2ddceb5d9.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "Grow assets more than 15% in next quarter",
+    "made_in": "Q1 FY27",
+    "delivered": "Reported Q1 FY27 AUM grew 15.26% year-on-year to INR313,798.39 crores",
+    "verdict": "delivered",
+    "checked_against": "Q1 FY27 AUM YoY 15.26%",
+    "quote": "we are confident that we'll be able to grow more than 15% at least for next quarter.",
+    "page": 6,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=498dc529-b121-4ea2-a2c5-46f9937b9706.pdf"
+   },
+   {
+    "ref": "g4.5",
+    "promise": "Grow gold loan portfolio to double in next 3 years from 2.5% to 5%",
+    "made_in": "Q2 FY27",
+    "delivered": "Target set for the next 3 years, therefore too early to confirm full delivery",
+    "verdict": "too_early",
+    "checked_against": "Q2 FY27 gold loan percentage",
+    "quote": "target for gold financing is to grow the book double in next 3 years from around 2.5% to around 5% of the book.",
+    "page": 16,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=67fe5457-89b0-4317-a59c-1795b3b42528.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 6,
+   "line": "Management frequently adjusts growth targets and missed initial 18-20% growth goals before lowering expectations to 15-17%."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Management guided for 18%-20% growth in Q3 FY26 (g1.1), but Q4 FY26 revenue growth slowed down to 9.2%."
+   },
+   {
+    "agree": true,
+    "point": "PAT growth remained strong, with Q2 FY27 PAT growing 59.37% year-on-year to INR3,677.03 crores alongside 16.96% AUM growth."
+   },
+   {
+    "agree": false,
+    "point": "Operating cash flow remains heavily negative at -13,281.0 crores in Mar 2026 despite rising reported net profit."
+   }
+  ],
+  "bull": [
+   "PAT grew 59.37% year-on-year to INR3,677.03 crores in Q2 FY27.",
+   "AUM reached 3,29,021.72 crores in Q2 FY27, representing a 16.96% year-on-year increase.",
+   "Equity expanded to 1,11,435.0 crores as of Sep 2026, lowering D/E to 2.12."
+  ],
+  "bear": [
+   "Operating cash flow remains profoundly negative at -13,281.0 crores for Mar 2026.",
+   "Management walked back its 18% AUM growth budget in Q2 FY27 to a lower 15%-17% range.",
+   "Revenue growth decelerated to 9.2% in Mar 2026 compared to 20.8% in Mar 2025."
+  ],
+  "watch": [
+   "Whether AUM growth stays within the revised 15% to 17% annual guidance.",
+   "Trajectory of negative operating cash flow relative to reported profits.",
+   "Stage 2 and Stage 3 asset quality trends."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 10840,
+   "out": 1175,
+   "secs": 4.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13441,
+   "out": 964,
+   "secs": 11.4,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12788,
+   "out": 1051,
+   "secs": 4.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14174,
+   "out": 1276,
+   "secs": 4.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12757,
+   "out": 127,
+   "secs": 2.7,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 3745,
+   "out": 1237,
+   "secs": 12.3,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 67745,
+  "tokens_out": 5830,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 45.4
+ }
+}

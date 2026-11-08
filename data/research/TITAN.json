@@ -1,0 +1,920 @@
+{
+ "symbol": "TITAN",
+ "name": "Titan Company Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T20:24:13",
+ "latest_call": "Aug 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 443582.0,
+   "pe": 62.4,
+   "roce": 20.5,
+   "roe": 37.7,
+   "ttm_revenue": 94306.0,
+   "ttm_pat": 7033.0,
+   "margin_latest_q": 14.0,
+   "de": 1.51,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 17740.0,
+    "rev_yoy": 25.2,
+    "op_profit": 1674.0,
+    "margin": 9.0,
+    "ebit_margin": 8.4,
+    "pat": 1047.0,
+    "pat_yoy": -0.6
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 14916.0,
+    "rev_yoy": 19.4,
+    "op_profit": 1537.0,
+    "margin": 10.0,
+    "ebit_margin": 9.1,
+    "pat": 871.0,
+    "pat_yoy": 13.0
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 16523.0,
+    "rev_yoy": 24.6,
+    "op_profit": 1830.0,
+    "margin": 11.0,
+    "ebit_margin": 10.0,
+    "pat": 1091.0,
+    "pat_yoy": 52.6
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 18725.0,
+    "rev_yoy": 28.8,
+    "op_profit": 1875.0,
+    "margin": 10.0,
+    "ebit_margin": 9.0,
+    "pat": 1120.0,
+    "pat_yoy": 59.1
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 25416.0,
+    "rev_yoy": 43.3,
+    "op_profit": 2713.0,
+    "margin": 11.0,
+    "ebit_margin": 9.9,
+    "pat": 1684.0,
+    "pat_yoy": 60.8
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 26920.0,
+    "rev_yoy": 80.5,
+    "op_profit": 1938.0,
+    "margin": 7.0,
+    "ebit_margin": 6.3,
+    "pat": 1179.0,
+    "pat_yoy": 35.4
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 21356.0,
+    "rev_yoy": 29.3,
+    "op_profit": 2890.0,
+    "margin": 14.0,
+    "ebit_margin": 12.3,
+    "pat": 1777.0,
+    "pat_yoy": 62.9
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 20614.0,
+    "rev_yoy": 10.1,
+    "op_profit": 2983.0,
+    "margin": 14.0,
+    "ebit_margin": 13.2,
+    "pat": 2393.0,
+    "pat_yoy": 113.7
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 21052.0,
+    "op_profit": 2463.0,
+    "margin": 12.0,
+    "pat": 1493.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 21644.0,
+    "op_profit": 1725.0,
+    "margin": 8.0,
+    "pat": 974.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 28799.0,
+    "op_profit": 3344.0,
+    "margin": 12.0,
+    "pat": 2198.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 40575.0,
+    "op_profit": 4882.0,
+    "margin": 12.0,
+    "pat": 3274.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 51084.0,
+    "op_profit": 5292.0,
+    "margin": 10.0,
+    "pat": 3496.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 60456.0,
+    "op_profit": 5694.0,
+    "margin": 9.0,
+    "pat": 3337.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 87584.0,
+    "op_profit": 8357.0,
+    "margin": 10.0,
+    "pat": 5073.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 29.2,
+   "rev_cagr_5y": 32.3,
+   "pat_cagr_3y": 15.7,
+   "pat_cagr_5y": 39.1,
+   "margin_change_3y_bps": -200
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 7275.0,
+    "equity": 9303.0,
+    "de": 0.78
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 9367.0,
+    "equity": 11851.0,
+    "de": 0.79
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 15528.0,
+    "equity": 9393.0,
+    "de": 1.65
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 20777.0,
+    "equity": 11624.0,
+    "de": 1.79
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 30621.0,
+    "equity": 15703.0,
+    "de": 1.95
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 27638.0,
+    "equity": 18263.0,
+    "de": 1.51
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     6.0
+    ],
+    [
+     "Mar 2022",
+     7.0
+    ],
+    [
+     "Mar 2023",
+     6.0
+    ],
+    [
+     "Mar 2024",
+     7.0
+    ],
+    [
+     "Mar 2025",
+     6.0
+    ],
+    [
+     "Mar 2026",
+     4.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     187.0
+    ],
+    [
+     "Mar 2022",
+     230.0
+    ],
+    [
+     "Mar 2023",
+     199.0
+    ],
+    [
+     "Mar 2024",
+     176.0
+    ],
+    [
+     "Mar 2025",
+     217.0
+    ],
+    [
+     "Mar 2026",
+     222.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     18.0
+    ],
+    [
+     "Mar 2022",
+     22.0
+    ],
+    [
+     "Mar 2023",
+     15.0
+    ],
+    [
+     "Mar 2024",
+     13.0
+    ],
+    [
+     "Mar 2025",
+     15.0
+    ],
+    [
+     "Mar 2026",
+     15.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     176.0
+    ],
+    [
+     "Mar 2022",
+     215.0
+    ],
+    [
+     "Mar 2023",
+     191.0
+    ],
+    [
+     "Mar 2024",
+     171.0
+    ],
+    [
+     "Mar 2025",
+     208.0
+    ],
+    [
+     "Mar 2026",
+     211.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     36.0
+    ],
+    [
+     "Mar 2022",
+     68.0
+    ],
+    [
+     "Mar 2023",
+     51.0
+    ],
+    [
+     "Mar 2024",
+     42.0
+    ],
+    [
+     "Mar 2025",
+     35.0
+    ],
+    [
+     "Mar 2026",
+     28.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 4139.0,
+    "pat": 974.0,
+    "fcf": 4000.0,
+    "conv": 4.25
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": -724.0,
+    "pat": 2198.0,
+    "fcf": -940.0,
+    "conv": -0.33
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 1370.0,
+    "pat": 3274.0,
+    "fcf": 950.0,
+    "conv": 0.42
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 1695.0,
+    "pat": 3496.0,
+    "fcf": 1024.0,
+    "conv": 0.48
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": -541.0,
+    "pat": 3337.0,
+    "fcf": -1011.0,
+    "conv": -0.16
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 5590.0,
+    "pat": 5073.0,
+    "fcf": 4713.0,
+    "conv": 1.1
+   }
+  ],
+  "cash_conv_5y": 0.43,
+  "flags": [
+   {
+    "tone": "bad",
+    "text": "Profit lagging sales over 3y (15.7% vs 29.2%): margins under pressure"
+   },
+   {
+    "tone": "bad",
+    "text": "Operating margin down 200 bps over 3 years"
+   },
+   {
+    "tone": "bad",
+    "text": "Only 43% of 5y profit showed up as operating cash"
+   },
+   {
+    "tone": "bad",
+    "text": "Leveraged balance sheet (D/E 1.51)"
+   },
+   {
+    "tone": "bad",
+    "text": "Cash cycle stretched by 40 days in 2 years (171 → 211)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3a5d70a-78ac-4407-aed7-e06b93e17a8f.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ee5b68b-8f66-4705-9a84-9debaa9aae1d.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1a3bc0e3-c7ff-4887-a18a-f73fd400e8ca.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f70a0a33-43cf-40b6-a753-67b06123e8de.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3a5d70a-78ac-4407-aed7-e06b93e17a8f.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "capex",
+     "promise": "Tanishq store openings target 35 to 40 for the year",
+     "horizon": "FY26",
+     "low": 35,
+     "high": 40,
+     "unit": "units",
+     "quote": "purely from new stores on Tanishq, I think 35 to 40 is a reasonable range to expect. 40 is the target.",
+     "page": 7,
+     "speaker": "Ajoy Chawla",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "YTD December growth rates should become better than first half growth rates",
+     "horizon": "YTD December",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "by the time we end -- we come to YTD December, our growth rates should have become better than the first half growth rates.",
+     "page": 10,
+     "speaker": "Ajoy Chawla",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Watch margins to gradually revert towards 15% to 16% band",
+     "horizon": "1-year, 2-year time frame",
+     "low": 15,
+     "high": 16,
+     "unit": "%",
+     "quote": "they will gradually revert towards 16%, 17% band. And on a long term, I would say the kind of investments are required, mid-teen is a good number to aim for, 15% to 16% for the business, at least in the 1-year, 2-year time frame.",
+     "page": 8,
+     "speaker": "Ashok Sonthalia",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Eyewear business to close the year at 13% to 14%",
+     "horizon": "FY26",
+     "low": 13,
+     "high": 14,
+     "unit": "%",
+     "quote": "we believe that we should be closing this year at a slightly higher number than what you are seeing, anywhere between 13% to 14%.",
+     "page": 9,
+     "speaker": "N. S. Raghavan",
+     "verified": true,
+     "id": "g1.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Growth in virtually all businesses, markets, and subsidiaries has been very satisfying.",
+     "quote": "The growth in virtually all our businesses, markets, subsidiaries have been very satisfying",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Gold price rise and customer behavior",
+     "quote": "what you're seeing on the ground, what the customers are telling you in the context of the parabolic rise in gold prices on three aspects.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "topic": "Jewellery margin pressures and guidance",
+     "quote": "Understood. No changes in margin guidance? So hence, we remain at those band that was shared earlier",
+     "page": 7,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and positive about festive demand while acknowledging margin uncertainties from gold prices."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ee5b68b-8f66-4705-9a84-9debaa9aae1d.pdf",
+   "pages": 19,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "CaratLane will gradually inch towards double-digit EBIT margin with scale",
+     "horizon": "future",
+     "low": 10.0,
+     "high": null,
+     "unit": "%",
+     "quote": "gradually, CaratLane with the scale will start inching towards double-digit EBIT margin. And I think they have reached -- they are maybe slightly earlier than what we expected, but I think they would stay there, low double-digit margin EBIT profile.",
+     "page": 13,
+     "speaker": "Ashok Sonthalia",
+     "verified": true,
+     "id": "g2.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Completed 67% stake acquisition of Damas with consolidation starting January 1st",
+     "quote": "We are very happy to announce that we completed 67% stake acquisition of Damas. And the accounting of that, you will see from 1st January, consolidation of Damas books into Titan consolidation will start from 1st January.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated labour code impact of INR152 crores shown as exceptional item",
+     "quote": "The impact on a consolidated level is INR152 crores, which has been shown an exceptional item in the consolidated as well as INR138 crores in stand-alone financials.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Delivered a great festive quarter with strong demand uptick on high base",
+     "quote": "It's been a great quarter, certainly a festive quarter on a high base. We are delighted to have seen this kind of uptick in demand.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Jewellery margin pressure and gold price impact",
+     "quote": "What would we need to have, Manoj, I didn't catch that. No, no. The discount on making charges given that the -- it's a percentage and it would have gone up 70%, 80% in blended gold inflation.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Jewellery gross margin dip and sustainability of growth investments",
+     "quote": "While operating leverage and other cost efficiencies has offset 150 basis points of this impact, why I'm sort of checking on this, because we have not seen such kind of a gross margin dip in previous quarters.",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Jewellery buyer growth and studded performance",
+     "quote": "You referred to that buyer growth has been flat. And at the same time, when we look at the studded growth, it has been lower than the jewellery business growth. How should we think about the transaction value of customers?",
+     "page": 7,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and upbeat regarding execution and strong festive demand amidst high gold price volatility."
+  },
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "Jun 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1a3bc0e3-c7ff-4887-a18a-f73fd400e8ca.pdf",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "Expand beYon lab-grown diamond stores to 10 to 12 stores in two to three cities",
+     "horizon": "this year",
+     "low": 10,
+     "high": 12,
+     "unit": "units",
+     "quote": "we would certainly like to expand to around 10 to 12 stores in two to three cities and then kind of see how that...",
+     "page": 9,
+     "speaker": "Arun Narayan",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Jewellery division CAGR of 15% to 20% over a 3 to 5 year horizon",
+     "horizon": "next 3 to 4 years",
+     "low": 15,
+     "high": 20,
+     "unit": "%",
+     "quote": "This is the growth rate we are expecting. We are not giving any guidance to you for FY27... 15% to 20%, three to five-year kind of horizon is certainly to be delivered on a CAGR basis",
+     "page": 11,
+     "speaker": "Ashok Sonthalia",
+     "verified": true,
+     "id": "g3.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "All businesses grew well with superlative Q4 top-line growth.",
+     "quote": "We have ended the year with a superlative Quarter 4 top-line growth, perhaps our best-ever in the recent past. All our businesses have grown very well",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "International business became profitable at the operating level for the full year.",
+     "quote": "one of the positive news for international business, if you look at the full year, at operating level, they became profitable.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Jewellery buyer growth returned to 8% in Q4.",
+     "quote": "very clearly, we have seen resurgence in buyer growth in Quarter 4 and what we have reported is 8% versus a flattish for the period prior to that.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Watches division overall growth was about 14% for the year.",
+     "quote": "If you look at both smart and analog put together because smart reduced in numbers, overall growth has been about 14% for the Watches division.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Gold supply delays and sourcing costs",
+     "quote": "The industry sources a considerable part of gold from Middle East and there was some news flow also that there has been delay in the renewal of import licenses by DGFT. I am checking if you could provide some color on the current inventory levels as well as any increasing costs related to sourcing that you foresee in the near term.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "topic": "Sustainability of jewellery segment EBIT margins",
+     "quote": "ability to sustain these margins, any insights of that will be great.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Impact of preponed wedding purchases on FY27 growth",
+     "quote": "Also, you mentioned customers might have preponed purchases. Is that a risk for FY27? And how confident are you of maintaining the growth rate or at least 20% growth, which you've been talking about in the past?",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and optimistic about long-term growth tailwinds despite short-term volatility in gold prices."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f70a0a33-43cf-40b6-a753-67b06123e8de.pdf",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Jewellery business normalized EBIT margin to hover around 11% center of gravity.",
+     "horizon": "full year basis",
+     "low": 11.0,
+     "high": 11.0,
+     "unit": "%",
+     "quote": "In the Investor Day and prior, we have said that more of 11% being the center of gravity for jewellery business margin, we would be around that plus/minus something can happen.",
+     "page": 5,
+     "speaker": "Ashok Sonthalia",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Targeting a healthy double-digit aggressive growth in jewellery business.",
+     "horizon": "medium to long term",
+     "low": 10.0,
+     "high": null,
+     "unit": "%",
+     "quote": "I think the headroom for growth for all our businesses is very high... For us to target a healthy double-digit growth in jewellery is inevitable.",
+     "page": 17,
+     "speaker": "Ajoy Chawla",
+     "verified": true,
+     "id": "g4.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Reported strong all-round growth across all businesses, brands, and subsidiaries.",
+     "quote": "We've seen all-round growth across all our businesses, all our brands, subsidiaries.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Realized customs duty rate increase gains of 407 crores at consolidated level.",
+     "quote": "we had overall at a consolidated level realization of ₹407 crores, ₹386 crores was in Tanishq Mia Zoya portfolio and ₹21 crores was in CaratLane.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Jewellery division EBIT benefited from accounting MTM in inventory due to price divergence.",
+     "quote": "we have accounting MTM in the inventory, which is -- which caused 75 to 80 basis point jewellery division EBIT upward.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Jewellery margin trajectory and one-offs",
+     "quote": "So, when we say the 11% EBIT margin, what will be the driver sort of for this to improve?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Competitive intensity and discounting",
+     "quote": "Now with gold price stabilizing, are you seeing that the competitive pressure on making charges, gold rate markup, all that has eased a little bit?",
+     "page": 13,
+     "verified": true
+    },
+    {
+     "topic": "Impact of flat/stable gold prices on top-line growth",
+     "quote": "do you think we can sort of maintain a 18% to 20% kind of top line growth in that kind of a scenario?",
+     "page": 11,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and transparent regarding one-off accounting items and structural growth drivers."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company sells watches, jewellery, eyewear, fragrances, Indian dress wear, and accessories.",
+  "segments": [
+   {
+    "name": "Watches",
+    "revenue": 5233,
+    "unit": "crore",
+    "what": "Sells watches to consumers",
+    "page": 172,
+    "share_pct": 7
+   },
+   {
+    "name": "Jewellery",
+    "revenue": 71108,
+    "unit": "crore",
+    "what": "Sells jewellery to consumers",
+    "page": 172,
+    "share_pct": 91
+   },
+   {
+    "name": "EyeCare",
+    "revenue": 907,
+    "unit": "crore",
+    "what": "Sells eyewear to consumers",
+    "page": 172,
+    "share_pct": 1
+   },
+   {
+    "name": "Others",
+    "revenue": 508,
+    "unit": "crore",
+    "what": "Sells Indian dress wear, fragrances, and accessories",
+    "page": 172,
+    "share_pct": 1
+   }
+  ],
+  "mix_note": "India revenue accounts for 76,408 crore out of 78,089 crore total standalone revenue.",
+  "risks_mgmt_flags": [
+   "Risk of change in fair value of fixed gold inventory due to movement in gold prices.",
+   "Risk of change in fair value of hedged item due to movement in interest rates."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf",
+  "pages_read": [
+   125,
+   172,
+   302,
+   305,
+   332,
+   333,
+   334,
+   393,
+   400,
+   433,
+   434,
+   436
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.2",
+    "promise": "YTD December growth rates should exceed first‑half growth rates",
+    "made_in": "Q2 FY26",
+    "delivered": "Dec 2025 revenue YoY 43.3% beat first‑half YoY 24.6%",
+    "verdict": "delivered",
+    "checked_against": "Dec 2025 revenue YoY",
+    "quote": "by the time we end -- we come to YTD December, our growth rates should have become better than the first half growth rates.",
+    "page": 10,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3a5d70a-78ac-4407-aed7-e06b93e17a8f.pdf"
+   },
+   {
+    "ref": "g1.3",
+    "promise": "Margins should revert towards 15‑16% EBIT margin",
+    "made_in": "Q2 FY26",
+    "delivered": "Sep 2026 EBIT% 13.2% stayed below 15% target",
+    "verdict": "missed",
+    "checked_against": "Sep 2026 EBIT%",
+    "quote": "they will gradually revert towards 16%, 17% band. And on a long term, I would say the kind of investments are required, mid-teen is a good number to aim for, 15% to 16% for the business, at least in the 1-year, 2-year time frame.",
+    "page": 8,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3a5d70a-78ac-4407-aed7-e06b93e17a8f.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 4,
+   "line": "Management overpromises margins and store targets, with numbers falling short."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Guidance of 15‑16% EBIT margin vs actual max 13.2% shows over‑optimism."
+   },
+   {
+    "agree": true,
+    "point": "Claim of higher YTD Dec growth vs first half matches 43.3% vs 24.6%."
+   },
+   {
+    "agree": false,
+    "point": "‘Superlative Q4 top‑line growth’ contrasts with Q4 revenue YoY 10.1% only."
+   }
+  ],
+  "bull": [
+   "Revenue surged 80.5% YoY in Mar 2026, indicating strong top‑line momentum.",
+   "EBIT margin rose to 13.2% by Sep 2026, approaching double‑digit goal.",
+   "Operating cash flow jumped to ₹5,590 cr in Mar 2026, improving liquidity."
+  ],
+  "bear": [
+   "EBIT margin remains below promised 15‑16% band, missing target.",
+   "EBITDA% fell to 7% in Mar 2026, down from 12% three years ago.",
+   "Debt rose to ₹30,621 cr by Mar 2026, D/E 1.95, indicating leverage risk."
+  ],
+  "watch": [
+   "Will EBIT% reach 15% in FY27?",
+   "Tanishq and beYon store‑count expansions progress?",
+   "Gold price impact on jewellery margins."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14745,
+   "out": 777,
+   "secs": 3.7,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14398,
+   "out": 680,
+   "secs": 3.8,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13501,
+   "out": 850,
+   "secs": 3.4,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13208,
+   "out": 714,
+   "secs": 3.4,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 8480,
+   "out": 348,
+   "secs": 2.7,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "openai/gpt-oss-120b",
+   "in": 3014,
+   "out": 1748,
+   "secs": 35.9,
+   "cached": false,
+   "fallback": false
+  }
+ ],
+ "ledger_model": "openai/gpt-oss-120b",
+ "ledger_fallback": false,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 1,
+  "tokens_in": 67346,
+  "tokens_out": 5117,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "openai/gpt-oss-120b"
+  ],
+  "usd": 0.0,
+  "secs": 36.6
+ }
+}

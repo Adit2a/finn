@@ -1,0 +1,942 @@
+{
+ "symbol": "HINDUNILVR",
+ "name": "Hindustan Unilever Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:25:20",
+ "latest_call": "Nov 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 470013.0,
+   "pe": 42.0,
+   "roce": 28.4,
+   "roe": 31.0,
+   "ttm_revenue": 68359.0,
+   "ttm_pat": 15073.0,
+   "margin_latest_q": 22.0,
+   "de": 0.03,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 15556.0,
+    "rev_yoy": -0.1,
+    "op_profit": 3689.0,
+    "margin": 24.0,
+    "ebit_margin": 21.7,
+    "pat": 2989.0,
+    "pat_yoy": 19.2
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 15190.0,
+    "rev_yoy": -0.1,
+    "op_profit": 3618.0,
+    "margin": 24.0,
+    "ebit_margin": 21.7,
+    "pat": 2475.0,
+    "pat_yoy": -3.4
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 15757.0,
+    "rev_yoy": 0.3,
+    "op_profit": 3639.0,
+    "margin": 23.0,
+    "ebit_margin": 21.0,
+    "pat": 2768.0,
+    "pat_yoy": 6.0
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 15919.0,
+    "rev_yoy": -0.0,
+    "op_profit": 3782.0,
+    "margin": 24.0,
+    "ebit_margin": 21.7,
+    "pat": 2694.0,
+    "pat_yoy": 3.8
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 16441.0,
+    "rev_yoy": 5.7,
+    "op_profit": 3781.0,
+    "margin": 23.0,
+    "ebit_margin": 20.9,
+    "pat": 6603.0,
+    "pat_yoy": 120.9
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 16351.0,
+    "rev_yoy": 7.6,
+    "op_profit": 3837.0,
+    "margin": 23.0,
+    "ebit_margin": 21.3,
+    "pat": 2994.0,
+    "pat_yoy": 21.0
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 17341.0,
+    "rev_yoy": 10.1,
+    "op_profit": 3947.0,
+    "margin": 23.0,
+    "ebit_margin": 20.7,
+    "pat": 2680.0,
+    "pat_yoy": -3.2
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 18226.0,
+    "rev_yoy": 14.5,
+    "op_profit": 4089.0,
+    "margin": 22.0,
+    "ebit_margin": 20.4,
+    "pat": 2796.0,
+    "pat_yoy": 3.8
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 39783.0,
+    "op_profit": 9861.0,
+    "margin": 25.0,
+    "pat": 6756.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 47028.0,
+    "op_profit": 11626.0,
+    "margin": 25.0,
+    "pat": 7999.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 52446.0,
+    "op_profit": 12857.0,
+    "margin": 25.0,
+    "pat": 8892.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 60580.0,
+    "op_profit": 14147.0,
+    "margin": 23.0,
+    "pat": 10143.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 61896.0,
+    "op_profit": 14659.0,
+    "margin": 24.0,
+    "pat": 10282.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 61328.0,
+    "op_profit": 14698.0,
+    "margin": 24.0,
+    "pat": 10671.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 64468.0,
+    "op_profit": 15039.0,
+    "margin": 23.0,
+    "pat": 15059.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 2.1,
+   "rev_cagr_5y": 6.5,
+   "pat_cagr_3y": 14.1,
+   "pat_cagr_5y": 13.5,
+   "margin_change_3y_bps": 0
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 1043.0,
+    "equity": 49061.0,
+    "de": 0.02
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 1219.0,
+    "equity": 50304.0,
+    "de": 0.02
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 1484.0,
+    "equity": 51218.0,
+    "de": 0.03
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 1648.0,
+    "equity": 49402.0,
+    "de": 0.03
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 1478.0,
+    "equity": 48739.0,
+    "de": 0.03
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 1672.0,
+    "equity": 48830.0,
+    "de": 0.03
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     14.0
+    ],
+    [
+     "Mar 2022",
+     16.0
+    ],
+    [
+     "Mar 2023",
+     19.0
+    ],
+    [
+     "Mar 2024",
+     18.0
+    ],
+    [
+     "Mar 2025",
+     23.0
+    ],
+    [
+     "Mar 2026",
+     19.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     66.0
+    ],
+    [
+     "Mar 2022",
+     65.0
+    ],
+    [
+     "Mar 2023",
+     55.0
+    ],
+    [
+     "Mar 2024",
+     55.0
+    ],
+    [
+     "Mar 2025",
+     61.0
+    ],
+    [
+     "Mar 2026",
+     61.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     163.0
+    ],
+    [
+     "Mar 2022",
+     145.0
+    ],
+    [
+     "Mar 2023",
+     123.0
+    ],
+    [
+     "Mar 2024",
+     143.0
+    ],
+    [
+     "Mar 2025",
+     156.0
+    ],
+    [
+     "Mar 2026",
+     169.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     -83.0
+    ],
+    [
+     "Mar 2022",
+     -64.0
+    ],
+    [
+     "Mar 2023",
+     -50.0
+    ],
+    [
+     "Mar 2024",
+     -70.0
+    ],
+    [
+     "Mar 2025",
+     -72.0
+    ],
+    [
+     "Mar 2026",
+     -89.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -32.0
+    ],
+    [
+     "Mar 2022",
+     -22.0
+    ],
+    [
+     "Mar 2023",
+     -15.0
+    ],
+    [
+     "Mar 2024",
+     -22.0
+    ],
+    [
+     "Mar 2025",
+     -34.0
+    ],
+    [
+     "Mar 2026",
+     -23.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 9163.0,
+    "pat": 7999.0,
+    "fcf": 5097.0,
+    "conv": 1.15
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 9048.0,
+    "pat": 8892.0,
+    "fcf": 7995.0,
+    "conv": 1.02
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 9991.0,
+    "pat": 10143.0,
+    "fcf": 8980.0,
+    "conv": 0.99
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 15469.0,
+    "pat": 10282.0,
+    "fcf": 14012.0,
+    "conv": 1.5
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 11886.0,
+    "pat": 10671.0,
+    "fcf": 10624.0,
+    "conv": 1.11
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 10999.0,
+    "pat": 15059.0,
+    "fcf": 9667.0,
+    "conv": 0.73
+   }
+  ],
+  "cash_conv_5y": 1.04,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Profit compounding faster than sales over 3y (14.1% vs 2.1%): operating leverage"
+   },
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 104% of profit"
+   },
+   {
+    "tone": "good",
+    "text": "Practically debt-free (D/E 0.03)"
+   },
+   {
+    "tone": "good",
+    "text": "Cash cycle tightened by 19 days in 2 years (-70 → -89)"
+   },
+   {
+    "tone": "good",
+    "text": "Revenue growth accelerating (6% → 8% → 10% → 14%)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38a5c0b9-6eee-4de5-bdd8-98ac200204cc.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55988411-440d-4801-8c08-90a5908c4a04.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f8bf7fdd-0f7d-4440-a443-08ea9a8e6d04.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d90194e-b9dc-48b0-b48e-3de0d0ef5f6d.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/881493e4-75af-4a7f-8c64-9d0886e63f1d.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38a5c0b9-6eee-4de5-bdd8-98ac200204cc.pdf",
+   "pages": 35,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "revenue growth",
+     "promise": "FY27 revenue growth expected to be better than FY26",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "expect growth in financial year'27 to be better than financial year'26.",
+     "page": 13,
+     "speaker": "Niranjan Gupta",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Consolidated EBITDA margin to stay around guided range",
+     "horizon": "FY27",
+     "low": 22.0,
+     "high": 23.0,
+     "unit": "%",
+     "quote": "we expect consolidated EBITDA margin to stay around the guided range.",
+     "page": 13,
+     "speaker": "Niranjan Gupta",
+     "verified": true,
+     "id": "g1.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered Underlying Sales Growth of 5% with Underlying Volume Growth of 4%",
+     "quote": "we delivered an Underlying Sales Growth of 5% driven by an Underlying Volume Growth of 4%.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Achieved highest ever market share in Home Care",
+     "quote": "the segment has continued to gain market share and has achieved its highest ever market share",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "claim": "Recorded highest UVG in the last 12 quarters",
+     "quote": "Our UVG for the quarter is the highest UVG that we have recorded in the last 12 quarters.",
+     "page": 15,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Double-digit revenue growth feasibility and macro assumptions",
+     "quote": "What has to change for HUL to deliver 10% revenue growth? So, is it primarily a macro constraint or a portfolio issue?",
+     "page": 30,
+     "verified": true
+    },
+    {
+     "topic": "EBITDA margin guidance vs higher run-rate",
+     "quote": "why we are still fairly focused on that 12.5 to 13.5 range -- implied range. This quarter, we've done 13.7",
+     "page": 28,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and optimistic about consumption recovery and internal strategic transformation actions."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55988411-440d-4801-8c08-90a5908c4a04.pdf",
+   "pages": 36,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Mid-term margin guidance to remain around current range of 22.5% to 23.5%.",
+     "horizon": "mid-term",
+     "low": 22.5,
+     "high": 23.5,
+     "unit": "%",
+     "quote": "we expect the mid-term margin guidance to remain around our current guided range of 22.5% to 23.5%.",
+     "page": 14,
+     "speaker": "Niranjan Gupta",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Expect FY27 to be better than FY26.",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "we expect FY’27 to be better than FY’26.",
+     "page": 14,
+     "speaker": "Niranjan Gupta",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "capex",
+     "promise": "Committed Rs 2,000 crores of capex investments in premium formats of Beauty and Home Care.",
+     "horizon": "future",
+     "low": 2000,
+     "high": 2000,
+     "unit": "cr",
+     "quote": "For instance, we have recently committed Rs. 2,000 crores of capex investments in premium formats of Beauty and Home Care.",
+     "page": 5,
+     "speaker": "Priya Nair",
+     "verified": true,
+     "id": "g2.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated Revenue grew 8% supported by 7% Underlying Sales Growth.",
+     "quote": "Against this operating backdrop, we delivered an 8% Consolidated Revenue Growth. This was supported by 7% Underlying Sales Growth",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "EBITDA grew 6% YoY with EBITDA margin at 23.7%.",
+     "quote": "From a profitability perspective, EBITDA grew 6% year-on-year with EBITDA margin at 23.7%, coming in at the higher end of our guidance.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Volume growth drivers and pricing elasticity gains",
+     "quote": "One, if you could just help us understand, because it's been a good six months after the GST price cuts etc. in certain categories. If you talk about, let's say, the positive effects of price elasticity gains",
+     "page": 15,
+     "verified": true
+    },
+    {
+     "topic": "Impact of El Nino and milk inflation on Lifestyle Nutrition",
+     "quote": "Would you see that as a big challenge in terms of this growth recovery? Because you have seen good recovery, but can this derail, say in H2 or that kind of a timeframe when milk becomes inflationary?",
+     "page": 18,
+     "verified": true
+    },
+    {
+     "topic": "Home care price hikes and margin pressures from crude volatility",
+     "quote": "How do you plan to manage, especially in the context of the volatility that we are seeing in the input prices?",
+     "page": 21,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, resolute and operationally agile amidst volatile commodity environments."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f8bf7fdd-0f7d-4440-a443-08ea9a8e6d04.pdf",
+   "pages": 26,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Expect EBITDA Margin to remain around the current guided range for FY27",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": "%",
+     "quote": "We, therefore, expect EBITDA Margin to remain around the current guided range.",
+     "page": 9,
+     "speaker": "Niranjan Gupta",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Full year '27 will be better than full year '26",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "we remain confident that FY’27 will be better than FY’26.",
+     "page": 9,
+     "speaker": "Niranjan Gupta",
+     "verified": true,
+     "id": "g3.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Turnover stood at INR17,184 crores with Underlying Sales Growth of 10%",
+     "quote": "Turnover for the quarter stood at INR17,184 crores, with an Underlying Sales Growth of 10%, driven equally by volume and price.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Delivered an EBITDA margin of 23% within the guided range",
+     "quote": "delivering EBITDA Margin of 23%, which was within the guided range.",
+     "page": 6,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Soaps volume decline",
+     "quote": "Just double clicking on only one point and I will come back in the queue. In your opinion, the reason I was saying in your opinion because nowadays, given the channel complexity, market shares is not that straightforward to calculate. In your opinion, do you have held shares in soaps? Or how that has moved actually in the bar category?",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Ad spend growth vs sales",
+     "quote": "When you see the growth rate in conjuncture with sales growth, it has been lower since. It seems like some under-investing is happening to maintain the margins. So wanted a quick comment on that, if you don't mind.",
+     "page": 12,
+     "verified": true
+    },
+    {
+     "topic": "Soaps volume decline despite flat/negative consumer pricing",
+     "quote": "So why is there a volume decline in this segment?",
+     "page": 20,
+     "verified": true
+    }
+   ],
+   "tone": "Confident in portfolio resilience and demand stability while exercising operational discipline amid external volatility."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d90194e-b9dc-48b0-b48e-3de0d0ef5f6d.pdf",
+   "pages": 26,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Expect medium-term EBITDA Margin to be within the current guided range of 22% to 24%.",
+     "horizon": "medium-term",
+     "low": 22,
+     "high": 24,
+     "unit": "%",
+     "quote": "We expect medium-term EBITDA Margin to be within the current guided range of 22% to 24%.",
+     "page": 9,
+     "speaker": "Niranjan Gupta",
+     "verified": true,
+     "id": "g4.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered Turnover of Rs. 18,071 crores with 15% Underlying Sales Growth.",
+     "quote": "we delivered a Turnover of Rs. 18,071 crores with a 15% Underlying Sales Growth, our highest in the last 14 quarters.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Underlying Volume Growth remained strong at 7%.",
+     "quote": "Underlying Volume Growth remained strong at 7%, underpinned by disciplined execution and ongoing portfolio transformation.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "PAT before exceptional items grew 9% to Rs. 2,795 crores.",
+     "quote": "Profit After Tax before exceptional items growing 9% to Rs. 2,795 crores.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Home Care and Beauty & Wellbeing delivered strong double-digit USG.",
+     "quote": "Home Care and Beauty & Wellbeing delivering strong double-digit USG driven by strong double-digit UVG.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Volume growth momentum and rural demand sustainability",
+     "quote": "do you worry about any moderation in volume growth momentum ahead? And what are you witnessing on the ground, particularly in rural",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Gross margins and inflation pass-through",
+     "quote": "do you think Gross Margins have kind of bottomed out in this quarter? Or you think one should continue to see some more pressure on Gross Margin trajectory",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Earnings growth vs revenue growth and operating leverage",
+     "quote": "The earning growth seems to be a bit lacklustre. And especially coming from Home Care and if I may say, just the soaps portfolio",
+     "page": 15,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and resilient, highlighting strong volume-led growth and strategic execution."
+  }
+ ],
+ "business": {
+  "what_it_does": "Company offers FMCG products including beauty, wellbeing, home care, personal care, and foods.",
+  "segments": [
+   {
+    "name": "Home Care",
+    "revenue": 23672,
+    "unit": "crore",
+    "what": "Fabric wash, household care, fabric solutions, home and hygiene products",
+    "page": 7,
+    "share_pct": 38
+   },
+   {
+    "name": "Beauty & Wellbeing",
+    "revenue": 14990,
+    "unit": "crore",
+    "what": "Skin care, colour cosmetics, hair care, minimalist, health and wellbeing",
+    "page": 7,
+    "share_pct": 24
+   },
+   {
+    "name": "Personal Care",
+    "revenue": 9564,
+    "unit": "crore",
+    "what": "Oral care, deodorant, male toiletries, skin cleansing",
+    "page": 7,
+    "share_pct": 15
+   },
+   {
+    "name": "Foods",
+    "revenue": 14061,
+    "unit": "crore",
+    "what": "Tea, lifestyle nutrition, coffee, packaged foods",
+    "page": 7,
+    "share_pct": 23
+   }
+  ],
+  "mix_note": "The company does not receive 10% or more of its revenues from transactions with any single external customer.",
+  "risks_mgmt_flags": [
+   "Cost landscape remained volatile, impacted by sharp commodity movements and currency headwinds.",
+   "Escalation of the Middle East crisis led to a sharp spike in crude-linked commodity costs."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/881493e4-75af-4a7f-8c64-9d0886e63f1d.pdf",
+  "pages_read": [
+   7,
+   12,
+   45,
+   49,
+   160,
+   161,
+   170,
+   178,
+   208,
+   210,
+   220,
+   229
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.2",
+    "promise": "Consolidated EBITDA margin to stay around guided range.",
+    "made_in": "Q3 FY26 call",
+    "delivered": "Dec 2025 EBITDA margin was 23.0% and Mar 2026 was 23.0%, staying within the guided 22.5%-23.5% range.",
+    "verdict": "delivered",
+    "checked_against": "Dec 2025 and Mar 2026 EBITDA%",
+    "quote": "we expect consolidated EBITDA margin to stay around the guided range.",
+    "page": 13,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38a5c0b9-6eee-4de5-bdd8-98ac200204cc.pdf"
+   },
+   {
+    "ref": "g2.1",
+    "promise": "Mid-term margin guidance to remain around 22.5% to 23.5%.",
+    "made_in": "Q4 FY26 call",
+    "delivered": "Jun 2026 EBITDA margin was 23.0%, within the 22.5%-23.5% range.",
+    "verdict": "delivered",
+    "checked_against": "Jun 2026 EBITDA%",
+    "quote": "we expect the mid-term margin guidance to remain around our current guided range of 22.5% to 23.5%.",
+    "page": 14,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55988411-440d-4801-8c08-90a5908c4a04.pdf"
+   },
+   {
+    "ref": "g1.1",
+    "promise": "FY27 revenue growth expected to be better than FY26.",
+    "made_in": "Q3 FY26 call",
+    "delivered": "FY26 revenue growth was 5.1% (64468.0 vs 61328.0), while Jun 2026 was 10.1% and Sep 2026 was 14.5% Rev YoY.",
+    "verdict": "delivered",
+    "checked_against": "Jun 2026 and Sep 2026 Rev YoY%",
+    "quote": "expect growth in financial year'27 to be better than financial year'26.",
+    "page": 13,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38a5c0b9-6eee-4de5-bdd8-98ac200204cc.pdf"
+   },
+   {
+    "ref": "g2.3",
+    "promise": "Committed Rs 2,000 crores of capex investments in premium formats.",
+    "made_in": "Q4 FY26 call",
+    "delivered": "Management reported a commitment of Rs. 2,000 crores, but specific capex outlay figures are not isolated in the reported data.",
+    "verdict": "too_early",
+    "checked_against": "Reported cash flows and capex lines",
+    "quote": "For instance, we have recently committed Rs. 2,000 crores of capex investments in premium formats of Beauty and Home Care.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55988411-440d-4801-8c08-90a5908c4a04.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Expect medium-term EBITDA Margin to be within guided range of 22% to 24%.",
+    "made_in": "Q2 FY27 call",
+    "delivered": "Sep 2026 EBITDA margin reported at 22.0%, sitting at the lower boundary of the 22% to 24% range.",
+    "verdict": "delivered",
+    "checked_against": "Sep 2026 EBITDA%",
+    "quote": "We expect medium-term EBITDA Margin to be within the current guided range of 22% to 24%.",
+    "page": 9,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d90194e-b9dc-48b0-b48e-3de0d0ef5f6d.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 9,
+   "line": "Consistently delivers within stated EBITDA margin ranges while revenue growth accelerated to 14.5% by Sep 2026."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Revenue growth accelerated from -0.1% in Dec 2024 to 14.5% YoY in Sep 2026, aligning with upbeat guidance."
+   },
+   {
+    "agree": true,
+    "point": "EBITDA margins remained disciplined, printing between 22.0% and 24.0% across quarters matching the guided mid-term ranges."
+   },
+   {
+    "agree": false,
+    "point": "While operating cash flow was robust at Rs 10,999 crore in Mar 2026, OCF/PAT dropped to 0.73 from 1.50 in FY24."
+   }
+  ],
+  "bull": [
+   "Revenue growth accelerated over four quarters, reaching 14.5% YoY in Sep 2026.",
+   "Practically debt-free balance sheet with a D/E ratio of 0.03 as of Sep 2026.",
+   "High profitability metrics demonstrated by a ROCE of 28.4% and ROE of 31.0%."
+  ],
+  "bear": [
+   "Operating cash flow to PAT ratio weakened to 0.73 in Mar 2026 down from 1.50 in Mar 2024.",
+   "EBITDA margin softened to 22.0% in Sep 2026, hitting the lower bound of the medium-term 22% to 24% range.",
+   "Free cash flow declined to Rs 9,667 crores in Mar 2026 compared to Rs 14,012 crores in Mar 2024."
+  ],
+  "watch": [
+   "Whether EBITDA margin recovers from the 22.0% reported in Sep 2026.",
+   "Continuation of the revenue acceleration trend beyond the 14.5% reported in Sep 2026.",
+   "Improvement in OCF/PAT conversion from the 0.73 level recorded in Mar 2026."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 18237,
+   "out": 576,
+   "secs": 4.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 18889,
+   "out": 790,
+   "secs": 3.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13863,
+   "out": 624,
+   "secs": 3.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14309,
+   "out": 626,
+   "secs": 3.4,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 11833,
+   "out": 364,
+   "secs": 2.7,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 3111,
+   "out": 1202,
+   "secs": 4.1,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 80242,
+  "tokens_out": 4182,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 27.1
+ }
+}

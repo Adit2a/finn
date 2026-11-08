@@ -1,0 +1,1102 @@
+{
+ "symbol": "M&M",
+ "name": "Mahindra & Mahindra Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:30:53",
+ "latest_call": "Aug 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 405398.0,
+   "pe": 20.2,
+   "roce": 15.1,
+   "roe": 20.3,
+   "ttm_revenue": 222822.0,
+   "ttm_pat": 21446.0,
+   "margin_latest_q": 18.0,
+   "de": 1.57,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 41470.0,
+    "rev_yoy": 17.5,
+    "op_profit": 8231.0,
+    "margin": 20.0,
+    "ebit_margin": 16.2,
+    "pat": 3624.0,
+    "pat_yoy": 21.7
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 42599.0,
+    "rev_yoy": 20.2,
+    "op_profit": 7942.0,
+    "margin": 19.0,
+    "ebit_margin": 13.9,
+    "pat": 3542.0,
+    "pat_yoy": 13.3
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 45529.0,
+    "rev_yoy": 22.3,
+    "op_profit": 8412.0,
+    "margin": 18.0,
+    "ebit_margin": 15.1,
+    "pat": 4377.0,
+    "pat_yoy": 23.4
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 46106.0,
+    "rev_yoy": 21.6,
+    "op_profit": 8940.0,
+    "margin": 19.0,
+    "ebit_margin": 15.8,
+    "pat": 3964.0,
+    "pat_yoy": 17.9
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 52100.0,
+    "rev_yoy": 25.6,
+    "op_profit": 10160.0,
+    "margin": 20.0,
+    "ebit_margin": 15.3,
+    "pat": 5021.0,
+    "pat_yoy": 38.5
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 54982.0,
+    "rev_yoy": 29.1,
+    "op_profit": 10127.0,
+    "margin": 18.0,
+    "ebit_margin": 14.9,
+    "pat": 5260.0,
+    "pat_yoy": 48.5
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 58188.0,
+    "rev_yoy": 27.8,
+    "op_profit": 10827.0,
+    "margin": 19.0,
+    "ebit_margin": 15.6,
+    "pat": 5998.0,
+    "pat_yoy": 37.0
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 57553.0,
+    "rev_yoy": 24.8,
+    "op_profit": 10221.0,
+    "margin": 18.0,
+    "ebit_margin": 14.6,
+    "pat": 5167.0,
+    "pat_yoy": 30.3
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 75382.0,
+    "op_profit": 10158.0,
+    "margin": 13.0,
+    "pat": -321.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 74278.0,
+    "op_profit": 11487.0,
+    "margin": 15.0,
+    "pat": 1512.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 90171.0,
+    "op_profit": 14683.0,
+    "margin": 16.0,
+    "pat": 7253.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 121362.0,
+    "op_profit": 20325.0,
+    "margin": 17.0,
+    "pat": 11374.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 139078.0,
+    "op_profit": 24892.0,
+    "margin": 18.0,
+    "pat": 12270.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 159211.0,
+    "op_profit": 30518.0,
+    "margin": 19.0,
+    "pat": 14073.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 198639.0,
+    "op_profit": 36980.0,
+    "margin": 19.0,
+    "pat": 18622.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 17.8,
+   "rev_cagr_5y": 21.7,
+   "pat_cagr_3y": 17.9,
+   "pat_cagr_5y": 65.2,
+   "margin_change_3y_bps": 200
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 77605.0,
+    "equity": 47123.0,
+    "de": 1.65
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 92647.0,
+    "equity": 56366.0,
+    "de": 1.64
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 108647.0,
+    "equity": 66190.0,
+    "de": 1.64
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 129025.0,
+    "equity": 77039.0,
+    "de": 1.67
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 136936.0,
+    "equity": 93097.0,
+    "de": 1.47
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 154094.0,
+    "equity": 97917.0,
+    "de": 1.57
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     30.0
+    ],
+    [
+     "Mar 2022",
+     26.0
+    ],
+    [
+     "Mar 2023",
+     21.0
+    ],
+    [
+     "Mar 2024",
+     20.0
+    ],
+    [
+     "Mar 2025",
+     19.0
+    ],
+    [
+     "Mar 2026",
+     17.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     91.0
+    ],
+    [
+     "Mar 2022",
+     82.0
+    ],
+    [
+     "Mar 2023",
+     83.0
+    ],
+    [
+     "Mar 2024",
+     81.0
+    ],
+    [
+     "Mar 2025",
+     78.0
+    ],
+    [
+     "Mar 2026",
+     65.0
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     147.0
+    ],
+    [
+     "Mar 2022",
+     134.0
+    ],
+    [
+     "Mar 2023",
+     118.0
+    ],
+    [
+     "Mar 2024",
+     112.0
+    ],
+    [
+     "Mar 2025",
+     118.0
+    ],
+    [
+     "Mar 2026",
+     112.0
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     -26.0
+    ],
+    [
+     "Mar 2022",
+     -27.0
+    ],
+    [
+     "Mar 2023",
+     -13.0
+    ],
+    [
+     "Mar 2024",
+     -11.0
+    ],
+    [
+     "Mar 2025",
+     -21.0
+    ],
+    [
+     "Mar 2026",
+     -30.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -11.0
+    ],
+    [
+     "Mar 2022",
+     -13.0
+    ],
+    [
+     "Mar 2023",
+     -14.0
+    ],
+    [
+     "Mar 2024",
+     -8.0
+    ],
+    [
+     "Mar 2025",
+     -14.0
+    ],
+    [
+     "Mar 2026",
+     -40.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 17909.0,
+    "pat": 1512.0,
+    "fcf": 13283.0,
+    "conv": 11.84
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 9248.0,
+    "pat": 7253.0,
+    "fcf": 3328.0,
+    "conv": 1.28
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": -7074.0,
+    "pat": 11374.0,
+    "fcf": -13241.0,
+    "conv": -0.62
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": -5630.0,
+    "pat": 12270.0,
+    "fcf": -15303.0,
+    "conv": -0.46
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 3176.0,
+    "pat": 14073.0,
+    "fcf": -6633.0,
+    "conv": 0.23
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 11657.0,
+    "pat": 18622.0,
+    "fcf": 2545.0,
+    "conv": 0.63
+   }
+  ],
+  "cash_conv_5y": 0.18,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Operating margin up 200 bps over 3 years"
+   },
+   {
+    "tone": "bad",
+    "text": "Only 18% of 5y profit showed up as operating cash"
+   },
+   {
+    "tone": "bad",
+    "text": "Leveraged balance sheet (D/E 1.57)"
+   },
+   {
+    "tone": "good",
+    "text": "Cash cycle tightened by 19 days in 2 years (-11 → -30)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a935377d-5627-472b-8cd6-605b32ea0cb6.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5ceb5575-dd97-489b-9c43-5e0c1deff006.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d65d81e-ab74-4196-8fc3-f78ef9e3af9d.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f451beeb-32aa-45da-8e1a-417884693047.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/44de8025-5ba1-4dfd-b7ef-ed83aa31bd7e.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a935377d-5627-472b-8cd6-605b32ea0cb6.pdf",
+   "pages": 17,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Full year SUV growth in mid to high teens",
+     "horizon": "FY26",
+     "low": null,
+     "high": null,
+     "unit": "%",
+     "quote": "So for SUV for us, Pramod, we stay with mid to high teens, which was what we said at the beginning of the year. We are not changing that.",
+     "page": 13,
+     "speaker": "Rajesh Jejurikar",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Full year LCV growth in low double digits",
+     "horizon": "FY26",
+     "low": 10,
+     "high": 12,
+     "unit": "%",
+     "quote": "For LCV, I just answered that in a way to say we think it will be low double digits for the full year.",
+     "page": 14,
+     "speaker": "Rajesh Jejurikar",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Full year tractor industry growth up from 5-7% to low double digits",
+     "horizon": "FY26",
+     "low": 10,
+     "high": 12,
+     "unit": "%",
+     "quote": "For tractors, we had said in the region of 5-7% I think at the beginning of the year, which we are now saying as low double digits. So, we are upping the Tractor industry outlook from 5%- 7% to maybe like 10%-12% kind of thing.",
+     "page": 14,
+     "speaker": "Rajesh Jejurikar",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "margin",
+     "promise": "ROE will always be in the range of 18 or slightly higher or below",
+     "horizon": "going forward",
+     "low": 18,
+     "high": null,
+     "unit": "%",
+     "quote": "ROE annualized is up 19%, with my standard caveat which is please do not expect 19% going forward, it will always be in the range of 18 and could be slightly higher or below that.",
+     "page": 3,
+     "speaker": "Dr. Anish Shah",
+     "verified": true,
+     "id": "g1.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenue up 22% and operating profit up 28% year over year for the quarter",
+     "quote": "Consolidated numbers, revenue up 22% year over year, year-to-date up 22% as well... profit operating up 28% for the quarter",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Farm business profit after tax grew by 54% with core tractor PBIT at 20.6%",
+     "quote": "farm profits up 54%... core tractor PBIT was upward of 20, so 20.6%, which is a very strong performance",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Mahindra Finance delivered 45% operating profit growth with GNPA below 4%",
+     "quote": "a very strong quarter with 45% operating profit growth... Asset quality is maintained steadily at less than 4.5 for GNPA. It is at less than 4 in fact for this quarter.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Auto business revenue up 25% with SUV market share gain of 390 bps year over year",
+     "quote": "Auto, little more details on the auto business, revenue up 25%... Market share, this is a remarkable number, up 390 basis points from a revenue standpoint year over year",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "GST cuts impact across portfolio and EV demand",
+     "quote": "My first question is on the GST cuts. If you could just share your thoughts on what is the impact across your portfolio.",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "CAFE norms draft and lower credits for EVs",
+     "quote": "Sir, second question is on the CAFE norms, we saw some changes in the draft, particularly I was a bit surprised to see lower credits for EVs than what was originally being proposed.",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Nexperia semiconductor issue impact on production",
+     "quote": "One is that Nexperia, would it have an impact on production in Q3 or Q4?",
+     "page": 12,
+     "verified": true
+    }
+   ],
+   "tone": "Delighted, highly confident, and upbeat about strong multi-business operational performance and execution."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5ceb5575-dd97-489b-9c43-5e0c1deff006.pdf",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Add 3,000 to 5,000 capacity per month between products by July-August",
+     "horizon": "July-August",
+     "low": 3000,
+     "high": 5000,
+     "unit": "units",
+     "quote": "We'll aim by July-August to add about 3,000 to 5,000 between these products per month.",
+     "page": 5,
+     "speaker": "Rajesh Jejurikar",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Add 3,000 EVs capacity with the 9S launch",
+     "horizon": "FY27",
+     "low": 3000,
+     "high": 3000,
+     "unit": "units",
+     "quote": "Over and above that, 3,000 of EVs gets added with the 9S launch.",
+     "page": 5,
+     "speaker": "Rajesh Jejurikar",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Add roughly 80 plus thousand EVs a year for calendar 2027",
+     "horizon": "calendar 2027",
+     "low": 80000,
+     "high": null,
+     "unit": "units",
+     "quote": "roughly 80 plus thousand a year. We feel comfortable based on... the response that we have got to 9S, that that's a number which is achievable.",
+     "page": 15,
+     "speaker": "Rajesh Jejurikar",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "profit",
+     "promise": "Tech Mahindra to achieve 15 percent EBIT margin by FY27 first phase end",
+     "horizon": "FY27",
+     "low": 15,
+     "high": 15,
+     "unit": "%",
+     "quote": "It is on track to deliver what it has to in its first phase which ends by F27 and it has to get to a 15% EBIT margin.",
+     "page": 12,
+     "speaker": "Dr. Anish Shah",
+     "verified": true,
+     "id": "g2.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated operating PAT increased 66 percent year-over-year",
+     "quote": "Operating PAT is up 66%, reported PAT is up 47%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Group crossed 50,000 crores in topline for the first time",
+     "quote": "this is the first time the group has crossed 50,000 crores in topline, and that’s a big, big milestone for us as a group.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "SUV volume grew 26 percent and Mahindra maintained number one position",
+     "quote": "SUV volume up 26%, continue to be number one there.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Logistics recorded its first profitable quarter after 11 quarters",
+     "quote": "Logistics, first profitable quarter after 11 quarters.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "GST impact and sustainability of demand",
+     "quote": "And one of the concerns in mind is that because GST cut has just happened. So is there an element of pent-up that you are sensing here, and how to think about next year's growth for each of these segments?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Commodity inflation and pricing power",
+     "quote": "Amar, just one to you. We are seeing a pretty steep commodity inflation, particularly precious metals. How do you see the impact of that as we look into next year? Do we have pricing power and hedging on the commodity side? And what was the impact in 3Q as well?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Tractor demand outlook and El Nino risks",
+     "quote": "There is some expectation that over the next 12 to 18 months, there could be a recurrence of an El Nino scenario. So what your early thoughts are around that?",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, upbeat, and structured, highlighting broad operational strength and strategic business pivots."
+  },
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d65d81e-ab74-4196-8fc3-f78ef9e3af9d.pdf",
+   "pages": 21,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "EPS growth 15 to 20% annualized for the next 5 years",
+     "horizon": "next 5 years",
+     "low": 15,
+     "high": 20,
+     "unit": "%",
+     "quote": "So, I'll just clarify the range first is longer term view, not a view specifically for this year, so if I were to look at the next 5 years again, we'd be very comfortable in saying that we will grow 15%-20% a year for the next 5 years.",
+     "page": 14,
+     "speaker": "Dr. Anish Shah",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Tractor industry growth around 5% in FY27",
+     "horizon": "FY27",
+     "low": 5,
+     "high": 5,
+     "unit": "%",
+     "quote": "F27 Outlook, we are expecting tractor to be mid-single digit, around 5%.",
+     "page": 11,
+     "speaker": "Mr. Rajesh Jejurikar",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "SUV growth at mid-to-high teens for FY27",
+     "horizon": "FY27",
+     "low": 15,
+     "high": 18,
+     "unit": "%",
+     "quote": "On the SUV side, we are expecting mid-to-high teens. For us, that's not for the industry.",
+     "page": 12,
+     "speaker": "Mr. Rajesh Jejurikar",
+     "verified": true,
+     "id": "g3.3"
+    },
+    {
+     "metric": "volume",
+     "promise": "LCV less than 3.5 ton growth at high single digits in FY27",
+     "horizon": "FY27",
+     "low": 7,
+     "high": 9,
+     "unit": "%",
+     "quote": "And on the LCV, less than 3.5 ton, it's high single digits.",
+     "page": 12,
+     "speaker": "Mr. Rajesh Jejurikar",
+     "verified": true,
+     "id": "g3.4"
+    },
+    {
+     "metric": "other",
+     "promise": "List Last Mile Mobility business in Calendar Year 2027",
+     "horizon": "Calendar Year 2027",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "What we have said publicly is in the sort of F27 end, F28 range. Actually, F28 to be more realistic than F27. So, Calendar Year 2027 is what I would look at.",
+     "page": 19,
+     "speaker": "Dr. Anish Shah",
+     "verified": true,
+     "id": "g3.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Q4 FY26 profit after tax up 42% year-over-year",
+     "quote": "Profit after tax for Q4 is up 42%. And profit after tax for this fiscal year is up 35%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Full year FY26 revenue up 25% and profit up 35%",
+     "quote": "For the year, revenue up 25%, profit up 35%.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Achieved highest ever tractor market share of 43.6% in F26",
+     "quote": "The 43% for the year that you see, 43.6 is our highest ever tractor market share.",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "claim": "Generated 16,000 crores net cash during the year, reaching 41,000 crores cash balance",
+     "quote": "during the year, the overall net cash generation from the business was 16,000 crores, has added to our cash balance. After dividend, it's at 41,000 crores for the year",
+     "page": 12,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "SUV growth guidance realism",
+     "quote": "So this is the 3rd successive year that we are guiding to mid-to-high teens SUV growth. This is a different year. Back half of the year will be up against a pretty heavy base. Also, there could be the risk of fuel price increases.",
+     "page": 12,
+     "verified": true
+    },
+    {
+     "topic": "EV demand drivers and price differential",
+     "quote": "what according to you, from a consumer sentiment perspective, is the bigger driver of sustained demand? Because in the last 8 months we've seen one leg turning adverse, which is the differential between ICE and BEV prices",
+     "page": 14,
+     "verified": true
+    },
+    {
+     "topic": "Tractor industry cyclicality and base effect",
+     "quote": "I'm just trying to just, you know, think through how do we think about the industry? Is it 6-9 months of downcycle and then we are back to normal? Or is it just the base effect that gets us a little bit worried about the growth in the second half?",
+     "page": 20,
+     "verified": true
+    }
+   ],
+   "tone": "Extremely confident, optimistic, and transparent regarding strong performance and long-term tech-enabled growth."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f451beeb-32aa-45da-8e1a-417884693047.pdf",
+   "pages": 22,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Tech Mahindra EBIT margin to reach 15% by end of fiscal year 2027",
+     "horizon": "end of FY27",
+     "low": 15,
+     "high": 15,
+     "unit": "%",
+     "quote": "On track for that... end of FY27 we get to 15% EBIT margin",
+     "page": 4,
+     "speaker": "Dr. Anish Shah",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "capex",
+     "promise": "Double auto capacity from current levels between now and FY31",
+     "horizon": "F31",
+     "low": 2,
+     "high": 2,
+     "unit": "x",
+     "quote": "there is a plan to double capacity from where we stand today.",
+     "page": 3,
+     "speaker": "Dr. Anish Shah",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "revenue",
+     "promise": "Mahindra Lifespaces pre-sales to reach 10000 crores by FY30",
+     "horizon": "FY30",
+     "low": 10000,
+     "high": 10000,
+     "unit": "cr",
+     "quote": "we want to be a 10,000 crores company pre-sales by FY30.",
+     "page": 16,
+     "speaker": "Amit Sinha",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "debt",
+     "promise": "Mahindra Finance targeting a 3 lakh crore lending book by 2031",
+     "horizon": "2031",
+     "low": 300000,
+     "high": 300000,
+     "unit": "cr",
+     "quote": "And we are targeting a ₹3 lakh crore book by 2031.",
+     "page": 18,
+     "speaker": "Raul Rebello",
+     "verified": true,
+     "id": "g4.4"
+    },
+    {
+     "metric": "debt",
+     "promise": "Mahindra Finance to achieve 70-30 mobility to non-wheels book mix by 2031",
+     "horizon": "2031",
+     "low": 30,
+     "high": 70,
+     "unit": "%",
+     "quote": "We have said by 2031 - 70% of the book will still be mobility, 30% will be non-wheels.",
+     "page": 18,
+     "speaker": "Raul Rebello",
+     "verified": true,
+     "id": "g4.5"
+    },
+    {
+     "metric": "margin",
+     "promise": "Maintain long-term target ROE of 18% for the group",
+     "horizon": "Long-term",
+     "low": 18,
+     "high": 18,
+     "unit": "%",
+     "quote": "So we are not resetting expectations, we will stay with 18% as a target there.",
+     "page": 6,
+     "speaker": "Dr. Anish Shah",
+     "verified": true,
+     "id": "g4.6"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated profit up 34% and consolidated ROE at 23% in Q1 FY27",
+     "quote": "consolidated profit up 34%, ROE at 23%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Auto and Farm profit grew 21% and 15% respectively despite commodity impacts",
+     "quote": "Auto profits up 21%, Farm up 15%. Rajesh will talk more about the margins as well.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Mahindra Finance quarterly profit increased 78% driven by asset quality and NIMS",
+     "quote": "Mahindra Finance has had 2 or 3 very good quarters. This time profits up 78%",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Growth Gems delivered 3x profit growth in Q1 FY27",
+     "quote": "Growth Gems, we have been talking about them. They are starting to deliver meaningful results, profits up 3x for Growth Gems.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Battery electric vehicle PLI and profitability",
+     "quote": "First one is on the battery electric vehicle business... what is the PLI in the current EBITDA/EBIT margin contribution",
+     "page": 12,
+     "verified": true
+    },
+    {
+     "topic": "AI model differentiation against common tools",
+     "quote": "these same AI models are available to everyone, right. So, where will the differentiation come from?",
+     "page": 13,
+     "verified": true
+    },
+    {
+     "topic": "Auto commodity headwinds and price hikes",
+     "quote": "My first question, Amar sir, basically, a temporary transient problem is the commodity part. So, on the commodity, in Q2, how do you see the impact coming through in auto and farm",
+     "page": 17,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and cautiously optimistic regarding resilient business performance amidst macro challenges."
+  }
+ ],
+ "business": {
+  "what_it_does": "Manufactures automotive vehicles and farm equipment, and operates investments in financial services, IT, logistics, and real estate.",
+  "segments": [
+   {
+    "name": "Automotive",
+    "revenue": null,
+    "unit": null,
+    "what": "Passenger cars, commercial vehicles, SUVs, and trucks and buses",
+    "page": 86
+   },
+   {
+    "name": "Farm Equipment",
+    "revenue": null,
+    "unit": null,
+    "what": "Tractors and farm machinery products for agricultural use",
+    "page": 90
+   },
+   {
+    "name": "Financial Services",
+    "revenue": null,
+    "unit": null,
+    "what": "Financial services provided to customers",
+    "page": 239
+   },
+   {
+    "name": "Industrial Businesses and Consumer Services",
+    "revenue": null,
+    "unit": null,
+    "what": "Diversified industrial and consumer services",
+    "page": 98
+   }
+  ],
+  "mix_note": null,
+  "risks_mgmt_flags": [
+   "Raw material availability and prices",
+   "Cyclical demand and pricing in the company's principal markets",
+   "Changes in Government regulations and tax regimes"
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/44de8025-5ba1-4dfd-b7ef-ed83aa31bd7e.pdf",
+  "pages_read": [
+   52,
+   86,
+   87,
+   90,
+   93,
+   98,
+   153,
+   176,
+   190,
+   191,
+   238,
+   239
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Full year SUV growth in mid to high teens for FY26",
+    "made_in": "Q2 FY26 call",
+    "delivered": "Management stated SUV growth at mid-to-high teens for FY27 in Q4 FY26 call; full-year FY26 revenue grew 25% and profit up 35%.",
+    "verdict": "walked_back",
+    "checked_against": "Q4 FY26 call and reported Mar 2026 annual figures",
+    "quote": "So for SUV for us, Pramod, we stay with mid to high teens, which was what we said at the beginning of the year. We are not changing that.",
+    "page": 13,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a935377d-5627-472b-8cd6-605b32ea0cb6.pdf"
+   },
+   {
+    "ref": "g1.3",
+    "promise": "Tractor industry growth up from 5-7% to low double digits for FY26",
+    "made_in": "Q2 FY26 call",
+    "delivered": "In Q4 FY26 call, management revised F27 tractor outlook down to mid-single digit around 5%.",
+    "verdict": "walked_back",
+    "checked_against": "Q4 FY26 call",
+    "quote": "For tractors, we had said in the region of 5-7% I think at the beginning of the year, which we are now saying as low double digits. So, we are upping the Tractor industry outlook from 5%- 7% to maybe like 10%-12% kind of thing.",
+    "page": 14,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a935377d-5627-472b-8cd6-605b32ea0cb6.pdf"
+   },
+   {
+    "ref": "g1.4",
+    "promise": "ROE will always be in the range of 18 or slightly higher or below",
+    "made_in": "Q2 FY26 call",
+    "delivered": "Reported Mar 2026 ROE was 20.3% and Q1 FY27 consolidated ROE was 23%, beating the 18% target range.",
+    "verdict": "delivered",
+    "checked_against": "Mar 2026 ROCE/ROE figures and Q1 FY27 call claims",
+    "quote": "ROE annualized is up 19%, with my standard caveat which is please do not expect 19% going forward, it will always be in the range of 18 and could be slightly higher or below that.",
+    "page": 3,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a935377d-5627-472b-8cd6-605b32ea0cb6.pdf"
+   },
+   {
+    "ref": "g3.5",
+    "promise": "List Last Mile Mobility business in Calendar Year 2027",
+    "made_in": "Q4 FY26 call",
+    "delivered": "Targeted for Calendar Year 2027 (adjusted from F27/F28 range); deadline has not yet arrived.",
+    "verdict": "too_early",
+    "checked_against": "Q4 FY26 call guidance",
+    "quote": "What we have said publicly is in the sort of F27 end, F28 range. Actually, F28 to be more realistic than F27. So, Calendar Year 2027 is what I would look at.",
+    "page": 19,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d65d81e-ab74-4196-8fc3-f78ef9e3af9d.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 6,
+   "line": "Management delivers on financial performance and cash generation but frequently walks back or adjusts operational guidance."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Annual revenue surged to 198,639.0 crore in Mar 2026, supporting management's narrative of robust top-line growth."
+   },
+   {
+    "agree": false,
+    "point": "Only 18% of 5-year profit showed up as operating cash, contrasting with management's strong reported profit growth."
+   },
+   {
+    "agree": true,
+    "point": "Consolidated PAT rose 37.0% YoY to 5,998.0 crore in Jun 2026, confirming management's claims of strong earnings."
+   }
+  ],
+  "bull": [
+   "Annual revenue for Mar 2026 reached 198,639.0 crore with EBITDA at 36,980.0 crore.",
+   "Consolidated PAT grew 37.0% YoY to 5,998.0 crore in Jun 2026.",
+   "Mar 2026 reported ROE of 20.3% exceeds the long-term target of 18%."
+  ],
+  "bear": [
+   "Cumulative 5-year cash conversion is extremely low at 0.18, with poor operating cash flows.",
+   "Leveraged balance sheet with a D/E ratio of 1.57 as of Sep 2026.",
+   "Borrowings increased to 154,094.0 crore by Sep 2026 from 129,025.0 crore in Mar 2025."
+  ],
+  "watch": [
+   "D/E ratio trajectory from the current 1.57 level.",
+   "Operating cash flow conversion relative to reported PAT.",
+   "Last Mile Mobility listing progress for Calendar Year 2027."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 17562,
+   "out": 1123,
+   "secs": 20.0,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 19455,
+   "out": 1066,
+   "secs": 4.5,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 25574,
+   "out": 1284,
+   "secs": 13.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 24685,
+   "out": 1239,
+   "secs": 47.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13404,
+   "out": 310,
+   "secs": 2.9,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 4127,
+   "out": 1135,
+   "secs": 28.5,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 104807,
+  "tokens_out": 6157,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 123.2
+ }
+}

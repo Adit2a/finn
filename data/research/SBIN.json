@@ -1,0 +1,923 @@
+{
+ "symbol": "SBIN",
+ "name": "State Bank of India",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:41:17",
+ "latest_call": "Nov 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 938307.0,
+   "pe": 11.0,
+   "roce": 6.13,
+   "roe": 15.4,
+   "ttm_revenue": 538780.0,
+   "ttm_pat": 94022.0,
+   "margin_latest_q": null,
+   "de": 1.1,
+   "is_financial": true,
+   "margin_label": "Financing margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 124654.0,
+    "rev_yoy": 10.4,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 19484.0,
+    "pat_yoy": 68.0
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 126840.0,
+    "rev_yoy": 8.0,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 20379.0,
+    "pat_yoy": -8.2
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 125729.0,
+    "rev_yoy": 6.3,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 22121.0,
+    "pat_yoy": 10.1
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 127903.0,
+    "rev_yoy": 5.7,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 21861.0,
+    "pat_yoy": 6.3
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 130386.0,
+    "rev_yoy": 4.6,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 22176.0,
+    "pat_yoy": 13.8
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 131080.0,
+    "rev_yoy": 3.3,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 20508.0,
+    "pat_yoy": 0.6
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 136240.0,
+    "rev_yoy": 8.4,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 25121.0,
+    "pat_yoy": 13.6
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 141073.0,
+    "rev_yoy": 10.3,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 26218.0,
+    "pat_yoy": 19.9
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 269852.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 21140.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 278115.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 23888.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 289973.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 37183.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 350845.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 57750.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 439189.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 69543.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 490313.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 80523.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 514933.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 86666.0,
+    "ebit_margin": null
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 13.6,
+   "rev_cagr_5y": 13.1,
+   "pat_cagr_3y": 14.5,
+   "pat_cagr_5y": 29.4,
+   "margin_change_3y_bps": null
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 449160.0,
+    "equity": 305588.0,
+    "de": 1.47
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 521152.0,
+    "equity": 358931.0,
+    "de": 1.45
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 639610.0,
+    "equity": 414939.0,
+    "de": 1.54
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 610857.0,
+    "equity": 487036.0,
+    "de": 1.25
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 777302.0,
+    "equity": 596131.0,
+    "de": 1.3
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 741291.0,
+    "equity": 671592.0,
+    "de": 1.1
+   }
+  ],
+  "working_capital": {},
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 89919.0,
+    "pat": 23888.0,
+    "fcf": 86091.0,
+    "conv": 3.76
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 57695.0,
+    "pat": 37183.0,
+    "fcf": 54644.0,
+    "conv": 1.55
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": -86014.0,
+    "pat": 57750.0,
+    "fcf": -86014.0,
+    "conv": -1.49
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 21632.0,
+    "pat": 69543.0,
+    "fcf": 17457.0,
+    "conv": 0.31
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 45484.0,
+    "pat": 80523.0,
+    "fcf": 39847.0,
+    "conv": 0.56
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 38097.0,
+    "pat": 86666.0,
+    "fcf": 29734.0,
+    "conv": 0.44
+   }
+  ],
+  "cash_conv_5y": 0.23,
+  "flags": []
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8fabbe0f-593e-4701-b565-d5fce57385a2.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a3280a0-5ce9-445e-a881-6b7c505e9a90.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0c8d1537-1fa0-4113-90ee-b26564172228.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91e92b69-f201-4d3b-9060-9f75feee9a58.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/faa17496-838f-432d-a39f-32d82156799c.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8fabbe0f-593e-4701-b565-d5fce57385a2.pdf",
+   "pages": 28,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Credit growth estimate revised to 13% to 15% for the current quarter",
+     "horizon": "current quarter",
+     "low": 13,
+     "high": 15,
+     "unit": "%",
+     "quote": "we are revising our credit growth estimate to 13% to 15% based on the trend which we have seen in the current quarter so far.",
+     "page": 7,
+     "speaker": "C S Setty, Chairman",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Exit NIM for current year about 3% and long-term guidance 3% through cycles",
+     "horizon": "FY26 exit and long-term",
+     "low": 3,
+     "high": 3,
+     "unit": "%",
+     "quote": "our exit NIM for the current year would be about 3% and our long-term guidance is 3% through the cycles. I think we'll stick to that.",
+     "page": 8,
+     "speaker": "C S Setty, Chairman",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "profit",
+     "promise": "Maintain 1% ROA guidance through cycles",
+     "horizon": "through the cycles",
+     "low": 1,
+     "high": 1,
+     "unit": "%",
+     "quote": "We said our guidance is 1% ROA through the cycles.",
+     "page": 26,
+     "speaker": "C S Setty, Chairman",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "volume",
+     "promise": "Scale YONO from 10 crore to 20 crore registered users over next 2 to 3 years",
+     "horizon": "next 2 to 3 years",
+     "low": 10,
+     "high": 20,
+     "unit": "units",
+     "quote": "Scaling YONO from 10 crore registered users to 20 crores over the next 2 to 3 years is expected to support operating leverage and ROA sustainability.",
+     "page": 4,
+     "speaker": "C S Setty, Chairman",
+     "verified": true,
+     "id": "g1.4"
+    },
+    {
+     "metric": "margin",
+     "promise": "Keep the cost to income ratio below 50 bps",
+     "horizon": "ongoing",
+     "low": null,
+     "high": 50,
+     "unit": "bps",
+     "quote": "Our objective is to keep the cost to income ratio below 50 bps. I think that guidance we had earlier given, we are sticking to that guidance.",
+     "page": 25,
+     "speaker": "C S Setty, Chairman",
+     "verified": true,
+     "id": "g1.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Declared highest-ever quarterly net profit of Rs. 21,028 crore up by 24.49% year-on-year",
+     "quote": "the bank has declared the highest-ever quarterly net profit of Rs. 21,028 crore and total business have crossed Rs. 103 trillion",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Gross NPAs improved by 50 bps to 1.57% and Net NPA improved by 14 bps to 0.39%",
+     "quote": "asset quality continues to be industry-leading, with gross NPAs at 1.57%, improving by 50 basis points, and net NPA at 0.39%, improving by 14 basis points.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Capital adequacy ratio improved by 101 basis points year-on-year to stand at 14.04%",
+     "quote": "capital adequacy ratio has improved by 101 basis points year-on-year and stands at 14.04%, which is well above the regulatory minimum requirements.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "New YONO registrations crossed 3 crore mark within one month of launch",
+     "quote": "registrations for our new YONO crossing the 3 crore mark within a short period of one month since its launch",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Cost of funds and deposit transmission sustainability",
+     "quote": "Sir, just continuing on the previous question, you said that COF may remain stable, right? Is it because the bulk deposit rates in the system, they have actually shot up in the last 2-3 months?",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Treasury income sustainability and MTM impact",
+     "quote": "So, should we see a treasury income moderating sharply from hereon or we do have, we can sell AFS securities or participate in OMO through HTM to manage treasury income?",
+     "page": 18,
+     "verified": true
+    },
+    {
+     "topic": "Credit deposit growth gap and priority sector lending shortfall",
+     "quote": "Because at this pace of growth, do we see some shortfall coming through towards the end of the year and that might have a drag in terms of investments on our IDF?",
+     "page": 20,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and constructive regarding robust fundamentals, healthy growth levers, and stable return metrics."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a3280a0-5ce9-445e-a881-6b7c505e9a90.pdf",
+   "pages": 33,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "FY27 domestic net interest margin to be maintained above 3.0%",
+     "horizon": "FY27",
+     "low": 3.0,
+     "high": null,
+     "unit": "%",
+     "quote": "We are sticking to our NIM of more than 3% for the full year, for the full year.",
+     "page": 9,
+     "speaker": "C.S. Setty",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "FY27 credit growth to be in the range of 13% to 15%",
+     "horizon": "FY27",
+     "low": 13.0,
+     "high": 15.0,
+     "unit": "%",
+     "quote": "our credit growth guidance of 13-15%",
+     "page": 7,
+     "speaker": "C.S. Setty",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "other",
+     "promise": "FY27 credit cost guidance maintained at 50 basis points",
+     "horizon": "FY27",
+     "low": 50.0,
+     "high": 50.0,
+     "unit": "bps",
+     "quote": "we are sticking to our credit cost guidance of 50 basis points",
+     "page": 7,
+     "speaker": "C.S. Setty",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "profit",
+     "promise": "Maintain return on assets above 1% through the cycles",
+     "horizon": "through cycles",
+     "low": 1.0,
+     "high": null,
+     "unit": "%",
+     "quote": "We are still saying that 1% through the cycles.",
+     "page": 32,
+     "speaker": "C.S. Setty",
+     "verified": true,
+     "id": "g2.4"
+    },
+    {
+     "metric": "other",
+     "promise": "Keep cost-to-income ratio contained below 50%",
+     "horizon": "FY27",
+     "low": null,
+     "high": 50.0,
+     "unit": "%",
+     "quote": "See, our effort is to keep cost-to-income ratio contained below 50. I think this is the guidance which we have given.",
+     "page": 21,
+     "speaker": "C.S. Setty",
+     "verified": true,
+     "id": "g2.5"
+    },
+    {
+     "metric": "profit",
+     "promise": "Ensure minimum 15% return on equity to investors through cycles",
+     "horizon": "through cycles",
+     "low": 15.0,
+     "high": null,
+     "unit": "%",
+     "quote": "Through the cycles we would like to ensure 15% return on equity to our investor’s minimum.",
+     "page": 17,
+     "speaker": "C.S. Setty",
+     "verified": true,
+     "id": "g2.6"
+    },
+    {
+     "metric": "volume",
+     "promise": "System credit growth at 13% to 14% and deposits at 11% to 12% for FY27",
+     "horizon": "FY27",
+     "low": 13.0,
+     "high": 14.0,
+     "unit": "%",
+     "quote": "we expect credit growth at 13% to 14% and deposits at 11% to 12% for FY27 for the system.",
+     "page": 4,
+     "speaker": "C.S. Setty",
+     "verified": true,
+     "id": "g2.7"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Net profit reached a record high at Rs 80,032 crores, up 12.88% year-on-year.",
+     "quote": "Net profit reached a record high at Rs 80,032 crores, up 12.88% year-on-year",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Gross NPAs improved by 33 bps year-on-year to 1.49% and net NPAs at 0.39%.",
+     "quote": "gross NPAs at 1.49%, improving by 33 basis points and net NPA at 0.39%, further improving by 8 basis points on year-on-year basis.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Capital adequacy ratio improved by 115 bps year-on-year to stand at 15.4%.",
+     "quote": "our CAR has improved by 115 basis points year-on-year and stands at 15.4%",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Total business crossed Rs 109 trillion mark with domestic credit deposit ratio at 73.08%.",
+     "quote": "As total business crosses the Rs 109 trillion mark... The domestic credit deposit ratio was 73.08%",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Net interest margin and net interest income compression",
+     "quote": "Sir, this is Piran Engineer from CLSA. Just firstly, sorry to harp on the NIM question again, but we exited with NIMs of 2.9%.",
+     "page": 18,
+     "verified": true
+    },
+    {
+     "topic": "Treasury losses and lower operating profit quarter-on-quarter",
+     "quote": "There is only a few concerns looking at the result on the face of it, of this quarter, where our operating profit also has gone down and the net profit also has gone down as compared to the last quarter",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Yield on advances sharp decline and corporate loan portfolio repricing",
+     "quote": "When we do the calculated yield on advances, the decline has been fairly sharp.",
+     "page": 30,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and resolute in reiterating annual guidance despite short-term margin and treasury pressures."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0c8d1537-1fa0-4113-90ee-b26564172228.pdf",
+   "pages": 28,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Maintain domestic Net Interest Margin at 3% for FY27",
+     "horizon": "FY27",
+     "low": 3.0,
+     "high": 3.0,
+     "unit": "%",
+     "quote": "our domestic Net Interest Margin remained resilient at 3%, reinforcing our confidence in maintaining our guidance for the financial year.",
+     "page": 4,
+     "speaker": "C.S. Setty",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Achieve credit growth guidance of 14% to 15% for the financial year",
+     "horizon": "FY27",
+     "low": 14.0,
+     "high": 15.0,
+     "unit": "%",
+     "quote": "That is the reason I have given the credit growth guidance of 14% to 15%.",
+     "page": 11,
+     "speaker": "C.S. Setty",
+     "verified": true,
+     "id": "g3.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Net profit reached a record ₹21,121 crore supported by healthy performance.",
+     "quote": "Our net profit reached a record ₹21,121 crore, supported by healthy operating performance and disciplined cost management.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Total business crossed ₹110 trillion, with advances exceeding ₹50 trillion.",
+     "quote": "Our balance sheet continued to expand with the total business crossing ₹110 trillion, while deposits exceeded the ₹60 trillion mark and advances crossed the ₹50 trillion mark.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Gross and net NPA ratios improved to their lowest levels in over two decades.",
+     "quote": "Gross and net NPA ratios have further improved and remained at their lowest level in over two decades.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Mobilized approximately $6 billion in FCNR(B) deposits.",
+     "quote": "So, we have had almost $6 billion FCNR(B) deposit mobilized.",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Deposit and credit growth compared to peers",
+     "quote": "our deposits grew only by 0.5%, advances by 0.32%, of course is good, but the overall business is 1.33%.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Increase in fresh slippages and SMA 2 numbers",
+     "quote": "For the first time there is an uptick in the absolute numbers of the gross and net NPA in this quarter. And at the same time, the SMA numbers also... SMA 2, it is double",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Impact of FCNR on net interest margins",
+     "quote": "what is the net impact of FCNR(B) on the margins? Would it be margin dilutive or would it still be margin positive for the bank?",
+     "page": 17,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and optimistic about long-term institutional building and resilience."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91e92b69-f201-4d3b-9060-9f75feee9a58.pdf",
+   "pages": 31,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Maintain domestic Net Interest Margin at not less than 3%",
+     "horizon": "through the cycles",
+     "low": 3.0,
+     "high": null,
+     "unit": "%",
+     "quote": "So I stick to my guidance, an annual guidance of return on assets of 1%, net interest margin not less than 3% and ROE of 15%, through the cycles you are assured of.",
+     "page": 13,
+     "speaker": "C.S. Setty",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Achieve 14-15% credit growth for full year FY2027",
+     "horizon": "FY2027",
+     "low": 14.0,
+     "high": 15.0,
+     "unit": "%",
+     "quote": "And I believe that H2, generally, which is a busy season, we will be able to have that 14%-15% guidance for the full year easily achieved.",
+     "page": 10,
+     "speaker": "C.S. Setty",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "profit",
+     "promise": "Maintain annual Return on Assets guidance of 1% through the cycles",
+     "horizon": "through the cycles",
+     "low": 1.0,
+     "high": null,
+     "unit": "%",
+     "quote": "So I stick to my guidance, an annual guidance of return on assets of 1%, net interest margin not less than 3% and ROE of 15%, through the cycles you are assured of.",
+     "page": 13,
+     "speaker": "C.S. Setty",
+     "verified": true,
+     "id": "g4.3"
+    },
+    {
+     "metric": "profit",
+     "promise": "Maintain annual Return on Equity guidance of 15% through the cycles",
+     "horizon": "through the cycles",
+     "low": 15.0,
+     "high": null,
+     "unit": "%",
+     "quote": "So I stick to my guidance, an annual guidance of return on assets of 1%, net interest margin not less than 3% and ROE of 15%, through the cycles you are assured of.",
+     "page": 13,
+     "speaker": "C.S. Setty",
+     "verified": true,
+     "id": "g4.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Net profit for the quarter reached 23038 crore rupees",
+     "quote": "Net Profit for the quarter was at ₹23,038 crore.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Gross NPA ratio improved to 1.39 percent, lowest in over two decades",
+     "quote": "At 1.39%, the Gross NPA ratio is at its lowest level in more than two decades, while the Provision Coverage Ratio remained robust at 74%.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Total business aggregated 115 trillion rupees with advances crossing 52 trillion",
+     "quote": "Total business aggregated ₹115 trillion, with the deposits amounting to ₹63 trillion and advances crossing ₹52 trillion.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Capital Adequacy stood at 16.09 percent, improving by 147 basis points year on year",
+     "quote": "Capital Adequacy stood at 16.09%, improving by 147 basis points year-on-year, and is comfortably above regulatory requirements.",
+     "page": 6,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Credit growth pace and second half sustainability",
+     "quote": "Our credit growth for the half year, if you look at, I mean, this quarter it is 3.19% but, overall, if you look, it is ₹2,76,000 crore, higher than the year end 2026. So, in order to attain the target of 15% or so, we will have to have the credit growth of ₹4,60,000 crore, more in the remaining 6months or 5.5 months.",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "P&L accounting treatment of NSE stake sale and treasury losses",
+     "quote": "Another one is, Sir, on the NSE stakes, that small portion of sale of shares, which has gone to the capital reserves of ₹2,500 crore, whereas some of the other banks, they have taken it straight away into the bottom line, the Profit and Loss.",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Operating expense surge and upfronted costs",
+     "quote": "And, similarly, in the Operating Expenses also in this quarter have gone up substantially to ₹15,531 crore, as against ₹11,962 crore, in the last quarter, which has a miscellaneous item of ₹6,697 crore, ₹2,000 crore, higher than the last quarter.",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and firm on financial guidance and accounting integrity."
+  }
+ ],
+ "business": {
+  "what_it_does": "Provides banking and financial services including treasury, corporate wholesale banking, and retail banking operations.",
+  "segments": [
+   {
+    "name": "Treasury",
+    "revenue": 135516.03,
+    "unit": "crore",
+    "what": "Investment portfolio and trading in foreign exchange and derivative contracts",
+    "page": 282,
+    "share_pct": 25
+   },
+   {
+    "name": "Corporate / Wholesale Banking",
+    "revenue": 149102.41,
+    "unit": "crore",
+    "what": "Lending activities and transaction services to corporate and institutional clients",
+    "page": 282,
+    "share_pct": 27
+   },
+   {
+    "name": "Retail Banking",
+    "revenue": 260480.47,
+    "unit": "crore",
+    "what": "Personal banking activities, lending, agency business and ATMs",
+    "page": 282,
+    "share_pct": 47
+   },
+   {
+    "name": "Other Banking Business",
+    "revenue": 4125.43,
+    "unit": "crore",
+    "what": "Segments not classified under treasury, corporate, or retail banking",
+    "page": 282,
+    "share_pct": 1
+   }
+  ],
+  "mix_note": "Retail Banking contributes 47.97% of turnover.",
+  "risks_mgmt_flags": [],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/faa17496-838f-432d-a39f-32d82156799c.pdf",
+  "pages_read": [
+   224,
+   280,
+   281,
+   282,
+   334,
+   335,
+   348,
+   349,
+   350,
+   480,
+   663,
+   664
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Credit growth estimate revised to 13% to 15% for the current quarter",
+    "made_in": "Q3 FY26",
+    "delivered": "Credit growth guidance was revised across subsequent calls to 13-15% for FY27.",
+    "verdict": "delivered",
+    "checked_against": "Subsequent call guidance",
+    "quote": "we are revising our credit growth estimate to 13% to 15% based on the trend which we have seen in the current quarter so far.",
+    "page": 7,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8fabbe0f-593e-4701-b565-d5fce57385a2.pdf"
+   },
+   {
+    "ref": "g1.5",
+    "promise": "Keep the cost to income ratio below 50 bps",
+    "made_in": "Q3 FY26",
+    "delivered": "Management later clarified and guided for cost-to-income below 50% in Q4 FY26 (g2.5).",
+    "verdict": "walked_back",
+    "checked_against": "g2.5 guidance update",
+    "quote": "Our objective is to keep the cost to income ratio below 50 bps. I think that guidance we had earlier given, we are sticking to that guidance.",
+    "page": 25,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8fabbe0f-593e-4701-b565-d5fce57385a2.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 8,
+   "line": "Management consistently maintains and reiterates core guidance for ROA, ROE, NIM, and credit growth."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Net profit reached a record Rs 26,218 crore in Sep 2026 (Q2 FY27), up 19.9% YoY, matching strong profit narratives."
+   },
+   {
+    "agree": true,
+    "point": "Total business aggregated 115 trillion rupees with advances crossing 52 trillion rupees in Sep 2026, confirming growth claims."
+   },
+   {
+    "agree": true,
+    "point": "Equity increased to Rs 671,592 crore in Sep 2026 alongside a reduced D/E ratio of 1.1."
+   }
+  ],
+  "bull": [
+   "PAT grew 19.9% YoY to Rs 26,218 crore in Sep 2026.",
+   "Total business reached 115 trillion rupees with advances exceeding 52 trillion rupees.",
+   "ROE stands at 15.4% and ROCE at 6.13%, supporting management's 15% ROE goal."
+  ],
+  "bear": [
+   "Borrowings remain high at Rs 741,291 crore as of Sep 2026.",
+   "Quarterly revenue growth shows some deceleration compared to historical highs.",
+   "Operating cash flow conversion metrics remain low over multi-year periods."
+  ],
+  "watch": [
+   "Deposit and credit growth rates in H2 FY27",
+   "Maintenance of Net Interest Margin above 3.0%"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 18513,
+   "out": 1267,
+   "secs": 18.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 21079,
+   "out": 1446,
+   "secs": 11.9,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 17283,
+   "out": 805,
+   "secs": 4.4,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 17976,
+   "out": 1234,
+   "secs": 14.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 9363,
+   "out": 333,
+   "secs": 2.9,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 3868,
+   "out": 896,
+   "secs": 9.3,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 88082,
+  "tokens_out": 5981,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 70.4
+ }
+}

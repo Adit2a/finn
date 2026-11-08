@@ -1,0 +1,800 @@
+{
+ "symbol": "KOTAKBANK",
+ "name": "Kotak Mahindra Bank Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:27:49",
+ "latest_call": "Aug 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 477996.0,
+   "pe": 22.5,
+   "roce": 6.98,
+   "roe": 11.4,
+   "ttm_revenue": 73545.0,
+   "ttm_pat": 21473.0,
+   "margin_latest_q": null,
+   "de": 0.63,
+   "is_financial": true,
+   "margin_label": "Financing margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 16633.0,
+    "rev_yoy": 14.7,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 4701.0,
+    "pat_yoy": 10.2
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 16772.0,
+    "rev_yoy": 10.7,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 4933.0,
+    "pat_yoy": -7.6
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 17248.0,
+    "rev_yoy": 8.9,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 4472.0,
+    "pat_yoy": -40.0
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 17199.0,
+    "rev_yoy": 4.7,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 4468.0,
+    "pat_yoy": -11.4
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 17507.0,
+    "rev_yoy": 5.3,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 4924.0,
+    "pat_yoy": 4.7
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 17827.0,
+    "rev_yoy": 6.3,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 5423.0,
+    "pat_yoy": 9.9
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 18355.0,
+    "rev_yoy": 6.4,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 5480.0,
+    "pat_yoy": 22.5
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 19856.0,
+    "rev_yoy": 15.4,
+    "op_profit": null,
+    "margin": null,
+    "ebit_margin": null,
+    "pat": 5645.0,
+    "pat_yoy": 26.3
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 33474.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 8593.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 32820.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 9990.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 33740.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 12089.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 42151.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 14925.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 56237.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 18213.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 65669.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 22126.0,
+    "ebit_margin": null
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 69781.0,
+    "op_profit": null,
+    "margin": null,
+    "pat": 19288.0,
+    "ebit_margin": null
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 18.3,
+   "rev_cagr_5y": 16.3,
+   "pat_cagr_3y": 8.9,
+   "pat_cagr_5y": 14.1,
+   "margin_change_3y_bps": null
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 55648.0,
+    "equity": 96665.0,
+    "de": 0.58
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 57534.0,
+    "equity": 111814.0,
+    "de": 0.51
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 75106.0,
+    "equity": 129972.0,
+    "de": 0.58
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 97622.0,
+    "equity": 157489.0,
+    "de": 0.62
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 95394.0,
+    "equity": 181226.0,
+    "de": 0.53
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 123120.0,
+    "equity": 194706.0,
+    "de": 0.63
+   }
+  ],
+  "working_capital": {},
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 4881.0,
+    "pat": 9990.0,
+    "fcf": 4581.0,
+    "conv": 0.49
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 8418.0,
+    "pat": 12089.0,
+    "fcf": 7785.0,
+    "conv": 0.7
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": -1242.0,
+    "pat": 14925.0,
+    "fcf": -2203.0,
+    "conv": -0.08
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 15685.0,
+    "pat": 18213.0,
+    "fcf": 14593.0,
+    "conv": 0.86
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 16916.0,
+    "pat": 22126.0,
+    "fcf": 15768.0,
+    "conv": 0.76
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 41727.0,
+    "pat": 19288.0,
+    "fcf": 40690.0,
+    "conv": 2.16
+   }
+  ],
+  "cash_conv_5y": 0.94,
+  "flags": [
+   {
+    "tone": "bad",
+    "text": "Profit lagging sales over 3y (8.9% vs 18.3%): margins under pressure"
+   },
+   {
+    "tone": "good",
+    "text": "Revenue growth accelerating (5% → 6% → 6% → 15%)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2026/q2/Transcript/Q2FY26-Transcript.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2026/q3/transcript/Q3FY26-Transcript.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2026/q4/transcript/Q4FY26-Transcript.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2027/q1/transcript/Q1FY27-Transcript.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c1b719fb-23e9-4cb8-b303-720eb0e31cc4.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Oct 2025",
+   "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2026/q2/Transcript/Q2FY26-Transcript.pdf",
+   "pages": 27,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Expect credit costs to gradually moderate in second half of financial year.",
+     "horizon": "second half of the financial year",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "Overall, we expect our credit costs to now gradually moderate in the second half of the financial year.",
+     "page": 4,
+     "speaker": "Ashok Vaswani",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Expect NIM to show gradual improvement with ongoing repricing of deposits and CRR benefits in H2.",
+     "horizon": "second half of the year",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We expect NIM to show gradual improvement with ongoing repricing of deposits and CRR benefits during the second half of the year assuming no further repo rate cut.",
+     "page": 6,
+     "speaker": "Devang Gheewalla",
+     "verified": true,
+     "id": "g1.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Net advances grew 16% year-on-year, mainly driven by secured business.",
+     "quote": "Net advances grew at 16% Y-o-Y, mainly in secured business.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Total deposits grew by 15% year-on-year.",
+     "quote": "Total deposits grew by 15% Y-o-Y with CA and fixed rate SA growing at 26% and 10% Y-o-Y respectively.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Standalone PAT for Q2 reached Rs. 3,253 crores.",
+     "quote": "Bank ended the quarter with a PAT of Rs. 3,253 crores.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated Q2 profit stood at Rs. 4,468 crores.",
+     "quote": "Q2 consolidated profit is Rs. 4,468 crore, in which contribution from Bank and other lending entities is 81%.",
+     "page": 7,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Credit card contraction and write-off allocation",
+     "quote": "So, firstly, with respect to credit card, in fact, last quarter also you indicated that we should start to see the growth this quarter, but it was down like 4% odd",
+     "page": 15,
+     "verified": true
+    },
+    {
+     "topic": "Lower OPEX drivers and sustainability",
+     "quote": "Is that merely a function of credit cards not having picked up or is there more than that?",
+     "page": 16,
+     "verified": true
+    },
+    {
+     "topic": "Excess capital deployment and inorganic plans",
+     "quote": "Could I argue that even taking into account these three factors you have told, you're sitting on chunky excess capital",
+     "page": 22,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and focused on risk prudence, execution discipline, and gradual portfolio normalization."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Jan 2026",
+   "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2026/q3/transcript/Q3FY26-Transcript.pdf",
+   "pages": 31,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Expect normalization of credit costs to continue, though at a more moderated pace",
+     "horizon": "future",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "Overall, we expect normalization of credit costs to continue, though at a more moderated pace.",
+     "page": 4,
+     "speaker": "Ashok Vaswani",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Expect a moderate increase in Q4 NIM assuming no further rate cuts in February",
+     "horizon": "Q4",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "assuming no further rate cuts in February, I think we will see a moderate increase in Q4 NIM",
+     "page": 19,
+     "speaker": "Devang Gheewalla",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "profit",
+     "promise": "Expect credit cost to further gradually go down in Q4 and trend continuing in Q1",
+     "horizon": "Q1",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "even in Q4, we expect the credit cost to further gradually go down and the trend continuing during Q1.",
+     "page": 20,
+     "speaker": "Devang Gheewalla",
+     "verified": true,
+     "id": "g2.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Net advances grew 16% Y-o-Y, in line with growing advances 1.5x to 2x nominal GDP",
+     "quote": "In the Bank, net advances grew 16% Y-o-Y. This is in line with our stated philosophy",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Average deposits grew 15% year-on-year with focus on granular CASA growth",
+     "quote": "Average deposits grew 15% year-on-year. We have been focusing on granular CASA growth.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Bank standalone PAT was INR 3,400 crores including high cost on new labor code",
+     "quote": "Bank ended the quarter with a PAT of INR 3,400 crores. Q3 includes high cost on account of new labor code",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated customer assets grew at 15% year-on-year to INR 5,98,000 crores",
+     "quote": "Our consolidated customer assets are at INR 5,98,000 crores... both grew at 15% on a Y-o-Y basis.",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Net interest margin flat quarter-on-quarter",
+     "quote": "What has actually changed in terms of the expectations with respect to margins?",
+     "page": 19,
+     "verified": true
+    },
+    {
+     "topic": "Current account growth drivers and stickiness",
+     "quote": "How much of this would you really be attributing to the capital market? And how should we think of stickiness of this deposits?",
+     "page": 20,
+     "verified": true
+    },
+    {
+     "topic": "Slippages stability despite unsecured credit improving",
+     "quote": "if they are improving, then, which is the piece which is rising and hence, the overall slippages are stable.",
+     "page": 29,
+     "verified": true
+    }
+   ],
+   "tone": "Prudent, confident, and transparent regarding macroeconomic challenges and segment-specific credit cautions."
+  },
+  {
+   "n": 3,
+   "quarter": "Q4 FY26",
+   "date": "May 2026",
+   "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2026/q4/transcript/Q4FY26-Transcript.pdf",
+   "pages": 23,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Expect NIM to reduce next year, but the rate of reduction will be much lesser and far more gradual",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We expect NIM will be reducing next year, but the rate of reduction will be much lesser and far more gradual",
+     "page": 14,
+     "speaker": "Devang Gheewalla",
+     "verified": true,
+     "id": "g3.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered YoY growth of 16.2% in average net advances and 14.9% in average deposits.",
+     "quote": "On an overall basis in the Bank, delivered year-on-year growth of 16.2% in average net advances and 14.9% in average deposits.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Q4 PAT is up 13% in the Bank and 6% on a consolidated basis YoY.",
+     "quote": "On a Y-o-Y basis, Q4 PAT is up 13% in the Bank and 6% on a consolidated basis.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Gross NPA at 1.2% and Net NPA at 0.25% with provision coverage ratio over 79%.",
+     "quote": "The gross NPA is at 1.2% versus 1.3% in December, net NPA 0.25% versus 0.31% in December quarter, with the provision coverage ratio now over 79% at 31st March.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Standalone capital adequacy ratio is at 22.4% with CET-1 at 21.3%.",
+     "quote": "At the Standalone Bank level, the capital adequacy ratio is at 22.4%, of which CET-1 itself is 21.3%.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Term deposit rate hike and NIM impact",
+     "quote": "So, what is the thinking behind that in terms of maybe increasing the rates? And given this scenario, maybe what would be the outlook on NIM?",
+     "page": 13,
+     "verified": true
+    },
+    {
+     "topic": "CASA and TD average growth trends",
+     "quote": "So, my question is now to accelerate or reaccelerate the SA and TD growth, do you think a deposit rate increase is needed, apart from what you have already done?",
+     "page": 15,
+     "verified": true
+    },
+    {
+     "topic": "High LCR and investment portfolio composition",
+     "quote": "So, what is the need to keep this level of excess liquidity? And wouldn't if you bring it down, could provide some support to margins as well?",
+     "page": 19,
+     "verified": true
+    }
+   ],
+   "tone": "Cautious yet confident about core operating progress, risk management, and structural credit normalization."
+  },
+  {
+   "n": 4,
+   "quarter": "Q1 FY27",
+   "date": "Aug 2026",
+   "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2027/q1/transcript/Q1FY27-Transcript.pdf",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [],
+   "claims": [
+    {
+     "claim": "Group delivered INR 5,480 crore in profit after tax, a growth of 23% Y-o-Y.",
+     "quote": "For the quarter, the group delivered INR 5,480 crore in profit after tax, which is a growth of 23% on a Y-o-Y basis.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Bank delivered profit after tax of INR 4,123 crore, up 26% Y-o-Y.",
+     "quote": "The Bank delivered profit after tax of INR 4,123 crore, up 26% Y-o-Y.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Net interest margin for the quarter was steady at 4.53%.",
+     "quote": "Net interest margin for the quarter 4.53%, remained consistent with Q3FY26 and adjusted Q4 margin.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated customer assets stood at INR 6,45,812 crore, growing 16% Y-o-Y.",
+     "quote": "Moving to the consolidated businesses, customer assets stood at INR 6,45,812 crore, growing 16% Y-o-Y.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Deposit growth and LCR",
+     "quote": "So maybe what would be the strategy? We highlighted, we touched upon a lot in terms of the different initiatives on the deposits side, but it appears that amongst the top four banks, in fact, we still seem to be relatively lower in terms of the growth.",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Advance growth acceleration",
+     "quote": "So when do we see that because there is a lot of comfort on asset quality?",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Personal loan growth and profitability",
+     "quote": "And secondly on personal loans, again here the book was flattish Q-o-Q and this is when we called out two quarters back that, you know, personal loans is now fine. So how do we really read into this?",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, disciplined, and focused on responsible and profitable growth over short-term expansion."
+  }
+ ],
+ "business": {
+  "what_it_does": "Provides banking, financial services, lending, insurance, and capital market services to retail and corporate clients.",
+  "segments": [
+   {
+    "name": "Treasury, BMU and Corporate Centre",
+    "revenue": null,
+    "unit": null,
+    "what": "Money market, forex, derivatives, investments, and balance sheet management",
+    "page": 194
+   },
+   {
+    "name": "Corporate/Wholesale Banking",
+    "revenue": null,
+    "unit": null,
+    "what": "Wholesale borrowings and lendings to corporate sector",
+    "page": 194
+   },
+   {
+    "name": "Retail Banking",
+    "revenue": null,
+    "unit": null,
+    "what": "Digital banking, commercial vehicle finance, home loans, and branch banking",
+    "page": 194
+   },
+   {
+    "name": "Other Banking business",
+    "revenue": null,
+    "unit": null,
+    "what": "Any other business not classified above",
+    "page": 194
+   }
+  ],
+  "mix_note": "Business operations are primarily concentrated in India, operating only in the domestic segment.",
+  "risks_mgmt_flags": [
+   "Repo-linked loans in the book stood at 63% as at 31st March, 2026.",
+   "Microcredit industry AUM declined by 16.1% with elevated credit costs.",
+   "Muted corporate credit demand in the first half due to global uncertainty."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c1b719fb-23e9-4cb8-b303-720eb0e31cc4.pdf",
+  "pages_read": [
+   78,
+   91,
+   148,
+   152,
+   194,
+   224,
+   285,
+   287,
+   290,
+   295,
+   307,
+   433
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Expect credit costs to gradually moderate in second half of financial year.",
+    "made_in": "Q2 FY26 call",
+    "delivered": "Management reported normalization continuing in Q3 FY26, matching the guidance.",
+    "verdict": "delivered",
+    "checked_against": "Q3 FY26 call statements",
+    "quote": "Overall, we expect our credit costs to now gradually moderate in the second half of the financial year.",
+    "page": 4,
+    "verified": true,
+    "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2026/q2/Transcript/Q2FY26-Transcript.pdf"
+   },
+   {
+    "ref": "g1.2",
+    "promise": "Expect NIM to show gradual improvement with ongoing repricing of deposits and CRR benefits in H2.",
+    "made_in": "Q2 FY26 call",
+    "delivered": "NIM remained flat quarter-on-quarter in Q3 FY26, indicating the expectation was partly unmet.",
+    "verdict": "partly",
+    "checked_against": "Q3 FY26 call analysts pressed on NIM flat QoQ",
+    "quote": "We expect NIM to show gradual improvement with ongoing repricing of deposits and CRR benefits during the second half of the year assuming no further repo rate cut.",
+    "page": 6,
+    "verified": true,
+    "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2026/q2/Transcript/Q2FY26-Transcript.pdf"
+   },
+   {
+    "ref": "g2.2",
+    "promise": "Expect a moderate increase in Q4 NIM assuming no further rate cuts in February.",
+    "made_in": "Q3 FY26 call",
+    "delivered": "Delivered YoY average net advances growth of 16.2% in Q4 FY26.",
+    "verdict": "delivered",
+    "checked_against": "Q4 FY26 mgmt claim",
+    "quote": "assuming no further rate cuts in February, I think we will see a moderate increase in Q4 NIM",
+    "page": 19,
+    "verified": true,
+    "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2026/q3/transcript/Q3FY26-Transcript.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "Expect NIM will be reducing next year, but the rate of reduction will be much lesser.",
+    "made_in": "Q4 FY26 call",
+    "delivered": "Net interest margin steady at 4.53% in Q1 FY27.",
+    "verdict": "delivered",
+    "checked_against": "Q1 FY27 mgmt claim NIM 4.53%",
+    "quote": "We expect NIM will be reducing next year, but the rate of reduction will be much lesser and far more gradual",
+    "page": 14,
+    "verified": true,
+    "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2026/q4/transcript/Q4FY26-Transcript.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 7,
+   "line": "Management generally delivers on operational asset growth and credit cost trends, though NIM projections faced headwinds."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Revenue growth accelerated from 4.7% in Sep 2025 to 15.4% in Sep 2026, aligning with expansion claims."
+   },
+   {
+    "agree": true,
+    "point": "PAT reached INR 5,645 crore in Sep 2026, showing a 26.3% YoY increase matching reported profitability growth."
+   },
+   {
+    "agree": false,
+    "point": "Annual PAT dropped to INR 19,288 crore for Mar 2026 from INR 22,126 crore in Mar 2025 despite revenue gains."
+   }
+  ],
+  "bull": [
+   "Sep 2026 revenue accelerated strongly to 19,856 crore, growing 15.4% YoY.",
+   "Consolidated customer assets grew 16% YoY to INR 6,45,812 crore in Q1 FY27.",
+   "Strong operating cash flow of INR 41,727 crore for the year ended Mar 2026."
+  ],
+  "bear": [
+   "Annual PAT declined to INR 19,288 crore for Mar 2026 from INR 22,126 crore in Mar 2025.",
+   "Borrowings increased to INR 1,23,120 crore by Sep 2026 from INR 97,622 crore in Mar 2025.",
+   "Debt-to-equity ratio rose to 0.63 as of Sep 2026 compared to 0.53 in Mar 2026."
+  ],
+  "watch": [
+   "Whether NIM stays steady at 4.53% amid rate shifts.",
+   "If Sep 2026 revenue growth of 15.4% is sustained.",
+   "Evolution of borrowings reaching INR 1,23,120 crore."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 17399,
+   "out": 744,
+   "secs": 6.5,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 19427,
+   "out": 866,
+   "secs": 5.2,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 16717,
+   "out": 728,
+   "secs": 8.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14258,
+   "out": 581,
+   "secs": 6.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 10304,
+   "out": 372,
+   "secs": 2.9,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 3040,
+   "out": 1082,
+   "secs": 20.0,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 81145,
+  "tokens_out": 4373,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 54.7
+ }
+}

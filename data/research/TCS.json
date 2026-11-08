@@ -1,0 +1,939 @@
+{
+ "symbol": "TCS",
+ "name": "Tata Consultancy Services Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T21:44:52",
+ "latest_call": "Oct 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 904251.0,
+   "pe": 16.6,
+   "roce": 63.0,
+   "roe": 51.8,
+   "ttm_revenue": 283248.0,
+   "ttm_pat": 51858.0,
+   "margin_latest_q": 26.0,
+   "de": 0.1,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 63973.0,
+    "rev_yoy": 5.6,
+    "op_profit": 17034.0,
+    "margin": 27.0,
+    "ebit_margin": 24.5,
+    "pat": 12444.0,
+    "pat_yoy": 12.1
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 64479.0,
+    "rev_yoy": 5.3,
+    "op_profit": 16980.0,
+    "margin": 26.0,
+    "ebit_margin": 24.2,
+    "pat": 12293.0,
+    "pat_yoy": -1.7
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 63437.0,
+    "rev_yoy": 1.3,
+    "op_profit": 16875.0,
+    "margin": 27.0,
+    "ebit_margin": 24.5,
+    "pat": 12819.0,
+    "pat_yoy": 5.9
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 65799.0,
+    "rev_yoy": 2.4,
+    "op_profit": 17978.0,
+    "margin": 27.0,
+    "ebit_margin": 25.2,
+    "pat": 12131.0,
+    "pat_yoy": 1.5
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 67087.0,
+    "rev_yoy": 4.9,
+    "op_profit": 18269.0,
+    "margin": 27.0,
+    "ebit_margin": 25.2,
+    "pat": 10720.0,
+    "pat_yoy": -13.9
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 70698.0,
+    "rev_yoy": 9.6,
+    "op_profit": 19276.0,
+    "margin": 27.0,
+    "ebit_margin": 25.3,
+    "pat": 13784.0,
+    "pat_yoy": 12.1
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 72275.0,
+    "rev_yoy": 13.9,
+    "op_profit": 18556.0,
+    "margin": 26.0,
+    "ebit_margin": 24.0,
+    "pat": 13420.0,
+    "pat_yoy": 4.7
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 73188.0,
+    "rev_yoy": 11.2,
+    "op_profit": 18815.0,
+    "margin": 26.0,
+    "ebit_margin": 24.0,
+    "pat": 13934.0,
+    "pat_yoy": 14.9
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 156949.0,
+    "op_profit": 42109.0,
+    "margin": 27.0,
+    "pat": 32447.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 164177.0,
+    "op_profit": 46546.0,
+    "margin": 28.0,
+    "pat": 32562.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 191754.0,
+    "op_profit": 53057.0,
+    "margin": 28.0,
+    "pat": 38449.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 225458.0,
+    "op_profit": 59259.0,
+    "margin": 26.0,
+    "pat": 42303.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 240893.0,
+    "op_profit": 64296.0,
+    "margin": 27.0,
+    "pat": 46099.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 255324.0,
+    "op_profit": 67407.0,
+    "margin": 26.0,
+    "pat": 48797.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 267021.0,
+    "op_profit": 72398.0,
+    "margin": 27.0,
+    "pat": 49454.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 5.8,
+   "rev_cagr_5y": 10.2,
+   "pat_cagr_3y": 5.3,
+   "pat_cagr_5y": 8.7,
+   "margin_change_3y_bps": 100
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 7818.0,
+    "equity": 89139.0,
+    "de": 0.09
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 7688.0,
+    "equity": 90424.0,
+    "de": 0.09
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 8021.0,
+    "equity": 90489.0,
+    "de": 0.09
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 9392.0,
+    "equity": 94756.0,
+    "de": 0.1
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 11283.0,
+    "equity": 107240.0,
+    "de": 0.11
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 11808.0,
+    "equity": 118986.0,
+    "de": 0.1
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     67.0
+    ],
+    [
+     "Mar 2022",
+     80.0
+    ],
+    [
+     "Mar 2023",
+     81.0
+    ],
+    [
+     "Mar 2024",
+     81.0
+    ],
+    [
+     "Mar 2025",
+     84.0
+    ],
+    [
+     "Mar 2026",
+     93.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     67.0
+    ],
+    [
+     "Mar 2022",
+     80.0
+    ],
+    [
+     "Mar 2023",
+     81.0
+    ],
+    [
+     "Mar 2024",
+     81.0
+    ],
+    [
+     "Mar 2025",
+     84.0
+    ],
+    [
+     "Mar 2026",
+     93.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     59.0
+    ],
+    [
+     "Mar 2022",
+     33.0
+    ],
+    [
+     "Mar 2023",
+     30.0
+    ],
+    [
+     "Mar 2024",
+     34.0
+    ],
+    [
+     "Mar 2025",
+     34.0
+    ],
+    [
+     "Mar 2026",
+     38.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 38802.0,
+    "pat": 32562.0,
+    "fcf": 35663.0,
+    "conv": 1.19
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 39949.0,
+    "pat": 38449.0,
+    "fcf": 36985.0,
+    "conv": 1.04
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 41965.0,
+    "pat": 42303.0,
+    "fcf": 38902.0,
+    "conv": 0.99
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 44338.0,
+    "pat": 46099.0,
+    "fcf": 41688.0,
+    "conv": 0.96
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 48908.0,
+    "pat": 48797.0,
+    "fcf": 44994.0,
+    "conv": 1.0
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 52094.0,
+    "pat": 49454.0,
+    "fcf": 48013.0,
+    "conv": 1.05
+   }
+  ],
+  "cash_conv_5y": 1.01,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 101% of profit"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ae2d32-1050-4e80-96ff-eb2d98378d4e.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/q1/Management%20Commentary/Transcript%20of%20the%20Q1%202025-26%20Earnings%20Conference%20Call%20held%20at%201900%20hrs%20IST%20on%20Jul%2010,%202025.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q4 FY26",
+   "date": "Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ae2d32-1050-4e80-96ff-eb2d98378d4e.pdf",
+   "pages": 35,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Move towards 26% operating margin on a longer-term basis",
+     "horizon": "longer-term",
+     "low": null,
+     "high": 26.0,
+     "unit": "%",
+     "quote": "We'd like to move towards 26%, but on a longer-term basis.",
+     "page": 26,
+     "speaker": "Samir Seksaria",
+     "verified": true,
+     "id": "g1.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered sequential Q4 revenue growth of 1.2% in constant currency",
+     "quote": "We delivered a strong 1.2% sequentially on a constant currency (CC) basis",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Achieved Q4 order book TCV of $12 billion including three mega deals",
+     "quote": "Our order book performance was also very strong in Q4, with $12 billion in TCV including three mega deal wins",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Q4 operating margin stood at 25.3%, a sequential increase of 10 basis points",
+     "quote": "Our Q4 operating margin stood at 25.3%, a sequential increase of 10 basis points.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "claim": "Annualized AI revenues surpassed $2.3 billion in Q4",
+     "quote": "In Q4, our annualized AI revenues surpassed $2.3 billion, driven by the accelerated deployment of AI solutions across industries.",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Agentic AI impact on IT spend",
+     "quote": "Is this in any way leading to client’s sort of deferring their existing IT spends to maybe wait and watch",
+     "page": 21,
+     "verified": true
+    },
+    {
+     "topic": "Margin versus growth trade-off strategy",
+     "quote": "Should we be ready to compromise a bit of margins to maybe boost growth?",
+     "page": 29,
+     "verified": true
+    },
+    {
+     "topic": "Wage hike impact and increment timing",
+     "quote": "Just wanted to understand what's the thought process behind that, given that the overall demand environment, the supply side environment, and the macro uncertainties largely remain there",
+     "page": 31,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and positive about FY27 outlook, deal momentum, and AI-led growth potential."
+  },
+  {
+   "n": 2,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/q1/Management%20Commentary/Transcript%20of%20the%20Q1%202025-26%20Earnings%20Conference%20Call%20held%20at%201900%20hrs%20IST%20on%20Jul%2010,%202025.pdf",
+   "pages": 29,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "revenue growth",
+     "promise": "International market will do better in FY26 than FY25",
+     "horizon": "FY26",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "at this time we are confident the international market will do better in FY '26 than FY '25.",
+     "page": 17,
+     "speaker": "K Krithivasan",
+     "verified": true,
+     "id": "g2.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Q1 FY26 revenue declined by 3.1% year-on-year in constant currency.",
+     "quote": "In this backdrop, our quarterly revenue declined by 3.1% year-on-year in constant currency terms.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Q1 FY26 operating margin was 24.5% and net margin was 20.1%.",
+     "quote": "Our operating margin was 24.5% and the net margin was 20.1%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Total value of contracts signed in Q1 FY26 was $9.4 billion, up 13.2% year-on-year.",
+     "quote": "Our total value of contracts signed in Q1 FY26 was $9.4 billion, up 13.2% year-on-year.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Workforce at the end of the first quarter was 613,069.",
+     "quote": "Our workforce at the end of the first quarter was 613,069.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Margins and capacity",
+     "quote": "So what is pulling down your margin compared to where it was before the BSNL deal?",
+     "page": 18,
+     "verified": true
+    },
+    {
+     "topic": "Deal wins vs revenue conversion",
+     "quote": "Do you think AI-infused profit pass-through might impact the revenue conversion we might have in the medium term?",
+     "page": 20,
+     "verified": true
+    },
+    {
+     "topic": "North America growth and market share",
+     "quote": "North America being one of the biggest markets, like where are we losing in this market? And why -- is it not growing on an absolute basis for us?",
+     "page": 26,
+     "verified": true
+    }
+   ],
+   "tone": "Cautious regarding near-term demand pressures while confident in medium-to-long-term business model strength."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf",
+   "pages": 25,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Exit operating margins at 25% plus and strive to achieve it sooner.",
+     "horizon": "remaining FY27",
+     "low": 25.0,
+     "high": null,
+     "unit": "%",
+     "quote": "We want to exit at 25% plus and strive to achieve it sooner rather than later.",
+     "page": 23,
+     "speaker": "Samir Seksaria",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Target to have at least 1% of employee base working in FDE model.",
+     "horizon": "going forward",
+     "low": 1.0,
+     "high": null,
+     "unit": "%",
+     "quote": "going forward, we would deﬁnitely target to have the deﬁnition that we come up with, and target to have at least 1% of our employee base, to work in the new operating model.",
+     "page": 15,
+     "speaker": "Aarthi Subramanian",
+     "verified": true,
+     "id": "g3.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Q1 FY27 revenue stood at 72275 crore rupees, growing 2.2% sequentially.",
+     "quote": "Our Q1 revenue stood at ₹72,275 crore, growing 2.2% sequentially and 13.9% year-on-year.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Operating margins stood at 24% for the quarter, declining 130 bps sequentially.",
+     "quote": "Operating margin for the quarter was 24%, declining 130 bps sequentially.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Delivered a TCV of $9.5 billion in Q1 FY27.",
+     "quote": "We delivered a TCV of $9.5 billion, including net new AI-led business transformation deals",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Annualized AI services revenue stands at $2.6 billion at the end of Q1 FY27.",
+     "quote": "At the end of Q1 FY27, it stands at $2.6 billion in annualized revenue, which is up 13.9% QoQ.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Demand slowdown and macro/geopolitical impact",
+     "quote": "How did you see the quarter, if you could quantify the impact from some of the macro and geopolitical uncertainties you saw in the quarter",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "AI productivity pass-through and revenue deﬂation",
+     "quote": "discuss the impact, percentage of revenues or the business or the client has already gone through the productivity pass-through, and how much is left?",
+     "page": 12,
+     "verified": true
+    },
+    {
+     "topic": "Hiring and wage hikes amidst AI white-collar reduction concerns",
+     "quote": "your wage hikes and hiring seem to be sending a signal that you see things diƯerently. Can you talk a bit about why you've given this wage hike and why such strong hiring",
+     "page": 17,
+     "verified": true
+    }
+   ],
+   "tone": "Optimistic and confident in demand recovery, AI adoption scale, and long-term positioning."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf",
+   "pages": 29,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Work towards inching up margins higher from current levels",
+     "horizon": "coming quarters",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "we will work towards inching margins higher from here.",
+     "page": 21,
+     "speaker": "Samir Seksaria",
+     "verified": true,
+     "id": "g4.1"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Revenue for the quarter was ₹73,188 crore, growing 2.8% year-on-year in constant currency.",
+     "quote": "Revenue for the quarter was ₹73,188 crore. In constant currency, revenue grew 0.5% sequentially and 2.8% year-on-year.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Operating margins remained stable sequentially at 24%.",
+     "quote": "Our operating margins remained stable sequentially at 24%.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Annualized AI revenue reached $3.1 billion and crossed 10% of overall revenue.",
+     "quote": "Annualized AI revenue reached $3.1 billion and crossed 10% of our overall revenue.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Total Contract Value (TCV) for the quarter was US$9.6 billion.",
+     "quote": "TCV for the quarter was US$9.6 billion.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Margin trajectory and investment peaks",
+     "quote": "In terms of what has changed in that thought process from an investment perspective, and when do you think investments really peak out?",
+     "page": 17,
+     "verified": true
+    },
+    {
+     "topic": "AI revenue substitution vs incremental spend",
+     "quote": "Should we interpret this as AI increasingly substituting the traditional services, or we are seeing incremental client spending?",
+     "page": 15,
+     "verified": true
+    },
+    {
+     "topic": "Subcontracting cost increases and margin impacts",
+     "quote": "To get back towards 26%, which is the aspirational margin, do you think that we'll be able to bring down subcontracting costs over time",
+     "page": 15,
+     "verified": true
+    }
+   ],
+   "tone": "Confident in long-term AI-led growth while prioritizing strategic investments over near-term margin expansion."
+  }
+ ],
+ "business": {
+  "what_it_does": "Provides IT services, consulting, business solutions, application development, maintenance, digital transformation, AI, data, cloud, and cognitive business operations.",
+  "segments": [
+   {
+    "name": "Banking, Financial Services and Insurance",
+    "revenue": 103363,
+    "unit": "crore",
+    "what": "Services for banking, financial services, and insurance clients",
+    "page": 60,
+    "share_pct": 39
+   },
+   {
+    "name": "Consumer Business",
+    "revenue": 42432,
+    "unit": "crore",
+    "what": "Services for consumer business industry",
+    "page": 60,
+    "share_pct": 16
+   },
+   {
+    "name": "Communication, Media and Technology",
+    "revenue": 39474,
+    "unit": "crore",
+    "what": "Services for communication, media and technology",
+    "page": 60,
+    "share_pct": 15
+   },
+   {
+    "name": "Life Sciences and Healthcare",
+    "revenue": 27745,
+    "unit": "crore",
+    "what": "Services for life sciences and healthcare",
+    "page": 60,
+    "share_pct": 10
+   },
+   {
+    "name": "Manufacturing",
+    "revenue": 26614,
+    "unit": "crore",
+    "what": "Services for manufacturing sector",
+    "page": 60,
+    "share_pct": 10
+   },
+   {
+    "name": "Others",
+    "revenue": 27393,
+    "unit": "crore",
+    "what": "Services for energy, resources, utilities, e-governance and products",
+    "page": 60,
+    "share_pct": 10
+   }
+  ],
+  "mix_note": "Revenue by geography is concentrated in North America at 48.6%.",
+  "risks_mgmt_flags": [
+   "Lawsuit filed by Computer Sciences Corporation alleging misappropriation of trade secrets.",
+   "Ongoing disputes with tax authorities relating to treatment of characterisation and classification of items."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf",
+  "pages_read": [
+   60,
+   70,
+   107,
+   211,
+   213,
+   219,
+   220,
+   225,
+   226,
+   293,
+   302,
+   307
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Move towards 26% operating margin on a longer-term basis",
+    "made_in": "Q4 FY26",
+    "delivered": "EBIT% was 25.3% in Mar 2026 and 24.0% in Sep 2026, remaining below 26%",
+    "verdict": "too_early",
+    "checked_against": "EBIT% reported for Mar 2026 and Sep 2026",
+    "quote": "We'd like to move towards 26%, but on a longer-term basis.",
+    "page": 26,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ae2d32-1050-4e80-96ff-eb2d98378d4e.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "Exit operating margins at 25% plus and strive to achieve it sooner",
+    "made_in": "Q1 FY27",
+    "delivered": "EBIT% was 24.0% in Jun 2026 and 24.0% in Sep 2026, missing the 25% target",
+    "verdict": "missed",
+    "checked_against": "EBIT% for Jun 2026 and Sep 2026",
+    "quote": "We want to exit at 25% plus and strive to achieve it sooner rather than later.",
+    "page": 23,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf"
+   },
+   {
+    "ref": "g2.1",
+    "promise": "International market will do better in FY26 than FY25",
+    "made_in": "Q1 FY27",
+    "delivered": "Annual revenue grew to 267,021.0 crore in Mar 2026 versus 255,324.0 crore in Mar 2025",
+    "verdict": "delivered",
+    "checked_against": "Annual Revenue for Mar 2026 and Mar 2025",
+    "quote": "at this time we are confident the international market will do better in FY '26 than FY '25.",
+    "page": 17,
+    "verified": true,
+    "url": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/q1/Management%20Commentary/Transcript%20of%20the%20Q1%202025-26%20Earnings%20Conference%20Call%20held%20at%201900%20hrs%20IST%20on%20Jul%2010,%202025.pdf"
+   },
+   {
+    "ref": "g3.2",
+    "promise": "Target to have at least 1% of employee base working in FDE model",
+    "made_in": "Q1 FY27",
+    "delivered": "No headcount breakdown for the FDE model is provided in the reported numbers",
+    "verdict": "too_early",
+    "checked_against": "Reported numbers text",
+    "quote": "going forward, we would deﬁnitely target to have the deﬁnition that we come up with, and target to have at least 1% of our employee base, to work in the new operating model.",
+    "page": 15,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Work towards inching up margins higher from current levels",
+    "made_in": "Q2 FY27",
+    "delivered": "EBIT% remained flat at 24.0% in Sep 2026 compared to Jun 2026",
+    "verdict": "partly",
+    "checked_against": "EBIT% for Jun 2026 and Sep 2026",
+    "quote": "we will work towards inching margins higher from here.",
+    "page": 21,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 5,
+   "line": "Management missed its operating margin exit target of 25% plus, delivering 24% in Jun and Sep 2026."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": false,
+    "point": "Management claimed stable operating margins at 24%, but this is lower than the 25.3% reported in Mar 2026."
+   },
+   {
+    "agree": true,
+    "point": "Annual revenue grew to 267,021.0 crore in Mar 2026, supporting the claim of better international market performance."
+   },
+   {
+    "agree": true,
+    "point": "Operating cash flow reached 52,094.0 crore in Mar 2026, consistent with strong 105% OCF to PAT conversion."
+   }
+  ],
+  "bull": [
+   "Annual revenue grew to 267,021.0 crore in Mar 2026 with PAT of 49,454.0 crore.",
+   "Strong cash conversion with 5y operating cash at 101% of profit.",
+   "Free cash flow improved to 48,013.0 crore in Mar 2026 from 44,994.0 crore in Mar 2025."
+  ],
+  "bear": [
+   "EBIT% declined from 25.3% in Mar 2026 to 24.0% in Sep 2026.",
+   "Borrowings increased to 11,808.0 crore by Sep 2026 from 8,021.0 crore in Mar 2024.",
+   "PAT declined 13.9% year-on-year in Dec 2025 to 10,720.0 crore."
+  ],
+  "watch": [
+   "Operating margins in upcoming quarters",
+   "Borrowings level",
+   "TCV conversion to revenue"
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 15075,
+   "out": 604,
+   "secs": 3.6,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14675,
+   "out": 631,
+   "secs": 8.7,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12360,
+   "out": 817,
+   "secs": 3.7,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14033,
+   "out": 590,
+   "secs": 4.4,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 10524,
+   "out": 478,
+   "secs": 10.8,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 3124,
+   "out": 1113,
+   "secs": 12.3,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 6,
+  "tokens_in": 69791,
+  "tokens_out": 4233,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 48.3
+ }
+}

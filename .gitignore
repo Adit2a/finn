@@ -1,0 +1,8 @@
+# secrets and local state — never committed
+.env
+.venv/
+.cache/
+.claude/
+__pycache__/
+*.pyc
+*.log

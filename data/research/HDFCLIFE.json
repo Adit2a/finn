@@ -1,0 +1,976 @@
+{
+ "symbol": "HDFCLIFE",
+ "name": "HDFC Life Insurance Company Ltd",
+ "basis": "consolidated",
+ "generated_at": "2026-11-08T22:41:13",
+ "latest_call": "Oct 2026",
+ "numbers": {
+  "snapshot": {
+   "market_cap_cr": 122164.0,
+   "pe": 59.6,
+   "roce": 10.3,
+   "roe": 11.3,
+   "ttm_revenue": 107513.0,
+   "ttm_pat": 2048.0,
+   "margin_latest_q": 1.4,
+   "de": 0.16,
+   "is_financial": false,
+   "margin_label": "Operating margin"
+  },
+  "quarters": [
+   {
+    "q": "Dec 2024",
+    "revenue": 17300.0,
+    "rev_yoy": -35.8,
+    "op_profit": 448.0,
+    "margin": 2.6,
+    "ebit_margin": 2.6,
+    "pat": 421.0,
+    "pat_yoy": 14.4
+   },
+   {
+    "q": "Mar 2025",
+    "revenue": 24191.0,
+    "rev_yoy": -13.7,
+    "op_profit": 377.0,
+    "margin": 1.6,
+    "ebit_margin": 1.6,
+    "pat": 475.0,
+    "pat_yoy": 15.3
+   },
+   {
+    "q": "Jun 2025",
+    "revenue": 29463.0,
+    "rev_yoy": 9.4,
+    "op_profit": 439.0,
+    "margin": 1.5,
+    "ebit_margin": 1.5,
+    "pat": 548.0,
+    "pat_yoy": 14.4
+   },
+   {
+    "q": "Sep 2025",
+    "revenue": 20651.0,
+    "rev_yoy": -27.5,
+    "op_profit": 315.0,
+    "margin": 1.5,
+    "ebit_margin": 1.5,
+    "pat": 448.0,
+    "pat_yoy": 3.0
+   },
+   {
+    "q": "Dec 2025",
+    "revenue": 29428.0,
+    "rev_yoy": 70.1,
+    "op_profit": 271.0,
+    "margin": 0.9,
+    "ebit_margin": 0.9,
+    "pat": 418.0,
+    "pat_yoy": -0.7
+   },
+   {
+    "q": "Mar 2026",
+    "revenue": 19890.0,
+    "rev_yoy": -17.8,
+    "op_profit": 108.0,
+    "margin": 0.6,
+    "ebit_margin": 0.5,
+    "pat": 497.0,
+    "pat_yoy": 4.6
+   },
+   {
+    "q": "Jun 2026",
+    "revenue": 33759.0,
+    "rev_yoy": 14.6,
+    "op_profit": 506.0,
+    "margin": 1.5,
+    "ebit_margin": 1.5,
+    "pat": 611.0,
+    "pat_yoy": 11.5
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 24437.0,
+    "rev_yoy": 18.3,
+    "op_profit": 332.0,
+    "margin": 1.4,
+    "ebit_margin": 1.4,
+    "pat": 522.0,
+    "pat_yoy": 16.5
+   }
+  ],
+  "years": [
+   {
+    "y": "Mar 2020",
+    "revenue": 29380.0,
+    "op_profit": 1141.0,
+    "margin": 3.9,
+    "pat": 1297.0
+   },
+   {
+    "y": "Mar 2021",
+    "revenue": 71528.0,
+    "op_profit": 1235.0,
+    "margin": 1.7,
+    "pat": 1361.0
+   },
+   {
+    "y": "Mar 2022",
+    "revenue": 67126.0,
+    "op_profit": 778.0,
+    "margin": 1.2,
+    "pat": 1327.0
+   },
+   {
+    "y": "Mar 2023",
+    "revenue": 70207.0,
+    "op_profit": 80.0,
+    "margin": 0.1,
+    "pat": 1368.0
+   },
+   {
+    "y": "Mar 2024",
+    "revenue": 101482.0,
+    "op_profit": 646.0,
+    "margin": 0.6,
+    "pat": 1574.0
+   },
+   {
+    "y": "Mar 2025",
+    "revenue": 96922.0,
+    "op_profit": 1028.0,
+    "margin": 1.1,
+    "pat": 1811.0
+   },
+   {
+    "y": "Mar 2026",
+    "revenue": 99432.0,
+    "op_profit": 1753.0,
+    "margin": 1.8,
+    "pat": 1912.0
+   }
+  ],
+  "trajectory": {
+   "rev_cagr_3y": 12.3,
+   "rev_cagr_5y": 6.8,
+   "pat_cagr_3y": 11.8,
+   "pat_cagr_5y": 7.0,
+   "margin_change_3y_bps": 170
+  },
+  "balance_sheet": [
+   {
+    "y": "Mar 2022",
+    "debt": 600.0,
+    "equity": 15614.0,
+    "de": 0.04
+   },
+   {
+    "y": "Mar 2023",
+    "debt": 950.0,
+    "equity": 12993.0,
+    "de": 0.07
+   },
+   {
+    "y": "Mar 2024",
+    "debt": 950.0,
+    "equity": 14666.0,
+    "de": 0.06
+   },
+   {
+    "y": "Mar 2025",
+    "debt": 2950.0,
+    "equity": 16155.0,
+    "de": 0.18
+   },
+   {
+    "y": "Mar 2026",
+    "debt": 3099.0,
+    "equity": 17750.0,
+    "de": 0.17
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 3099.0,
+    "equity": 19468.0,
+    "de": 0.16
+   }
+  ],
+  "working_capital": {
+   "Debtor Days": [
+    [
+     "Mar 2021",
+     0.0
+    ],
+    [
+     "Mar 2022",
+     0.0
+    ],
+    [
+     "Mar 2023",
+     0.0
+    ],
+    [
+     "Mar 2024",
+     0.0
+    ],
+    [
+     "Mar 2025",
+     0.0
+    ],
+    [
+     "Mar 2026",
+     0.0
+    ]
+   ],
+   "Inventory Days": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Days Payable": [
+    [
+     "Mar 2021",
+     null
+    ],
+    [
+     "Mar 2022",
+     null
+    ],
+    [
+     "Mar 2023",
+     null
+    ],
+    [
+     "Mar 2024",
+     null
+    ],
+    [
+     "Mar 2025",
+     null
+    ],
+    [
+     "Mar 2026",
+     null
+    ]
+   ],
+   "Cash Conversion Cycle": [
+    [
+     "Mar 2021",
+     0.0
+    ],
+    [
+     "Mar 2022",
+     0.0
+    ],
+    [
+     "Mar 2023",
+     0.0
+    ],
+    [
+     "Mar 2024",
+     0.0
+    ],
+    [
+     "Mar 2025",
+     0.0
+    ],
+    [
+     "Mar 2026",
+     0.0
+    ]
+   ],
+   "Working Capital Days": [
+    [
+     "Mar 2021",
+     -13.0
+    ],
+    [
+     "Mar 2022",
+     -11.0
+    ],
+    [
+     "Mar 2023",
+     -12.0
+    ],
+    [
+     "Mar 2024",
+     -8.0
+    ],
+    [
+     "Mar 2025",
+     -6.0
+    ],
+    [
+     "Mar 2026",
+     -6.0
+    ]
+   ]
+  },
+  "cash": [
+   {
+    "y": "Mar 2021",
+    "cfo": 9703.0,
+    "pat": 1361.0,
+    "fcf": 9643.0,
+    "conv": 7.13
+   },
+   {
+    "y": "Mar 2022",
+    "cfo": 5943.0,
+    "pat": 1327.0,
+    "fcf": 5887.0,
+    "conv": 4.48
+   },
+   {
+    "y": "Mar 2023",
+    "cfo": 6883.0,
+    "pat": 1368.0,
+    "fcf": 6797.0,
+    "conv": 5.03
+   },
+   {
+    "y": "Mar 2024",
+    "cfo": 10721.0,
+    "pat": 1574.0,
+    "fcf": 10587.0,
+    "conv": 6.81
+   },
+   {
+    "y": "Mar 2025",
+    "cfo": 15597.0,
+    "pat": 1811.0,
+    "fcf": 15300.0,
+    "conv": 8.61
+   },
+   {
+    "y": "Mar 2026",
+    "cfo": 22625.0,
+    "pat": 1912.0,
+    "fcf": 22341.0,
+    "conv": 11.83
+   }
+  ],
+  "cash_conv_5y": 7.73,
+  "flags": [
+   {
+    "tone": "good",
+    "text": "Cash conversion strong: 5y operating cash = 773% of profit"
+   },
+   {
+    "tone": "bad",
+    "text": "Borrowings 3.3x in 3 years (₹950 → ₹3,099 cr)"
+   }
+  ]
+ },
+ "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8183f0ee-2fc1-451e-a0bc-996461d27757.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e7ac30c3-9907-4d58-bcc9-1d2014e98c69.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q1 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4ea5debd-fa20-4ac2-9e0e-674ee56302d4.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q2 FY27 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fbb714aa-88f5-485f-97f1-b507b2635a2a.pdf"
+  },
+  {
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/87058873-f32d-4ce7-af23-5b6fc65815e1.pdf"
+  }
+ ],
+ "calls": [
+  {
+   "n": 1,
+   "quarter": "Q3 FY26",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8183f0ee-2fc1-451e-a0bc-996461d27757.pdf",
+   "pages": 21,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Neutralize the GST impact over the next couple of quarters",
+     "horizon": "next couple of quarters",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We remain on track to largely neutralize the impact over the next couple of quarters.",
+     "page": 4,
+     "speaker": "Vibha Padalkar",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Start FY27 on a clean slate having digested GST impact completely",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "So that FY27, we would like to start on a clean slate, having digested the GST impact completely.",
+     "page": 10,
+     "speaker": "Niraj Shah",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Expect Q4 to build on momentum seen in Q3",
+     "horizon": "Q4",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We expect Q4 to build on the momentum seen in the last quarter, with growth in FY27 supported by continued strength in protection",
+     "page": 6,
+     "speaker": "Vibha Padalkar",
+     "verified": true,
+     "id": "g1.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Individual APE grew 11% year-on-year translating into a two-year CAGR of 17%.",
+     "quote": "Individual APE grew 11% year-on-year, translating into a healthy two-year CAGR of 17%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Profit after tax grew by 7% to Rs. 1,414 crores.",
+     "quote": "Profit after tax grew by 7% to Rs. 1,414 crores.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Solvency ratio remained strong at 180% supported by subordinated debt raised.",
+     "quote": "The solvency ratio remained strong at 180%, supported by the Rs. 749 crores of subordinated debt raised in Q3.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Retail protection delivered strong year-on-year growth of 42% for nine months FY26.",
+     "quote": "Retail protection delivered strong year-on-year growth of 42% for the period nine months ended FY26 and 70% in Quarter 3",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Non-par growth and banca channel performance",
+     "quote": "So, what is kind of putting you in a situation where you are not able, in an environment where one would expect non-par to bounce back? The non-par is not bouncing back.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Negative operating variance and persistency stress",
+     "quote": "What I find conflicting, or maybe I am not understanding it better, is that if that trend has improved, then we should be seeing positive, like a bigger benefit in our operating variances, right? But that operating variance seems to be negative.",
+     "page": 7,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and constructive while addressing regulatory impacts and cyclical headwinds."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26",
+   "date": "Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e7ac30c3-9907-4d58-bcc9-1d2014e98c69.pdf",
+   "pages": 25,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Neutralize GST impact in first half of FY27 and improve margins over medium term",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": "bps",
+     "quote": "The impact in Q4 was approximately 110 basis points, and we expect this to taper off further and be largely neutralized as we move into FY27.",
+     "page": 5,
+     "speaker": "Vibha Padalkar",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Outpace industry new business and VNB growth",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "Our aspiration to outpace industry new business and VNB growth remains unchanged.",
+     "page": 6,
+     "speaker": "Vibha Padalkar",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Seek forbearance for FY27 and work towards full Ind AS adoption from FY28",
+     "horizon": "FY28",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "With respect to Ind AS, we have approval from our board to seek forbearance for FY27. We will be applying to the regulator and are working towards full adoption from FY28.",
+     "page": 6,
+     "speaker": "Vibha Padalkar",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "capital",
+     "promise": "Raise up to INR 1,000 crores by way of a preferential issue to parent HDFC Bank",
+     "horizon": "medium term",
+     "low": null,
+     "high": 1000,
+     "unit": "cr",
+     "quote": "we have taken board approval to raise up to INR1,000 crores by way of a preferential issue to our parent, HDFC Bank. This will add 900 basis points to our current solvency.",
+     "page": 5,
+     "speaker": "Vibha Padalkar",
+     "verified": true,
+     "id": "g2.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered full-year individual APE growth of 7% year-on-year",
+     "quote": "and we thus delivered a full-year individual APE growth of 7% year-on-year.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Value of new business stood at INR 4,034 crores, representing growth of 2% YoY",
+     "quote": "For FY26, value of new business stood at INR 4,034 crores, representing growth of 2% YoY.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "PAT excluding GST and labour code impact grew by 16%",
+     "quote": "PAT excluding GST and labour code impact would have shown a growth of 16%.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "HDFC Bank counter share decline and competitive intensity",
+     "quote": "How has particularly your wallet share within HDFC Bank channel behaved in Q4 vis-a-vis what it has been for the nine months?",
+     "page": 7,
+     "verified": true
+    },
+    {
+     "topic": "Three-year VNB CAGR stagnation and slow growth",
+     "quote": "I am looking at FY26 number, your CAGR has been just 3%, FY26 over FY23. So, it's actually not grown at all in three years' time.",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Non-par product IRR competitiveness versus peers",
+     "quote": "Now, what I wanted to understand is if you were to offer higher IRRs, what would be the impact on your margins? Why can't we sort of offer a more competitive product and capture that counter share?",
+     "page": 12,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, disciplined, and focused on long-term value creation despite near-term headwinds."
+  },
+  {
+   "n": 3,
+   "quarter": "Q1 FY27",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4ea5debd-fa20-4ac2-9e0e-674ee56302d4.pdf",
+   "pages": 21,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Expect new business margins to remain range bound at current levels.",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "we expect new business margins to remain range bound at current levels.",
+     "page": 5,
+     "speaker": "Vibha Padalkar",
+     "verified": true,
+     "id": "g3.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Grow in line with or faster than the industry over the course of the year.",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "growing in line with or faster than the industry over the course of the year",
+     "page": 4,
+     "speaker": "Vibha Padalkar",
+     "verified": true,
+     "id": "g3.2"
+    },
+    {
+     "metric": "profit",
+     "promise": "Deliver VNB growth broadly in line with APE growth.",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "delivering VNB growth broadly in line with APE growth as we prioritize profitable market share gains this year.",
+     "page": 4,
+     "speaker": "Vibha Padalkar",
+     "verified": true,
+     "id": "g3.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Individual APE and WRP grew by 7% and 8% respectively in Q1 FY27.",
+     "quote": "we commenced FY27 with Q1 individual APE and WRP growing by 7% and 8%, respectively",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Value of new business grew 9% to INR 879 crores during the quarter.",
+     "quote": "Our value of new business grew 9% to INR 879 crores during the quarter",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Profit after tax for the quarter was INR 611 crores, a 12% YoY growth.",
+     "quote": "Profit after tax for the quarter was INR 611 crores and registering a YoY growth of 12%.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Margin improvement constraint over the long horizon",
+     "quote": "What has put this kind of constraint that your margin improvement has been relatively limited.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "HDFC Bank channel growth and confidence recovery",
+     "quote": "So, what is giving us the confidence that it will improve from here onwards?",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Persistency trend reduction in traditional business",
+     "quote": "If we look at the trends in the traditional business, the persistency used to be 88- 89%. That has now come down to 83%.",
+     "page": 16,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and disciplined regarding profitable growth and navigating regulatory changes."
+  },
+  {
+   "n": 4,
+   "quarter": "Q2 FY27",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fbb714aa-88f5-485f-97f1-b507b2635a2a.pdf",
+   "pages": 22,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Expect to sustain this momentum and grow in line with the industry in FY27.",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We expect to sustain this momentum and grow in line with the industry in FY27.",
+     "page": 3,
+     "speaker": "Vibha Padalkar",
+     "verified": true,
+     "id": "g4.1"
+    },
+    {
+     "metric": "debt",
+     "promise": "Expect to complete raising up to Rs 500 crore through subordinated debt during current quarter.",
+     "horizon": "current quarter",
+     "low": null,
+     "high": 500,
+     "unit": "cr",
+     "quote": "The Board has approved raising up to ₹500 crore through subordinated debt, which we expect to complete during the current quarter",
+     "page": 4,
+     "speaker": "Vibha Padalkar",
+     "verified": true,
+     "id": "g4.2"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Continue with the objective of delivering VNB growth in line with APE or slightly ahead.",
+     "horizon": "FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "we will continue with the objective of delivering VNB growth in line with APE or slightly ahead of it.",
+     "page": 7,
+     "speaker": "Niraj Shah",
+     "verified": true,
+     "id": "g4.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Individual weighted received premium grew 11% in Q2, ahead of private industry at 10%.",
+     "quote": "In Q2, individual weighted received premium grew 11%, ahead of the private industry at 10%, with market share improving 10bps to 16.2% in Q2.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Value of new business for H1 was Rs 2,037 crore, a growth of 12%.",
+     "quote": "Value of new business for H1 was ₹2,037 crore, a growth of 12%, ahead of APE growth.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Profit after tax for H1 grew 13% to Rs 1,119 crore.",
+     "quote": "Profit after tax for H1 was ₹1,119 crore, a growth of 13%.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Solvency ratio stood at 180% as of September 30, 2026.",
+     "quote": "Our solvency ratio stood at 180% as of September 30, 2026, well above the regulatory requirement of 150%.",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "HDFC Bank growth recovery drivers and sustainability",
+     "quote": "What has changed in HDFC Bank because we had seen a slow phase in the last few quarters and the growth seems to have come back in the last couple of months? What has changed, and how is it sustainable?",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "topic": "Impact of proposed distribution consultation paper on commissions and banks",
+     "quote": "How do you see the behavior change at the distribution level with the new proposed commission limit, specifically if you can talk about agency, banca, and partnership distribution?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "GST tax demand litigation and contingent liability figure",
+     "quote": "So, just a GST demand, I had some confusion in terms of this Palghar penalty, whether it is INR942 crores or INR2,423 crores...",
+     "page": 22,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and resilient, emphasizing business momentum, broad-based growth, and disciplined capital management."
+  }
+ ],
+ "business": {
+  "what_it_does": "The company offers long-term savings, protection, and retirement or pension products to individual and group customers.",
+  "segments": [
+   {
+    "name": "Participating Funds",
+    "revenue": 2001150,
+    "unit": "lakh",
+    "what": "Participating life products to individual and group customers",
+    "page": 656,
+    "share_pct": 25
+   },
+   {
+    "name": "Non Participating Funds",
+    "revenue": 4043289,
+    "unit": "lakh",
+    "what": "Non-participating products to individual and group customers",
+    "page": 656,
+    "share_pct": 51
+   },
+   {
+    "name": "Unit Linked Funds",
+    "revenue": 1909853,
+    "unit": "lakh",
+    "what": "Unit-linked individual life and pension products",
+    "page": 656,
+    "share_pct": 24
+   }
+  ],
+  "mix_note": "Over 70% of new customers are first-time buyers; top 10 insurers account for 89% of individual WRP market.",
+  "risks_mgmt_flags": [
+   "Partnership channels experienced elevated volatility due to heightened competitive intensity.",
+   "Elevated competitive intensity in select banca partners posing risk to margins."
+  ],
+  "year": 2026,
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/87058873-f32d-4ce7-af23-5b6fc65815e1.pdf",
+  "pages_read": [
+   175,
+   178,
+   179,
+   181,
+   185,
+   194,
+   336,
+   337,
+   627,
+   628,
+   633,
+   656
+  ]
+ },
+ "ledger": {
+  "promise_ledger": [
+   {
+    "ref": "g1.1",
+    "promise": "Neutralize the GST impact over the next couple of quarters",
+    "made_in": "Q3 FY26 call",
+    "delivered": "Management stated in Q4 FY26 that the Q4 impact was 110 basis points and expected to taper off.",
+    "verdict": "delivered",
+    "checked_against": "Management commentary in Q4 FY26 call",
+    "quote": "We remain on track to largely neutralize the impact over the next couple of quarters.",
+    "page": 4,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8183f0ee-2fc1-451e-a0bc-996461d27757.pdf"
+   },
+   {
+    "ref": "g2.4",
+    "promise": "Raise up to INR 1,000 crores by way of a preferential issue to HDFC Bank",
+    "made_in": "Q4 FY26 call",
+    "delivered": "Board approval was taken to add 900 basis points to solvency, but specific completion figures are unverified in reported financials.",
+    "verdict": "too_early",
+    "checked_against": "Solvency ratio of 180% as of September 30, 2026",
+    "quote": "we have taken board approval to raise up to INR1,000 crores by way of a preferential issue to our parent, HDFC Bank. This will add 900 basis points to our current solvency.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e7ac30c3-9907-4d58-bcc9-1d2014e98c69.pdf"
+   },
+   {
+    "ref": "g4.2",
+    "promise": "Expect to complete raising up to Rs 500 crore through subordinated debt during current quarter",
+    "made_in": "Q2 FY27 call",
+    "delivered": "Borrowings stood at Rs 3,099 crore as of September 30, 2026, unchanged from March 2026.",
+    "verdict": "missed",
+    "checked_against": "Sep 2026 Borrowings of Rs 3,099 crore",
+    "quote": "The Board has approved raising up to ₹500 crore through subordinated debt, which we expect to complete during the current quarter",
+    "page": 4,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fbb714aa-88f5-485f-97f1-b507b2635a2a.pdf"
+   }
+  ],
+  "credibility": {
+   "score": 6,
+   "line": "Management delivers on general business growth but misses specific capital raising timelines like subordinated debt."
+  },
+  "narrative_vs_numbers": [
+   {
+    "agree": true,
+    "point": "Profit after tax grew 16.5% YoY to Rs 522 crore in Sep 2026, aligning with management claims of solid H1 performance."
+   },
+   {
+    "agree": false,
+    "point": "Borrowings remained flat at Rs 3,099 crore in Sep 2026, contradicting the expected Q2 completion of the Rs 500 crore sub-debt raise."
+   }
+  ],
+  "bull": [
+   "PAT grew 16.5% YoY to Rs 522 crore in Sep 2026.",
+   "Strong 5-year operating cash conversion at 773% of profit.",
+   "Solvency ratio remained robust at 180% as of September 30, 2026."
+  ],
+  "bear": [
+   "Borrowings increased 3.3x over 3 years from Rs 950 crore in Mar 2024 to Rs 3,099 crore in Sep 2026.",
+   "EBITDA margins remain thin, hovering around 1.4% to 1.5% through FY27 quarters.",
+   "Subordinated debt raising guided for Q2 FY27 was not reflected in the reported borrowings."
+  ],
+  "watch": [
+   "Completion of the Rs 500 crore subordinated debt raise.",
+   "Solvency ratio stability above 180%."
+  ]
+ },
+ "ledger_ok": true,
+ "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14510,
+   "out": 829,
+   "secs": 3.3,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 18803,
+   "out": 991,
+   "secs": 4.1,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 15171,
+   "out": 747,
+   "secs": 3.8,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 15852,
+   "out": 942,
+   "secs": 3.9,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12955,
+   "out": 313,
+   "secs": 2.4,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 3498,
+   "out": 773,
+   "secs": 3.8,
+   "cached": false,
+   "fallback": true
+  }
+ ],
+ "ledger_model": "gemini-3.5-flash-lite",
+ "ledger_fallback": true,
+ "cost": {
+  "calls": 6,
+  "fresh_calls": 1,
+  "tokens_in": 80789,
+  "tokens_out": 4595,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "usd": 0.0,
+  "secs": 4.8
+ }
+}
