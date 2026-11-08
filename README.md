@@ -23,12 +23,10 @@ With no key, everything except the Promise Ledger, filing reads and Q&A still wo
 
 - **Portfolio tab** — add any NSE stock by name or symbol, remove stocks, optionally enter quantity and average cost for value and returns. The list lives on your device; a stock nobody has added before is fetched by the server in the background (~15–60 s) and joins the daily refresh.
 - **Coming up** — results board meetings, ex-dividend / record dates and announced earnings calls for your holdings, from NSE's event calendar and corporate-actions feeds.
-- **Telegram alerts** — after each refresh, one message with anything that crossed your rules (filings, price and volume moves, tomorrow's events). Each alert is sent once.
+- **Telegram alerts** — connect in one tap from the app; after each market close, one message per person with anything that crossed *their* rules for *their* portfolio. Each alert is sent once.
 
-### Telegram alerts (free, ~2 minutes)
-1. In Telegram, open **@BotFather** → `/newbot` → copy the token into `.env` as `TELEGRAM_BOT_TOKEN=...`
-2. Open your new bot and press **Start**, then run `python scripts/telegram_setup.py` and add the printed `TELEGRAM_CHAT_ID=...` to `.env`.
-3. Set `FINN_OWNER_PIN=` to any PIN. In the app, **Alerts → Telegram alerts → Use these rules** syncs your portfolio and thresholds; **Send a test** checks the connection.
+### Telegram alerts
+Users connect from the app: **Alerts → Connect Telegram** opens FINN's bot, one tap on *Start* links the chat, and the device's portfolio and rules sync automatically (`/stop` in Telegram unsubscribes). The server needs `TELEGRAM_BOT_TOKEN` (a free bot from @BotFather) and `FINN_PUBLIC_URL`; on start it registers itself as the bot's webhook. Subscribers are stored encrypted (key derived from the bot token) in `data/subscribers.enc`, which the GitHub jobs copy into the repo so a restart of the free host never loses them.
 
 ## How it is put together
 

@@ -1,32 +1,38 @@
-"""Telegram alerts: after each refresh, message the owner about anything that crossed their rules.
+"""Telegram alerts: anyone can connect from the app; after each market close every subscriber gets
+one message with what crossed *their* rules for *their* portfolio.
 
-Setup (free, ~2 minutes):
-  1. In Telegram, message @BotFather -> /newbot -> copy the token into .env as TELEGRAM_BOT_TOKEN
-  2. Send any message to your new bot, then run:  python scripts/telegram_setup.py
-     (it reads the chat id from the bot's updates and prints the line to add: TELEGRAM_CHAT_ID=...)
-  3. Optional: FINN_PUBLIC_URL=https://your-deployed-app  (links in messages)
-             FINN_OWNER_PIN=1234  (lets the app sync your portfolio + rules to the notifier)
+Connect flow (no setup for users):
+  app makes a random link code -> opens t.me/<bot>?start=<code> -> the user taps Start ->
+  Telegram calls our webhook with "/start <code>" -> code is linked to that chat.
+The app then syncs the device's portfolio + rules to that code whenever they change.
 
-Each alert is sent once (ids remembered in data/notified.json).
+Storage: data/subscribers.enc — Fernet-encrypted with a key derived from the bot token, so the file
+can live in a public repo (that's how it survives free-host restarts) without exposing chat ids.
+Each alert is sent once per chat (data/notified.json).
 """
 from __future__ import annotations
 
+import base64
 import datetime as dt
+import hashlib
 import html
 import json
 import os
+import threading
+import time
 from pathlib import Path
 
 import httpx
+from cryptography.fernet import Fernet, InvalidToken
 
 ROOT = Path(__file__).resolve().parent.parent
-SETTINGS = ROOT / "data" / "notify.json"     # owner's portfolio + rules, synced from the app
+STORE = ROOT / "data" / "subscribers.enc"
 SENT = ROOT / "data" / "notified.json"
+_lock = threading.Lock()
 
 TOKEN = lambda: os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
-CHAT = lambda: os.getenv("TELEGRAM_CHAT_ID", "").strip()
+OWNER_CHAT = lambda: os.getenv("TELEGRAM_CHAT_ID", "").strip()  # optional: the owner, before connecting in-app
 URL = lambda: os.getenv("FINN_PUBLIC_URL", "").strip().rstrip("/")
-PIN = lambda: os.getenv("FINN_OWNER_PIN", "").strip()
 
 CAT = {"results": "Results", "M&A": "M&A", "fund_raise": "Fund raise", "management_change": "Management",
        "litigation": "Legal", "credit_rating": "Credit rating", "pledging": "Pledge", "capex": "Capex",
@@ -35,19 +41,116 @@ CAT = {"results": "Results", "M&A": "M&A", "fund_raise": "Fund raise", "manageme
 
 
 def configured() -> bool:
-    return bool(TOKEN() and CHAT())
+    return bool(TOKEN())
 
 
-def settings(feed: dict) -> dict:
-    s = json.loads(SETTINGS.read_text(encoding="utf-8")) if SETTINGS.exists() else {}
-    return {"symbols": s.get("symbols") or feed.get("default_portfolio") or [h["symbol"] for h in feed["holdings"]],
-            "rules": {**feed["rules"], **(s.get("rules") or {})}}
+def sync_key() -> str:
+    """Shared secret for webhook + subscriber export, derived from the bot token."""
+    return hashlib.sha256(f"finn-sync:{TOKEN()}".encode()).hexdigest()[:48]
 
 
-def save_settings(symbols: list[str], rules: dict) -> None:
-    SETTINGS.parent.mkdir(exist_ok=True)
-    SETTINGS.write_text(json.dumps({"symbols": symbols, "rules": rules}, indent=1), encoding="utf-8")
+def _fernet() -> Fernet:
+    return Fernet(base64.urlsafe_b64encode(hashlib.sha256(f"finn-store:{TOKEN()}".encode()).digest()))
 
+
+# ------------------------------------------------------------------ subscriber store ---
+
+def load() -> dict:
+    """{code: {chat_id, name, symbols, rules, since}}"""
+    if not (STORE.exists() and TOKEN()):
+        return {}
+    try:
+        return json.loads(_fernet().decrypt(STORE.read_bytes()))
+    except (InvalidToken, ValueError):
+        return {}
+
+
+def save(subs: dict) -> None:
+    STORE.parent.mkdir(exist_ok=True)
+    STORE.write_bytes(_fernet().encrypt(json.dumps(subs, sort_keys=True).encode()))
+
+
+def link(code: str, chat_id: int, name: str) -> None:
+    with _lock:
+        subs = load()
+        subs[code] = {**subs.get(code, {}), "chat_id": chat_id, "name": name, "since": int(time.time())}
+        save(subs)
+
+
+def unlink(code: str | None = None, chat_id: int | None = None) -> int:
+    with _lock:
+        subs = load()
+        drop = [c for c, s in subs.items() if c == code or (chat_id and s.get("chat_id") == chat_id)]
+        for c in drop:
+            subs.pop(c)
+        save(subs)
+        return len(drop)
+
+
+def set_prefs(code: str, symbols: list[str], rules: dict) -> bool:
+    with _lock:
+        subs = load()
+        if code not in subs:
+            return False
+        subs[code].update(symbols=symbols[:100], rules=rules)
+        save(subs)
+        return True
+
+
+def status(code: str) -> dict:
+    s = load().get(code)
+    return {"connected": bool(s), "name": s.get("name") if s else None}
+
+
+# ------------------------------------------------------------------ telegram api ---
+
+_bot: dict = {}
+
+
+def bot_username() -> str | None:
+    if "username" not in _bot and TOKEN():
+        try:
+            _bot["username"] = httpx.get(f"https://api.telegram.org/bot{TOKEN()}/getMe", timeout=20).json()["result"]["username"]
+        except Exception:
+            return None
+    return _bot.get("username")
+
+
+def send(chat_id, text: str) -> dict:
+    r = httpx.post(f"https://api.telegram.org/bot{TOKEN()}/sendMessage", timeout=20,
+                   json={"chat_id": chat_id, "text": text, "parse_mode": "HTML", "disable_web_page_preview": True})
+    return r.json()
+
+
+def set_webhook(base_url: str) -> dict:
+    return httpx.post(f"https://api.telegram.org/bot{TOKEN()}/setWebhook", timeout=20, json={
+        "url": f"{base_url}/api/telegram/webhook", "secret_token": sync_key(),
+        "allowed_updates": ["message"], "drop_pending_updates": False}).json()
+
+
+def handle_update(update: dict) -> None:
+    """Bot commands: /start <code> links this chat; /stop unsubscribes."""
+    msg = update.get("message") or {}
+    chat = msg.get("chat") or {}
+    text = (msg.get("text") or "").strip()
+    if not chat.get("id"):
+        return
+    name = chat.get("first_name") or chat.get("title") or "there"
+    if text.startswith("/start"):
+        code = text[6:].strip()
+        if 16 <= len(code) <= 64 and code.replace("-", "").replace("_", "").isalnum():
+            link(code, chat["id"], name)
+            send(chat["id"], f"<b>Connected to FINN ✓</b>\n\nHi {html.escape(name)}. After each market close you'll get "
+                             "one message with anything in your portfolio that crosses your alert rules. "
+                             "Change rules in the app; send /stop to unsubscribe.")
+        else:
+            send(chat["id"], "Open FINN and tap <b>Connect Telegram</b> to link this chat to your portfolio.")
+    elif text.startswith("/stop"):
+        n = unlink(chat_id=chat["id"])
+        send(chat["id"], "Unsubscribed. You won't get FINN alerts any more." if n else "You weren't subscribed.")
+
+
+# ------------------------------------------------------------------ alert digest ---
 
 def _session_start(feed: dict) -> dt.datetime:
     days = sorted({p["d"] for h in feed["holdings"] for p in h.get("series") or []})
@@ -74,13 +177,10 @@ def price_alerts(holdings: list[dict], rules: dict, since: dt.datetime) -> list[
     return out
 
 
-def digest(feed: dict, force: bool = False) -> tuple[str | None, list[str]]:
-    """Build the message for alerts not yet sent. Returns (text or None, ids)."""
-    st = settings(feed)
-    syms, rules = set(st["symbols"]), st["rules"]
+def digest(feed: dict, symbols: list[str], rules: dict, sent: set) -> tuple[str | None, list[str]]:
+    """One subscriber's message: alerts not yet sent to them. Returns (text or None, ids)."""
+    syms, rules = set(symbols), {**feed["rules"], **(rules or {})}
     since = _session_start(feed)
-    sent = set(json.loads(SENT.read_text())) if SENT.exists() and not force else set()
-
     px = [a for a in price_alerts([h for h in feed["holdings"] if h["symbol"] in syms], rules, since)
           if a["id"] not in sent]
     fl = [e for e in feed["events"] if e["symbol"] in syms and e["category"] in rules["categories"]
@@ -97,8 +197,8 @@ def digest(feed: dict, force: bool = False) -> tuple[str | None, list[str]]:
     if fl:
         lines.append("\n<b>Needs attention</b>")
         for x in sorted(fl, key=lambda x: -x["score"])[:8]:
-            link = f' <a href="{x["pdf"]}">filing</a>' if x.get("pdf") else ""
-            lines.append(f"• <b>{e(x['symbol'])}</b> · {e(CAT.get(x['category'], x['category']))}: {e(x['headline'][:140])}{link}")
+            link_ = f' <a href="{x["pdf"]}">filing</a>' if x.get("pdf") else ""
+            lines.append(f"• <b>{e(x['symbol'])}</b> · {e(CAT.get(x['category'], x['category']))}: {e(x['headline'][:140])}{link_}")
     if px:
         lines.append("\n<b>Unusual moves</b>")
         for a in sorted(px, key=lambda a: -abs(a["ret"]))[:8]:
@@ -115,22 +215,42 @@ def digest(feed: dict, force: bool = False) -> tuple[str | None, list[str]]:
     return "\n".join(lines), ids
 
 
-def send(text: str) -> dict:
-    r = httpx.post(f"https://api.telegram.org/bot{TOKEN()}/sendMessage", timeout=20,
-                   json={"chat_id": CHAT(), "text": text, "parse_mode": "HTML", "disable_web_page_preview": True})
-    return r.json()
+def _recipients(feed: dict) -> list[dict]:
+    default = feed.get("default_portfolio") or [h["symbol"] for h in feed["holdings"]]
+    out, seen = [], set()
+    for s in load().values():
+        if s.get("chat_id") and s["chat_id"] not in seen:
+            seen.add(s["chat_id"])
+            out.append({"chat_id": s["chat_id"], "symbols": s.get("symbols") or default, "rules": s.get("rules") or {}})
+    if OWNER_CHAT() and int(OWNER_CHAT()) not in seen:  # owner configured by env, not yet connected in-app
+        out.append({"chat_id": int(OWNER_CHAT()), "symbols": default, "rules": {}})
+    return out
 
 
-def run(feed: dict, force: bool = False) -> str:
+def test(feed: dict, code: str) -> dict:
+    s = load().get(code)
+    if not s:
+        return {"ok": False, "description": "not connected"}
+    text, _ = digest(feed, s.get("symbols") or feed.get("default_portfolio") or [], s.get("rules") or {}, set())
+    return send(s["chat_id"], text or "<b>FINN</b>\nYou're connected. Nothing in your portfolio crossed your rules last session.")
+
+
+def run(feed: dict) -> str:
     if not configured():
         return "telegram not configured"
-    text, ids = digest(feed, force=force)
-    if not text:
-        return "nothing new to send"
-    res = send(text)
-    if not res.get("ok"):
-        return f"telegram error: {res.get('description')}"
-    if not force:
-        prev = json.loads(SENT.read_text()) if SENT.exists() else []
-        SENT.write_text(json.dumps((prev + ids)[-2000:]))
-    return f"sent {len(ids)} alerts"
+    sent_all = json.loads(SENT.read_text()) if SENT.exists() else {}
+    if isinstance(sent_all, list):  # older single-recipient format
+        sent_all = {OWNER_CHAT() or "owner": sent_all}
+    n_msgs = n_alerts = 0
+    for r in _recipients(feed):
+        key = str(r["chat_id"])
+        text, ids = digest(feed, r["symbols"], r["rules"], set(sent_all.get(key, [])))
+        if not text:
+            continue
+        if send(r["chat_id"], text).get("ok"):
+            sent_all[key] = (sent_all.get(key, []) + ids)[-1500:]
+            n_msgs += 1
+            n_alerts += len(ids)
+    SENT.parent.mkdir(exist_ok=True)
+    SENT.write_text(json.dumps(sent_all))
+    return f"sent {n_msgs} message(s), {n_alerts} alerts" if n_msgs else "nothing new to send"

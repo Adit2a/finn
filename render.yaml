@@ -13,3 +13,7 @@ services:
         sync: false   # entered once in the Render dashboard; never stored in the repo
       - key: GROQ_API_KEY
         sync: false
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false   # lets users connect Telegram from the app (the bot's webhook points here)
+      - key: FINN_PUBLIC_URL
+        value: https://finn-dq90.onrender.com

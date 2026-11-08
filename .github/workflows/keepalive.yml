@@ -1,17 +1,44 @@
 name: Keep the free server awake
 
-# Render's free tier sleeps after 15 idle minutes and takes ~30-60 s to wake.
-# A light ping during Indian daytime keeps the first visit fast (well within 750 free hours/month).
+# Render's free tier sleeps after 15 idle minutes and takes ~30-60 s to wake. A light ping during
+# Indian daytime keeps the first visit fast (well within 750 free hours/month). The same job saves
+# new Telegram subscribers to the repo, so a restart of the free server never loses them.
 on:
   schedule:
     - cron: "*/10 2-18 * * *"   # every 10 min, 07:30-00:30 IST
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-writes
+  cancel-in-progress: false
+
 jobs:
   ping:
     runs-on: ubuntu-latest
-    timeout-minutes: 3
+    timeout-minutes: 5
     steps:
       - name: Ping
         if: ${{ vars.FINN_PUBLIC_URL != '' }}
         run: curl -fsS -m 90 -o /dev/null "${{ vars.FINN_PUBLIC_URL }}/api/status" || true
+
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q httpx cryptography python-dotenv
+
+      - name: Save Telegram subscribers
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          FINN_PUBLIC_URL: ${{ vars.FINN_PUBLIC_URL }}
+        run: |
+          if python scripts/sync_subscribers.py | grep -q changed; then
+            git config user.name "finn-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/subscribers.enc
+            git commit -m "data: sync subscribers [skip render]"
+            git pull --rebase -q && git push
+          fi

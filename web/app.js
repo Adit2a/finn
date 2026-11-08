@@ -171,8 +171,8 @@ function App() {
     return f;
   });
   useEffect(() => { loadFeed().catch(e => setErr(String(e))); loadStatus(); }, []);
-  const setRules = r => { setRulesRaw(r); store.set('rules', r); };
-  const setPf = p => { setPfRaw(p); store.set('portfolio', p); };
+  const setRules = r => { setRulesRaw(r); store.set('rules', r); syncTelegram(r, pf); };
+  const setPf = p => { setPfRaw(p); store.set('portfolio', p); syncTelegram(rules, p); };
   const flash = (msg, undo) => { setToast({ msg, undo }); clearTimeout(flash.t); flash.t = setTimeout(() => setToast(null), 3500); };
 
   const [tab, arg] = route.split('/');
@@ -209,7 +209,7 @@ function App() {
         aria-label=${slim ? 'Expand sidebar' : 'Collapse sidebar'}><${Icon} d=${I.collapse}/><span class="lbl">Collapse</span></button></div>
     </nav>
     <main class="main">
-      ${tab === 'brief' && html`<${Brief} feed=${view} asOf=${asOf} rules=${rules} flash=${flash} focus=${arg}/>`}
+      ${tab === 'brief' && html`<${Brief} feed=${view} asOf=${asOf} rules=${rules} flash=${flash} focus=${arg} pf=${pf}/>`}
       ${tab === 'portfolio' && html`<${Portfolio} feed=${feed} pf=${pf} setPf=${setPf} flash=${flash} reload=${loadFeed}/>`}
       ${tab === 'alerts' && html`<${Alerts} feed=${view} asOf=${asOf} rules=${rules} setRules=${setRules} pf=${pf}/>`}
       ${tab === 'research' && html`<${Research} sym=${arg} status=${status} feed=${view} onDone=${loadStatus}/>`}
@@ -220,7 +220,7 @@ function App() {
 const lastSym = () => store.get('lastSym', null);
 
 /* ====================================================================== BRIEF */
-function Brief({ feed, asOf, rules, flash, focus }) {
+function Brief({ feed, asOf, rules, flash, focus, pf }) {
   const [win, setWin] = useState(store.get('win', 'session'));
   const [done, setDone] = useState(() => new Set(store.get('done', [])));
   const [muted, setMuted] = useState(() => new Set(store.get('muted', [])));
@@ -294,6 +294,7 @@ function Brief({ feed, asOf, rules, flash, focus }) {
         </section>`}
 
         ${feed.upcoming?.length > 0 && html`<div class="rail-mobile sec"><${Upcoming} items=${feed.upcoming} limit=${4}/></div>`}
+        <div class="rail-mobile sec"><${TelegramPanel} rules=${rules} pf=${pf} compact/></div>
         ${act.length + glance.length === 0 && html`<div class="empty"><div class="glyph">☕</div>
           Nothing material ${win === 'last' ? 'since your last look' : win === 'session' ? 'since the last session' : `in the last ${WINDOWS.find(w => w.k === win).label}`}${sym ? ` for ${sym}` : ''}.
           ${win !== 30 && html`<div style="margin-top:16px"><button class="btn" onClick=${() => pickWin(win === 7 ? 30 : 7)}>Look back ${win === 7 ? '30 days' : '7 days'}</button></div>`}
@@ -311,7 +312,7 @@ function Brief({ feed, asOf, rules, flash, focus }) {
 
         ${cleared > 0 && html`<div style="text-align:center;padding:18px 0 0"><button class="btn" onClick=${() => setShowCleared(!showCleared)}>${showCleared ? 'Hide cleared items' : 'Show cleared items'}</button></div>`}
       </div>
-      <aside class="rail">${pulse(false)}<${AlertsMini} feed=${feed} rules=${rules} asOf=${asOf}/><${Upcoming} items=${feed.upcoming}/></aside>
+      <aside class="rail">${pulse(false)}<${TelegramPanel} rules=${rules} pf=${pf} compact/><${AlertsMini} feed=${feed} rules=${rules} asOf=${asOf}/><${Upcoming} items=${feed.upcoming}/></aside>
     </div>`;
 }
 
@@ -550,26 +551,74 @@ function Upcoming({ items, limit = 6 }) {
   </div>`;
 }
 
-function TelegramPanel({ rules, pf }) {
-  const [st, setSt] = useState(null), [pin, setPin] = useState(store.get('pin', '')), [msg, setMsg] = useState(null), [busy, setBusy] = useState(false);
-  useEffect(() => { fetch('/api/notify/status').then(r => r.json()).then(setSt).catch(() => setSt({ configured: false })); }, []);
-  const call = async (url, method, body, ok) => {
-    setBusy(true); setMsg(null); store.set('pin', pin);
-    const r = await fetch(url, { method, headers: { 'content-type': 'application/json' }, body: JSON.stringify({ pin, ...body }) }).catch(() => null);
-    const j = r ? await r.json().catch(() => ({})) : {};
-    setMsg(r?.ok ? { ok: true, t: ok } : { ok: false, t: j.detail || 'Something went wrong' }); setBusy(false);
+/* Telegram: one-tap connect. The device holds a random link code; tapping Start in Telegram links the
+   chat to it, and this device's portfolio + rules sync to the server whenever they change. */
+const tgCode = () => {
+  let c = store.get('tgcode', null);
+  if (!c) { c = Array.from(crypto.getRandomValues(new Uint8Array(18)), b => 'abcdefghijkmnopqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ23456789'[b % 57]).join(''); store.set('tgcode', c); }
+  return c;
+};
+
+function useTelegram(rules, pf) {
+  const [st, setSt] = useState(null);       // {available, bot, connected, name}
+  const [waiting, setWaiting] = useState(false);
+  const refresh = () => fetch(`/api/telegram/status?code=${tgCode()}`).then(r => r.json()).then(setSt).catch(() => setSt({ available: false }));
+  useEffect(() => { refresh(); }, []);
+  useEffect(() => {  // after "Connect", poll until the user taps Start in Telegram (max ~3 min)
+    if (!waiting) return;
+    let n = 0;
+    const t = setInterval(async () => {
+      const s = await fetch(`/api/telegram/status?code=${tgCode()}`).then(r => r.json()).catch(() => null);
+      if (s?.connected || ++n > 60) { clearInterval(t); setWaiting(false); if (s) setSt(s); }
+    }, 3000);
+    return () => clearInterval(t);
+  }, [waiting]);
+  useEffect(() => {  // remember for the app-wide sync; push this device's portfolio + rules on (re)connect
+    if (!st) return;
+    store.set('tgconnected', !!st.connected);
+    if (st.connected) syncTelegram(rules, pf);
+  }, [st?.connected]);
+  const connect = () => { window.open(`https://t.me/${st.bot}?start=${tgCode()}`, '_blank', 'noopener'); setWaiting(true); };
+  return { st, waiting, connect, refresh, setSt };
+}
+
+function syncTelegram(rules, pf) {
+  if (!store.get('tgconnected', false) || !pf || !rules) return;
+  clearTimeout(syncTelegram.t);
+  syncTelegram.t = setTimeout(() => fetch('/api/telegram/prefs', { method: 'PUT', headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ code: tgCode(), symbols: pf.map(p => p.symbol), rules }) }).catch(() => {}), 800);
+}
+
+const TG_ICON = 'M21 4L3 11l5.5 2M21 4l-3 15-7.5-6M21 4L8.5 13m0 0V19l3-3.5';
+
+function TelegramPanel({ rules, pf, compact }) {
+  const { st, waiting, connect, setSt } = useTelegram(rules, pf);
+  const [msg, setMsg] = useState(null), [busy, setBusy] = useState(false);
+  if (!st?.available) return null;  // the server has no bot configured: show nothing rather than a dead end
+  const post = async (url, ok) => {
+    setBusy(true); setMsg(null);
+    const r = await fetch(url, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ code: tgCode() }) }).catch(() => null);
+    setBusy(false);
+    if (r?.ok) setMsg({ ok: true, t: ok }); else setMsg({ ok: false, t: (await r?.json().catch(() => ({})))?.detail || "Couldn't reach Telegram" });
+    return r?.ok;
   };
-  return html`<div class="panel">
-    <div class="panel-h"><h3>Telegram alerts</h3>${st?.configured && html`<span class="ok" style="font-size:12px">● Connected</span>`}</div>
-    ${!st ? html`<span class="spin"></span>` : !st.configured
-      ? html`<p class="faint" style="font-size:13.5px;line-height:1.5">Get these alerts on your phone after every market close. Add a free Telegram bot on the server — see “Telegram alerts” in the README.</p>`
-      : html`<p class="faint" style="font-size:13.5px;line-height:1.5;margin-bottom:10px">After each close FINN messages you anything that crosses the rules above, for the stocks in your portfolio.</p>
-        ${st.pin_required && html`<input class="pin" type="password" inputmode="numeric" placeholder="Owner PIN" aria-label="Owner PIN" value=${pin} onInput=${e => setPin(e.target.value)}/>`}
-        <div class="links" style="margin-top:10px">
-          <button class="primary" disabled=${busy} onClick=${() => call('/api/notify/settings', 'PUT', { symbols: pf.map(p => p.symbol), rules }, 'Saved — alerts will use this portfolio and these rules')}>Use these rules</button>
-          <button disabled=${busy} onClick=${() => call('/api/notify/test', 'POST', {}, 'Sent — check Telegram')}>Send a test</button>
-        </div>`}
-    ${msg && html`<div class=${msg.ok ? 'ok' : 'no'} style="font-size:13px;margin-top:10px">${msg.t}</div>`}
+  if (st.connected && compact) return null;  // on the Brief it's only an invitation
+  if (st.connected) return html`<div class="panel tg on">
+    <div class="tg-head"><span class="tg-ic"><${Icon} d=${TG_ICON}/></span><div style="flex:1;min-width:0">
+      <div class="tg-title">Telegram alerts</div><div class="tg-sub"><span class="ok">● Connected</span>${st.name ? ` as ${st.name}` : ''}</div></div></div>
+    ${!compact && html`<p class="tg-text">After each market close you get one message with anything in your portfolio that crosses the rules below. Changes here sync automatically.</p>`}
+    <div class="links" style="margin-top:10px">
+      <button disabled=${busy} onClick=${() => post('/api/telegram/test', 'Sent — check Telegram')}>Send a test</button>
+      ${!compact && html`<button class="quiet" disabled=${busy} onClick=${async () => { if (await post('/api/telegram/disconnect', 'Disconnected')) setSt({ ...st, connected: false }); }}>Disconnect</button>`}
+    </div>
+    ${msg && html`<div class=${msg.ok ? 'ok' : 'no'} style="font-size:13px;margin-top:8px">${msg.t}</div>`}
+  </div>`;
+  return html`<div class="panel tg">
+    <div class="tg-head"><span class="tg-ic"><${Icon} d=${TG_ICON}/></span><div style="flex:1;min-width:0">
+      <div class="tg-title">Get alerts on Telegram</div><div class="tg-sub">One message after each market close. Free.</div></div></div>
+    ${!compact && html`<p class="tg-text">Filings that need attention, unusual moves and tomorrow's events for your portfolio, using your rules.</p>`}
+    <button class="tg-btn" onClick=${connect} disabled=${!st.bot}>${waiting ? html`<span class="spin"></span> Tap Start in Telegram…` : 'Connect Telegram'}</button>
+    ${waiting && html`<div class="tg-sub" style="margin-top:8px">Telegram opened in a new tab. Tap <b>Start</b> there and this updates by itself.</div>`}
   </div>`;
 }
 
@@ -616,14 +665,14 @@ function Alerts({ feed, asOf, rules, setRules, pf }) {
     </header>
     <div class="cols">
       <div>
-        <div class="rail-mobile sec">${panel}<div style="height:12px"></div><${TelegramPanel} rules=${rules} pf=${pf}/></div>
+        <div class="rail-mobile sec"><${TelegramPanel} rules=${rules} pf=${pf}/>${panel}</div>
         <section class="sec">
           ${all.length ? Object.entries(byDay).map(([d, list]) => html`<div class="day-h">${d}</div>
             <div class="list">${list.map(e => html`<${Row} key=${e.id} e=${e} asOf=${asOf} onDone=${() => {}}/>`)}</div>`)
             : html`<div class="empty">Nothing crossed your lines in 30 days.</div>`}
         </section>
       </div>
-      <aside class="rail">${panel}<${TelegramPanel} rules=${rules} pf=${pf}/></aside>
+      <aside class="rail"><${TelegramPanel} rules=${rules} pf=${pf}/>${panel}</aside>
     </div>`;
 }
 

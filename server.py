@@ -6,8 +6,8 @@ import re
 import threading
 from pathlib import Path
 
-from fastapi import FastAPI, HTTPException
-from fastapi.responses import FileResponse, JSONResponse, StreamingResponse
+from fastapi import FastAPI, HTTPException, Request
+from fastapi.responses import FileResponse, JSONResponse, Response, StreamingResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
@@ -172,44 +172,80 @@ def track_status(symbol: str):
 
 # ------------------------------------------------------------------ telegram alerts ---
 
-class NotifySettings(BaseModel):
-    pin: str
+# Anyone can connect: the app holds a random link code; tapping Start in Telegram links the chat.
+CODE = re.compile(r"^[A-Za-z0-9_-]{16,64}$")
+
+
+def _code(c: str) -> str:
+    if not CODE.match(c or ""):
+        raise HTTPException(400, "bad link code")
+    return c
+
+
+@app.on_event("startup")
+def _telegram_webhook():
+    # Register this server as the bot's webhook so "/start <code>" reaches us (public deployments only)
+    base = notify.URL()
+    if notify.configured() and base.startswith("https://"):
+        threading.Thread(target=lambda: print("telegram webhook:", notify.set_webhook(base)), daemon=True).start()
+
+
+@app.get("/api/telegram/status")
+def telegram_status(code: str = ""):
+    out = {"available": notify.configured(), "bot": notify.bot_username() if notify.configured() else None}
+    if code:
+        out.update(notify.status(_code(code)))
+    return out
+
+
+@app.post("/api/telegram/webhook")
+async def telegram_webhook(request: Request):
+    if request.headers.get("X-Telegram-Bot-Api-Secret-Token") != notify.sync_key():
+        raise HTTPException(403, "forbidden")
+    update = await request.json()
+    threading.Thread(target=notify.handle_update, args=(update,), daemon=True).start()
+    return {"ok": True}
+
+
+class Prefs(BaseModel):
+    code: str
     symbols: list[str]
     rules: dict
 
 
-def _check_pin(pin: str):
-    if not notify.PIN() or pin != notify.PIN():
-        raise HTTPException(403, "Wrong PIN")
-
-
-@app.get("/api/notify/status")
-def notify_status():
-    return {"configured": notify.configured(), "pin_required": bool(notify.PIN())}
-
-
-@app.put("/api/notify/settings")
-def notify_settings(s: NotifySettings):
-    _check_pin(s.pin)
-    notify.save_settings([_sym(x) for x in s.symbols][:100], s.rules)
+@app.put("/api/telegram/prefs")
+def telegram_prefs(p: Prefs):
+    ok = notify.set_prefs(_code(p.code), [_sym(s) for s in p.symbols][:100], p.rules)
+    if not ok:
+        raise HTTPException(404, "not connected")
     return {"ok": True}
 
 
-class Pin(BaseModel):
-    pin: str
+class Code(BaseModel):
+    code: str
 
 
-@app.post("/api/notify/test")
-def notify_test(p: Pin):
-    _check_pin(p.pin)
-    if not notify.configured():
-        raise HTTPException(503, "Telegram isn't set up on the server")
+@app.post("/api/telegram/test")
+def telegram_test(c: Code):
     feed = json.loads((DATA / "feed.json").read_text(encoding="utf-8"))
-    text, _ = notify.digest(feed, force=True)
-    res = notify.send(text or "<b>FINN</b>\nConnected. Nothing crossed your rules in the last session.")
+    res = notify.test(feed, _code(c.code))
     if not res.get("ok"):
-        raise HTTPException(502, res.get("description", "Telegram error"))
+        raise HTTPException(404 if res.get("description") == "not connected" else 502, res.get("description", "Telegram error"))
     return {"ok": True}
+
+
+@app.post("/api/telegram/disconnect")
+def telegram_disconnect(c: Code):
+    notify.unlink(code=_code(c.code))
+    return {"ok": True}
+
+
+@app.get("/api/telegram/export")
+def telegram_export(request: Request):
+    """Encrypted subscriber list for the GitHub jobs, which save it to the repo so it survives restarts."""
+    if not notify.configured() or request.headers.get("X-Finn-Sync") != notify.sync_key():
+        raise HTTPException(403, "forbidden")
+    return Response(notify.STORE.read_bytes() if notify.STORE.exists() else b"", media_type="application/octet-stream")
 
 
 @app.get("/")
