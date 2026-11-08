@@ -1,0 +1,916 @@
+{
+"106845760": {
+"category": "credit_rating",
+"headline": "S&P Global Ratings reaffirms A- rating with Stable outlook for Senior Unsecured US$ Fixed Rate Notes",
+"why": null,
+"materiality": 20,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-04T20:47:14"
+},
+"106837406": {
+"category": "results",
+"headline": "Reports highest ever quarterly revenue at ₹362,268 crore and PAT of ₹29,550 crore for Q2 FY27",
+"why": "Strong revenue and PAT growth driven by O2C and digital services performance.",
+"materiality": 90,
+"amount_cr": 362268,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-30T19:43:24"
+},
+"106827783": {
+"category": "fund_raise",
+"headline": "Jio Platforms Limited finalises IPO issue price at 1,119 per equity share",
+"why": "Subsidiary Jio Platforms Limited finalized its IPO issue price at 1,119 per equity share.",
+"materiality": 75,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-24T21:48:04"
+},
+"106823997": {
+"category": "press_release",
+"headline": "US Secretary of State Marco Rubio and US Ambassador Sergio Gor visited Jamnagar refinery",
+"why": "Discussions covered commercial partnerships in conventional and new energy, data centres, and digital infrastructure.",
+"materiality": 20,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-21T22:44:39"
+},
+"106823937": {
+"category": "credit_rating",
+"headline": "ICRA reaffirms [ICRA]AAA/Stable and [ICRA]A1+ ratings, assigns [ICRA]AAA/Stable for Rs. 50,000 crore bank loan",
+"why": "Credit ratings reaffirmed and assigned for Rs. 72,000 crore total debt instruments.",
+"materiality": 40,
+"amount_cr": 72000.0,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-21T20:43:30"
+},
+"106817804": {
+"category": "fund_raise",
+"headline": "Jio Platforms Limited sets IPO price band at ₹1,065 to ₹1,119 per share",
+"why": "Subsidiary Jio Platforms Limited sets its IPO price band and bid lot.",
+"materiality": 85,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-14T20:12:49"
+},
+"106817653": {
+"category": "fund_raise",
+"headline": "Jio Platforms Limited files Red Herring Prospectus for initial public offer",
+"why": "Subsidiary Jio Platforms Limited filed Red Herring Prospectus for initial public offer with employee and shareholder reservations.",
+"materiality": 75,
+"amount_cr": 3000,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-14T18:35:12"
+},
+"106850382": {
+"category": "management_change",
+"headline": "V. N. Srivatsan appointed as Chief Compliance Officer for 3 years",
+"why": "Changes in senior management personnel, specifically the Chief Compliance Officer, impact regulatory compliance oversight.",
+"materiality": 35,
+"amount_cr": null,
+"people": [
+{
+"name": "V. N. Srivatsan",
+"role": "Chief Compliance Officer",
+"change": "appointed",
+"effective": "2026-11-06",
+"background": "Approx 34 years overall professional experience, including around 25 years in BFSI and close to 10 years in Compliance and Regulatory Inspection. Holds PG degree in Business Administration from PSG College of Technology and B. Tech from Sri Venkateshwara University.",
+"previous": "Head – Compliance: Overseas Banking and Subsidiaries & Data Privacy Officer at ICICI Bank Limited",
+"reason": null
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-06T15:21:56"
+},
+"106829496": {
+"category": "management_change",
+"headline": "Anup Bagchi assumes charge as MD & CEO succeeding Sashidhar Jagdishan",
+"why": "Top-level leadership change at the largest private sector bank by assets.",
+"materiality": 90,
+"amount_cr": null,
+"people": [
+{
+"name": "Anup Bagchi",
+"role": "Managing Director and Chief Executive Officer",
+"change": "appointed",
+"effective": "October 27, 2026",
+"background": null,
+"previous": null,
+"reason": null
+},
+{
+"name": "Sashidhar Jagdishan",
+"role": "Managing Director and Chief Executive Officer",
+"change": "retired",
+"effective": "October 26, 2026",
+"background": null,
+"previous": null,
+"reason": "completion of his tenure"
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-27T08:02:54"
+},
+"106822208": {
+"category": "fund_raise",
+"headline": "Board approved issue of 49,00,737 equity shares under employee stock option scheme",
+"why": "Dilution of equity shares to the employee welfare trust under the stock option scheme.",
+"materiality": 30,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-19T17:57:20"
+},
+"106822209": {
+"category": "management_change",
+"headline": "Prashant Verma re-appointed as Chief Information Security Officer for 3 years",
+"why": null,
+"materiality": 10,
+"amount_cr": null,
+"people": [
+{
+"name": "Prashant Verma",
+"role": "Chief Information Security Officer",
+"change": "re-appointed",
+"effective": "2027-02-01",
+"background": "Around 21 years of experience in Security Domain. Joined as head of Cyber Risk Unit 7 years back. Previously worked as security architect, auditor, and consultant for domestic and international banks and insurance companies. CISSP and co-author of security books.",
+"previous": "Chief Information Security Officer at Bajaj Finance Ltd",
+"reason": null
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-19T17:57:20"
+},
+"106818480": {
+"category": "M&A",
+"headline": "Completed acquisition of 100% partnership interest in BBY Services India LLP",
+"why": "BBY Services India LLP has become a wholly owned subsidiary of the company.",
+"materiality": 30,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-15T13:30:23"
+},
+"106825617": {
+"category": "credit_rating",
+"headline": "ICRA assigns [ICRA]A1+ to commercial paper of ₹1,000 crore and [ICRA]AA+ to NCDs of ₹2,000 crore",
+"why": "Credit ratings updated with rating watch for debt instruments.",
+"materiality": 70,
+"amount_cr": 8000.0,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-22T23:01:42"
+},
+"106823942": {
+"category": "credit_rating",
+"headline": "CRISIL assigns Crisil AA+ Rating Watch with Developing Implications to proposed Non-Convertible Debentures",
+"why": "Credit rating assigned to proposed Non-Convertible Debentures.",
+"materiality": 50,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-21T20:52:10"
+},
+"106823873": {
+"category": "fund_raise",
+"headline": "Persistent Systems approves opening of QIP issue with floor price of INR 5,550 per share",
+"why": "Company is raising up to USD 450 million (INR 42,646.10 million) through QIP.",
+"materiality": 85,
+"amount_cr": 4264.61,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-21T19:22:58"
+},
+"106819742": {
+"category": "fund_raise",
+"headline": "Persistent Systems approved issuing NCDs up to INR 8,000 Crores and Commercial Paper up to INR 1,000 Crores",
+"why": "Long-term debt financing of up to INR 9,000 Crores total for the acquisition of Nagarro SE.",
+"materiality": 90,
+"amount_cr": 9000.0,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-16T10:55:31"
+},
+"106813119": {
+"category": "credit_rating",
+"headline": "ICRA assigns [ICRA]AA+ with Rating Watch with Negative Implications to proposed NCDs of Rs 5,000 crore",
+"why": "Credit rating assigned with negative watch implications on proposed NCDs of Rs 5,000 crore.",
+"materiality": 75,
+"amount_cr": 5000.0,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-09T20:31:50"
+},
+"106840669": {
+"category": "unclassified",
+"headline": "Sun Pharma clarifies news report on Assam facility eye-care drug production halt from August 2026",
+"why": "Addresses media reports regarding production halts at the Assam facility and recent share price movements.",
+"materiality": 40,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-02T20:58:22"
+},
+"106826784": {
+"category": "press_release",
+"headline": "Sun Pharma presents long-term efficacy and safety data for UNLOXCYT at ESMO 2026",
+"why": "Long-term data from a major study shows durable responses and manageable safety for UNLOXCYT in advanced cutaneous squamous cell carcinoma.",
+"materiality": 55,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-23T18:01:41"
+},
+"106822793": {
+"category": "press_release",
+"headline": "UNLOXCYT receives Category 2A preferred designation in NCCN guidelines for laCSCC patients",
+"why": "Elevated NCCN guideline status improves clinician preference, payer coverage, and patient access for UNLOXCYT.",
+"materiality": 65,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-20T17:35:31"
+},
+"106816165": {
+"category": "credit_rating",
+"headline": "Crisil and ICRA assign AAA/Stable to Sun Pharma's proposed Rs 15,000 crore NCD programme",
+"why": "Credit ratings reaffirmed and assigned for Rs 15,000 crore NCD and upcoming Organon acquisition financing.",
+"materiality": 85,
+"amount_cr": 15000.0,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-13T17:54:34"
+},
+"106815017": {
+"category": "management_change",
+"headline": "Gautam Doshi resigns as Non-Executive Independent Director of Sun Pharmaceutical Industries Limited",
+"why": "Resignation of an independent director from the board.",
+"materiality": 35,
+"amount_cr": null,
+"people": [
+{
+"name": "Gautam Doshi",
+"role": "Non-Executive, Independent Director",
+"change": "resigned",
+"effective": "2026-10-12",
+"background": null,
+"previous": null,
+"reason": "personal reasons"
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-12T20:05:00"
+},
+"106836531": {
+"category": "management_change",
+"headline": "Prithvi Vachani appointed Executive Director for 5 years",
+"why": "Promoter's son appointed to board executive role, succeeding as Vice President previously.",
+"materiality": 55,
+"amount_cr": null,
+"people": [
+{
+"name": "Mr. Prithvi Vachani",
+"role": "Executive Director",
+"change": "appointed",
+"effective": "30-10-2026",
+"background": "2017 graduate of Bentley University, Master of Business Administration from London Business School. Previously Vice President at Dixon Technologies.",
+"previous": "Vice President at Dixon Technologies (India) Limited",
+"reason": null
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-30T16:10:12"
+},
+"106817628": {
+"category": "unclassified",
+"headline": "Crisil assigns ESG Rating of Crisil ESG 61 and Core ESG rating of Crisil Core ESG 67",
+"why": "Independent ESG ratings assess sustainability and governance performance without company engagement.",
+"materiality": 20,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-14T18:25:23"
+},
+"106848400": {
+"category": "management_change",
+"headline": "Noel N. Tata to retire as Non-Executive, Non-Independent Director and Vice-Chairman effective November 12, 2026.",
+"why": "The Vice-Chairman is retiring from the board, altering the company's senior leadership composition.",
+"materiality": 40,
+"amount_cr": null,
+"people": [
+{
+"name": "Noel N. Tata",
+"role": "Non-Executive, Non-Independent Director and Vice-Chairman",
+"change": "retired",
+"effective": "12th November 2026",
+"background": null,
+"previous": null,
+"reason": "Tata Group Governance Guidelines"
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-05T18:51:55"
+},
+"106851770": {
+"category": "management_change",
+"headline": "Shareholders approve appointment of Mr. Leo Puri as Independent Director and future Chairman.",
+"why": "Mr. Leo Puri will assume office as Chairman of the Board effective January 23, 2027.",
+"materiality": 75,
+"amount_cr": null,
+"people": [
+{
+"name": "Mr. Leo Puri",
+"role": "Independent Director",
+"change": "appointed",
+"effective": "2026-09-07",
+"background": null,
+"previous": null,
+"reason": null
+},
+{
+"name": "Mr. R. Seshasayee",
+"role": "Chairman and Independent Director",
+"change": "retired",
+"effective": "2027-01-22",
+"background": null,
+"previous": null,
+"reason": "completion of term"
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-06T22:06:58"
+},
+"106851762": {
+"category": "management_change",
+"headline": "Shareholders approve appointment of Mr. Leo Puri as Independent Director for a 5-year term",
+"why": "Mr. Leo Puri will assume office as Chairman of the Board effective January 23, 2027.",
+"materiality": 75,
+"amount_cr": null,
+"people": [
+{
+"name": "Mr. Leo Puri",
+"role": "Independent Director",
+"change": "appointed",
+"effective": "2026-09-07",
+"background": null,
+"previous": null,
+"reason": null
+},
+{
+"name": "Mr. R. Seshasayee",
+"role": "Chairman and Independent Director",
+"change": "retired",
+"effective": "2027-01-22",
+"background": null,
+"previous": null,
+"reason": "completion of term"
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-06T22:02:45"
+},
+"106834102": {
+"category": "dividend",
+"headline": "Asian Paints approves interim dividend of Rs. 5.75 per equity share",
+"why": "Interim dividend declaration provides direct cash return to shareholders.",
+"materiality": 40,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-29T14:14:43"
+},
+"106829976": {
+"category": "M&A",
+"headline": "Incorporation of wholly owned subsidiary Osamu Suzuki Centre of Excellence (OSCOE) Foundation for INR 100,000",
+"why": "Subsidiary incorporation under Section 8 for Corporate Social Responsibility activities involving nominal capital outlay.",
+"materiality": 5,
+"amount_cr": 0.01,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-27T13:18:06"
+},
+"106839016": {
+"category": "press_release",
+"headline": "Residential, Commercial Buildings and Factories business wins orders in Mumbai, Bengaluru, and Hyderabad",
+"why": "Secured multiple orders for high-rise residential and commercial developments, contributing to the order book.",
+"materiality": 55,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-02T10:18:49"
+},
+"106822983": {
+"category": "press_release",
+"headline": "L&T wins Large orders valued between ₹2,500 crore and ₹5,000 crore in New Delhi and Andhra Pradesh",
+"why": "Securing Large public sector infrastructure contracts enhances order book visibility.",
+"materiality": 65,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-21T09:46:52"
+},
+"106821513": {
+"category": "press_release",
+"headline": "Commences initial activities for New Tashkent International Airport Ultra-mega project",
+"why": "Secures EPC contract for greenfield airport project with 17 million annual passenger capacity.",
+"materiality": 75,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-19T10:18:20"
+},
+"106823393": {
+"category": "M&A",
+"headline": "Eternal Limited transfers Going-out India business to ZEPL for INR 130.76 crore via slump sale",
+"why": "Restructures Going-out business into a single wholly owned subsidiary and swaps Adonmo stake for Mygate shares.",
+"materiality": 65,
+"amount_cr": 130.76,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-21T15:33:41"
+},
+"106834505": {
+"category": "management_change",
+"headline": "Noel N. Tata to retire as Chairman; Bahram Vakil appointed as new Chairman",
+"why": "Leadership transition at the top with retirement of long-serving chairman Noel Tata and appointment of Bahram Vakil.",
+"materiality": 75,
+"amount_cr": null,
+"people": [
+{
+"name": "Noel N. Tata",
+"role": "Chairman and Director",
+"change": "retired",
+"effective": "11th November 2026",
+"background": "Associated with the Company since 1997.",
+"previous": "Chairman and Director of Trent Limited",
+"reason": "Tata Group Governance Guidelines retirement requirements"
+},
+{
+"name": "Bahram Vakil",
+"role": "Chairman",
+"change": "appointed",
+"effective": "12th November 2026",
+"background": null,
+"previous": null,
+"reason": null
+},
+{
+"name": "Rajiv Dube",
+"role": "Additional Director (Non-Executive, Non-Independent)",
+"change": "appointed",
+"effective": "30th October 2026",
+"background": "Indian industry veteran with over 40 years of multi-sector experience at Tata and Aditya Birla. Former President of Tata Motors car business and executive director on Aditya Birla group board.",
+"previous": "Executive Director on the group board of the Aditya Birla group",
+"reason": null
+},
+{
+"name": "Kalpana Merchant",
+"role": "Independent Director",
+"change": "appointed",
+"effective": "30th October 2026",
+"background": "Over 45 years of experience in the legal profession. Partner at Kanga & Co., AZB & Partners and Jerome Merchant + Partners. Holds Bachelor of Laws and Bachelor of Arts in Psychology, qualified solicitor.",
+"previous": "Partner at Jerome Merchant + Partners / AZB & Partners / Kanga & Co.",
+"reason": null
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-29T16:32:13"
+},
+"106834503": {
+"category": "management_change",
+"headline": "Noel N. Tata to retire as Chairman; Bahram Vakil appointed as Chairman with new board additions",
+"why": "Leadership transition at the top with Noel Tata retiring as Chairman and Bahram Vakil taking over.",
+"materiality": 75,
+"amount_cr": null,
+"people": [
+{
+"name": "Noel N. Tata",
+"role": "Chairman and Director",
+"change": "retired",
+"effective": "11th November 2026",
+"background": null,
+"previous": "Chairman and Director of Trent Limited",
+"reason": "Tata Group Governance Guidelines retirement requirements"
+},
+{
+"name": "Noel N. Tata",
+"role": "Chairman Emeritus",
+"change": "appointed",
+"effective": "12th November 2026",
+"background": null,
+"previous": null,
+"reason": null
+},
+{
+"name": "Bahram Vakil",
+"role": "Chairman",
+"change": "appointed",
+"effective": "12th November 2026",
+"background": null,
+"previous": null,
+"reason": null
+},
+{
+"name": "Rajiv Dube",
+"role": "Additional Director (Non-Executive, Non-Independent)",
+"change": "appointed",
+"effective": "30th October 2026",
+"background": "Industry veteran with 40 years of experience across Tata and Aditya Birla groups. Former President of Tata Motors car business and executive director on the Aditya Birla group board.",
+"previous": "Executive director on the group board of the Aditya Birla group",
+"reason": null
+},
+{
+"name": "Kalpana Merchant",
+"role": "Independent Director",
+"change": "appointed",
+"effective": "30th October 2026",
+"background": "Over 45 years of legal experience. Former partner at Kanga & Co., AZB & Partners, and Jerome Merchant + Partners. Holds an LL.B. and a B.A. in Psychology, and is a qualified solicitor.",
+"previous": "Partner at Jerome Merchant + Partners",
+"reason": null
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-29T16:32:13"
+},
+"106834504": {
+"category": "management_change",
+"headline": "Noel N. Tata to retire as Chairman; Bahram Vakil appointed as Chairman",
+"why": "Leadership succession at the Chairman level involving Noel N. Tata's retirement and Bahram Vakil's appointment.",
+"materiality": 75,
+"amount_cr": null,
+"people": [
+{
+"name": "Noel N. Tata",
+"role": "Chairman and Director",
+"change": "retired",
+"effective": "11th November 2026",
+"background": null,
+"previous": "Chairman and Director of Trent Limited",
+"reason": "Retirement in accordance with Tata Group Governance Guidelines"
+},
+{
+"name": "Noel N. Tata",
+"role": "Chairman Emeritus",
+"change": "appointed",
+"effective": "12th November 2026",
+"background": null,
+"previous": null,
+"reason": null
+},
+{
+"name": "Bahram Vakil",
+"role": "Chairman",
+"change": "appointed",
+"effective": "12th November 2026",
+"background": null,
+"previous": null,
+"reason": null
+},
+{
+"name": "Rajiv Dube",
+"role": "Additional Director (Non-Executive, Non-Independent)",
+"change": "appointed",
+"effective": "30th October 2026",
+"background": "Over 40 years of multi-sector experience across Tata and Aditya Birla groups. Former President of car business at Tata Motors and executive director on Aditya Birla group board. Holds engineering and post-graduate business management degrees.",
+"previous": "Executive Director on group board of Aditya Birla group",
+"reason": null
+},
+{
+"name": "Kalpana Merchant",
+"role": "Additional and Independent Director",
+"change": "appointed",
+"effective": "30th October 2026",
+"background": "Over 45 years of legal experience in commercial property, infrastructure, project finance, banking, dispute resolution, capital markets, and M&A. Former partner at Kanga & Co., AZB & Partners, and Jerome Merchant + Partners. Holds Bachelor of Arts in Psychology and LL.B. degrees, and is a qualified solicitor.",
+"previous": "Partner at Jerome Merchant + Partners",
+"reason": null
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-29T16:32:13"
+},
+"106834506": {
+"category": "management_change",
+"headline": "Noel N. Tata to retire as Chairman; Bahram Vakil appointed as Chairman",
+"why": "Top-level leadership transition involving the retirement of the long-serving Chairman and appointment of a successor.",
+"materiality": 75,
+"amount_cr": null,
+"people": [
+{
+"name": "Noel N. Tata",
+"role": "Chairman and Director",
+"change": "retired",
+"effective": "11th November 2026",
+"background": "Associated with the Company since 1997, provided leadership and strategic direction.",
+"previous": "Chairman and Director of Trent Limited",
+"reason": "Retirement in accordance with the Tata Group Governance Guidelines."
+},
+{
+"name": "Noel N. Tata",
+"role": "Chairman Emeritus",
+"change": "appointed",
+"effective": "12th November 2026",
+"background": null,
+"previous": "Chairman and Director of Trent Limited",
+"reason": null
+},
+{
+"name": "Bahram Vakil",
+"role": "Chairman",
+"change": "appointed",
+"effective": "12th November 2026",
+"background": null,
+"previous": null,
+"reason": "Consequent to the retirement of Mr. Noel N. Tata."
+},
+{
+"name": "Rajiv Dube",
+"role": "Additional Director (Non-Executive, Non-Independent)",
+"change": "appointed",
+"effective": "30th October 2026",
+"background": "Indian industry veteran with over 40 years of multi-sector experience at Tata and Aditya Birla. Former President of car business at Tata Motors and executive director on Aditya Birla group board. Holds engineering and post-graduate Business Management degrees.",
+"previous": "Executive director on the group board of the Aditya Birla group, President of car business at Tata Motors",
+"reason": null
+},
+{
+"name": "Kalpana Merchant",
+"role": "Independent Director",
+"change": "appointed",
+"effective": "30th October 2026",
+"background": "Over 45 years of experience in the legal profession, dealing with commercial property, infrastructure, project finance and banking, dispute resolution, capital markets, and mergers and acquisitions. Partner at Kanga & Co., AZB & Partners and Jerome Merchant + Partners. Holds LL.B., B.A. in Psychology, qualified solicitor.",
+"previous": "Partner at Jerome Merchant + Partners, AZB & Partners, and Kanga & Co.",
+"reason": null
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-29T16:32:13"
+},
+"106821444": {
+"category": "management_change",
+"headline": "Harish Bhat resigns as Non-Executive Non-Independent Director effective 17th October 2026",
+"why": "Resignation of Non-Executive Non-Independent Director Harish Bhat due to professional and personal commitments.",
+"materiality": 30,
+"amount_cr": null,
+"people": [
+{
+"name": "Harish Bhat",
+"role": "Non-Executive Non-Independent Director",
+"change": "resigned",
+"effective": "17th October 2026",
+"background": null,
+"previous": null,
+"reason": "existing and growing professional and personal commitments"
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-18T18:47:05"
+},
+"106831536": {
+"category": "litigation",
+"headline": "NCLAT directs MSCI not to delist Polycab stock till order pronouncement.",
+"why": "Prevents potential index delisting of Polycab stock pending NCLAT order pronouncement.",
+"materiality": 85,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-28T10:24:43"
+},
+"106819599": {
+"category": "litigation",
+"headline": "NCLAT reserves order on appeal in Asier Metals Private Limited versus Polycab India Limited",
+"why": "The appellate tribunal heard and reserved its order on the corporate insolvency resolution process matter.",
+"materiality": 75,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-16T09:40:15"
+},
+"106816002": {
+"category": "litigation",
+"headline": "NCLAT stays NCLT order initiating CIRP against Polycab over ₹2.79 crore debt",
+"why": "Insolvency proceedings against the company have been stayed, removing immediate operational threat.",
+"materiality": 75,
+"amount_cr": 2.79,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-13T16:47:39"
+},
+"106813081": {
+"category": "litigation",
+"headline": "NCLAT stays CIRP order against Polycab India involving operational debt of ₹2.79 crore",
+"why": "Appellate tribunal stayed NCLT admission of CIRP against the company, pending deposit of the debt amount.",
+"materiality": 85,
+"amount_cr": 2.79,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-09T19:45:26"
+},
+"106832710": {
+"category": "management_change",
+"headline": "Shri P B Rangarao appointed as Director (Operations) effective 28th October, 2026",
+"why": "New Director (Operations) appointed for a five-year term, and CMD ceases additional charge.",
+"materiality": 40,
+"amount_cr": null,
+"people": [
+{
+"name": "Shri P B Rangarao",
+"role": "Director (Operations)",
+"change": "appointed",
+"effective": "28th October, 2026",
+"background": "Holds a Bachelor's degree in Mechanical Engineering from Regional Engineering College, Warangal, and a Post Graduate Diploma in Business Management from XIME, Bengaluru. Completed a Leadership Development Program from IIM, Ahmedabad. Joined HAL on July 17, 1995, with over three decades of experience.",
+"previous": "Chief Executive Officer (Helicopter Complex)",
+"reason": null
+},
+{
+"name": "Shri Kota Ravi",
+"role": "Director (Operations)",
+"change": "resigned",
+"effective": "28th October, 2026",
+"background": null,
+"previous": "Chairman and Managing Director holding additional charge of Director (Operations)",
+"reason": "Appointment of Shri P B Rangarao"
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-28T18:04:19"
+},
+"106816062": {
+"category": "management_change",
+"headline": "Three Independent Directors cease to hold office upon completing second consecutive terms",
+"why": "Cessation of three Independent Directors at the close of business hours on October 13, 2026.",
+"materiality": 40,
+"amount_cr": null,
+"people": [
+{
+"name": "Ms. Anjali Bansal",
+"role": "Independent Director",
+"change": "retired",
+"effective": "October 13, 2026",
+"background": null,
+"previous": null,
+"reason": "completion of their second consecutive terms"
+},
+{
+"name": "Ms. Vibha Padalkar",
+"role": "Independent Director",
+"change": "retired",
+"effective": "October 13, 2026",
+"background": null,
+"previous": null,
+"reason": "completion of their second consecutive terms"
+},
+{
+"name": "Mr. Sanjay Vijay Bhandarkar",
+"role": "Independent Director",
+"change": "retired",
+"effective": "October 13, 2026",
+"background": null,
+"previous": null,
+"reason": "completion of their second consecutive terms"
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-13T17:11:49"
+},
+"106816060": {
+"category": "management_change",
+"headline": "Three Independent Directors cease office upon completing second consecutive terms",
+"why": "Cessation of three Independent Directors at the close of business hours on October 13, 2026.",
+"materiality": 50,
+"amount_cr": null,
+"people": [
+{
+"name": "Anjali Bansal",
+"role": "Non-Executive Independent Director",
+"change": "retired",
+"effective": "October 13, 2026",
+"background": null,
+"previous": null,
+"reason": "completion of their second consecutive terms"
+},
+{
+"name": "Vibha Padalkar",
+"role": "Non-Executive Independent Director",
+"change": "retired",
+"effective": "October 13, 2026",
+"background": null,
+"previous": null,
+"reason": "completion of their second consecutive terms"
+},
+{
+"name": "Sanjay Vijay Bhandarkar",
+"role": "Non-Executive Independent Director",
+"change": "retired",
+"effective": "October 13, 2026",
+"background": null,
+"previous": null,
+"reason": "completion of their second consecutive terms"
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-13T17:11:49"
+},
+"106816061": {
+"category": "management_change",
+"headline": "Anjali Bansal, Vibha Padalkar, and Sanjay Vijay Bhandarkar cease as Independent Directors",
+"why": "Three independent directors completed their second consecutive terms and ceased office simultaneously.",
+"materiality": 40,
+"amount_cr": null,
+"people": [
+{
+"name": "Anjali Bansal",
+"role": "Independent Director",
+"change": "retired",
+"effective": "October 13, 2026",
+"background": null,
+"previous": null,
+"reason": "completion of their second consecutive terms"
+},
+{
+"name": "Vibha Padalkar",
+"role": "Independent Director",
+"change": "retired",
+"effective": "October 13, 2026",
+"background": null,
+"previous": null,
+"reason": "completion of their second consecutive terms"
+},
+{
+"name": "Sanjay Vijay Bhandarkar",
+"role": "Independent Director",
+"change": "retired",
+"effective": "October 13, 2026",
+"background": null,
+"previous": null,
+"reason": "completion of their second consecutive terms"
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-13T17:11:49"
+},
+"106851457": {
+"category": "press_release",
+"headline": "Zydus presents Phase 2b data showing saroglitazar resolution of MASH without worsening fibrosis",
+"why": "Saroglitazar achieved 39.1% (4 mg) and 32.4% (2 mg) resolution of steatohepatitis compared to 13.7% for placebo.",
+"materiality": 65,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-06T19:01:47"
+},
+"106843792": {
+"category": "results",
+"headline": "Zydus Lifesciences Q2 FY27 revenue rises 29.2% to Rs. 79,096 mn, net profit down 26.6%",
+"why": "Significant revenue growth offset by a 26.6% decline in net profit and 6.0% drop in EBITDA.",
+"materiality": 85,
+"amount_cr": 7909.6,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-04T12:39:35"
+},
+"106838526": {
+"category": "management_change",
+"headline": "Dr. Amrut Naik resigns and Christoph Stoller appointed as President and Business Unit Head, International Markets",
+"why": "Senior management change for international markets business unit involving former Glenmark and Teva executive Christoph Stoller.",
+"materiality": 45,
+"amount_cr": null,
+"people": [
+{
+"name": "Dr. Amrut Naik",
+"role": "President and Business Unit Head, International Markets Business",
+"change": "resigned",
+"effective": "2026-11-07",
+"background": null,
+"previous": "President and Business Unit Head, International Markets Business at Zydus Lifesciences Limited",
+"reason": null
+},
+{
+"name": "Mr. Christoph Stoller",
+"role": "President and Business Unit Head, International Markets Business",
+"change": "appointed",
+"effective": "2026-11-02",
+"background": "Degree in Business Administration, Economics, Law, and Social Sciences from University of St. Gallen. Previous roles include President & Business Head (EMEA, LATAM & APAC) at Glenmark Pharmaceuticals and Senior Vice President roles at Teva Pharmaceuticals.",
+"previous": "President & Business Head (EMEA, LATAM & APAC) at Glenmark Pharmaceuticals",
+"reason": null
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-31T19:28:16"
+},
+"106837717": {
+"category": "management_change",
+"headline": "Himadri Speciality Chemical revises list of Senior Management Personnel",
+"why": "Organizational restructuring alters the reporting of Senior Management Personnel.",
+"materiality": 20,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-10-30T23:50:10"
+}
+}

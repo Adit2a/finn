@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T17:17:04",
+ "generated_at": "2026-11-08T22:49:22",
  "window_days": 30,
  "holdings": [
   {
@@ -4129,7 +4129,458 @@
    "name": "Maruti Suzuki",
    "sector": "Auto",
    "mcap_cr": 403350.0,
-   "series": []
+   "series": [
+    {
+     "d": "2026-07-01",
+     "c": 14395.0,
+     "v": 1397790
+    },
+    {
+     "d": "2026-07-02",
+     "c": 14348.0,
+     "v": 327088
+    },
+    {
+     "d": "2026-07-03",
+     "c": 14366.0,
+     "v": 384188
+    },
+    {
+     "d": "2026-07-06",
+     "c": 14456.0,
+     "v": 214686
+    },
+    {
+     "d": "2026-07-07",
+     "c": 14538.0,
+     "v": 524759
+    },
+    {
+     "d": "2026-07-08",
+     "c": 13951.0,
+     "v": 481076
+    },
+    {
+     "d": "2026-07-09",
+     "c": 13728.0,
+     "v": 576451
+    },
+    {
+     "d": "2026-07-10",
+     "c": 13854.0,
+     "v": 430154
+    },
+    {
+     "d": "2026-07-13",
+     "c": 13695.0,
+     "v": 458633
+    },
+    {
+     "d": "2026-07-14",
+     "c": 13489.0,
+     "v": 368645
+    },
+    {
+     "d": "2026-07-15",
+     "c": 13583.0,
+     "v": 456369
+    },
+    {
+     "d": "2026-07-16",
+     "c": 13783.0,
+     "v": 356847
+    },
+    {
+     "d": "2026-07-17",
+     "c": 13803.0,
+     "v": 237330
+    },
+    {
+     "d": "2026-07-20",
+     "c": 13514.0,
+     "v": 517730
+    },
+    {
+     "d": "2026-07-21",
+     "c": 13597.0,
+     "v": 341101
+    },
+    {
+     "d": "2026-07-22",
+     "c": 13545.0,
+     "v": 299404
+    },
+    {
+     "d": "2026-07-23",
+     "c": 13403.0,
+     "v": 327912
+    },
+    {
+     "d": "2026-07-24",
+     "c": 13442.0,
+     "v": 223369
+    },
+    {
+     "d": "2026-07-27",
+     "c": 13730.0,
+     "v": 333477
+    },
+    {
+     "d": "2026-07-28",
+     "c": 13802.0,
+     "v": 481068
+    },
+    {
+     "d": "2026-07-29",
+     "c": 13948.0,
+     "v": 515674
+    },
+    {
+     "d": "2026-07-30",
+     "c": 14188.0,
+     "v": 626000
+    },
+    {
+     "d": "2026-07-31",
+     "c": 14234.0,
+     "v": 535417
+    },
+    {
+     "d": "2026-08-03",
+     "c": 14150.0,
+     "v": 961183
+    },
+    {
+     "d": "2026-08-04",
+     "c": 14168.0,
+     "v": 619717
+    },
+    {
+     "d": "2026-08-05",
+     "c": 14190.0,
+     "v": 312540
+    },
+    {
+     "d": "2026-08-06",
+     "c": 14080.0,
+     "v": 333510
+    },
+    {
+     "d": "2026-08-07",
+     "c": 14037.0,
+     "v": 324104
+    },
+    {
+     "d": "2026-08-10",
+     "c": 14097.0,
+     "v": 299446
+    },
+    {
+     "d": "2026-08-11",
+     "c": 13990.0,
+     "v": 334931
+    },
+    {
+     "d": "2026-08-12",
+     "c": 13875.0,
+     "v": 354408
+    },
+    {
+     "d": "2026-08-13",
+     "c": 13905.0,
+     "v": 220061
+    },
+    {
+     "d": "2026-08-14",
+     "c": 13834.0,
+     "v": 216810
+    },
+    {
+     "d": "2026-08-17",
+     "c": 13760.0,
+     "v": 177071
+    },
+    {
+     "d": "2026-08-18",
+     "c": 13691.0,
+     "v": 267433
+    },
+    {
+     "d": "2026-08-19",
+     "c": 13690.0,
+     "v": 175646
+    },
+    {
+     "d": "2026-08-20",
+     "c": 13809.0,
+     "v": 186272
+    },
+    {
+     "d": "2026-08-21",
+     "c": 13565.0,
+     "v": 224951
+    },
+    {
+     "d": "2026-08-24",
+     "c": 13620.0,
+     "v": 230499
+    },
+    {
+     "d": "2026-08-25",
+     "c": 13678.0,
+     "v": 296429
+    },
+    {
+     "d": "2026-08-26",
+     "c": 13520.0,
+     "v": 197113
+    },
+    {
+     "d": "2026-08-27",
+     "c": 13440.0,
+     "v": 315555
+    },
+    {
+     "d": "2026-08-28",
+     "c": 13376.0,
+     "v": 277509
+    },
+    {
+     "d": "2026-08-31",
+     "c": 13547.0,
+     "v": 443131
+    },
+    {
+     "d": "2026-09-01",
+     "c": 12950.0,
+     "v": 915975
+    },
+    {
+     "d": "2026-09-02",
+     "c": 12849.0,
+     "v": 614156
+    },
+    {
+     "d": "2026-09-03",
+     "c": 12857.0,
+     "v": 362982
+    },
+    {
+     "d": "2026-09-04",
+     "c": 12694.0,
+     "v": 322752
+    },
+    {
+     "d": "2026-09-07",
+     "c": 12760.0,
+     "v": 413778
+    },
+    {
+     "d": "2026-09-08",
+     "c": 12641.0,
+     "v": 356860
+    },
+    {
+     "d": "2026-09-09",
+     "c": 12618.0,
+     "v": 534832
+    },
+    {
+     "d": "2026-09-10",
+     "c": 12590.0,
+     "v": 338613
+    },
+    {
+     "d": "2026-09-11",
+     "c": 12400.0,
+     "v": 514868
+    },
+    {
+     "d": "2026-09-15",
+     "c": 12231.0,
+     "v": 286167
+    },
+    {
+     "d": "2026-09-16",
+     "c": 12166.0,
+     "v": 312876
+    },
+    {
+     "d": "2026-09-17",
+     "c": 12338.0,
+     "v": 249064
+    },
+    {
+     "d": "2026-09-18",
+     "c": 12103.0,
+     "v": 659773
+    },
+    {
+     "d": "2026-09-21",
+     "c": 12153.0,
+     "v": 339171
+    },
+    {
+     "d": "2026-09-22",
+     "c": 12190.0,
+     "v": 246724
+    },
+    {
+     "d": "2026-09-23",
+     "c": 12230.0,
+     "v": 220483
+    },
+    {
+     "d": "2026-09-24",
+     "c": 11990.0,
+     "v": 393665
+    },
+    {
+     "d": "2026-09-25",
+     "c": 12065.0,
+     "v": 283642
+    },
+    {
+     "d": "2026-09-28",
+     "c": 12008.0,
+     "v": 301830
+    },
+    {
+     "d": "2026-09-29",
+     "c": 11877.0,
+     "v": 519770
+    },
+    {
+     "d": "2026-09-30",
+     "c": 11967.0,
+     "v": 430286
+    },
+    {
+     "d": "2026-10-01",
+     "c": 11386.0,
+     "v": 885820
+    },
+    {
+     "d": "2026-10-05",
+     "c": 11532.0,
+     "v": 757171
+    },
+    {
+     "d": "2026-10-06",
+     "c": 11625.0,
+     "v": 263958
+    },
+    {
+     "d": "2026-10-07",
+     "c": 11450.0,
+     "v": 628155
+    },
+    {
+     "d": "2026-10-08",
+     "c": 11228.0,
+     "v": 431962
+    },
+    {
+     "d": "2026-10-09",
+     "c": 11420.0,
+     "v": 353177
+    },
+    {
+     "d": "2026-10-12",
+     "c": 11315.0,
+     "v": 323997
+    },
+    {
+     "d": "2026-10-13",
+     "c": 11245.0,
+     "v": 761548
+    },
+    {
+     "d": "2026-10-14",
+     "c": 11178.0,
+     "v": 463850
+    },
+    {
+     "d": "2026-10-15",
+     "c": 11445.0,
+     "v": 513644
+    },
+    {
+     "d": "2026-10-16",
+     "c": 11489.0,
+     "v": 408961
+    },
+    {
+     "d": "2026-10-19",
+     "c": 11475.0,
+     "v": 453832
+    },
+    {
+     "d": "2026-10-21",
+     "c": 11200.0,
+     "v": 393314
+    },
+    {
+     "d": "2026-10-22",
+     "c": 11170.0,
+     "v": 407490
+    },
+    {
+     "d": "2026-10-23",
+     "c": 11230.0,
+     "v": 333253
+    },
+    {
+     "d": "2026-10-26",
+     "c": 11220.0,
+     "v": 489223
+    },
+    {
+     "d": "2026-10-27",
+     "c": 11450.0,
+     "v": 426915
+    },
+    {
+     "d": "2026-10-28",
+     "c": 11579.0,
+     "v": 938032
+    },
+    {
+     "d": "2026-10-29",
+     "c": 11426.0,
+     "v": 317248
+    },
+    {
+     "d": "2026-10-30",
+     "c": 11397.0,
+     "v": 280448
+    },
+    {
+     "d": "2026-11-02",
+     "c": 11672.0,
+     "v": 414092
+    },
+    {
+     "d": "2026-11-03",
+     "c": 11869.0,
+     "v": 363875
+    },
+    {
+     "d": "2026-11-04",
+     "c": 11995.0,
+     "v": 581928
+    },
+    {
+     "d": "2026-11-05",
+     "c": 12652.0,
+     "v": 1203576
+    },
+    {
+     "d": "2026-11-06",
+     "c": 12750.0,
+     "v": 923719
+    }
+   ]
   },
   {
    "symbol": "LT",
@@ -9630,7 +10081,7 @@
     },
     {
      "id": "106837406",
-     "headline": "Reports Q2 FY27 consolidated revenue of ₹362,268 crore and PAT of ₹29,550 crore",
+     "headline": "Reports highest ever quarterly revenue at ₹362,268 crore and PAT of ₹29,550 crore for Q2 FY27",
      "subject": "Press Release",
      "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_30102026194315_SE_30102026_MR.pdf",
      "ts": "2026-10-30T19:43:24",
@@ -9790,6 +10241,26 @@
    },
    "tier": "act",
    "label": "Results"
+  },
+  {
+   "id": "106823873",
+   "symbol": "PERSISTENT",
+   "company": "Persistent Systems Limited",
+   "category": "fund_raise",
+   "headline": "Persistent Systems approves opening of QIP issue with floor price of INR 5,550 per share",
+   "why": "Company is raising up to USD 450 million (INR 42,646.10 million) through QIP.",
+   "score": 91,
+   "reasons": [
+    "₹4,265 cr ≈ 4.3% of market cap"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_21102026192219_PersistentSEOutcomeQIPissueopeningOct212026V3signed.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Issue of Securities",
+   "ts": "2026-10-21T19:22:58",
+   "related": [],
+   "tier": "act",
+   "label": "Fund raise"
   },
   {
    "id": "106820469",
@@ -10051,6 +10522,14 @@
    "ts": "2026-11-04T19:15:19",
    "related": [
     {
+     "id": "106843792",
+     "headline": "Zydus Lifesciences Q2 FY27 revenue rises 29.2% to Rs. 79,096 mn, net profit down 26.6%",
+     "subject": "Press Release",
+     "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_04112026123914_PressRelease.pdf",
+     "ts": "2026-11-04T12:39:35",
+     "category": "results"
+    },
+    {
      "id": "106843780",
      "headline": "Investor Presentation",
      "subject": "Investor Presentation",
@@ -10210,8 +10689,8 @@
    "symbol": "HDFCBANK",
    "company": "HDFC Bank Limited",
    "category": "management_change",
-   "headline": "Anup Bagchi appointed as MD & CEO of HDFC Bank effective October 27, 2026",
-   "why": "Change in leadership at the top management level of the bank.",
+   "headline": "Anup Bagchi assumes charge as MD & CEO succeeding Sashidhar Jagdishan",
+   "why": "Top-level leadership change at the largest private sector bank by assets.",
    "score": 87,
    "reasons": [
     "top-level role"
@@ -10219,153 +10698,30 @@
    "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK_27102026080232_SEIntimation_appt_of_AB.pdf",
    "people": [
     {
-     "name": "Sashidhar Jagdishan",
-     "role": "Managing Director and Chief Executive Officer",
-     "change": "resigned",
-     "effective": "2026-10-26",
-     "background": null,
-     "previous": null,
-     "reason": "completion of his tenure"
-    },
-    {
      "name": "Anup Bagchi",
      "role": "Managing Director and Chief Executive Officer",
      "change": "appointed",
-     "effective": "2026-10-27",
+     "effective": "October 27, 2026",
      "background": null,
      "previous": null,
      "reason": null
+    },
+    {
+     "name": "Sashidhar Jagdishan",
+     "role": "Managing Director and Chief Executive Officer",
+     "change": "retired",
+     "effective": "October 26, 2026",
+     "background": null,
+     "previous": null,
+     "reason": "completion of his tenure"
     }
    ],
-   "read_by": "gemini-3.1-flash-lite",
+   "read_by": "gemini-3.5-flash-lite",
    "subject": "General Updates",
    "ts": "2026-10-27T08:02:54",
    "related": [],
    "tier": "act",
    "label": "Management"
-  },
-  {
-   "id": "106848400",
-   "symbol": "TITAN",
-   "company": "Titan Company Limited",
-   "category": "management_change",
-   "headline": "Retirement of Mr. Noel N. Tata as Director and Vice-Chairman",
-   "why": null,
-   "score": 85,
-   "reasons": [
-    "top-level role"
-   ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_05112026185140_SENNTata.pdf",
-   "people": [
-    {
-     "name": "Mr. Noel N. Tata",
-     "role": "Director and Vice-Chairman",
-     "change": "retired",
-     "effective": null,
-     "background": null,
-     "previous": null,
-     "reason": null
-    }
-   ],
-   "read_by": null,
-   "subject": "Retirement",
-   "ts": "2026-11-05T18:51:55",
-   "related": [],
-   "tier": "act",
-   "label": "Management"
-  },
-  {
-   "id": "106834505",
-   "symbol": "TRENT",
-   "company": "Trent Limited",
-   "category": "management_change",
-   "headline": "Retirement of Mr. Noel N Tata as the Chairman",
-   "why": null,
-   "score": 85,
-   "reasons": [
-    "top-level role"
-   ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_29102026163122_AppointmentofDirector.pdf",
-   "people": [
-    {
-     "name": "Mr. Noel N Tata",
-     "role": "the Chairman",
-     "change": "retired",
-     "effective": null,
-     "background": null,
-     "previous": null,
-     "reason": null
-    },
-    {
-     "name": "Mr Rajiv Dube",
-     "role": "Non- Executive Director",
-     "change": "appointed",
-     "effective": null,
-     "background": null,
-     "previous": null,
-     "reason": null
-    },
-    {
-     "name": "Mrs Kalpana Merchant",
-     "role": "Non- Executive Independent Director",
-     "change": "appointed",
-     "effective": null,
-     "background": null,
-     "previous": null,
-     "reason": null
-    }
-   ],
-   "read_by": null,
-   "subject": "Retirement",
-   "ts": "2026-10-29T16:32:13",
-   "related": [
-    {
-     "id": "106834503",
-     "headline": "Appointment of Mr Rajiv Dube as Non- Executive Director of the company w.e.f. October 30, 2026",
-     "subject": "Appointment",
-     "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_29102026163044_AppointmentofDirector.pdf",
-     "ts": "2026-10-29T16:32:13",
-     "category": "management_change"
-    },
-    {
-     "id": "106834504",
-     "headline": "Change in Director(s) of the company",
-     "subject": "Change in Director(s)",
-     "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_29102026163102_AppointmentofDirector.pdf",
-     "ts": "2026-10-29T16:32:13",
-     "category": "management_change"
-    },
-    {
-     "id": "106834506",
-     "headline": "Appointment of Mrs Kalpana Merchant as Non- Executive Independent Director of the company w.e.f. October 30, 2026",
-     "subject": "Appointment",
-     "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_29102026163140_AppointmentofDirector.pdf",
-     "ts": "2026-10-29T16:32:13",
-     "category": "management_change"
-    }
-   ],
-   "tier": "act",
-   "label": "Management"
-  },
-  {
-   "id": "106827783",
-   "symbol": "RELIANCE",
-   "company": "Reliance Industries Limited",
-   "category": "fund_raise",
-   "headline": "Jio Platforms Limited finalizes IPO issue price at ₹1,119 per share",
-   "why": "Jio Platforms Limited, a subsidiary of Reliance Industries, has concluded its IPO subscription and finalized issue price.",
-   "score": 83,
-   "reasons": [
-    "₹30,213 cr ≈ 1.7% of market cap"
-   ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PVIVINMA_24102026214355_RIL_SE_241026.pdf",
-   "people": [],
-   "read_by": "gemini-3.1-flash-lite",
-   "subject": "General Updates",
-   "ts": "2026-10-24T21:48:04",
-   "related": [],
-   "tier": "act",
-   "label": "Fund raise"
   },
   {
    "id": "106834087",
@@ -10536,26 +10892,176 @@
    "label": "Results"
   },
   {
-   "id": "106817653",
+   "id": "106851762",
+   "symbol": "ASIANPAINT",
+   "company": "Asian Paints Limited",
+   "category": "management_change",
+   "headline": "Shareholders approve appointment of Mr. Leo Puri as Independent Director for a 5-year term",
+   "why": "Mr. Leo Puri will assume office as Chairman of the Board effective January 23, 2027.",
+   "score": 81,
+   "reasons": [
+    "top-level role"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_06112026220150_SE_intimation_-_Appointment_of_ID.pdf",
+   "people": [
+    {
+     "name": "Mr. Leo Puri",
+     "role": "Independent Director",
+     "change": "appointed",
+     "effective": "2026-09-07",
+     "background": null,
+     "previous": null,
+     "reason": null
+    },
+    {
+     "name": "Mr. R. Seshasayee",
+     "role": "Chairman and Independent Director",
+     "change": "retired",
+     "effective": "2027-01-22",
+     "background": null,
+     "previous": null,
+     "reason": "completion of term"
+    }
+   ],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Change in Director(s)",
+   "ts": "2026-11-06T22:06:58",
+   "related": [
+    {
+     "id": "106851770",
+     "headline": "Shareholders approve appointment of Mr. Leo Puri as Independent Director and future Chairman.",
+     "subject": "Appointment",
+     "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_06112026220521_SE_intimation_-_Appointment_of_ID.pdf",
+     "ts": "2026-11-06T22:06:58",
+     "category": "management_change"
+    }
+   ],
+   "tier": "act",
+   "label": "Management"
+  },
+  {
+   "id": "106834505",
+   "symbol": "TRENT",
+   "company": "Trent Limited",
+   "category": "management_change",
+   "headline": "Noel N. Tata to retire as Chairman; Bahram Vakil appointed as new Chairman",
+   "why": "Leadership transition at the top with retirement of long-serving chairman Noel Tata and appointment of Bahram Vakil.",
+   "score": 81,
+   "reasons": [
+    "top-level role"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_29102026163122_AppointmentofDirector.pdf",
+   "people": [
+    {
+     "name": "Noel N. Tata",
+     "role": "Chairman and Director",
+     "change": "retired",
+     "effective": "11th November 2026",
+     "background": "Associated with the Company since 1997.",
+     "previous": "Chairman and Director of Trent Limited",
+     "reason": "Tata Group Governance Guidelines retirement requirements"
+    },
+    {
+     "name": "Bahram Vakil",
+     "role": "Chairman",
+     "change": "appointed",
+     "effective": "12th November 2026",
+     "background": null,
+     "previous": null,
+     "reason": null
+    },
+    {
+     "name": "Rajiv Dube",
+     "role": "Additional Director (Non-Executive, Non-Independent)",
+     "change": "appointed",
+     "effective": "30th October 2026",
+     "background": "Indian industry veteran with over 40 years of multi-sector experience at Tata and Aditya Birla. Former President of Tata Motors car business and executive director on Aditya Birla group board.",
+     "previous": "Executive Director on the group board of the Aditya Birla group",
+     "reason": null
+    },
+    {
+     "name": "Kalpana Merchant",
+     "role": "Independent Director",
+     "change": "appointed",
+     "effective": "30th October 2026",
+     "background": "Over 45 years of experience in the legal profession. Partner at Kanga & Co., AZB & Partners and Jerome Merchant + Partners. Holds Bachelor of Laws and Bachelor of Arts in Psychology, qualified solicitor.",
+     "previous": "Partner at Jerome Merchant + Partners / AZB & Partners / Kanga & Co.",
+     "reason": null
+    }
+   ],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Retirement",
+   "ts": "2026-10-29T16:32:13",
+   "related": [
+    {
+     "id": "106834503",
+     "headline": "Noel N. Tata to retire as Chairman; Bahram Vakil appointed as Chairman with new board additions",
+     "subject": "Appointment",
+     "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_29102026163044_AppointmentofDirector.pdf",
+     "ts": "2026-10-29T16:32:13",
+     "category": "management_change"
+    },
+    {
+     "id": "106834504",
+     "headline": "Noel N. Tata to retire as Chairman; Bahram Vakil appointed as Chairman",
+     "subject": "Change in Director(s)",
+     "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_29102026163102_AppointmentofDirector.pdf",
+     "ts": "2026-10-29T16:32:13",
+     "category": "management_change"
+    },
+    {
+     "id": "106834506",
+     "headline": "Noel N. Tata to retire as Chairman; Bahram Vakil appointed as Chairman",
+     "subject": "Appointment",
+     "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_29102026163140_AppointmentofDirector.pdf",
+     "ts": "2026-10-29T16:32:13",
+     "category": "management_change"
+    }
+   ],
+   "tier": "act",
+   "label": "Management"
+  },
+  {
+   "id": "106813119",
+   "symbol": "PERSISTENT",
+   "company": "Persistent Systems Limited",
+   "category": "credit_rating",
+   "headline": "ICRA assigns [ICRA]AA+ with Rating Watch with Negative Implications to proposed NCDs of Rs 5,000 crore",
+   "why": "Credit rating assigned with negative watch implications on proposed NCDs of Rs 5,000 crore.",
+   "score": 78,
+   "reasons": [
+    "downgrade / negative outlook"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_09102026203133_PSLIntimationofCreditRatingNCDsd.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Credit Rating- New",
+   "ts": "2026-10-09T20:31:50",
+   "related": [],
+   "tier": "act",
+   "label": "Credit rating"
+  },
+  {
+   "id": "106817804",
    "symbol": "RELIANCE",
    "company": "Reliance Industries Limited",
    "category": "fund_raise",
-   "headline": "Jio Platforms Limited files Red Herring Prospectus for IPO of 27 crore equity shares",
-   "why": "Jio Platforms IPO proceeds and market valuation impact Reliance Industries as the parent company.",
-   "score": 78,
+   "headline": "Jio Platforms Limited sets IPO price band at ₹1,065 to ₹1,119 per share",
+   "why": "Subsidiary Jio Platforms Limited sets its IPO price band and bid lot.",
+   "score": 76,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_14102026183404_RIL_SE14102026.pdf",
+   "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_14102026201111_RIL_SE_14102026_.pdf",
    "people": [],
-   "read_by": "gemini-3.1-flash-lite",
+   "read_by": "gemini-3.5-flash-lite",
    "subject": "General Updates",
    "ts": "2026-10-14T20:12:49",
    "related": [
     {
-     "id": "106817804",
-     "headline": "Jio Platforms Limited sets IPO price band at ₹1,065 to ₹1,119 per equity share",
+     "id": "106817653",
+     "headline": "Jio Platforms Limited files Red Herring Prospectus for initial public offer",
      "subject": "General Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_14102026201111_RIL_SE_14102026_.pdf",
-     "ts": "2026-10-14T20:12:49",
+     "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_14102026183404_RIL_SE14102026.pdf",
+     "ts": "2026-10-14T18:35:12",
      "category": "fund_raise"
     }
    ],
@@ -10563,69 +11069,126 @@
    "label": "Fund raise"
   },
   {
-   "id": "106816062",
+   "id": "106831536",
+   "symbol": "POLYCAB",
+   "company": "Polycab India Limited",
+   "category": "litigation",
+   "headline": "NCLAT directs MSCI not to delist Polycab stock till order pronouncement.",
+   "why": "Prevents potential index delisting of Polycab stock pending NCLAT order pronouncement.",
+   "score": 74,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_28102026102430_StockExchangeintimation27102026.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Corporate Insolvency Resolution Process",
+   "ts": "2026-10-30T12:20:09",
+   "related": [
+    {
+     "id": "106836029",
+     "headline": "The order passed by NCLAT setting aside the order of NCLT Ahmedabad bench dated October 07, 2026",
+     "subject": "Corporate Insolvency Resolution Process",
+     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_30102026121954_SECIRP30102026.pdf",
+     "ts": "2026-10-30T12:20:09",
+     "category": "litigation"
+    }
+   ],
+   "tier": "act",
+   "label": "Legal / regulatory"
+  },
+  {
+   "id": "106816060",
    "symbol": "TATAPOWER",
    "company": "Tata Power Company Limited",
    "category": "management_change",
-   "headline": "3 directors exit: Bhandarkar, Bansal, Padalkar",
-   "why": null,
-   "score": 73,
+   "headline": "3 directors exit: Bansal, Padalkar, Bhandarkar",
+   "why": "Cessation of three Independent Directors at the close of business hours on October 13, 2026.",
+   "score": 74,
    "reasons": [
     "board seat, not management",
     "departure",
     "3 exits in one go"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/KSTPCL_13102026171047_Cessation_of_IDs.pdf",
+   "pdf": "https://nsearchives.nseindia.com/corporate/KSTPCL_13102026170619_Cessation_of_IDs.pdf",
    "people": [
     {
-     "name": "Mr Sanjay Vijay Bhandarkar",
-     "role": "Non- Executive Independent Director",
-     "change": "resigned",
-     "effective": null,
+     "name": "Anjali Bansal",
+     "role": "Non-Executive Independent Director",
+     "change": "retired",
+     "effective": "October 13, 2026",
      "background": null,
      "previous": null,
-     "reason": null
+     "reason": "completion of their second consecutive terms"
     },
     {
-     "name": "Ms Anjali Bansal",
-     "role": "Non- Executive Independent Director",
-     "change": "resigned",
-     "effective": null,
+     "name": "Vibha Padalkar",
+     "role": "Non-Executive Independent Director",
+     "change": "retired",
+     "effective": "October 13, 2026",
      "background": null,
      "previous": null,
-     "reason": null
+     "reason": "completion of their second consecutive terms"
     },
     {
-     "name": "Ms Vibha Padalkar",
-     "role": "Non- Executive Independent Director",
-     "change": "resigned",
-     "effective": null,
+     "name": "Sanjay Vijay Bhandarkar",
+     "role": "Non-Executive Independent Director",
+     "change": "retired",
+     "effective": "October 13, 2026",
      "background": null,
      "previous": null,
-     "reason": null
+     "reason": "completion of their second consecutive terms"
     }
    ],
-   "read_by": null,
+   "read_by": "gemini-3.5-flash-lite",
    "subject": "Cessation",
    "ts": "2026-10-13T17:11:49",
    "related": [
     {
-     "id": "106816060",
-     "headline": "Cessation of Ms Anjali Bansal (DIN: 00207746) as Non- Executive Independent Director of the company w.e.f. October 13, 2026",
+     "id": "106816062",
+     "headline": "Three Independent Directors cease to hold office upon completing second consecutive terms",
      "subject": "Cessation",
-     "pdf": "https://nsearchives.nseindia.com/corporate/KSTPCL_13102026170619_Cessation_of_IDs.pdf",
+     "pdf": "https://nsearchives.nseindia.com/corporate/KSTPCL_13102026171047_Cessation_of_IDs.pdf",
      "ts": "2026-10-13T17:11:49",
      "category": "management_change"
     },
     {
      "id": "106816061",
-     "headline": "Cessation of Ms Vibha Padalkar (DIN: 01682810) as Non- Executive Independent Director of the company w.e.f. October 13, 2026",
+     "headline": "Anjali Bansal, Vibha Padalkar, and Sanjay Vijay Bhandarkar cease as Independent Directors",
      "subject": "Cessation",
      "pdf": "https://nsearchives.nseindia.com/corporate/KSTPCL_13102026170822_Cessation_of_IDs.pdf",
      "ts": "2026-10-13T17:11:49",
      "category": "management_change"
     }
    ],
+   "tier": "act",
+   "label": "Management"
+  },
+  {
+   "id": "106836531",
+   "symbol": "DIXON",
+   "company": "Dixon Technologies (India) Limited",
+   "category": "management_change",
+   "headline": "Prithvi Vachani appointed Executive Director for 5 years",
+   "why": "Promoter's son appointed to board executive role, succeeding as Vice President previously.",
+   "score": 73,
+   "reasons": [
+    "top-level role"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_30102026160939_Outcome30102026.pdf",
+   "people": [
+    {
+     "name": "Mr. Prithvi Vachani",
+     "role": "Executive Director",
+     "change": "appointed",
+     "effective": "30-10-2026",
+     "background": "2017 graduate of Bentley University, Master of Business Administration from London Business School. Previously Vice President at Dixon Technologies.",
+     "previous": "Vice President at Dixon Technologies (India) Limited",
+     "reason": null
+    }
+   ],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Change in Management",
+   "ts": "2026-10-30T16:10:12",
+   "related": [],
    "tier": "act",
    "label": "Management"
   },
@@ -10666,6 +11229,24 @@
    "label": "M&A"
   },
   {
+   "id": "106827783",
+   "symbol": "RELIANCE",
+   "company": "Reliance Industries Limited",
+   "category": "fund_raise",
+   "headline": "Jio Platforms Limited finalises IPO issue price at 1,119 per equity share",
+   "why": "Subsidiary Jio Platforms Limited finalized its IPO issue price at 1,119 per equity share.",
+   "score": 72,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/PVIVINMA_24102026214355_RIL_SE_241026.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "General Updates",
+   "ts": "2026-10-24T21:48:04",
+   "related": [],
+   "tier": "act",
+   "label": "Fund raise"
+  },
+  {
    "id": "106826976",
    "symbol": "TRENT",
    "company": "Trent Limited",
@@ -10684,22 +11265,24 @@
    "label": "M&A"
   },
   {
-   "id": "106823393",
-   "symbol": "ETERNAL",
-   "company": "ETERNAL LIMITED",
-   "category": "M&A",
-   "headline": "Eternal Limited has informed exchange regarding proposed restructuring, acquisition and divestment",
-   "why": null,
-   "score": 72,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/ZOMATO_21102026153325_OutcomeSIGNED.pdf",
+   "id": "106813081",
+   "symbol": "POLYCAB",
+   "company": "Polycab India Limited",
+   "category": "litigation",
+   "headline": "NCLAT stays CIRP order against Polycab India involving operational debt of ₹2.79 crore",
+   "why": "Appellate tribunal stayed NCLT admission of CIRP against the company, pending deposit of the debt amount.",
+   "score": 71,
+   "reasons": [
+    "₹3 cr, small vs size (<0.01% of m-cap)"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_09102026194506_StockexchangeCIRP09102026.pdf",
    "people": [],
-   "read_by": null,
-   "subject": "Sale or disposal",
-   "ts": "2026-10-21T15:33:41",
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Corporate Insolvency Resolution Process",
+   "ts": "2026-10-09T19:45:26",
    "related": [],
    "tier": "act",
-   "label": "M&A"
+   "label": "Legal / regulatory"
   },
   {
    "id": "106829445",
@@ -10720,94 +11303,89 @@
    "label": "Fund raise"
   },
   {
-   "id": "106823873",
-   "symbol": "PERSISTENT",
-   "company": "Persistent Systems Limited",
-   "category": "fund_raise",
-   "headline": "Issue of Securities",
-   "why": null,
-   "score": 70,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_21102026192219_PersistentSEOutcomeQIPissueopeningOct212026V3signed.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Issue of Securities",
-   "ts": "2026-10-21T19:22:58",
-   "related": [],
-   "tier": "act",
-   "label": "Fund raise"
-  },
-  {
-   "id": "106819742",
-   "symbol": "PERSISTENT",
-   "company": "Persistent Systems Limited",
-   "category": "fund_raise",
-   "headline": "Issue of Securities",
-   "why": null,
-   "score": 70,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_16102026105516_PersistentSystemsStExchangeOutcomeOctober162026Signed.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Issue of Securities",
-   "ts": "2026-10-16T10:55:31",
-   "related": [],
-   "tier": "act",
-   "label": "Fund raise"
-  },
-  {
-   "id": "106831536",
+   "id": "106819599",
    "symbol": "POLYCAB",
    "company": "Polycab India Limited",
    "category": "litigation",
-   "headline": "On the update of NCLAT order dated October 27, 2026",
-   "why": null,
-   "score": 66,
+   "headline": "NCLAT reserves order on appeal in Asier Metals Private Limited versus Polycab India Limited",
+   "why": "The appellate tribunal heard and reserved its order on the corporate insolvency resolution process matter.",
+   "score": 70,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_28102026102430_StockExchangeintimation27102026.pdf",
+   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_16102026093958_CIRP15102026.pdf",
    "people": [],
-   "read_by": null,
-   "subject": "Corporate Insolvency Resolution Process",
-   "ts": "2026-10-30T12:20:09",
-   "related": [
-    {
-     "id": "106836029",
-     "headline": "The order passed by NCLAT setting aside the order of NCLT Ahmedabad bench dated October 07, 2026",
-     "subject": "Corporate Insolvency Resolution Process",
-     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_30102026121954_SECIRP30102026.pdf",
-     "ts": "2026-10-30T12:20:09",
-     "category": "litigation"
-    }
-   ],
-   "tier": "glance",
-   "label": "Legal / regulatory"
-  },
-  {
-   "id": "106816873",
-   "symbol": "POLYCAB",
-   "company": "Polycab India Limited",
-   "category": "litigation",
-   "headline": "Hon''ble NCLAT has granted the request for early listing and the appeal is now scheduled to be held on October 15, 2026",
-   "why": null,
-   "score": 66,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_14102026112211_SEintimation14102026.pdf",
-   "people": [],
-   "read_by": null,
+   "read_by": "gemini-3.5-flash-lite",
    "subject": "Corporate Insolvency Resolution Process",
    "ts": "2026-10-16T09:40:15",
    "related": [
     {
-     "id": "106819599",
-     "headline": "Corporate Insolvency Resolution Process",
+     "id": "106816002",
+     "headline": "NCLAT stays NCLT order initiating CIRP against Polycab over ₹2.79 crore debt",
+     "subject": "Press Release",
+     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_13102026164554_StockExchangeIntimation-Press_Release.pdf",
+     "ts": "2026-10-13T16:47:39",
+     "category": "litigation"
+    },
+    {
+     "id": "106816873",
+     "headline": "Hon''ble NCLAT has granted the request for early listing and the appeal is now scheduled to be held on October 15, 2026",
      "subject": "Corporate Insolvency Resolution Process",
-     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_16102026093958_CIRP15102026.pdf",
-     "ts": "2026-10-16T09:40:15",
+     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_14102026112211_SEintimation14102026.pdf",
+     "ts": "2026-10-14T11:22:27",
      "category": "litigation"
     }
    ],
-   "tier": "glance",
+   "tier": "act",
    "label": "Legal / regulatory"
+  },
+  {
+   "id": "106848400",
+   "symbol": "TITAN",
+   "company": "Titan Company Limited",
+   "category": "management_change",
+   "headline": "Noel N. Tata to retire as Non-Executive, Non-Independent Director and Vice-Chairman effective November 12, 2026.",
+   "why": "The Vice-Chairman is retiring from the board, altering the company's senior leadership composition.",
+   "score": 67,
+   "reasons": [
+    "top-level role"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_05112026185140_SENNTata.pdf",
+   "people": [
+    {
+     "name": "Noel N. Tata",
+     "role": "Non-Executive, Non-Independent Director and Vice-Chairman",
+     "change": "retired",
+     "effective": "12th November 2026",
+     "background": null,
+     "previous": null,
+     "reason": "Tata Group Governance Guidelines"
+    }
+   ],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Retirement",
+   "ts": "2026-11-05T18:51:55",
+   "related": [],
+   "tier": "glance",
+   "label": "Management"
+  },
+  {
+   "id": "106823393",
+   "symbol": "ETERNAL",
+   "company": "ETERNAL LIMITED",
+   "category": "M&A",
+   "headline": "Eternal Limited transfers Going-out India business to ZEPL for INR 130.76 crore via slump sale",
+   "why": "Restructures Going-out business into a single wholly owned subsidiary and swaps Adonmo stake for Mygate shares.",
+   "score": 66,
+   "reasons": [
+    "₹131 cr, small vs size (0.04% of m-cap)"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/ZOMATO_21102026153325_OutcomeSIGNED.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Sale or disposal",
+   "ts": "2026-10-21T15:33:41",
+   "related": [],
+   "tier": "glance",
+   "label": "M&A"
   },
   {
    "id": "106819161",
@@ -10828,24 +11406,6 @@
    "label": "Legal / regulatory"
   },
   {
-   "id": "106813081",
-   "symbol": "POLYCAB",
-   "company": "Polycab India Limited",
-   "category": "litigation",
-   "headline": "Corporate Insolvency Resolution Process",
-   "why": null,
-   "score": 66,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_09102026194506_StockexchangeCIRP09102026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Corporate Insolvency Resolution Process",
-   "ts": "2026-10-09T19:45:26",
-   "related": [],
-   "tier": "glance",
-   "label": "Legal / regulatory"
-  },
-  {
    "id": "106822132",
    "symbol": "TRENT",
    "company": "Trent Limited",
@@ -10857,14 +11417,24 @@
     "departure"
    ],
    "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_ROID_100856_KMP_Doc.zip",
-   "people": [],
+   "people": [
+    {
+     "name": "Harish Bhat",
+     "role": "Non-Executive Non-Independent Director",
+     "change": "resigned",
+     "effective": "17th October 2026",
+     "background": null,
+     "previous": null,
+     "reason": "existing and growing professional and personal commitments"
+    }
+   ],
    "read_by": null,
    "subject": "Resignation of Director/KMP/SMP",
    "ts": "2026-10-19T17:25:08",
    "related": [
     {
      "id": "106821444",
-     "headline": "Intimation of resignation of Non-Executive Non-Independent Director of the Company",
+     "headline": "Harish Bhat resigns as Non-Executive Non-Independent Director effective 17th October 2026",
      "subject": "Resignation",
      "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_18102026184315_Intimation_of_Resignation_of_NED.pdf",
      "ts": "2026-10-18T18:47:05",
@@ -10875,28 +11445,38 @@
    "label": "Management"
   },
   {
-   "id": "106815017",
+   "id": "106815039",
    "symbol": "SUNPHARMA",
    "company": "Sun Pharmaceutical Industries Limited",
    "category": "management_change",
-   "headline": "Resignation of Director of the Company",
+   "headline": "Resignation of Director/KMP/SMP",
    "why": null,
    "score": 63,
    "reasons": [
     "departure"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_12102026200413_BMOutcome12October2026.pdf",
-   "people": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/SUNPHARMA_ROID_100278_KMP_Doc.zip",
+   "people": [
+    {
+     "name": "Gautam Doshi",
+     "role": "Non-Executive, Independent Director",
+     "change": "resigned",
+     "effective": "2026-10-12",
+     "background": null,
+     "previous": null,
+     "reason": "personal reasons"
+    }
+   ],
    "read_by": null,
-   "subject": "Resignation",
+   "subject": "Resignation of Director/KMP/SMP",
    "ts": "2026-10-12T20:34:43",
    "related": [
     {
-     "id": "106815039",
-     "headline": "Resignation of Director/KMP/SMP",
-     "subject": "Resignation of Director/KMP/SMP",
-     "pdf": "https://nsearchives.nseindia.com/corporate/SUNPHARMA_ROID_100278_KMP_Doc.zip",
-     "ts": "2026-10-12T20:34:43",
+     "id": "106815017",
+     "headline": "Gautam Doshi resigns as Non-Executive Independent Director of Sun Pharmaceutical Industries Limited",
+     "subject": "Resignation",
+     "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_12102026200413_BMOutcome12October2026.pdf",
+     "ts": "2026-10-12T20:05:00",
      "category": "management_change"
     }
    ],
@@ -10924,156 +11504,61 @@
    "label": "Management"
   },
   {
-   "id": "106818480",
-   "symbol": "TCS",
-   "company": "Tata Consultancy Services Limited",
-   "category": "M&A",
-   "headline": "TCS completes acquisition of 100% partnership interest in BBY Services India LLP",
-   "why": "BBY Services India LLP has become a wholly owned subsidiary of Tata Consultancy Services Limited.",
-   "score": 59,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_15102026133009_SEInt15102026.pdf",
+   "id": "106819742",
+   "symbol": "PERSISTENT",
+   "company": "Persistent Systems Limited",
+   "category": "fund_raise",
+   "headline": "Persistent Systems approved issuing NCDs up to INR 8,000 Crores and Commercial Paper up to INR 1,000 Crores",
+   "why": "Long-term debt financing of up to INR 9,000 Crores total for the acquisition of Nagarro SE.",
+   "score": 60,
+   "reasons": [
+    "routine debt issuance",
+    "₹9,000 cr ≈ 9.0% of market cap"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_16102026105516_PersistentSystemsStExchangeOutcomeOctober162026Signed.pdf",
    "people": [],
-   "read_by": "gemini-3.1-flash-lite",
-   "subject": "General Updates",
-   "ts": "2026-10-15T13:30:23",
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Issue of Securities",
+   "ts": "2026-10-16T10:55:31",
    "related": [],
    "tier": "glance",
-   "label": "M&A"
-  },
-  {
-   "id": "106851762",
-   "symbol": "ASIANPAINT",
-   "company": "Asian Paints Limited",
-   "category": "management_change",
-   "headline": "Change in Director(s) of the company",
-   "why": null,
-   "score": 55,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_06112026220150_SE_intimation_-_Appointment_of_ID.pdf",
-   "people": [
-    {
-     "name": "Mr Leo Puri",
-     "role": "Independent Director",
-     "change": "appointed",
-     "effective": null,
-     "background": null,
-     "previous": null,
-     "reason": null
-    }
-   ],
-   "read_by": null,
-   "subject": "Change in Director(s)",
-   "ts": "2026-11-06T22:06:58",
-   "related": [
-    {
-     "id": "106851770",
-     "headline": "Appointment of Mr Leo Puri as Independent Director of the company w.e.f. September 07, 2026",
-     "subject": "Appointment",
-     "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_06112026220521_SE_intimation_-_Appointment_of_ID.pdf",
-     "ts": "2026-11-06T22:06:58",
-     "category": "management_change"
-    }
-   ],
-   "tier": "glance",
-   "label": "Management"
+   "label": "Fund raise"
   },
   {
    "id": "106838526",
    "symbol": "ZYDUSLIFE",
    "company": "Zydus Lifesciences Limited",
    "category": "management_change",
-   "headline": "Change in Management",
-   "why": null,
-   "score": 55,
-   "reasons": [],
+   "headline": "Dr. Amrut Naik resigns and Christoph Stoller appointed as President and Business Unit Head, International Markets",
+   "why": "Senior management change for international markets business unit involving former Glenmark and Teva executive Christoph Stoller.",
+   "score": 56,
+   "reasons": [
+    "departure"
+   ],
    "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_31102026192646_SEIntimation_changesinSeniorManagement.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Change in Management",
-   "ts": "2026-10-31T19:28:16",
-   "related": [],
-   "tier": "glance",
-   "label": "Management"
-  },
-  {
-   "id": "106837717",
-   "symbol": "HSCL",
-   "company": "Himadri Speciality Chemical Limited",
-   "category": "management_change",
-   "headline": "Revision of list of Senior Management Personnel of the Company",
-   "why": null,
-   "score": 55,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HSCL_30102026234958_RevisionoflistofSeniorManagementPersonnel.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Change in Management",
-   "ts": "2026-10-30T23:50:10",
-   "related": [],
-   "tier": "glance",
-   "label": "Management"
-  },
-  {
-   "id": "106836531",
-   "symbol": "DIXON",
-   "company": "Dixon Technologies (India) Limited",
-   "category": "management_change",
-   "headline": "Change in Management",
-   "why": null,
-   "score": 55,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_30102026160939_Outcome30102026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Change in Management",
-   "ts": "2026-10-30T16:10:12",
-   "related": [],
-   "tier": "glance",
-   "label": "Management"
-  },
-  {
-   "id": "106832710",
-   "symbol": "HAL",
-   "company": "Hindustan Aeronautics Limited",
-   "category": "management_change",
-   "headline": "Change in Director(s) of the company",
-   "why": null,
-   "score": 55,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HAL_28102026180358_changeinmanagement_Dops_Signed.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Change in Director(s)",
-   "ts": "2026-10-28T18:04:19",
-   "related": [],
-   "tier": "glance",
-   "label": "Management"
-  },
-  {
-   "id": "106850382",
-   "symbol": "HDFCBANK",
-   "company": "HDFC Bank Limited",
-   "category": "management_change",
-   "headline": "V. N. Srivatsan appointed as Chief Compliance Officer of HDFC Bank",
-   "why": "Appointment of a key senior management personnel to oversee regulatory compliance and framework implementation.",
-   "score": 49,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK3_06112026152141_SE_Intimation-Srivatsan.pdf",
    "people": [
     {
-     "name": "V. N. Srivatsan",
-     "role": "Chief Compliance Officer",
+     "name": "Dr. Amrut Naik",
+     "role": "President and Business Unit Head, International Markets Business",
+     "change": "resigned",
+     "effective": "2026-11-07",
+     "background": null,
+     "previous": "President and Business Unit Head, International Markets Business at Zydus Lifesciences Limited",
+     "reason": null
+    },
+    {
+     "name": "Mr. Christoph Stoller",
+     "role": "President and Business Unit Head, International Markets Business",
      "change": "appointed",
-     "effective": "2026-11-06",
-     "background": "34 years professional experience, 25 years in BFSI, 10 years in Compliance and Regulatory Inspection. Holds PG in Business Administration from PSG College of Technology and B. Tech from Sri Venkateshwara University.",
-     "previous": "Head – Compliance: Overseas Banking and Subsidiaries & Data Privacy Officer at ICICI Bank Limited",
+     "effective": "2026-11-02",
+     "background": "Degree in Business Administration, Economics, Law, and Social Sciences from University of St. Gallen. Previous roles include President & Business Head (EMEA, LATAM & APAC) at Glenmark Pharmaceuticals and Senior Vice President roles at Teva Pharmaceuticals.",
+     "previous": "President & Business Head (EMEA, LATAM & APAC) at Glenmark Pharmaceuticals",
      "reason": null
     }
    ],
-   "read_by": "gemini-3.1-flash-lite",
+   "read_by": "gemini-3.5-flash-lite",
    "subject": "Change in Management",
-   "ts": "2026-11-06T15:21:56",
+   "ts": "2026-10-31T19:28:16",
    "related": [],
    "tier": "glance",
    "label": "Management"
@@ -11083,23 +11568,13 @@
    "symbol": "HDFCBANK",
    "company": "HDFC Bank Limited",
    "category": "management_change",
-   "headline": "Sanjay D’Souza retires as Group Head – Business Banking, Emerging & Micro Enterprises Group",
-   "why": "Departure of a key executive responsible for the bank's SME business after 27 years of service.",
-   "score": 49,
+   "headline": "Change in Management",
+   "why": null,
+   "score": 55,
    "reasons": [],
    "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK3_31102026221631_SE_INTIMATION-_Sanjay_Dsouza.pdf",
-   "people": [
-    {
-     "name": "Sanjay D’Souza",
-     "role": "Group Head – Business Banking, Emerging & Micro Enterprises Group",
-     "change": "retired",
-     "effective": "2026-10-31",
-     "background": "Associated with the bank for nearly 27 years, serving as a key architect of the bank's SME business across Credit and Business functions.",
-     "previous": "Group Head – Business Banking, Emerging & Micro Enterprises Group",
-     "reason": "superannuation"
-    }
-   ],
-   "read_by": "gemini-3.1-flash-lite",
+   "people": [],
+   "read_by": null,
    "subject": "Change in Management",
    "ts": "2026-10-31T22:16:44",
    "related": [],
@@ -11107,32 +11582,257 @@
    "label": "Management"
   },
   {
-   "id": "106822209",
+   "id": "106818480",
+   "symbol": "TCS",
+   "company": "Tata Consultancy Services Limited",
+   "category": "M&A",
+   "headline": "Completed acquisition of 100% partnership interest in BBY Services India LLP",
+   "why": "BBY Services India LLP has become a wholly owned subsidiary of the company.",
+   "score": 55,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_15102026133009_SEInt15102026.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "General Updates",
+   "ts": "2026-10-15T13:30:23",
+   "related": [],
+   "tier": "glance",
+   "label": "M&A"
+  },
+  {
+   "id": "106822208",
    "symbol": "BAJFINANCE",
    "company": "Bajaj Finance Limited",
-   "category": "management_change",
-   "headline": "Bajaj Finance re-appoints Prashant Verma as Chief Information Security Officer for three years",
-   "why": "Ensures continuity in leadership for information security and cyber risk management functions.",
-   "score": 45,
+   "category": "fund_raise",
+   "headline": "Board approved issue of 49,00,737 equity shares under employee stock option scheme",
+   "why": "Dilution of equity shares to the employee welfare trust under the stock option scheme.",
+   "score": 54,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_19102026175648_Change_in_SMT_Prashant_Verma_CISO_signed.pdf",
-   "people": [
-    {
-     "name": "Prashant Verma",
-     "role": "Chief Information Security Officer",
-     "change": "re-appointed",
-     "effective": "1 February 2027",
-     "background": "21 years of experience in security domain. Joined Bajaj Finance 7 years ago as head of Cyber Risk Unit. Previously worked as security auditor and consultant for domestic and international banks and insurance companies. CISSP certified and co-author of security books.",
-     "previous": "Chief Information Security Officer at Bajaj Finance Ltd",
-     "reason": null
-    }
-   ],
-   "read_by": "gemini-3.1-flash-lite",
-   "subject": "Change in Management",
+   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_19102026175355_Issue_of_Securities_19102026.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Issue of Securities",
    "ts": "2026-10-19T17:57:20",
    "related": [],
    "tier": "glance",
+   "label": "Fund raise"
+  },
+  {
+   "id": "106832710",
+   "symbol": "HAL",
+   "company": "Hindustan Aeronautics Limited",
+   "category": "management_change",
+   "headline": "Shri P B Rangarao appointed as Director (Operations) effective 28th October, 2026",
+   "why": "New Director (Operations) appointed for a five-year term, and CMD ceases additional charge.",
+   "score": 49,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/HAL_28102026180358_changeinmanagement_Dops_Signed.pdf",
+   "people": [
+    {
+     "name": "Shri P B Rangarao",
+     "role": "Director (Operations)",
+     "change": "appointed",
+     "effective": "28th October, 2026",
+     "background": "Holds a Bachelor's degree in Mechanical Engineering from Regional Engineering College, Warangal, and a Post Graduate Diploma in Business Management from XIME, Bengaluru. Completed a Leadership Development Program from IIM, Ahmedabad. Joined HAL on July 17, 1995, with over three decades of experience.",
+     "previous": "Chief Executive Officer (Helicopter Complex)",
+     "reason": null
+    },
+    {
+     "name": "Shri Kota Ravi",
+     "role": "Director (Operations)",
+     "change": "resigned",
+     "effective": "28th October, 2026",
+     "background": null,
+     "previous": "Chairman and Managing Director holding additional charge of Director (Operations)",
+     "reason": "Appointment of Shri P B Rangarao"
+    }
+   ],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Change in Director(s)",
+   "ts": "2026-10-28T18:04:19",
+   "related": [],
+   "tier": "glance",
    "label": "Management"
+  },
+  {
+   "id": "106821513",
+   "symbol": "LT",
+   "company": "Larsen & Toubro Limited",
+   "category": "press_release",
+   "headline": "Commences initial activities for New Tashkent International Airport Ultra-mega project",
+   "why": "Secures EPC contract for greenfield airport project with 17 million annual passenger capacity.",
+   "score": 49,
+   "reasons": [
+    "order win, value undisclosed"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_19102026101805_PressRelease19102026.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Bagging/Receiving of orders/contracts",
+   "ts": "2026-10-19T10:18:20",
+   "related": [],
+   "tier": "glance",
+   "label": "Press release"
+  },
+  {
+   "id": "106850382",
+   "symbol": "HDFCBANK",
+   "company": "HDFC Bank Limited",
+   "category": "management_change",
+   "headline": "V. N. Srivatsan appointed as Chief Compliance Officer for 3 years",
+   "why": "Changes in senior management personnel, specifically the Chief Compliance Officer, impact regulatory compliance oversight.",
+   "score": 47,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK3_06112026152141_SE_Intimation-Srivatsan.pdf",
+   "people": [
+    {
+     "name": "V. N. Srivatsan",
+     "role": "Chief Compliance Officer",
+     "change": "appointed",
+     "effective": "2026-11-06",
+     "background": "Approx 34 years overall professional experience, including around 25 years in BFSI and close to 10 years in Compliance and Regulatory Inspection. Holds PG degree in Business Administration from PSG College of Technology and B. Tech from Sri Venkateshwara University.",
+     "previous": "Head – Compliance: Overseas Banking and Subsidiaries & Data Privacy Officer at ICICI Bank Limited",
+     "reason": null
+    }
+   ],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Change in Management",
+   "ts": "2026-11-06T15:21:56",
+   "related": [],
+   "tier": "glance",
+   "label": "Management"
+  },
+  {
+   "id": "106816165",
+   "symbol": "SUNPHARMA",
+   "company": "Sun Pharmaceutical Industries Limited",
+   "category": "credit_rating",
+   "headline": "Crisil and ICRA assign AAA/Stable to Sun Pharma's proposed Rs 15,000 crore NCD programme",
+   "why": "Credit ratings reaffirmed and assigned for Rs 15,000 crore NCD and upcoming Organon acquisition financing.",
+   "score": 46,
+   "reasons": [
+    "reaffirmation"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_13102026175414_Intimation_to_SE_-_NCDs_Credit_Ratings.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Credit Rating",
+   "ts": "2026-10-13T17:54:34",
+   "related": [],
+   "tier": "glance",
+   "label": "Credit rating"
+  },
+  {
+   "id": "106851457",
+   "symbol": "ZYDUSLIFE",
+   "company": "Zydus Lifesciences Limited",
+   "category": "press_release",
+   "headline": "Zydus presents Phase 2b data showing saroglitazar resolution of MASH without worsening fibrosis",
+   "why": "Saroglitazar achieved 39.1% (4 mg) and 32.4% (2 mg) resolution of steatohepatitis compared to 13.7% for placebo.",
+   "score": 45,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_06112026190130_PressRelease06112026.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Press Release",
+   "ts": "2026-11-06T19:01:47",
+   "related": [],
+   "tier": "glance",
+   "label": "Press release"
+  },
+  {
+   "id": "106822983",
+   "symbol": "LT",
+   "company": "Larsen & Toubro Limited",
+   "category": "press_release",
+   "headline": "L&T wins Large orders valued between ₹2,500 crore and ₹5,000 crore in New Delhi and Andhra Pradesh",
+   "why": "Securing Large public sector infrastructure contracts enhances order book visibility.",
+   "score": 45,
+   "reasons": [
+    "order win, value undisclosed"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_21102026094637_PressRelease21102026.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Bagging/Receiving of orders/contracts",
+   "ts": "2026-10-21T09:46:52",
+   "related": [],
+   "tier": "glance",
+   "label": "Press release"
+  },
+  {
+   "id": "106822793",
+   "symbol": "SUNPHARMA",
+   "company": "Sun Pharmaceutical Industries Limited",
+   "category": "press_release",
+   "headline": "UNLOXCYT receives Category 2A preferred designation in NCCN guidelines for laCSCC patients",
+   "why": "Elevated NCCN guideline status improves clinician preference, payer coverage, and patient access for UNLOXCYT.",
+   "score": 45,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_20102026173321_SE_Intimation_of_Press_Release_on_NCCN_Gudelines_Update.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Press Release",
+   "ts": "2026-10-20T17:35:31",
+   "related": [],
+   "tier": "glance",
+   "label": "Press release"
+  },
+  {
+   "id": "106839016",
+   "symbol": "LT",
+   "company": "Larsen & Toubro Limited",
+   "category": "press_release",
+   "headline": "Residential, Commercial Buildings and Factories business wins orders in Mumbai, Bengaluru, and Hyderabad",
+   "why": "Secured multiple orders for high-rise residential and commercial developments, contributing to the order book.",
+   "score": 41,
+   "reasons": [
+    "order win, value undisclosed"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_02112026101835_PressRelease02112026.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Bagging/Receiving of orders/contracts",
+   "ts": "2026-11-02T10:18:49",
+   "related": [],
+   "tier": "glance",
+   "label": "Press release"
+  },
+  {
+   "id": "106837717",
+   "symbol": "HSCL",
+   "company": "Himadri Speciality Chemical Limited",
+   "category": "management_change",
+   "headline": "Himadri Speciality Chemical revises list of Senior Management Personnel",
+   "why": "Organizational restructuring alters the reporting of Senior Management Personnel.",
+   "score": 41,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/HSCL_30102026234958_RevisionoflistofSeniorManagementPersonnel.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Change in Management",
+   "ts": "2026-10-30T23:50:10",
+   "related": [],
+   "tier": "glance",
+   "label": "Management"
+  },
+  {
+   "id": "106826784",
+   "symbol": "SUNPHARMA",
+   "company": "Sun Pharmaceutical Industries Limited",
+   "category": "press_release",
+   "headline": "Sun Pharma presents long-term efficacy and safety data for UNLOXCYT at ESMO 2026",
+   "why": "Long-term data from a major study shows durable responses and manageable safety for UNLOXCYT in advanced cutaneous squamous cell carcinoma.",
+   "score": 41,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_23102026180028_SE_Intimation_of_Press_Release_-_ESMO.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Press Release",
+   "ts": "2026-10-23T18:01:41",
+   "related": [],
+   "tier": "glance",
+   "label": "Press release"
   },
   {
    "id": "106852434",
@@ -11395,21 +12095,21 @@
    "label": "Earnings call"
   },
   {
-   "id": "106823937",
-   "symbol": "RELIANCE",
-   "company": "Reliance Industries Limited",
+   "id": "106825617",
+   "symbol": "PERSISTENT",
+   "company": "Persistent Systems Limited",
    "category": "credit_rating",
-   "headline": "ICRA reaffirms AAA/Stable rating for Reliance Industries Limited on Rs 72,000 crore total facilities",
-   "why": "Confirms strong credit profile and financial flexibility despite large capital-intensive investments in digital and energy sectors.",
+   "headline": "ICRA assigns [ICRA]A1+ to commercial paper of ₹1,000 crore and [ICRA]AA+ to NCDs of ₹2,000 crore",
+   "why": "Credit ratings updated with rating watch for debt instruments.",
    "score": 40,
    "reasons": [
     "reaffirmation"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PVIVINMA_21102026204310_SE_ICRA.pdf",
+   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_22102026230112_PSLCreditRatingIntimationICRA22102026Sd.pdf",
    "people": [],
-   "read_by": "gemini-3.1-flash-lite",
+   "read_by": "gemini-3.5-flash-lite",
    "subject": "Credit Rating",
-   "ts": "2026-10-21T20:43:30",
+   "ts": "2026-10-22T23:01:42",
    "related": [],
    "tier": "glance",
    "label": "Credit rating"
@@ -11473,6 +12173,52 @@
    "related": [],
    "tier": "glance",
    "label": "Earnings call"
+  },
+  {
+   "id": "106822209",
+   "symbol": "BAJFINANCE",
+   "company": "Bajaj Finance Limited",
+   "category": "management_change",
+   "headline": "Prashant Verma re-appointed as Chief Information Security Officer for 3 years",
+   "why": null,
+   "score": 37,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_19102026175648_Change_in_SMT_Prashant_Verma_CISO_signed.pdf",
+   "people": [
+    {
+     "name": "Prashant Verma",
+     "role": "Chief Information Security Officer",
+     "change": "re-appointed",
+     "effective": "2027-02-01",
+     "background": "Around 21 years of experience in Security Domain. Joined as head of Cyber Risk Unit 7 years back. Previously worked as security architect, auditor, and consultant for domestic and international banks and insurance companies. CISSP and co-author of security books.",
+     "previous": "Chief Information Security Officer at Bajaj Finance Ltd",
+     "reason": null
+    }
+   ],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Change in Management",
+   "ts": "2026-10-19T17:57:20",
+   "related": [],
+   "tier": "glance",
+   "label": "Management"
+  },
+  {
+   "id": "106834102",
+   "symbol": "ASIANPAINT",
+   "company": "Asian Paints Limited",
+   "category": "dividend",
+   "headline": "Asian Paints approves interim dividend of Rs. 5.75 per equity share",
+   "why": "Interim dividend declaration provides direct cash return to shareholders.",
+   "score": 36,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_29102026141409_OutcomeofBM29102026signed.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Press Release",
+   "ts": "2026-10-29T14:14:43",
+   "related": [],
+   "tier": "glance",
+   "label": "Dividend"
   },
   {
    "id": "106835076",
@@ -11547,24 +12293,6 @@
    "label": "Dividend"
   },
   {
-   "id": "106851457",
-   "symbol": "ZYDUSLIFE",
-   "company": "Zydus Lifesciences Limited",
-   "category": "press_release",
-   "headline": "A press release dated November 06, 2026, titled \"Press Release",
-   "why": null,
-   "score": 32,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_06112026190130_PressRelease06112026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Press Release",
-   "ts": "2026-11-06T19:01:47",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
    "id": "106846325",
    "symbol": "TATAPOWER",
    "company": "Tata Power Company Limited",
@@ -11578,24 +12306,6 @@
    "read_by": null,
    "subject": "Press Release",
    "ts": "2026-11-05T10:34:26",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
-   "id": "106843792",
-   "symbol": "ZYDUSLIFE",
-   "company": "Zydus Lifesciences Limited",
-   "category": "press_release",
-   "headline": "A press release dated November 04, 2026, titled \"Press release",
-   "why": null,
-   "score": 32,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_04112026123914_PressRelease.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Press Release",
-   "ts": "2026-11-04T12:39:35",
    "related": [],
    "tier": "routine",
    "label": "Press release"
@@ -11639,24 +12349,6 @@
    "label": "Press release"
   },
   {
-   "id": "106840669",
-   "symbol": "SUNPHARMA",
-   "company": "Sun Pharmaceutical Industries Limited",
-   "category": "press_release",
-   "headline": "Clarification regarding news report relating to the Company s Assam facility",
-   "why": null,
-   "score": 32,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_02112026205719_Reply_to_SEs_-_Rumour_Verification02112026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Rumour Verification - Regulation 30(11)",
-   "ts": "2026-11-02T20:58:22",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
    "id": "106839459",
    "symbol": "SUNPHARMA",
    "company": "Sun Pharmaceutical Industries Limited",
@@ -11672,26 +12364,6 @@
    "read_by": null,
    "subject": "News Verification",
    "ts": "2026-11-02T14:18:39",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
-   "id": "106839016",
-   "symbol": "LT",
-   "company": "Larsen & Toubro Limited",
-   "category": "press_release",
-   "headline": "Bagging/Receiving of orders/contracts",
-   "why": null,
-   "score": 32,
-   "reasons": [
-    "order win, value undisclosed"
-   ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_02112026101835_PressRelease02112026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Bagging/Receiving of orders/contracts",
-   "ts": "2026-11-02T10:18:49",
    "related": [],
    "tier": "routine",
    "label": "Press release"
@@ -11764,24 +12436,6 @@
    "read_by": null,
    "subject": "Press Release",
    "ts": "2026-10-29T16:21:37",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
-   "id": "106834102",
-   "symbol": "ASIANPAINT",
-   "company": "Asian Paints Limited",
-   "category": "press_release",
-   "headline": "Please find enclosed the Press Release on the performance of the Company for the quarter and half year ended 30th September 2026",
-   "why": null,
-   "score": 32,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_29102026141409_OutcomeofBM29102026signed.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Press Release",
-   "ts": "2026-10-29T14:14:43",
    "related": [],
    "tier": "routine",
    "label": "Press release"
@@ -11897,22 +12551,24 @@
    "label": "Press release"
   },
   {
-   "id": "106826784",
-   "symbol": "SUNPHARMA",
-   "company": "Sun Pharmaceutical Industries Limited",
-   "category": "press_release",
-   "headline": "A press release dated October 23, 2026",
-   "why": null,
+   "id": "106823942",
+   "symbol": "PERSISTENT",
+   "company": "Persistent Systems Limited",
+   "category": "credit_rating",
+   "headline": "CRISIL assigns Crisil AA+ Rating Watch with Developing Implications to proposed Non-Convertible Debentures",
+   "why": "Credit rating assigned to proposed Non-Convertible Debentures.",
    "score": 32,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_23102026180028_SE_Intimation_of_Press_Release_-_ESMO.pdf",
+   "reasons": [
+    "reaffirmation"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_21102026205156_PSLIntimationofCreditRatingNCDsd.pdf",
    "people": [],
-   "read_by": null,
-   "subject": "Press Release",
-   "ts": "2026-10-23T18:01:41",
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Credit Rating",
+   "ts": "2026-10-21T20:52:10",
    "related": [],
    "tier": "routine",
-   "label": "Press release"
+   "label": "Credit rating"
   },
   {
    "id": "106823771",
@@ -11951,44 +12607,6 @@
    "label": "Press release"
   },
   {
-   "id": "106822983",
-   "symbol": "LT",
-   "company": "Larsen & Toubro Limited",
-   "category": "press_release",
-   "headline": "Bagging/Receiving of orders/contracts",
-   "why": null,
-   "score": 32,
-   "reasons": [
-    "order win, value undisclosed"
-   ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_21102026094637_PressRelease21102026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Bagging/Receiving of orders/contracts",
-   "ts": "2026-10-21T09:46:52",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
-   "id": "106822793",
-   "symbol": "SUNPHARMA",
-   "company": "Sun Pharmaceutical Industries Limited",
-   "category": "press_release",
-   "headline": "A press release dated October 20, 2026",
-   "why": null,
-   "score": 32,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_20102026173321_SE_Intimation_of_Press_Release_on_NCCN_Gudelines_Update.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Press Release",
-   "ts": "2026-10-20T17:35:31",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
    "id": "106821698",
    "symbol": "TCS",
    "company": "Tata Consultancy Services Limited",
@@ -12002,26 +12620,6 @@
    "read_by": null,
    "subject": "Updates",
    "ts": "2026-10-19T11:30:07",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
-   "id": "106821513",
-   "symbol": "LT",
-   "company": "Larsen & Toubro Limited",
-   "category": "press_release",
-   "headline": "Bagging/Receiving of orders/contracts",
-   "why": null,
-   "score": 32,
-   "reasons": [
-    "order win, value undisclosed"
-   ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_19102026101805_PressRelease19102026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Bagging/Receiving of orders/contracts",
-   "ts": "2026-10-19T10:18:20",
    "related": [],
    "tier": "routine",
    "label": "Press release"
@@ -12166,26 +12764,6 @@
    "read_by": null,
    "subject": "Press Release",
    "ts": "2026-10-13T20:33:35",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
-   "id": "106816002",
-   "symbol": "POLYCAB",
-   "company": "Polycab India Limited",
-   "category": "press_release",
-   "headline": "A press release dated October 13, 2026, titled \"Press Release on NCLAT Order",
-   "why": null,
-   "score": 32,
-   "reasons": [
-    "order win, value undisclosed"
-   ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_13102026164554_StockExchangeIntimation-Press_Release.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Press Release",
-   "ts": "2026-10-13T16:47:39",
    "related": [],
    "tier": "routine",
    "label": "Press release"
@@ -12344,6 +12922,44 @@
    "label": "Earnings call"
   },
   {
+   "id": "106823937",
+   "symbol": "RELIANCE",
+   "company": "Reliance Industries Limited",
+   "category": "credit_rating",
+   "headline": "ICRA reaffirms [ICRA]AAA/Stable and [ICRA]A1+ ratings, assigns [ICRA]AAA/Stable for Rs. 50,000 crore bank loan",
+   "why": "Credit ratings reaffirmed and assigned for Rs. 72,000 crore total debt instruments.",
+   "score": 28,
+   "reasons": [
+    "reaffirmation"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/PVIVINMA_21102026204310_SE_ICRA.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Credit Rating",
+   "ts": "2026-10-21T20:43:30",
+   "related": [],
+   "tier": "routine",
+   "label": "Credit rating"
+  },
+  {
+   "id": "106823997",
+   "symbol": "RELIANCE",
+   "company": "Reliance Industries Limited",
+   "category": "press_release",
+   "headline": "US Secretary of State Marco Rubio and US Ambassador Sergio Gor visited Jamnagar refinery",
+   "why": "Discussions covered commercial partnerships in conventional and new energy, data centres, and digital infrastructure.",
+   "score": 27,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_21102026224413_SE_21102026.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Updates",
+   "ts": "2026-10-21T22:44:39",
+   "related": [],
+   "tier": "routine",
+   "label": "Press release"
+  },
+  {
    "id": "106831940",
    "symbol": "TITAN",
    "company": "Titan Company Limited",
@@ -12359,26 +12975,6 @@
    "read_by": null,
    "subject": "Acquisition",
    "ts": "2026-10-28T13:49:00",
-   "related": [],
-   "tier": "routine",
-   "label": "M&A"
-  },
-  {
-   "id": "106829976",
-   "symbol": "MARUTI",
-   "company": "Maruti Suzuki India Limited",
-   "category": "M&A",
-   "headline": "Incorporation of Wholly Owned Subsidiary",
-   "why": null,
-   "score": 22,
-   "reasons": [
-    "new subsidiary set up (housekeeping)"
-   ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/MARUTI_27102026131704_Letter_to_Exchange.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Acquisition",
-   "ts": "2026-10-27T13:18:06",
    "related": [],
    "tier": "routine",
    "label": "M&A"
@@ -12404,122 +13000,22 @@
    "label": "Credit rating"
   },
   {
-   "id": "106825617",
-   "symbol": "PERSISTENT",
-   "company": "Persistent Systems Limited",
-   "category": "credit_rating",
-   "headline": "Credit Rating",
-   "why": null,
-   "score": 20,
-   "reasons": [
-    "reaffirmation"
-   ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_22102026230112_PSLCreditRatingIntimationICRA22102026Sd.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Credit Rating",
-   "ts": "2026-10-22T23:01:42",
-   "related": [],
-   "tier": "routine",
-   "label": "Credit rating"
-  },
-  {
-   "id": "106823942",
-   "symbol": "PERSISTENT",
-   "company": "Persistent Systems Limited",
-   "category": "credit_rating",
-   "headline": "Credit Rating",
-   "why": null,
-   "score": 20,
-   "reasons": [
-    "reaffirmation"
-   ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_21102026205156_PSLIntimationofCreditRatingNCDsd.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Credit Rating",
-   "ts": "2026-10-21T20:52:10",
-   "related": [],
-   "tier": "routine",
-   "label": "Credit rating"
-  },
-  {
-   "id": "106817628",
-   "symbol": "DIXON",
-   "company": "Dixon Technologies (India) Limited",
-   "category": "credit_rating",
-   "headline": "ESG Rating by Crisil ESG Ratings & Analystics Ltd",
-   "why": null,
-   "score": 20,
-   "reasons": [
-    "reaffirmation"
-   ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_14102026182232_ESGRatingDisclousureCrisil14102026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "General Updates",
-   "ts": "2026-10-14T18:25:23",
-   "related": [],
-   "tier": "routine",
-   "label": "Credit rating"
-  },
-  {
-   "id": "106816165",
+   "id": "106840669",
    "symbol": "SUNPHARMA",
    "company": "Sun Pharmaceutical Industries Limited",
-   "category": "credit_rating",
-   "headline": "Credit Rating",
-   "why": null,
-   "score": 20,
-   "reasons": [
-    "reaffirmation"
-   ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_13102026175414_Intimation_to_SE_-_NCDs_Credit_Ratings.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Credit Rating",
-   "ts": "2026-10-13T17:54:34",
-   "related": [],
-   "tier": "routine",
-   "label": "Credit rating"
-  },
-  {
-   "id": "106813119",
-   "symbol": "PERSISTENT",
-   "company": "Persistent Systems Limited",
-   "category": "credit_rating",
-   "headline": "Credit Rating- New",
-   "why": null,
-   "score": 20,
-   "reasons": [
-    "reaffirmation"
-   ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_09102026203133_PSLIntimationofCreditRatingNCDsd.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Credit Rating- New",
-   "ts": "2026-10-09T20:31:50",
-   "related": [],
-   "tier": "routine",
-   "label": "Credit rating"
-  },
-  {
-   "id": "106823997",
-   "symbol": "RELIANCE",
-   "company": "Reliance Industries Limited",
-   "category": "investor_meetings",
-   "headline": "US Secretary of State Marco Rubio and Ambassador Sergio Gor visit Jamnagar refinery complex",
-   "why": "Discussed commercial partnerships in energy and digital infrastructure, including data centers and new energy giga-factories.",
-   "score": 17,
+   "category": "unclassified",
+   "headline": "Sun Pharma clarifies news report on Assam facility eye-care drug production halt from August 2026",
+   "why": "Addresses media reports regarding production halts at the Assam facility and recent share price movements.",
+   "score": 18,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_21102026224413_SE_21102026.pdf",
+   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_02112026205719_Reply_to_SEs_-_Rumour_Verification02112026.pdf",
    "people": [],
-   "read_by": "gemini-3.1-flash-lite",
-   "subject": "Updates",
-   "ts": "2026-10-21T22:44:39",
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Rumour Verification - Regulation 30(11)",
+   "ts": "2026-11-02T20:58:22",
    "related": [],
    "tier": "routine",
-   "label": "Investor meet"
+   "label": "Routine"
   },
   {
    "id": "106851783",
@@ -12630,24 +13126,6 @@
    "label": "AGM / EGM"
   },
   {
-   "id": "106822208",
-   "symbol": "BAJFINANCE",
-   "company": "Bajaj Finance Limited",
-   "category": "unclassified",
-   "headline": "Board approves issue of 49,00,737 equity shares under BFL Employee Stock Option Scheme, 2009",
-   "why": "Issuance of equity shares to the BFL Employee Welfare Trust impacts share capital and dilution.",
-   "score": 14,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_19102026175355_Issue_of_Securities_19102026.pdf",
-   "people": [],
-   "read_by": "gemini-3.1-flash-lite",
-   "subject": "Issue of Securities",
-   "ts": "2026-10-19T17:57:20",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
    "id": "106813216",
    "symbol": "BAJFINANCE",
    "company": "Bajaj Finance Limited",
@@ -12664,6 +13142,45 @@
    "related": [],
    "tier": "routine",
    "label": "AGM / EGM"
+  },
+  {
+   "id": "106829976",
+   "symbol": "MARUTI",
+   "company": "Maruti Suzuki India Limited",
+   "category": "M&A",
+   "headline": "Incorporation of wholly owned subsidiary Osamu Suzuki Centre of Excellence (OSCOE) Foundation for INR 100,000",
+   "why": "Subsidiary incorporation under Section 8 for Corporate Social Responsibility activities involving nominal capital outlay.",
+   "score": 12,
+   "reasons": [
+    "new subsidiary set up (housekeeping)",
+    "₹0 cr, small vs size (<0.01% of m-cap)"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/MARUTI_27102026131704_Letter_to_Exchange.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Acquisition",
+   "ts": "2026-10-27T13:18:06",
+   "related": [],
+   "tier": "routine",
+   "label": "M&A"
+  },
+  {
+   "id": "106817628",
+   "symbol": "DIXON",
+   "company": "Dixon Technologies (India) Limited",
+   "category": "unclassified",
+   "headline": "Crisil assigns ESG Rating of Crisil ESG 61 and Core ESG rating of Crisil Core ESG 67",
+   "why": "Independent ESG ratings assess sustainability and governance performance without company engagement.",
+   "score": 10,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_14102026182232_ESGRatingDisclousureCrisil14102026.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "General Updates",
+   "ts": "2026-10-14T18:25:23",
+   "related": [],
+   "tier": "routine",
+   "label": "Routine"
   },
   {
    "id": "106851763",
@@ -15102,13 +15619,13 @@
   ]
  },
  "llm": {
-  "calls": 13,
-  "cached": 0,
-  "in": 20884,
-  "out": 1726,
+  "calls": 50,
+  "cached": 50,
+  "in": 100782,
+  "out": 8627,
   "models": [
-   "gemini-3.1-flash-lite",
    "gemini-3.5-flash-lite"
-  ]
+  ],
+  "remembered": 0
  }
 }

@@ -25,6 +25,7 @@ def _log(msg):
 
 
 UNIVERSE = ROOT / "data" / "universe.json"  # stocks users added in the app (shared tracking list)
+READS = ROOT / "data" / "reads.json"        # model reads of filings, kept so no filing is read twice
 
 
 def tracked() -> list[dict]:
@@ -65,25 +66,36 @@ def build(days: int = 30, read_pdfs: bool = True, today: dt.date | None = None,
             _log(f"  {s}: {e}")
     _log(f"  {len(items)} filings")
 
+    # Every filing is read by a model at most once, ever: results live in the repo (data/reads.json),
+    # so the daily cloud job only reads filings it has never seen.
+    memory = json.loads(READS.read_text(encoding="utf-8")) if READS.exists() else {}
     reads = 0
-    usage = {"calls": 0, "cached": 0, "in": 0, "out": 0, "models": set()}
+    usage = {"calls": 0, "cached": 0, "in": 0, "out": 0, "models": set(), "remembered": 0}
     for it in items:
         it["category"] = C.classify(it)
         it["headline"] = E.clean_text(it)
         it["people"] = E.people_fallback(it) if it["category"] == "management_change" else []
-        if read_pdfs and llm.available() and E.needs_reading(it, it["category"]):
-            try:
-                r = E.read_filing(it)
-            except Exception as e:
-                _log(f"  read failed {it['symbol']}: {e}")
-                r = None
+        if read_pdfs and E.needs_reading(it, it["category"]) and (it["id"] in memory or llm.available()):
+            r = None
+            if it["id"] in memory:
+                r = dict(memory[it["id"]])
+                usage["remembered"] += 1
+            else:
+                try:
+                    r = E.read_filing(it)
+                except Exception as e:
+                    _log(f"  read failed {it['symbol']}: {e}")
+                if r:
+                    m = r.pop("_meta")
+                    usage["calls"] += 1; usage["cached"] += m["cached"]
+                    usage["in"] += m["in"]; usage["out"] += m["out"]; usage["models"].add(m["model"])
+                    r["model"], r["ts"] = m["model"], it["ts"]
+                    memory[it["id"]] = r
             if r:
                 reads += 1
                 if reads % 10 == 0:
                     _log(f"  read {reads} filings so far")
-                m = r.pop("_meta")
-                usage["calls"] += 1; usage["cached"] += m["cached"]
-                usage["in"] += m["in"]; usage["out"] += m["out"]; usage["models"].add(m["model"])
+                m = {"model": r.get("model")}
                 if r.get("category"):
                     it["category"] = r["category"]
                 it["headline"] = r.get("headline") or it["headline"]
@@ -95,7 +107,11 @@ def build(days: int = 30, read_pdfs: bool = True, today: dt.date | None = None,
                     it["people"] = r["people"]
                 it["read_by"] = m["model"]
         it["score"], it["reasons"] = C.score(it, it["category"], mcap.get(it["symbol"]))
-    _log(f"  model read {reads} filings")
+    _log(f"  {reads} filings with model reads ({usage['remembered']} remembered, {usage['calls']} new)")
+    cutoff = (today - dt.timedelta(days=120)).isoformat()  # keep the memory small
+    memory = {k: v for k, v in memory.items() if (v.get("ts") or "9") >= cutoff}
+    READS.parent.mkdir(exist_ok=True)
+    READS.write_text(json.dumps(memory, ensure_ascii=False, indent=0), encoding="utf-8")
 
     events = _cluster(items)
 

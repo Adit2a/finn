@@ -194,6 +194,18 @@ def _parse_json(text: str):
         raise
 
 
+_last_call: dict[str, float] = {}
+MIN_GAP = {"lite": 4.5, "flash": 6.5}  # seconds between calls: stays under free per-minute limits
+
+
+def _pace(model: str) -> None:
+    gap = MIN_GAP["lite"] if "lite" in model else MIN_GAP["flash"]
+    wait = _last_call.get(model, 0) + gap - time.time()
+    if wait > 0:
+        time.sleep(wait)
+    _last_call[model] = time.time()
+
+
 def _gemini(model: str, system: str, prompt: str, pdf: bytes | None = None) -> tuple[str, dict]:
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     parts = [{"text": prompt}]
@@ -205,19 +217,24 @@ def _gemini(model: str, system: str, prompt: str, pdf: bytes | None = None) -> t
         "contents": [{"role": "user", "parts": parts}],
         "generationConfig": {"temperature": 0.1, "responseMimeType": "application/json"},
     }
-    for attempt in range(3):
+    for attempt in range(5):
+        _pace(model)
         try:
             r = httpx.post(url, params={"key": GEMINI_KEY}, json=body, timeout=180)
         except httpx.TimeoutException:
             _set_health(model, "slow")
             break
         if r.status_code == 429:
+            daily = bool(re.search(r"PerDay|per day|per_day", r.text, re.I))
             m = re.search(r'"retryDelay":\s*"(\d+)', r.text)
-            wait = int(m.group(1)) + 1 if m else 10
-            if wait > 45 or "PerDay" in r.text or attempt == 2:  # daily quota spent: bench until reset
+            wait = int(m.group(1)) + 1 if m else 15
+            if daily:  # the day's free quota is spent: bench until Google's reset
                 _set_health(model, "quota")
                 break
-            time.sleep(wait)  # per-minute limit: wait as told
+            if attempt == 4:  # still throttled after ~a minute of waiting: bench briefly, not all day
+                _set_health(model, "slow")
+                break
+            time.sleep(min(wait, 60))  # per-minute limit: wait as told, then retry
             continue
         if r.status_code in (500, 503, 504):  # overloaded: quick retries, then bench briefly
             if attempt == 2:
