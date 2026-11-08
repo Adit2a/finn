@@ -308,7 +308,8 @@ def ask_json(tier: str, system: str, prompt: str, task: str = "", tag: str = "",
     key = hashlib.sha1(f"{tier}\n{system}\n{prompt}\n{pdf_id}".encode()).hexdigest()
     path = CACHE / "llm" / f"{key}.json"
     path.parent.mkdir(exist_ok=True)
-    if path.exists():
+    redo = task and task in os.getenv("FINN_REDO_TASKS", "").split(",")  # deliberate re-judging
+    if path.exists() and not redo:
         hit = json.loads(path.read_text(encoding="utf-8"))
         if validate is None or validate(hit["data"]):
             return hit["data"], {**hit["meta"], "cached": True}

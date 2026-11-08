@@ -1,5 +1,7 @@
 # FINN — a portfolio inbox that tells you what changed, and whether management keeps its word
 
+**Live app:** https://finn-dq90.onrender.com — best on a phone (add it to your home screen). Free hosting: if it has been idle, the first load can take up to a minute.
+
 FINN is a mobile-first investing agent for Indian equities. It does two things:
 
 - **Push — the Brief.** Every exchange filing across an 18-stock portfolio, ranked by how much it could matter. Results arrive as exact Revenue / EBITDA / PBT / PAT tables (QoQ, YoY) read from the company's XBRL filing. Unusual price/volume days are linked to the filing that probably caused them. Routine paperwork is filed away. You clear items like an inbox, and "Less" teaches it what you don't care about.

@@ -1,6 +1,6 @@
 # FINN — covering note
 
-**Prototype (open on a phone):** <deployed link> · **Repository:** <github link> · **AI build history:** <Claude Code transcript>
+**Prototype (open on a phone):** https://finn-dq90.onrender.com · **Repository:** https://github.com/Adit2a/finn · **AI build history:** <Claude Code transcript>
 
 ## What I built
 FINN treats a portfolio like an inbox you clear in a few minutes, and treats management commentary as a set of promises to be checked.
