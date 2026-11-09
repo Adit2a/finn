@@ -2,12 +2,12 @@
  "symbol": "TITAN",
  "name": "Titan Company Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T20:24:13",
+ "generated_at": "2026-11-09T13:52:31",
  "latest_call": "Aug 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 443582.0,
-   "pe": 62.4,
+   "market_cap_cr": 442557.0,
+   "pe": 62.2,
    "roce": 20.5,
    "roe": 37.7,
    "ttm_revenue": 94306.0,
@@ -795,61 +795,89 @@
   "promise_ledger": [
    {
     "ref": "g1.2",
-    "promise": "YTD December growth rates should exceed first‑half growth rates",
+    "promise": "YTD December growth rates should become better than first half growth rates.",
     "made_in": "Q2 FY26",
-    "delivered": "Dec 2025 revenue YoY 43.3% beat first‑half YoY 24.6%",
+    "delivered": "Dec 2025 revenue YoY grew 43.3%, surpassing H1 FY26 growth rates of 24.6% and 28.8%.",
     "verdict": "delivered",
-    "checked_against": "Dec 2025 revenue YoY",
+    "checked_against": "Dec 2025 Rev YoY%",
     "quote": "by the time we end -- we come to YTD December, our growth rates should have become better than the first half growth rates.",
     "page": 10,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3a5d70a-78ac-4407-aed7-e06b93e17a8f.pdf"
    },
    {
-    "ref": "g1.3",
-    "promise": "Margins should revert towards 15‑16% EBIT margin",
+    "ref": "g1.1",
+    "promise": "Tanishq store openings target 35 to 40 for FY26.",
     "made_in": "Q2 FY26",
-    "delivered": "Sep 2026 EBIT% 13.2% stayed below 15% target",
-    "verdict": "missed",
-    "checked_against": "Sep 2026 EBIT%",
-    "quote": "they will gradually revert towards 16%, 17% band. And on a long term, I would say the kind of investments are required, mid-teen is a good number to aim for, 15% to 16% for the business, at least in the 1-year, 2-year time frame.",
-    "page": 8,
+    "delivered": "Segment store additions are not reported in company financial tables.",
+    "verdict": "too_early",
+    "checked_against": "reported segment metrics",
+    "quote": "purely from new stores on Tanishq, I think 35 to 40 is a reasonable range to expect. 40 is the target.",
+    "page": 7,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3a5d70a-78ac-4407-aed7-e06b93e17a8f.pdf"
+   },
+   {
+    "ref": "g1.4",
+    "promise": "Eyewear business to close FY26 at 13% to 14%.",
+    "made_in": "Q2 FY26",
+    "delivered": "Eyewear segment metrics are not published in company-level financial tables.",
+    "verdict": "too_early",
+    "checked_against": "reported segment metrics",
+    "quote": "we believe that we should be closing this year at a slightly higher number than what you are seeing, anywhere between 13% to 14%.",
+    "page": 9,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3a5d70a-78ac-4407-aed7-e06b93e17a8f.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Jewellery business normalized EBIT margin to hover around 11% center of gravity.",
+    "made_in": "Q1 FY27",
+    "delivered": "Full-year FY27 ongoing; company-level EBIT% reached 12.3% in Q1 FY27 and 13.2% in Q2 FY27.",
+    "verdict": "too_early",
+    "checked_against": "Q1 FY27 and Q2 FY27 EBIT%",
+    "quote": "In the Investor Day and prior, we have said that more of 11% being the center of gravity for jewellery business margin, we would be around that plus/minus something can happen.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f70a0a33-43cf-40b6-a753-67b06123e8de.pdf"
    }
   ],
   "credibility": {
-   "score": 4,
-   "line": "Management overpromises margins and store targets, with numbers falling short."
+   "score": null,
+   "line": "Only one promise can be checked against reported numbers so far — too few to score."
   },
   "narrative_vs_numbers": [
    {
+    "agree": true,
+    "point": "Mgmt claimed superlative Q4 top-line growth in Q4 FY26; reported revenue surged 80.5% YoY to ₹26,920 crore."
+   },
+   {
     "agree": false,
-    "point": "Guidance of 15‑16% EBIT margin vs actual max 13.2% shows over‑optimism."
+    "point": "Mgmt expressed satisfaction with margins, yet operating margins declined 200 bps over 3 years to 9.0% in FY25."
    },
    {
     "agree": true,
-    "point": "Claim of higher YTD Dec growth vs first half matches 43.3% vs 24.6%."
+    "point": "Mgmt claimed strong all-round growth in Q1 FY27; reported PAT increased 62.9% YoY to ₹1,777 crore."
    },
    {
     "agree": false,
-    "point": "‘Superlative Q4 top‑line growth’ contrasts with Q4 revenue YoY 10.1% only."
+    "point": "Mgmt highlighted growth across businesses, but 5-year OCF conversion remains weak at 0.43 with FY25 OCF at ₹-541 crore."
    }
   ],
   "bull": [
-   "Revenue surged 80.5% YoY in Mar 2026, indicating strong top‑line momentum.",
-   "EBIT margin rose to 13.2% by Sep 2026, approaching double‑digit goal.",
-   "Operating cash flow jumped to ₹5,590 cr in Mar 2026, improving liquidity."
+   "Revenue expanded 80.5% YoY in Mar 2026 to ₹26,920 crore and 43.3% YoY in Dec 2025.",
+   "EBITDA margin expanded to 14.0% in Sep 2026, driving PAT up 113.7% YoY to ₹2,393 crore.",
+   "FY26 operating cash flow rebounded to ₹5,590 crore with OCF/PAT ratio reaching 1.1."
   ],
   "bear": [
-   "EBIT margin remains below promised 15‑16% band, missing target.",
-   "EBITDA% fell to 7% in Mar 2026, down from 12% three years ago.",
-   "Debt rose to ₹30,621 cr by Mar 2026, D/E 1.95, indicating leverage risk."
+   "5-year cash conversion ratio is poor at 0.43, with FY25 OCF negative at ₹-541 crore.",
+   "D/E ratio rose sharply from 0.78 in Mar 2022 to 1.95 in Mar 2026.",
+   "Cash cycle lengthened by 40 days over 2 years, reaching 211 days."
   ],
   "watch": [
-   "Will EBIT% reach 15% in FY27?",
-   "Tanishq and beYon store‑count expansions progress?",
-   "Gold price impact on jewellery margins."
+   "Sustained EBIT% retention around 13.2% in coming quarters.",
+   "Deleveraging trajectory from current D/E of 1.51.",
+   "Working capital cycle management from 211 days level."
   ]
  },
  "ledger_ok": true,
@@ -895,26 +923,26 @@
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 3014,
-   "out": 1748,
-   "secs": 35.9,
+   "model": "gemini-3.6-flash",
+   "in": 3305,
+   "out": 5010,
+   "secs": 21.8,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
   "fresh_calls": 1,
-  "tokens_in": 67346,
-  "tokens_out": 5117,
+  "tokens_in": 67637,
+  "tokens_out": 8379,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 36.6
+  "secs": 23.1
  }
 }

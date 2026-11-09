@@ -2,12 +2,12 @@
  "symbol": "DIXON",
  "name": "Dixon Technologies (India) Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T20:27:04",
+ "generated_at": "2026-11-09T13:49:56",
  "latest_call": "Nov 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 77251.0,
-   "pe": 49.8,
+   "market_cap_cr": 76633.0,
+   "pe": 49.5,
    "roce": 29.2,
    "roe": 25.2,
    "ttm_revenue": 58523.0,
@@ -390,6 +390,11 @@
  "sources": [
   {
    "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95dbb3ac-5662-4cd9-a145-78effb6c373c.pdf"
+  },
+  {
+   "kind": "transcript",
    "label": "Q3 FY26 call",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad6e72f1-b5f8-4a75-8e45-f2e88c7525e0.pdf"
   },
@@ -404,11 +409,6 @@
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ce2ca16-3043-48f4-97f9-a62a6a086c2f.pdf"
   },
   {
-   "kind": "transcript",
-   "label": "Q2 FY27 call",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=995a3a71-4a1e-4c1f-a29a-6c6747e4ca10.pdf"
-  },
-  {
    "kind": "annual_report",
    "label": "Annual Report 2026",
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5ef88e3c-352d-4223-a8ec-bdd7d3aa31c1.pdf"
@@ -417,6 +417,128 @@
  "calls": [
   {
    "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95dbb3ac-5662-4cd9-a145-78effb6c373c.pdf",
+   "pages": 21,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Smartphone volumes next fiscal 55 to 60 million units",
+     "horizon": "next fiscal",
+     "low": 55,
+     "high": 60,
+     "unit": "units",
+     "quote": "So, next year, we feel that we should be somewhere between 55 to 60 million.",
+     "page": 9,
+     "speaker": "Atul Lall",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "other",
+     "promise": "IT business to reach Rs. 4,000 crores to Rs. 5,000 crores in next two years",
+     "horizon": "next two years",
+     "low": 4000,
+     "high": 5000,
+     "unit": "cr",
+     "quote": "We feel that the IT business for us in next two years should be around Rs. 4,000 crores to Rs. 5,000 crores business.",
+     "page": 14,
+     "speaker": "Atul Lall",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Longcheer JV volumes next fiscal around 8 to 10 million units",
+     "horizon": "next fiscal",
+     "low": 8,
+     "high": 10,
+     "unit": "units",
+     "quote": "We feel that the volumes in this JV for the next fiscal should be somewhere around 8 to 10 million",
+     "page": 11,
+     "speaker": "Atul Lall",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Smartphone camera modules volume 190 to 200 million units in next two to three years",
+     "horizon": "next two to three years",
+     "low": 190,
+     "high": 200,
+     "unit": "units",
+     "quote": "volume of smartphone camera modules can increase from 40 million units and revenues by INR 2,000 crores in large financial years to 190 to 200 million units per annum",
+     "page": 4,
+     "speaker": "Atul Lall",
+     "verified": true,
+     "id": "g1.4"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Smartphone camera modules revenue closer to INR 6,000 to INR 7,000 crores in next two to three years",
+     "horizon": "next two to three years",
+     "low": 6000,
+     "high": 7000,
+     "unit": "cr",
+     "quote": "revenues closer to INR 6,000 crores to INR 7,000 crores and sub-10% EBITDA margins in the next two to three years.",
+     "page": 4,
+     "speaker": "Atul Lall",
+     "verified": true,
+     "id": "g1.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated adjusted revenues grew 29% YoY to INR 14,858 crores.",
+     "quote": "Consolidated adjusted revenues for the quarter ended September 30, 2025, was INR 14,858 crores as against INR 11,528 crores in the same period last year, and that is a growth of 29%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated adjusted EBITDA grew 34% YoY to INR 564 crores.",
+     "quote": "Consolidated adjusted EBITDA for the quarter was INR 564 crores against INR 420 crores in the same period last year, a growth of 34%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated adjusted PAT grew 27% YoY to INR 323 crores.",
+     "quote": "Consolidated adjusted PAT for the quarter was INR 323 crores against INR 236 crores in the same period last year, growth of 27%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Working capital cycle managed efficiently at negative 6 days.",
+     "quote": "Upholding our focus on financial discipline, we efficiently manage our working capital cycle at negative 6 days",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Mobile volume guidance and export demand impact",
+     "quote": "Are we sort of slightly, because I think last time we discussed, we had targeted between 60 to 65. So, are we sort of slightly cautious in terms of ramp up? And are we seeing any impact from the exports markets as well in terms of demand?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "Promoter holding dilution and selling over quarters",
+     "quote": "I see when I look at last almost 12 quarters now, every quarter, we have seen some bit of selling by the promoter family. Maybe there are legitimate reasons for it, but just wanted to know, the stake is now down to 29%.",
+     "page": 18,
+     "verified": true
+    },
+    {
+     "topic": "Unusual jump in non-operating income this quarter",
+     "quote": "Sir, my first question is on the other non-operating income. There is a very sharp increase this quarter as compared to last quarter or even the last annualized year. So, may we understand what exactly is causing this jump, and is there any one off?",
+     "page": 10,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and optimistic regarding medium to long-term growth and backward integration."
+  },
+  {
+   "n": 2,
    "quarter": "Q3 FY26",
    "date": "Feb 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad6e72f1-b5f8-4a75-8e45-f2e88c7525e0.pdf",
@@ -434,7 +556,7 @@
      "page": 17,
      "speaker": "Atul Lall",
      "verified": true,
-     "id": "g1.1"
+     "id": "g2.1"
     },
     {
      "metric": "volume",
@@ -447,7 +569,7 @@
      "page": 7,
      "speaker": "Atul Lall",
      "verified": true,
-     "id": "g1.2"
+     "id": "g2.2"
     },
     {
      "metric": "revenue growth",
@@ -460,7 +582,7 @@
      "page": 17,
      "speaker": "Atul Lall",
      "verified": true,
-     "id": "g1.3"
+     "id": "g2.3"
     },
     {
      "metric": "margin",
@@ -473,7 +595,7 @@
      "page": 10,
      "speaker": "Atul Lall",
      "verified": true,
-     "id": "g1.4"
+     "id": "g2.4"
     },
     {
      "metric": "volume",
@@ -486,7 +608,7 @@
      "page": 5,
      "speaker": "Atul Lall",
      "verified": true,
-     "id": "g1.5"
+     "id": "g2.5"
     }
    ],
    "claims": [
@@ -538,7 +660,7 @@
    "tone": "Optimistic and confident regarding long-term structural drivers despite short-term headwinds."
   },
   {
-   "n": 2,
+   "n": 3,
    "quarter": "Q4 FY26",
    "date": "May 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38b72f07-55a6-4503-91fd-ed3b2c209e96.pdf",
@@ -556,7 +678,7 @@
      "page": 5,
      "speaker": "Atul Lall",
      "verified": true,
-     "id": "g2.1"
+     "id": "g3.1"
     },
     {
      "metric": "volume",
@@ -569,7 +691,7 @@
      "page": 4,
      "speaker": "Atul Lall",
      "verified": true,
-     "id": "g2.2"
+     "id": "g3.2"
     },
     {
      "metric": "revenue",
@@ -582,7 +704,7 @@
      "page": 6,
      "speaker": "Atul Lall",
      "verified": true,
-     "id": "g2.3"
+     "id": "g3.3"
     },
     {
      "metric": "revenue",
@@ -595,7 +717,7 @@
      "page": 5,
      "speaker": "Atul Lall",
      "verified": true,
-     "id": "g2.4"
+     "id": "g3.4"
     },
     {
      "metric": "volume",
@@ -608,7 +730,7 @@
      "page": 4,
      "speaker": "Atul Lall",
      "verified": true,
-     "id": "g2.5"
+     "id": "g3.5"
     }
    ],
    "claims": [
@@ -642,7 +764,7 @@
    "tone": "Confident in long-term EMS structural growth, backward integration, and aggressive capacity expansion despite near-term macroeconomic headwinds."
   },
   {
-   "n": 3,
+   "n": 4,
    "quarter": "Q1 FY27",
    "date": "Aug 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ce2ca16-3043-48f4-97f9-a62a6a086c2f.pdf",
@@ -660,7 +782,7 @@
      "page": 4,
      "speaker": "Atul Lall",
      "verified": true,
-     "id": "g3.1"
+     "id": "g4.1"
     },
     {
      "metric": "other",
@@ -673,7 +795,7 @@
      "page": 20,
      "speaker": "Atul Lall",
      "verified": true,
-     "id": "g3.2"
+     "id": "g4.2"
     },
     {
      "metric": "revenue",
@@ -686,7 +808,7 @@
      "page": 10,
      "speaker": "Atul Lall",
      "verified": true,
-     "id": "g3.3"
+     "id": "g4.3"
     }
    ],
    "claims": [
@@ -718,135 +840,6 @@
     }
    ],
    "tone": "Confident in long-term structural growth and backward integration despite temporary margin pressures and supply chain challenges."
-  },
-  {
-   "n": 4,
-   "quarter": "Q2 FY27",
-   "date": "Nov 2026",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=995a3a71-4a1e-4c1f-a29a-6c6747e4ca10.pdf",
-   "pages": 24,
-   "scanned": false,
-   "guidance": [
-    {
-     "metric": "volume",
-     "promise": "Mobile manufacturing volumes to be around 34 million units in current fiscal",
-     "horizon": "FY27",
-     "low": 33,
-     "high": 34,
-     "unit": "units",
-     "quote": "So the market has shrunk, but our volumes are going to be in the range of around 34 million in the current fiscal.",
-     "page": 9,
-     "speaker": "Atul Lall",
-     "verified": true,
-     "id": "g4.1"
-    },
-    {
-     "metric": "capex",
-     "promise": "Increase IT hardware investment commitment under global category to Rs 500 crores",
-     "horizon": "FY27",
-     "low": 500,
-     "high": 500,
-     "unit": "cr",
-     "quote": "we are upping our CAPEX plans to INR 500 crores.",
-     "page": 10,
-     "speaker": "Atul Lall",
-     "verified": true,
-     "id": "g4.2"
-    },
-    {
-     "metric": "revenue growth",
-     "promise": "IT hardware business to reach around INR 6,000 crores in the current year",
-     "horizon": "FY27",
-     "low": 6000,
-     "high": 6500,
-     "unit": "cr",
-     "quote": "This year itself we feel confident that we are going to be somewhere around INR 6,000 crores in this business.",
-     "page": 10,
-     "speaker": "Atul Lall",
-     "verified": true,
-     "id": "g4.3"
-    },
-    {
-     "metric": "revenue growth",
-     "promise": "IT hardware business to grow to INR 15,000 crore to INR 20,000 crore in next couple of years",
-     "horizon": "Next couple of years",
-     "low": 15000,
-     "high": 20000,
-     "unit": "cr",
-     "quote": "We feel that in next couple of years, this is going to be almost INR 15,000 crore to INR 20,000 crore business for us.",
-     "page": 11,
-     "speaker": "Atul Lall",
-     "verified": true,
-     "id": "g4.4"
-    },
-    {
-     "metric": "capex",
-     "promise": "Close the year with INR 1,200 crores in total capex",
-     "horizon": "FY27",
-     "low": 1200,
-     "high": 1200,
-     "unit": "cr",
-     "quote": "So we should close the year with INR 1,200 crores.",
-     "page": 22,
-     "speaker": "Saurabh Gupta",
-     "verified": true,
-     "id": "g4.5"
-    },
-    {
-     "metric": "revenue growth",
-     "promise": "Q Tech revenue target of INR 2,500 crores to INR 3,000 crores for next year",
-     "horizon": "Next year",
-     "low": 2500,
-     "high": 3000,
-     "unit": "cr",
-     "quote": "broadly we should be in a kind of a number of almost somewhere between INR 2,500 crores to INR 3,000 odd crores. That is what we should be targeting for.",
-     "page": 18,
-     "speaker": "Saurabh Gupta",
-     "verified": true,
-     "id": "g4.6"
-    }
-   ],
-   "claims": [
-    {
-     "claim": "Revenues for Q2 FY27 reached INR 21,806 crores",
-     "quote": "Revenues for the quarter ended September 30, 2026 was INR 21,806 crores.",
-     "page": 3,
-     "verified": true
-    },
-    {
-     "claim": "EBITDA excluding fair value gain was INR 609 crores",
-     "quote": "EBITDA excluding fair value gain on the stake held by Dixon in Aditya Infotech Limited for the quarter was INR 609 crores.",
-     "page": 3,
-     "verified": true
-    },
-    {
-     "claim": "Semi-automatic washing machine volume grew 27% to 6.3 lakh units",
-     "quote": "For semi-automatic washing machine, the volume grew by 27% to 6.3 lakh units during the quarter",
-     "page": 7,
-     "verified": true
-    }
-   ],
-   "pushback": [
-    {
-     "topic": "Working capital cash burn and memory inventory impact",
-     "quote": "And the second question is on the working capital side. So in H1, we have seen a cash burn of INR 280 crores. I think it is primarily because of memory, but what are your views on that?",
-     "page": 17,
-     "verified": true
-    },
-    {
-     "topic": "Q Tech margin decline and volume growth conviction",
-     "quote": "Vipraw Srivastava: Sir, quickly, firstly on the Q Tech side. So, on the subsidiary financials, Q Tech's margin has declined by almost 450 bps in FY '26 compared to FY '25.",
-     "page": 16,
-     "verified": true
-    },
-    {
-     "topic": "Cost pass-through lag impact on washing machine margins",
-     "quote": "Sameet Sinha: One quick follow-up on the cost pass-through. I mean, these are smaller revenue contribution businesses. Can you tell us what the margin impact was because of cost pass-through not going through?",
-     "page": 13,
-     "verified": true
-    }
-   ],
-   "tone": "Confident and resilient despite near-term headwinds, outlining strong long-term expansion and component deepening plans."
   }
  ],
  "business": {
@@ -886,51 +879,51 @@
   "promise_ledger": [
    {
     "ref": "g2.1",
-    "promise": "IT hardware revenue to grow 3x in current fiscal vs last year",
-    "made_in": "Q4 FY26 call",
-    "delivered": "Revenue grew from 38,860 cr (FY25) to 48,873 cr (FY26), ~1.3x, not 3x",
-    "verdict": "missed",
-    "checked_against": "FY26 revenue vs FY25 revenue",
-    "quote": "we expect 3x growth in the revenues in the current fiscal against last year with a huge uptake in order books from all customers.",
-    "page": 5,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38b72f07-55a6-4503-91fd-ed3b2c209e96.pdf"
-   },
-   {
-    "ref": "g1.1",
-    "promise": "Total capex FY26 between 1,100‑1,200 cr",
-    "made_in": "Q3 FY26 call",
-    "delivered": "Capex figure not disclosed in reported data",
-    "verdict": "too_early",
-    "checked_against": "none",
+    "promise": "FY26 capex outgo expected between 1,100 to 1,200 crores",
+    "made_in": "Q3 FY26",
+    "delivered": "FY26 OCF was ₹1,782 cr and FCF ₹724 cr, implying ~₹1,058 cr capex outgo, close to target.",
+    "verdict": "delivered",
+    "checked_against": "FY26 OCF and FCF",
     "quote": "And we feel that in the overall fiscal, it should be somewhere between INR1,100 crores, INR1,200 crores.",
     "page": 17,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad6e72f1-b5f8-4a75-8e45-f2e88c7525e0.pdf"
    },
    {
-    "ref": "g4.3",
-    "promise": "IT hardware revenue ~6,000 cr in FY27",
-    "made_in": "Q2 FY27 call",
-    "delivered": "IT‑hardware revenue not broken out in reported figures",
+    "ref": "g4.1",
+    "promise": "Expect 20% to 25% volume growth QoQ in mobile business",
+    "made_in": "Q1 FY27",
+    "delivered": "Segment volumes unreported; overall revenue grew 40.1% QoQ from ₹15,548 cr to ₹21,794 cr in Sep 2026.",
     "verdict": "too_early",
-    "checked_against": "none",
-    "quote": "This year itself we feel confident that we are going to be somewhere around INR 6,000 crores in this business.",
-    "page": 10,
+    "checked_against": "Sep 2026 Revenue QoQ",
+    "quote": "we expect 20% to 25% volume growth quarter-on-quarter growth as consumer demand strengthens and we have a strong order book.",
+    "page": 4,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=995a3a71-4a1e-4c1f-a29a-6c6747e4ca10.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ce2ca16-3043-48f4-97f9-a62a6a086c2f.pdf"
    },
    {
-    "ref": "g3.2",
-    "promise": "Telecom revenues 6,700‑7,000 cr in FY27",
-    "made_in": "Q1 FY27 call",
-    "delivered": "Telecom segment not disclosed in reported data",
+    "ref": "g4.2",
+    "promise": "Telecom revenues between INR 6,700 to 7,000 crores in FY27",
+    "made_in": "Q1 FY27",
+    "delivered": "FY27 is ongoing; segment revenues are not reported separately in financial tables.",
     "verdict": "too_early",
-    "checked_against": "none",
+    "checked_against": "FY27 segment revenue",
     "quote": "we're going to be somewhere between INR6,700 crores to INR7,000 crores in this fiscal.",
     "page": 20,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ce2ca16-3043-48f4-97f9-a62a6a086c2f.pdf"
+   },
+   {
+    "ref": "g1.2",
+    "promise": "IT business to reach Rs 4,000 to 5,000 crores in two years",
+    "made_in": "Q2 FY26",
+    "delivered": "Updated in Q3 FY26 call to ₹3,500-4,000 cr next year; segment performance pending.",
+    "verdict": "too_early",
+    "checked_against": "IT segment revenue",
+    "quote": "We feel that the IT business for us in next two years should be around Rs. 4,000 crores to Rs. 5,000 crores business.",
+    "page": 14,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95dbb3ac-5662-4cd9-a145-78effb6c373c.pdf"
    }
   ],
   "credibility": {
@@ -940,35 +933,43 @@
   "narrative_vs_numbers": [
    {
     "agree": false,
-    "point": "Guidance paints triple‑digit IT‑hardware growth, but actual FY26 revenue rose only ~26% YoY."
+    "point": "Q2 FY27 revenue jumped 46.7% YoY to ₹21,794 cr, but PAT fell 44.9% YoY to ₹411 cr."
    },
    {
     "agree": false,
-    "point": "Capex targets of >1,100 cr lack supporting data, while borrowings rose to 1,236 cr, hinting higher spend."
+    "point": "Management highlights operating efficiency, yet EBITDA margins fell from 3.8% in Jun 2025 to 2.7% in Sep 2026."
    },
    {
     "agree": true,
-    "point": "Operating cash flow improved to 1,782 cr, matching the narrative of strong cash conversion."
+    "point": "Full-year revenue guidance met as FY26 annual revenues reached ₹48,873 cr, matching claims of 26% growth."
    }
   ],
   "bull": [
-   "FY26 revenue reached 48,873 cr, up 25% YoY.",
-   "Operating cash flow rose to 1,782 cr, 1.08× PAT.",
-   "Borrowings increased modestly to 994 cr, D/E stable at 0.21."
+   "Annual revenue expanded 25.7% in FY26 to ₹48,873 cr with ₹1,782 cr operating cash flow.",
+   "Strong 5-year cash conversion ratio of 1.22 with OCF/PAT exceeding 1.0 in FY26.",
+   "Quarterly revenue hit record ₹21,794 cr in Sep 2026, growing 46.7% YoY."
   ],
   "bear": [
-   "IT‑hardware revenue growth far below the promised 3x.",
-   "PAT fell 44.9% YoY in Q2 FY27 despite revenue surge.",
-   "EBIT margin slipped to 2.2% in Sep 2026, below earlier guidance."
+   "EBITDA margins diluted steadily from 5.0% in FY20 to 3.8% in FY26 and 2.7% in Sep 2026.",
+   "Total borrowings surged 2.5x in 2.5 years from ₹489 cr in Mar 2024 to ₹1,236 cr in Sep 2026.",
+   "Sep 2026 PAT declined 44.9% YoY despite 46.7% revenue growth due to margin contraction."
   ],
   "watch": [
-   "Actual IT‑hardware revenue disclosure in Q3 FY27.",
-   "Capex spend versus the 1,200 cr FY27 target.",
-   "Mobile volume trends versus promised 34 m units."
+   "EBITDA margin trajectory after falling to 2.7% in Sep 2026",
+   "Borrowings reduction from ₹1,236 cr level",
+   "Working capital cycle sustainability post mobile PLI expiration"
   ]
  },
  "ledger_ok": true,
  "usage": [
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 15024,
+   "out": 1324,
+   "secs": 5.2,
+   "cached": true,
+   "fallback": false
+  },
   {
    "model": "gemini-3.5-flash-lite",
    "in": 15337,
@@ -992,13 +993,6 @@
   },
   {
    "model": "gemini-3.5-flash-lite",
-   "in": 16647,
-   "out": 1315,
-   "secs": 5.1,
-   "cached": true
-  },
-  {
-   "model": "gemini-3.5-flash-lite",
    "in": 9413,
    "out": 165,
    "secs": 3.4,
@@ -1006,26 +1000,26 @@
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 3583,
-   "out": 1474,
-   "secs": 14.0,
+   "model": "gemini-3.6-flash",
+   "in": 3931,
+   "out": 3539,
+   "secs": 16.7,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
   "fresh_calls": 1,
-  "tokens_in": 74743,
-  "tokens_out": 6052,
+  "tokens_in": 73468,
+  "tokens_out": 8126,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 14.8
+  "secs": 17.6
  }
 }

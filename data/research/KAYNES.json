@@ -2,12 +2,12 @@
  "symbol": "KAYNES",
  "name": "Kaynes Technology India Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T20:22:38",
+ "generated_at": "2026-11-09T13:51:11",
  "latest_call": "Aug 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 21955.0,
-   "pe": 63.2,
+   "market_cap_cr": 22190.0,
+   "pe": 63.9,
    "roce": 12.7,
    "roe": 8.69,
    "ttm_revenue": 3899.0,
@@ -844,72 +844,73 @@
   "promise_ledger": [
    {
     "ref": "g2.2",
-    "promise": "Consolidated operating cash flow will be positive by end of FY26",
-    "made_in": "Q3 FY26 call",
-    "delivered": "Operating cash flow was -600 cr in FY26, negative, so missed",
+    "promise": "Consolidated operating cash flow positive by end of year",
+    "made_in": "Q3 FY26",
+    "delivered": "FY26 operating cash flow came in at severe negative -₹600.0 crore",
     "verdict": "missed",
-    "checked_against": "FY26 operating cash flow",
+    "checked_against": "Mar 2026 operating cash flow",
     "quote": "So this year, you can expect at consol level, definitely a significant positive operating cash flow.",
     "page": 14,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7fcb06f1-08f9-4ebd-a6ac-783e8abfda40.pdf"
    },
    {
-    "ref": "g4.3",
-    "promise": "Full year revenue of INR450-500 cr combined OSAT and PCB FY27",
-    "made_in": "Q1 FY27 call",
-    "delivered": "Q1 FY27 revenue 946 cr reported; full‑year not yet, so too early",
-    "verdict": "too_early",
-    "checked_against": "Q1 FY27 revenue",
-    "quote": "we have committed a full year revenue of totally INR500 crores between both, INR450 to INR500 crores, which is what we are targeting at this point in time, we are on the target.",
-    "page": 14,
+    "ref": "g3.5",
+    "promise": "PCB revenue ₹300-400 cr and OSAT ₹250-300 cr in first year",
+    "made_in": "Q4 FY26",
+    "delivered": "Combined target walked back to ₹450-500 crore in Q1 FY27 call (g4.3)",
+    "verdict": "walked_back",
+    "checked_against": "Q1 FY27 call guidance g4.3",
+    "quote": "I'm sure and certain we will do a good number of PCB of around INR300 crores to INR400 crores",
+    "page": 19,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e8d82234-f369-467f-a76f-75bb2747aaa1.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c2aa16ac-08ab-430a-819a-833f94c09dde.pdf"
    },
    {
-    "ref": "g4.2",
-    "promise": "Achieve 2x market growth in revenue for FY27",
-    "made_in": "Q1 FY27 call",
-    "delivered": "Revenue growth not yet measurable; Q1 FY27 946 cr vs FY26 full‑year 3626 cr, too early",
+    "ref": "g2.1",
+    "promise": "Reach $1 billion revenue by fiscal 2028",
+    "made_in": "Q3 FY26",
+    "delivered": "Target deadline is FY28; cannot be evaluated against quarterly ₹ numbers",
     "verdict": "too_early",
-    "checked_against": "Q1 FY27 revenue",
-    "quote": "revenue growth, we have committed the 2x of the market growth... we are quite confident of achieving the twice the market growth.",
-    "page": 14,
+    "checked_against": "FY28 revenue target ($1B)",
+    "quote": "See, on the growth, what we have projected $1 billion, we are still sticking on to that",
+    "page": 9,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e8d82234-f369-467f-a76f-75bb2747aaa1.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7fcb06f1-08f9-4ebd-a6ac-783e8abfda40.pdf"
    }
   ],
   "credibility": {
-   "score": null,
-   "line": "Only one promise can be checked against reported numbers so far — too few to score."
+   "score": 3,
+   "line": "Management missed FY26 cash flow promises severely and walked back combined PCB/OSAT guidance despite strong revenue growth."
   },
   "narrative_vs_numbers": [
    {
     "agree": false,
-    "point": "Guidance promised positive cash flow but OCF was -600 cr in FY26."
+    "point": "Management promised positive OCF in FY26, but reported consolidated OCF fell to -₹600.0 crore."
    },
    {
     "agree": false,
-    "point": "2x market‑growth claim for FY27 cannot be verified; Q1 FY27 revenue 946 cr vs FY26 full‑year 3626 cr."
+    "point": "Management cited 40% YoY revenue growth in Jun 2026, but PAT declined 25.3% YoY to ₹56.0 crore."
    },
    {
-    "agree": true,
-    "point": "FY26 revenue of 3626 cr matches the stated 33.2% YoY increase."
+    "agree": false,
+    "point": "Management claimed working capital normalization, yet 5-year profit cash conversion stands at -0.63."
    }
   ],
   "bull": [
-   "FY26 revenue hit 3626 cr, a 33% YoY rise, showing strong top‑line momentum.",
-   "EBITDA margin rose to 16% in FY26, up from 14% in FY25.",
-   "Q1 FY27 quarter delivered 946 cr revenue, indicating continued growth."
+   "FY26 revenue expanded 33.2% YoY to ₹3,626.0 crore, followed by 40.6% YoY growth in Jun 2026.",
+   "Equity expanded to ₹4,748.0 crore in Mar 2026, maintaining D/E at 0.19 despite higher debt.",
+   "Full year EBITDA margin expanded to 16.0% in FY26 generating ₹578.0 crore EBITDA."
   ],
   "bear": [
-   "Operating cash flow stayed deeply negative at -600 cr in FY26, missing the positive‑cash‑flow pledge.",
-   "Free cash flow was -1841 cr in FY26, highlighting cash‑conversion weakness.",
-   "Cash‑cycle stretched by 70 days, suggesting liquidity pressure."
+   "Operating cash flow plunged to -₹600.0 crore in FY26 with FCF at -₹1,841.0 crore.",
+   "Quarterly PAT fell 21.6% YoY in Mar 2026 and 25.3% YoY in Jun 2026.",
+   "Borrowings escalated 5.9x from ₹155.0 crore in Mar 2023 to ₹913.0 crore in Mar 2026."
   ],
   "watch": [
-   "Will FY27 achieve the INR450‑500 cr OSAT+PCB revenue target?",
-   "Will operating cash flow turn positive in FY27 as pledged?"
+   "Operating cash flow trajectory after -₹600.0 crore in FY26",
+   "PAT growth recovery following -25.3% drop in Jun 2026",
+   "Execution against ₹450-500 crore combined PCB and OSAT target"
   ]
  },
  "ledger_ok": true,
@@ -950,26 +951,26 @@
    "cached": true
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 3347,
-   "out": 2001,
-   "secs": 44.4,
+   "model": "gemini-3.6-flash",
+   "in": 3654,
+   "out": 3078,
+   "secs": 16.5,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
   "fresh_calls": 1,
-  "tokens_in": 73336,
-  "tokens_out": 6062,
+  "tokens_in": 73643,
+  "tokens_out": 7139,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 44.8
+  "secs": 17.5
  }
 }

@@ -2,12 +2,12 @@
  "symbol": "TATASTEEL",
  "name": "Tata Steel Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:08:48",
+ "generated_at": "2026-11-09T13:52:05",
  "latest_call": "May 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 237820.0,
-   "pe": 20.0,
+   "market_cap_cr": 231195.0,
+   "pe": 19.5,
    "roce": 12.5,
    "roe": 11.7,
    "ttm_revenue": 246503.0,
@@ -428,15 +428,15 @@
    "scanned": false,
    "guidance": [
     {
-     "metric": "profit",
-     "promise": "UK business to exit FY2026 on an EBITDA breakeven run rate",
+     "metric": "volume",
+     "promise": "Kalinganagar to produce around 6.7 to 6.8 million tons of crude steel this year",
      "horizon": "FY2026",
-     "low": null,
-     "high": null,
-     "unit": null,
-     "quote": "we still want to ensure that the FY2026 exit in 4Q is on a breakeven. That's actually the focus there.",
-     "page": 16,
-     "speaker": "Koushik Chatterjee",
+     "low": 6.7,
+     "high": 6.8,
+     "unit": "units",
+     "quote": "If you look at Kalinganagar, I think the forecast is around 6.7 to 6.8 million tons of crude steel production this year",
+     "page": 15,
+     "speaker": "T. V. Narendran",
      "verified": true,
      "id": "g1.1"
     },
@@ -447,61 +447,61 @@
      "low": 6000,
      "high": 8000,
      "unit": "cr",
-     "quote": "our enterprise strategy to contain debt by about Rs 6,000 to Rs 8,000 crores is not getting deprioritised.",
+     "quote": "Your target to contain debt by Rs 6,000 crore to Rs 8,000 crores for FY2026, that remains? Indeed, yes.",
      "page": 17,
      "speaker": "Koushik Chatterjee",
      "verified": true,
      "id": "g1.2"
     },
     {
-     "metric": "margin",
-     "promise": "India net realisations about Rs 2,000 per ton lower in Q2 vs Q1",
-     "horizon": "Q2 FY2026",
+     "metric": "profit",
+     "promise": "UK business to exit FY2026 in 4Q on a breakeven basis",
+     "horizon": "Q4 FY2026",
      "low": null,
      "high": null,
-     "unit": "units",
-     "quote": "the guidance we're giving for India is that the net realisations will be about Rs 2,000 per ton less in 2Q as compared to 1Q.",
-     "page": 7,
-     "speaker": "T. V. Narendran",
+     "unit": null,
+     "quote": "We still want to ensure that the FY2026 exit in 4Q is on a breakeven. That's actually the focus there.",
+     "page": 16,
+     "speaker": "Koushik Chatterjee",
      "verified": true,
      "id": "g1.3"
     }
    ],
    "claims": [
     {
-     "claim": "Delivered traceable cost transformation improvement of about Rs 2,900 crores across three main geographies",
-     "quote": "we have delivered a traceable improvement of about Rs 2,900 crores across the three main geographies",
-     "page": 4,
-     "verified": true
-    },
-    {
-     "claim": "Consolidated revenues stood at Rs 53,178 crores and EBITDA at about Rs 7,480 crores for 1Q",
+     "claim": "Consolidated revenues stood at Rs 53,178 crores and EBITDA at Rs 7,480 crores",
      "quote": "The consolidated revenues for the quarter stood at Rs 53,178 crores, and the EBITDA was about Rs 7,480 crores.",
      "page": 4,
      "verified": true
     },
     {
-     "claim": "Tata Steel UK halved its EBITDA loss in the first quarter",
-     "quote": "In the first quarter, Tata Steel UK has managed to halve its EBITDA loss despite the challenging market conditions and the uncertainty on tariffs.",
+     "claim": "Delivered traceable cost improvement of Rs 2,900 crores across three main geographies",
+     "quote": "During the quarter, we have delivered a traceable improvement of about Rs 2,900 crores across the three main geographies",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "UK steel business halved its EBITDA loss despite challenging market conditions",
+     "quote": "In the first quarter, Tata Steel UK has managed to halve its EBITDA loss despite the challenging market conditions",
      "page": 5,
      "verified": true
     }
    ],
    "pushback": [
     {
-     "topic": "UK safeguard quotas and tariff uncertainties",
-     "quote": "Given there is a different process, now you're starting construction after approvals, how should we, let's say, the company does get approval by October.",
+     "topic": "UK EAF transition and safeguard quotas",
+     "quote": "would it not have been prudent to do it before going into the entire transition? Would you slow down since you're already committing capital before there is a review of safeguard?",
      "page": 11,
      "verified": true
     },
     {
-     "topic": "Reconciliation of cost savings against flat EBITDA performance",
-     "quote": "How will we triangulate this? And where do we see these cost savings really getting reflected.",
+     "topic": "EBITDA growth vs. cost savings reconciliation",
+     "quote": "If I just look at the EBITDA movement for QoQ, it's kind of up marginally, and this is in spite of pricing being higher, and we're also talking of eleven billion rupees of savings. How will we triangulate this?",
      "page": 13,
      "verified": true
     }
    ],
-   "tone": "Confident yet cautious due to complex regional trade flows, volatile steel prices, and policy/tariff headwinds."
+   "tone": "Pragmatic, cautious about volatile global markets while emphasizing structural cost transformation and project execution."
   },
   {
    "n": 2,
@@ -906,61 +906,89 @@
   "promise_ledger": [
    {
     "ref": "g1.2",
-    "promise": "Contain debt by Rs6,000‑8,000 crores for FY2026",
+    "promise": "Contain debt by Rs 6,000 to Rs 8,000 crores for FY2026",
     "made_in": "Q1 FY26",
-    "delivered": "Borrowings fell from Rs94,801 crore (FY25) to Rs92,382 crore, a Rs2,419 crore drop, short of the Rs6‑8k target",
+    "delivered": "Gross borrowings fell by only Rs 2,419 crore (from Rs 94,801 crore to Rs 92,382 crore) in FY2026.",
     "verdict": "missed",
-    "checked_against": "FY2026 borrowings",
-    "quote": "our enterprise strategy to contain debt by about Rs 6,000 to Rs 8,000 crores is not getting deprioritised.",
+    "checked_against": "Mar 2025 vs Mar 2026 Borrowings",
+    "quote": "Your target to contain debt by Rs 6,000 crore to Rs 8,000 crores for FY2026, that remains? Indeed, yes.",
     "page": 17,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=536435e3-b37b-4fca-98bf-d611bc8a4416.pdf"
    },
    {
-    "ref": "g2.3",
-    "promise": "Maintain Net Debt/EBITDA between 2.75‑3 on a sustained basis",
-    "made_in": "Q2 FY26",
-    "delivered": "Net debt Sep 2026 Rs102,368 crore ÷ EBITDA Rs10,533 crore ≈9.7x, far above the 2.75‑3 range",
-    "verdict": "missed",
-    "checked_against": "Sep 2026 net debt and EBITDA",
-    "quote": "between 2.75 and 3 is where would like to maintain ourselves on a more sustained basis.",
-    "page": 22,
+    "ref": "g3.1",
+    "promise": "Expect EBITDA to be better in Q4 compared to Q3",
+    "made_in": "Q3 FY26",
+    "delivered": "Reported EBITDA increased 19.9% QoQ from Rs 8,200 crore in Dec 2025 to Rs 9,829 crore in Mar 2026.",
+    "verdict": "delivered",
+    "checked_against": "Dec 2025 and Mar 2026 EBITDA",
+    "quote": "So overall we expect EBITDA to be better in Q4 compared to Q3, and volumes to be almost half a million tons better in Q4 compared to Q3.",
+    "page": 11,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=816939c9-f6c8-404b-afce-29aee1c980ed.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7e178a2e-ea18-4b55-8e55-56e03dc5bea5.pdf"
+   },
+   {
+    "ref": "g1.1",
+    "promise": "Kalinganagar to produce 6.7 to 6.8 million tons crude steel in FY2026",
+    "made_in": "Q1 FY26",
+    "delivered": "Plant-specific crude steel production volumes are not broken out in financial reporting.",
+    "verdict": "too_early",
+    "checked_against": "Reported operational segment disclosures",
+    "quote": "If you look at Kalinganagar, I think the forecast is around 6.7 to 6.8 million tons of crude steel production this year",
+    "page": 15,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=536435e3-b37b-4fca-98bf-d611bc8a4416.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Increase capex to around Rs 20,000 crores in FY2027",
+    "made_in": "Q4 FY26",
+    "delivered": "FY2027 capex execution is ongoing and pending full-year financial audit.",
+    "verdict": "too_early",
+    "checked_against": "FY2027 cash flow statement",
+    "quote": "we intend to increase the same in FY2027 to around Rs 20,000 crores of which more than 60% will be spend in India.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d6e2d40-e300-4aae-94bc-b1dc1136656c.pdf"
    }
   ],
   "credibility": {
-   "score": 3,
-   "line": "Management repeatedly overshoots debt and EBITDA targets, undermining credibility."
+   "score": 6,
+   "line": "Delivered operational EBITDA expansion in Q4 FY26, but missed FY26 debt containment target by over Rs 3,500 crores."
   },
   "narrative_vs_numbers": [
    {
     "agree": false,
-    "point": "Guidance of breakeven UK EBITDA and debt cuts clash with rising net‑debt ratio (~9.7x) and no UK segment data."
-   },
-   {
-    "agree": false,
-    "point": "Cost‑transformation claims (Rs10,868 crore FY2026) contrast with modest EBITDA growth (31% YoY) and still‑high debt."
+    "point": "Management claimed Rs 9,100 crore debt prepayment in FY26, but gross borrowings decreased by only Rs 2,419 crore."
    },
    {
     "agree": true,
-    "point": "Operating margin improved to 15% FY2026, matching the narrative of margin expansion."
+    "point": "Management stated Q4 FY26 EBITDA would beat Q3 FY26; reported EBITDA increased from Rs 8,200 crore to Rs 9,829 crore."
+   },
+   {
+    "agree": false,
+    "point": "Management touted leverage discipline, yet borrowings escalated to Rs 102,368 crore by Sep 2026 with D/E at 0.99."
+   },
+   {
+    "agree": true,
+    "point": "Cost reduction claim of Rs 10,868 crore aligns with FY26 EBITDA margin expansion from 12.0% to 15.0%."
    }
   ],
   "bull": [
-   "EBITDA rose 31% YoY to Rs24,894 crore in nine months (Q3 FY26).",
-   "EBITDA margin reached ~15% FY2026, up 320 bps.",
-   "Cost‑transformation savings hit Rs10,868 crore FY2026."
+   "FY26 operating cash flow grew 51.5% to Rs 35,064 crores, driving free cash flow to Rs 21,906 crores.",
+   "FY26 EBITDA rose 35.8% YoY to Rs 34,352 crores, expanding EBITDA margin to 15.0%.",
+   "Sep 2026 quarterly EBITDA reached a period high of Rs 10,533 crores with 16.0% EBITDA margin."
   ],
   "bear": [
-   "Net debt rose to Rs102,368 crore, net‑debt/EBITDA ~9.7x, far above the 2.75‑3x target.",
-   "EBITDA fell in Q4 FY26 versus Q3, missing the improvement promise.",
-   "Debt‑containment fell short by ~Rs4‑6 billion versus the Rs6‑8 billion goal."
+   "Gross borrowings surged to Rs 102,368 crores in Sep 2026, lifting D/E ratio back to 0.99.",
+   "Missed FY26 debt reduction target of Rs 6,000-8,000 crores, reducing gross debt by just Rs 2,419 crores.",
+   "Persistent UK operational losses and Netherlands gas plant closures present ongoing restructuring risks."
   ],
   "watch": [
-   "Net‑debt trajectory in FY27.",
-   "Quarterly EBITDA trend after Q4 FY26.",
-   "India volume growth versus promised half‑million‑ton lifts."
+   "Debt trajectory in H2 FY27 relative to the Sep 2026 level of Rs 102,368 crores.",
+   "Execution of Rs 20,000 crore FY27 capex with over 60% spent in India.",
+   "Delivery of targeted Rs 7,100 crore cost savings in FY27."
   ]
  },
  "ledger_ok": true,
@@ -968,9 +996,9 @@
   {
    "model": "gemini-3.5-flash-lite",
    "in": 18285,
-   "out": 810,
-   "secs": 4.0,
-   "cached": false,
+   "out": 845,
+   "secs": 50.6,
+   "cached": true,
    "fallback": false
   },
   {
@@ -978,7 +1006,7 @@
    "in": 20135,
    "out": 859,
    "secs": 4.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -986,7 +1014,7 @@
    "in": 17402,
    "out": 1191,
    "secs": 4.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -994,7 +1022,7 @@
    "in": 21596,
    "out": 990,
    "secs": 18.9,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1002,30 +1030,30 @@
    "in": 9933,
    "out": 639,
    "secs": 3.3,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 3460,
-   "out": 1461,
-   "secs": 4.0,
+   "model": "gemini-3.6-flash",
+   "in": 3817,
+   "out": 3876,
+   "secs": 16.0,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 90811,
-  "tokens_out": 5950,
+  "fresh_calls": 1,
+  "tokens_in": 91168,
+  "tokens_out": 8400,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 43.7
+  "secs": 17.7
  }
 }

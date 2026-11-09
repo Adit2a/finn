@@ -2,12 +2,12 @@
  "symbol": "JUBLFOOD",
  "name": "Jubilant Foodworks Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T20:21:59",
+ "generated_at": "2026-11-09T13:50:44",
  "latest_call": "Aug 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 29642.0,
-   "pe": 76.8,
+   "market_cap_cr": 28413.0,
+   "pe": 73.6,
    "roce": 14.8,
    "roe": 21.0,
    "ttm_revenue": 10106.0,
@@ -781,85 +781,89 @@
   "promise_ledger": [
    {
     "ref": "g1.1",
-    "promise": "Improve margins by minimum 200 basis points over three-year period",
+    "promise": "Improve margins by a minimum of 200 basis points over a three-year period.",
     "made_in": "Q2 FY26",
-    "delivered": "EBITDA margin fell from 22% (Mar 2023) to 20% (Mar 2026), a 200 bps decline",
-    "verdict": "missed",
-    "checked_against": "EBITDA% Mar 2023 vs Mar 2026",
+    "delivered": "EBITDA margin stayed flat at 20.0% in FY24 and FY26; three-year horizon is ongoing.",
+    "verdict": "too_early",
+    "checked_against": "FY24 and FY26 EBITDA%",
     "quote": "We said a minimum of 200 bps is what, that is the bare minimum we will increase.",
     "page": 19,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=584ed67d-7ba8-4bbe-82ef-d9961b36085c.pdf"
    },
    {
-    "ref": "g2.4",
-    "promise": "Grow standalone overall top line around 15%",
+    "ref": "g2.2",
+    "promise": "Grow Domino's like-for-like at 5% to 7%",
     "made_in": "Q3 FY26",
-    "delivered": "Revenue grew 17% YoY FY25→FY26 (9,513 vs 8,104 cr)",
-    "verdict": "delivered",
-    "checked_against": "FY26 revenue YoY",
+    "delivered": "Domino's LFL growth slowed to 2.5% in Q1 FY27, missing the 5% to 7% target.",
+    "verdict": "partly",
+    "checked_against": "Q1 FY27 management LFL claim",
+    "quote": "Domino's should grow at 5% to 7% like-for-like growth.",
+    "page": 6,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d1f306f5-d6e3-4d1c-a5d6-74defb302b26.pdf"
+   },
+   {
+    "ref": "g2.3",
+    "promise": "Achieve standalone pre-Ind AS margin closer to 15%",
+    "made_in": "Q3 FY26",
+    "delivered": "Pre-Ind AS margin target cannot be verified using post-Ind AS reported company financials.",
+    "verdict": "too_early",
+    "checked_against": "Reported company EBITDA%",
     "quote": "Overall top line should grow for standalone around 15%, and we should get closer to 15% pre- Ind AS margin, right?",
     "page": 6,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d1f306f5-d6e3-4d1c-a5d6-74defb302b26.pdf"
    },
    {
-    "ref": "g2.5",
-    "promise": "Monetize advertising on app to at least 1% of revenues",
-    "made_in": "Q3 FY26",
-    "delivered": "Advertising revenue not disclosed; cannot assess",
+    "ref": "g4.1",
+    "promise": "Maintain FY27 capex in the range of INR750 crores to INR900 crores",
+    "made_in": "Q1 FY27",
+    "delivered": "Target applies to full FY27 and remains ongoing.",
     "verdict": "too_early",
-    "checked_against": "no reported figure",
-    "quote": "at the right time, I'm not saying it short-term, we should get about 1% of our revenues on that channel. We should be able to monetize to that extent.",
-    "page": 15,
+    "checked_against": "FY27 Capex guidance",
+    "quote": "the guidance has been in the range of INR750 crores to INR900 crores, which has been what we have spent in the previous couple of years as well, and we continue to maintain that number for now.",
+    "page": 5,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d1f306f5-d6e3-4d1c-a5d6-74defb302b26.pdf"
-   },
-   {
-    "ref": "g3.1",
-    "promise": "Open about 230 to 250 restaurants this year",
-    "made_in": "Q4 FY26",
-    "delivered": "Store count not reported; cannot assess",
-    "verdict": "too_early",
-    "checked_against": "no reported figure",
-    "quote": "we would open similar to about 230 to 250 kind of restaurants this year.",
-    "page": 4,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4aedd4df-2e77-498d-bda4-fced35a2ae39.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c2d974a8-0d78-41a0-922c-ba226e1f1632.pdf"
    }
   ],
   "credibility": {
-   "score": 5,
-   "line": "Mixed record: top‑line target met, margin target missed, many promises unverified."
+   "score": null,
+   "line": "Only one promise can be checked against reported numbers so far — too few to score."
   },
   "narrative_vs_numbers": [
    {
     "agree": false,
-    "point": "Management said margins would improve, yet EBITDA% dropped 200 bps."
-   },
-   {
-    "agree": true,
-    "point": "Revenue growth of 17% FY26 validates the 15% top‑line promise."
+    "point": "Management targets 200 bps EBITDA margin expansion, but reported EBITDA margin remained flat at 20.0% in FY24, FY25, and FY26."
    },
    {
     "agree": false,
-    "point": "No data provided for advertising‑revenue target, so story lacks evidence."
+    "point": "Management claimed strong Domino's performance, but LFL growth decelerated from 9.1% in Q2 FY26 to 2.5% in Q1 FY27."
+   },
+   {
+    "agree": true,
+    "point": "Operating cash flow reached ₹1894 crore in FY26, supporting cash generation claims with OCF/PAT of 4.27."
+   },
+   {
+    "agree": false,
+    "point": "Sep 2026 PAT dropped 42.6% YoY to ₹112 crore despite revenue increasing 11.5% YoY to ₹2608 crore."
    }
   ],
   "bull": [
-   "Revenue rose 17% YoY FY26, beating the 15% growth promise.",
-   "EBITDA absolute value reached 1,902 cr in FY26, showing profit scale.",
-   "Operating cash flow hit 1,894 cr FY26, indicating strong cash conversion."
+   "FY26 operating cash flow reached ₹1894 crore with strong 5-year cash conversion of 3.56.",
+   "Consolidated revenue increased 17.4% YoY in FY26 to ₹9513 crore.",
+   "Popeyes LFL growth accelerated to 45% in Q1 FY27."
   ],
   "bear": [
-   "EBITDA margin fell 200 bps, opposite of the 3‑year improvement pledge.",
-   "EBIT margin stayed ~9‑10%, far below the 15% pre‑Ind AS margin goal.",
-   "Leverage remains high with D/E at 1.95 as of Sep 2026."
+   "EBITDA margin remained stuck at 20.0% in FY24, FY25, and FY26.",
+   "Domino's LFL growth slowed to 2.5% in Q1 FY27.",
+   "D/E ratio rose to 2.14 in Mar 2026 with borrowings reaching ₹4902 crore."
   ],
   "watch": [
-   "Will EBITDA margin rebound to 22% by FY29?",
-   "Advertising revenue contribution to reach 1% of sales.",
-   "Actual restaurant openings versus 230‑250 target for FY27."
+   "Domino's LFL growth trajectory in Q2 FY27.",
+   "EBITDA margin progression toward 22.0%.",
+   "FY27 capex spend against ₹750-900 crore guidance."
   ]
  },
  "ledger_ok": true,
@@ -900,26 +904,26 @@
    "cached": true
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 2950,
-   "out": 2989,
-   "secs": 38.3,
+   "model": "gemini-3.6-flash",
+   "in": 3235,
+   "out": 3753,
+   "secs": 17.4,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
   "fresh_calls": 1,
-  "tokens_in": 65075,
-  "tokens_out": 6252,
+  "tokens_in": 65360,
+  "tokens_out": 7016,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 38.9
+  "secs": 18.4
  }
 }

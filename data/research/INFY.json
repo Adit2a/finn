@@ -2,12 +2,12 @@
  "symbol": "INFY",
  "name": "Infosys Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T20:20:45",
+ "generated_at": "2026-11-09T13:50:22",
  "latest_call": "Oct 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 475772.0,
-   "pe": 15.0,
+   "market_cap_cr": 465567.0,
+   "pe": 14.7,
    "roce": 40.0,
    "roe": 31.9,
    "ttm_revenue": 189336.0,
@@ -876,11 +876,11 @@
   "promise_ledger": [
    {
     "ref": "g2.1",
-    "promise": "FY27 revenue growth guidance 1.5% to 3.5% constant currency",
+    "promise": "FY27 revenue growth guidance is 1.5% to 3.5% in constant currency",
     "made_in": "Q4 FY26",
-    "delivered": "Guidance later reduced to 1%‑2% in Q2 FY27 call",
+    "delivered": "Management cut guidance to 1.5%-3% in Q1 FY27 and lowered it again to 1%-2% in Q2 FY27.",
     "verdict": "walked_back",
-    "checked_against": "none",
+    "checked_against": "Q1 FY27 and Q2 FY27 management guidance updates",
     "quote": "Our revenue growth guidance for the financial year 2027 is 1.5% to 3.5% growth year-on-year in constant currency terms.",
     "page": 4,
     "verified": true,
@@ -888,11 +888,11 @@
    },
    {
     "ref": "g2.2",
-    "promise": "FY27 operating margin guidance 20% to 22% EBIT",
+    "promise": "FY27 operating margin guidance is 20% to 22%",
     "made_in": "Q4 FY26",
-    "delivered": "Q2 FY27 EBIT% 21.0% within range",
-    "verdict": "too_early",
-    "checked_against": "Q2 FY27 EBIT%",
+    "delivered": "Reported EBIT margin was 21.1% in Q1 FY27 and 21.0% in Q2 FY27, remaining squarely within guidance.",
+    "verdict": "delivered",
+    "checked_against": "Jun 2026 and Sep 2026 reported EBIT margin",
     "quote": "Our operating margin guidance for financial year '27 is 20% to 22%.",
     "page": 4,
     "verified": true,
@@ -900,11 +900,11 @@
    },
    {
     "ref": "g1.2",
-    "promise": "Recruit 20,000 college graduates next financial year (FY27)",
+    "promise": "Recruit 20,000 college graduates in FY27",
     "made_in": "Q3 FY26",
-    "delivered": "No headcount data reported; pending",
+    "delivered": "Target reconfirmed in Q4 FY26 and Q2 FY27; full-year FY27 recruitment outcomes pending.",
     "verdict": "too_early",
-    "checked_against": "none",
+    "checked_against": "Full year FY27 hiring reports",
     "quote": "And next financial year, we also have a plan to recruit 20,000 college graduates",
     "page": 12,
     "verified": true,
@@ -912,11 +912,11 @@
    },
    {
     "ref": "g4.3",
-    "promise": "Mega deal to add >1% revenue growth in FY28",
+    "promise": "Mega deal expected to contribute over 1% revenue growth in FY28",
     "made_in": "Q2 FY27",
-    "delivered": "Impact not yet reflected in reported numbers",
+    "delivered": "Target horizon is financial year 2028.",
     "verdict": "too_early",
-    "checked_against": "none",
+    "checked_against": "FY28 reported revenue growth",
     "quote": "This deal is expected to contribute over 1% revenue growth in the coming financial year.",
     "page": 4,
     "verified": true,
@@ -924,37 +924,37 @@
    }
   ],
   "credibility": {
-   "score": null,
-   "line": "Only one promise can be checked against reported numbers so far — too few to score."
+   "score": 6,
+   "line": "Management reliably hits operating margin targets of 20%-22%, but repeatedly walked back FY27 constant currency growth guidance."
   },
   "narrative_vs_numbers": [
    {
+    "agree": false,
+    "point": "Management claimed 1.5% YoY constant currency growth in Q2 FY27, while reported rupee revenue grew 10.7% YoY to ₹49,244 crore."
+   },
+   {
     "agree": true,
-    "point": "Management touts stable margins; Q2 FY27 EBIT% 21% confirms margin guidance range."
+    "point": "Management claimed Q2 FY27 operating margin was stable at 21%, matching reported Sep 2026 EBIT margin of 21.0%."
    },
    {
-    "agree": false,
-    "point": "Management claimed AI services 5.5% of Q3 FY26 revenue, but segment data absent; overall margin unchanged."
-   },
-   {
-    "agree": false,
-    "point": "Guidance cut from 1.5‑3.5% to 1‑2% reflects slower revenue growth (10.7% YoY Q2 FY27)."
+    "agree": true,
+    "point": "Management claimed stable margins for FY26, consistent with full-year EBITDA margin holding at 24.0%."
    }
   ],
   "bull": [
-   "Q2 FY27 revenue rose 10.7% YoY to ₹49,244 cr, showing strong top‑line momentum.",
-   "EBIT% held at 21.0% in Q2 FY27, matching the 20‑22% margin target.",
-   "Free cash flow reached $928 mn in Q2 FY27, indicating solid cash generation."
+   "EBIT margin remained steady at 21.0% in Sep 2026, within 20%-22% guidance.",
+   "AI revenue share grew from 5.5% in Q3 FY26 to 10.5% in Q2 FY27.",
+   "Strong 5-year cash conversion at 1.1 OCF/PAT and low leverage with D/E of 0.09."
   ],
   "bear": [
-   "Revenue growth decelerated to 10.7% YoY in Q2 FY27 after 14% YoY in Q2 FY26.",
-   "AI services share rose to 10.5% in Q2 FY27, potentially pressuring margins.",
-   "Guidance revisions downward signal uncertainty about FY27 growth."
+   "FY27 constant currency growth guidance cut twice from 1.5%-3.5% down to 1%-2%.",
+   "Operating cash flow declined from ₹35,694 crore in Mar 2025 to ₹33,986 crore in Mar 2026.",
+   "PAT growth decelerated to 6.3% YoY in Sep 2026 from 12.3% YoY in Jun 2026."
   ],
   "watch": [
-   "Full‑year FY27 revenue growth vs constant‑currency target.",
-   "Actual hiring of ~20,000 graduates in FY27.",
-   "Contribution of mega deal to FY28 revenue."
+   "Completion of 20,000 college graduate hiring target for FY27.",
+   "EBIT margin staying within 20%-22% guidance range in Q3 FY27.",
+   "Large deal conversion into revenue following $5.2 bn TCV reported in Q2 FY27."
   ]
  },
  "ledger_ok": true,
@@ -995,26 +995,26 @@
    "cached": true
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 3128,
-   "out": 2155,
-   "secs": 6.9,
+   "model": "gemini-3.6-flash",
+   "in": 3493,
+   "out": 2770,
+   "secs": 13.7,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
   "fresh_calls": 1,
-  "tokens_in": 130354,
-  "tokens_out": 6318,
+  "tokens_in": 130719,
+  "tokens_out": 6933,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 7.8
+  "secs": 14.6
  }
 }

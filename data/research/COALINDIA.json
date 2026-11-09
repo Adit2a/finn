@@ -2,12 +2,12 @@
  "symbol": "COALINDIA",
  "name": "Coal India Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T22:33:43",
+ "generated_at": "2026-11-09T13:49:32",
  "latest_call": "May 2025",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 247745.0,
-   "pe": 7.43,
+   "market_cap_cr": 246941.0,
+   "pe": 7.39,
    "roce": 35.0,
    "roe": 28.2,
    "ttm_revenue": 171848.0,
@@ -530,97 +530,96 @@
   "promise_ledger": [
    {
     "ref": "g1.1",
-    "promise": "Capex target of 16,000 cr for FY26",
-    "made_in": "AR 2025 call",
-    "delivered": "Capex not disclosed in reported data; cannot assess yet",
-    "verdict": "too_early",
-    "checked_against": "N/A",
+    "promise": "Set capital expenditure target of 16,000 crore for FY26",
+    "made_in": "Q4 FY25",
+    "delivered": "FY26 OCF (₹43,215 cr) minus FCF (₹30,783 cr) implies capex of ₹12,432 cr; actual capex line item not explicitly reported",
+    "verdict": "partly",
+    "checked_against": "FY26 OCF and FCF reported figures",
     "quote": "For FY26, we have set a capital expenditure target of J 16,000 crore.",
     "page": 22,
     "verified": true,
     "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5690e342-8065-42d0-b598-274aa8ef4fa9.pdf"
    },
    {
-    "ref": "g1.2",
-    "promise": "Net‑Zero 3 GW by FY27‑28",
-    "made_in": "AR 2025 call",
-    "delivered": "No renewable capacity figures reported; deadline not reached",
+    "ref": "g1.5",
+    "promise": "Production target of 875 MTs and off-take target of 900 MTs for FY 2025-26",
+    "made_in": "Q4 FY25",
+    "delivered": "Physical volume targets in MTs cannot be confirmed from reported financial statements",
     "verdict": "too_early",
-    "checked_against": "N/A",
+    "checked_against": "FY26 reported financials",
+    "quote": "For FY 2025-26 CIL has been given a production target of 875 MTs and CIL is aiming to achieve the desired growth. Coal off-take target has been specified at 900 MTs.",
+    "page": 46,
+    "verified": true,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5690e342-8065-42d0-b598-274aa8ef4fa9.pdf"
+   },
+   {
+    "ref": "g1.2",
+    "promise": "Set a Net Zero target of 3 GW by FY27-28",
+    "made_in": "Q4 FY25",
+    "delivered": "Target deadline is FY27-28; capacity numbers not reported in financial statements",
+    "verdict": "too_early",
+    "checked_against": "FY28 reported financials",
     "quote": "we have also set a Net Zero target of 3 GW by FY27-28.",
     "page": 22,
     "verified": true,
     "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5690e342-8065-42d0-b598-274aa8ef4fa9.pdf"
    },
    {
-    "ref": "g1.3",
-    "promise": "Add 6.5 GW renewable by FY29‑30",
-    "made_in": "AR 2025 call",
-    "delivered": "No data on renewable build‑out; deadline far future",
-    "verdict": "too_early",
-    "checked_against": "N/A",
-    "quote": "We further intend to ramp up our renewable capacity by another 6.5 GW by FY 29-30.",
-    "page": 22,
-    "verified": true,
-    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5690e342-8065-42d0-b598-274aa8ef4fa9.pdf"
-   },
-   {
     "ref": "g1.4",
-    "promise": "Reach 1 bn t production by FY28‑29",
-    "made_in": "AR 2025 call",
-    "delivered": "Production volumes not disclosed; deadline not reached",
+    "promise": "Roadmap to reach production target of 1 billion tonne by FY 28-29",
+    "made_in": "Q4 FY25",
+    "delivered": "Target deadline is FY 28-29",
     "verdict": "too_early",
-    "checked_against": "N/A",
+    "checked_against": "FY29 reported financials",
     "quote": "our roadmap is to reach the production target of 1 billion tonne by FY 28-29.",
     "page": 22,
     "verified": true,
     "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5690e342-8065-42d0-b598-274aa8ef4fa9.pdf"
    },
    {
-    "ref": "g1.5",
-    "promise": "Produce 875 MT and off‑take 900 MT in FY25‑26",
-    "made_in": "AR 2025 call",
-    "delivered": "Production/off‑take numbers absent; cannot verify",
+    "ref": "g1.3",
+    "promise": "Ramp up renewable capacity by another 6.5 GW by FY 29-30",
+    "made_in": "Q4 FY25",
+    "delivered": "Target deadline is FY 29-30",
     "verdict": "too_early",
-    "checked_against": "N/A",
-    "quote": "For FY 2025-26 CIL has been given a production target of 875 MTs and CIL is aiming to achieve the desired growth. Coal off-take target has been specified at 900 MTs.",
-    "page": 46,
+    "checked_against": "FY30 reported financials",
+    "quote": "We further intend to ramp up our renewable capacity by another 6.5 GW by FY 29-30.",
+    "page": 22,
     "verified": true,
     "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5690e342-8065-42d0-b598-274aa8ef4fa9.pdf"
    }
   ],
   "credibility": {
    "score": null,
-   "line": "None of these promises can be checked against reported numbers yet — no score."
+   "line": "Only one promise can be checked against reported numbers so far — too few to score."
   },
   "narrative_vs_numbers": [
    {
     "agree": false,
-    "point": "Management touts growth while EBITDA% fell from 33% (Mar 2024) to 22% (Mar 2026)."
+    "point": "Annual revenue flattened at ₹168,400 crore in FY26 while EBITDA margin contracted from 33% in FY24 to 22%."
+   },
+   {
+    "agree": true,
+    "point": "Operating cash flow surged to ₹43,215 crore in FY26, bringing OCF/PAT ratio up to 1.39."
    },
    {
     "agree": false,
-    "point": "PAT declined from 37,369 cr (Mar 2024) to 31,071 cr (Mar 2026) despite higher revenue."
-   },
-   {
-    "agree": false,
-    "point": "Operating cash conversion remains modest (1.39× PAT in Mar 2026) versus strong cash‑conversion claim."
+    "point": "Debt levels expanded 2.4x over 3 years, rising from ₹6,523 crore in FY24 to ₹15,668 crore by Sep 2026."
    }
   ],
   "bull": [
-   "Q2 FY27 PAT rose 57.1% YoY to 6,547 cr, showing upside potential.",
-   "Revenue grew 20.9% YoY in Sep 2026, indicating demand strength.",
-   "Free cash flow reached 30,783 cr in Mar 2026, supporting debt reduction."
+   "Strong 5-year cash conversion with operating cash flow reaching 110% of reported net profit.",
+   "FY26 operating cash flow reached ₹43,215 crore with free cash flow rising to ₹30,783 crore.",
+   "Sep 2026 quarter PAT expanded 57.1% YoY to ₹6,547 crore on 20.9% revenue growth."
   ],
   "bear": [
-   "EBITDA margin slipped to 19% in Sep 2026 from 33% in Mar 2024.",
-   "Operating margin down 1,000 bps over three years, signaling cost pressure.",
-   "Borrowings rose to 15,668 cr by Sep 2026, a 2.4× increase in three years."
+   "Operating margins dropped 1000 bps over 3 years to 22.0% in FY26.",
+   "Annual PAT fell from ₹37,369 crore in FY24 to ₹31,071 crore in FY26.",
+   "Total borrowings surged from ₹6,523 crore in Mar 2024 to ₹15,668 crore in Sep 2026."
   ],
   "watch": [
-   "Capex spending trends in FY27.",
-   "Renewable capacity build‑out disclosures.",
-   "Production volume reporting for FY26‑27."
+   "Sustainment of Sep 2026 EBITDA margin of 19.0% vs prior quarter 26.0%.",
+   "Debt stabilization following rise to ₹15,668 crore in Sep 2026."
   ]
  },
  "ledger_ok": true,
@@ -642,27 +641,27 @@
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 2225,
-   "out": 1072,
-   "secs": 4.8,
+   "model": "gemini-3.6-flash",
+   "in": 2532,
+   "out": 2776,
+   "secs": 15.3,
    "cached": false,
    "fallback": false
   }
  ],
  "promise_source": "annual_report",
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 3,
   "fresh_calls": 1,
-  "tokens_in": 34103,
-  "tokens_out": 2330,
+  "tokens_in": 34410,
+  "tokens_out": 4034,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 6.0
+  "secs": 16.4
  }
 }

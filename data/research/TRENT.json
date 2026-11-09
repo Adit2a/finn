@@ -2,12 +2,12 @@
  "symbol": "TRENT",
  "name": "Trent Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T20:24:50",
+ "generated_at": "2026-11-09T13:53:02",
  "latest_call": null,
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 163248.0,
-   "pe": 85.2,
+   "market_cap_cr": 164609.0,
+   "pe": 85.9,
    "roce": 28.3,
    "roe": 27.7,
    "ttm_revenue": 22001.0,
@@ -476,10 +476,10 @@
    {
     "ref": "g1.1",
     "promise": "Replace fossil fuel energy with renewable energy by 50% intensity per sq ft by FY27",
-    "made_in": "AR 2025",
-    "delivered": "Energy intensity data not reported; cannot confirm achievement",
+    "made_in": "AR 2025 call",
+    "delivered": "Target horizon is FY27; reported financial numbers do not disclose energy mix intensity.",
     "verdict": "too_early",
-    "checked_against": "none",
+    "checked_against": "FY27 ESG disclosures",
     "quote": "replace the use of fossil fuel-based energy with renewable energy by 50% of intensity per sq. ft. and reduce consumption by 10% per sq. ft.",
     "page": 139,
     "verified": true,
@@ -488,10 +488,10 @@
    {
     "ref": "g1.2",
     "promise": "Reduce energy consumption by 10% per sq ft by FY27",
-    "made_in": "AR 2025",
-    "delivered": "Energy consumption data not reported; cannot confirm achievement",
+    "made_in": "AR 2025 call",
+    "delivered": "Target horizon is FY27; reported financial numbers do not disclose energy consumption per sq ft.",
     "verdict": "too_early",
-    "checked_against": "none",
+    "checked_against": "FY27 ESG disclosures",
     "quote": "replace the use of fossil fuel-based energy with renewable energy by 50% of intensity per sq. ft. and reduce consumption by 10% per sq. ft.",
     "page": 139,
     "verified": true,
@@ -504,32 +504,36 @@
   },
   "narrative_vs_numbers": [
    {
-    "agree": false,
-    "point": "Sustainability targets lack supporting data despite robust financial performance"
+    "agree": true,
+    "point": "Profit is compounding faster than sales over 3 years (63.5% vs 34.5%) due to operating leverage expansion."
    },
    {
     "agree": true,
-    "point": "Operating margin rose from 14% (Mar 2023) to 19% (Mar 2026), confirming operating leverage claim"
+    "point": "EBITDA margin expanded by 500 bps over 3 years, rising from 14.0% in Mar 2023 to 19.0% in Mar 2026."
    },
    {
     "agree": true,
-    "point": "Cash conversion ratio stayed above 1.0, matching cash‑flow strength narrative"
+    "point": "Cash conversion is strong, with 5-year operating cash flow at 123% of profit and Mar 2026 OCF at ₹2,668 crore."
+   },
+   {
+    "agree": true,
+    "point": "Deleveraging materialised as D/E dropped from 2.0 in Mar 2022 to 0.3 in Sep 2026."
    }
   ],
   "bull": [
-   "Revenue grew 21.9% YoY in Sep 2026 (₹5,873 cr)",
-   "EBITDA margin reached 19% in Mar 2026, up 500 bps over three years",
-   "Operating cash flow of ₹2,668 cr in Mar 2026 exceeds PAT of ₹1,721 cr (OCF/PAT 1.55)"
+   "Revenue grew 21.9% YoY in Sep 2026 to ₹5,873 crore, while maintaining an 18.0% EBITDA margin.",
+   "Operating cash flow expanded to ₹2,668 crore in Mar 2026 with a strong 5-year cash conversion rate of 123%.",
+   "Balance sheet deleveraging reduced D/E from 2.0 in Mar 2022 to 0.3 in Sep 2026."
   ],
   "bear": [
-   "Profit growth (63.5% over 3y) outpaces revenue (34.5%), indicating rising leverage risk",
-   "Debt‑to‑Equity rose to 0.37 in Mar 2026 after a dip, showing borrowing rebounded",
-   "No disclosed energy metrics make sustainability promises unverifiable"
+   "PAT growth fell to 2.6% YoY in Dec 2025 despite revenue increasing by 14.8%.",
+   "Mar 2025 PAT dropped 56.2% YoY to ₹312 crore, showing quarterly profit volatility.",
+   "Free cash flow of ₹931 crore in Mar 2026 trailed operating cash flow of ₹2,668 crore due to capex."
   ],
   "watch": [
-   "Energy intensity per sq ft in next quarter",
-   "Total renewable energy share by FY27",
-   "Debt level trend post‑Sep 2026"
+   "Dec 2026 revenue YoY growth and EBITDA margin trends.",
+   "Free cash flow generation relative to operating cash flow.",
+   "ESG energy intensity updates for FY27 target progress."
   ]
  },
  "ledger_ok": true,
@@ -551,27 +555,27 @@
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 1990,
-   "out": 1198,
-   "secs": 3.2,
-   "cached": true,
+   "model": "gemini-3.6-flash",
+   "in": 2198,
+   "out": 3691,
+   "secs": 17.2,
+   "cached": false,
    "fallback": false
   }
  ],
  "promise_source": "annual_report",
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 3,
-  "fresh_calls": 0,
-  "tokens_in": 29603,
-  "tokens_out": 1823,
+  "fresh_calls": 1,
+  "tokens_in": 29811,
+  "tokens_out": 4316,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 0.9
+  "secs": 18.0
  }
 }

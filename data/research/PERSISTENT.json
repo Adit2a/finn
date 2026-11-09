@@ -2,12 +2,12 @@
  "symbol": "PERSISTENT",
  "name": "Persistent Systems Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T20:21:08",
+ "generated_at": "2026-11-09T13:51:36",
  "latest_call": "Oct 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 99980.0,
-   "pe": 53.5,
+   "market_cap_cr": 99749.0,
+   "pe": 53.4,
    "roce": 34.4,
    "roe": 27.2,
    "ttm_revenue": 16801.0,
@@ -838,11 +838,11 @@
   "promise_ledger": [
    {
     "ref": "g2.1",
-    "promise": "Achieve EBIT margin 16-17% range over time",
-    "made_in": "Q4 FY26 call",
-    "delivered": "Q2 FY27 EBIT margin 10.0% below target",
-    "verdict": "missed",
-    "checked_against": "Q2 FY27 EBIT%",
+    "promise": "Achieve EBIT margin aspiration in the 16 to 17% range over time",
+    "made_in": "Q4 FY26",
+    "delivered": "EBIT margin fell to 13.5% in Jun 2026 and 10.0% in Sep 2026; reiterated in Q2 FY27.",
+    "verdict": "too_early",
+    "checked_against": "Jun 2026 and Sep 2026 EBIT%",
     "quote": "Our aspiration continues to be in the 16 to 17% range.",
     "page": 26,
     "verified": true,
@@ -850,11 +850,11 @@
    },
    {
     "ref": "g1.1",
-    "promise": "Reach $2B annual revenue by March 2027",
-    "made_in": "Q3 FY26 call",
-    "delivered": "Revenue Sep 2026 4664 ₹ crore; USD conversion not provided",
+    "promise": "Reach $2 billion in annual revenue by March 2027",
+    "made_in": "Q3 FY26",
+    "delivered": "Horizon is March 2027. Full year FY26 revenue reached ₹14,748 crore ($1.65 billion reported on call).",
     "verdict": "too_early",
-    "checked_against": "Q2 FY27 revenue",
+    "checked_against": "March 2027 annual revenue target",
     "quote": "I am also happy to share that we remain firmly on track, advancing confidently towards our aspiration of $2 billion by March 2027 and laying the foundation of $5 billion by March 2031.",
     "page": 6,
     "verified": true,
@@ -862,49 +862,61 @@
    },
    {
     "ref": "g3.1",
-    "promise": "Transaction close Q4 CY2026 or early Q1 CY2027",
-    "made_in": "Q1 FY27 call",
-    "delivered": "No closure reported as of Sep 2026",
+    "promise": "Expect transaction to close in Q4 CY2026 or early Q1 CY2027",
+    "made_in": "Q1 FY27",
+    "delivered": "Reiterated in Q2 FY27. Management secured 94.04% share capital by Q2 FY27; closure target pending.",
     "verdict": "too_early",
-    "checked_against": "none",
+    "checked_against": "Nagarro acquisition closing timeline",
     "quote": "we expect this transaction to close sometime towards the Q4 of Calendar Year 2026 or early Q1 of Calendar Year 2027.",
     "page": 13,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf"
+   },
+   {
+    "ref": "g4.3",
+    "promise": "Incur incremental Nagarro transaction expenses of USD 25 to 30 million over next two quarters",
+    "made_in": "Q2 FY27",
+    "delivered": "Pending execution over Q3 FY27 and Q4 FY27.",
+    "verdict": "too_early",
+    "checked_against": "Transaction expenses in Q3-Q4 FY27",
+    "quote": "Over the next two quarters, we expect an incremental amount ranging between USD 25 to 30 million to be incurred towards the Nagarro transaction.",
+    "page": 9,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf"
    }
   ],
   "credibility": {
    "score": null,
-   "line": "Only one promise can be checked against reported numbers so far — too few to score."
+   "line": "None of these promises can be checked against reported numbers yet — no score."
   },
   "narrative_vs_numbers": [
    {
     "agree": false,
-    "point": "Management touts margin improvement but EBIT% fell to 10% versus 16‑17% target."
-   },
-   {
-    "agree": false,
-    "point": "Revenue growth strong (30.2% YoY) yet no evidence of $2B USD revenue target."
+    "point": "Management claimed 15% EBIT margin in Q2 FY27 call, but reported EBIT margin was 10.0%."
    },
    {
     "agree": true,
-    "point": "Operating cash flow (0.95 × PAT) confirms cash‑conversion claim."
+    "point": "Revenue growth narrative aligns with numbers as YoY revenue growth accelerated to 30.2% in Sep 2026."
+   },
+   {
+    "agree": false,
+    "point": "PAT YoY dropped -25.3% in Sep 2026 despite 30.2% top-line growth, showing sharp profitability pressure."
    }
   ],
   "bull": [
-   "Revenue YoY 30.2% in Q2 FY27 shows accelerating growth.",
-   "Low leverage with D/E 0.07 indicates strong balance sheet.",
-   "Operating cash flow nearly equals profit, confirming cash conversion strength."
+   "Revenue YoY growth accelerated continuously from 23.4% in Dec 2025 to 30.2% in Sep 2026.",
+   "5-year operating cash conversion is strong at 101% of profit, with FY26 OCF reaching ₹1,767 crore.",
+   "Virtually debt-free balance sheet with D/E ratio remaining low at 0.07 in Sep 2026."
   ],
   "bear": [
-   "EBIT margin 10% far below 16‑17% aspiration.",
-   "EBITDA margin slipped to 14% in Q2 FY27 from 19% earlier.",
-   "Net profit down 25.3% YoY in Q2 FY27."
+   "EBIT margin collapsed 670 bps from 16.7% in Dec 2025 to 10.0% in Sep 2026.",
+   "PAT fell 25.3% YoY in Sep 2026 to ₹352 crore despite 30.2% revenue growth.",
+   "Cash cycle stretched by 21 days over 2 years, expanding from 62 to 83 days."
   ],
   "watch": [
-   "Will EBIT margin improve toward 16% target?",
-   "Will revenue sustain >30% YoY growth?",
-   "Will incremental Nagarro transaction expense appear in next quarter?"
+   "EBIT margin trajectory relative to the 16-17% aspirational goal.",
+   "Completion of Nagarro acquisition and impact of $25-30M transaction costs.",
+   "PAT YoY recovery after -25.3% drop in Sep 2026."
   ]
  },
  "ledger_ok": true,
@@ -945,26 +957,26 @@
    "cached": true
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 3326,
-   "out": 1885,
-   "secs": 50.7,
+   "model": "gemini-3.6-flash",
+   "in": 3686,
+   "out": 4226,
+   "secs": 19.6,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
   "fresh_calls": 1,
-  "tokens_in": 77803,
-  "tokens_out": 5905,
+  "tokens_in": 78163,
+  "tokens_out": 8246,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 51.3
+  "secs": 20.9
  }
 }

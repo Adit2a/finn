@@ -2,12 +2,12 @@
  "symbol": "ASTRAL",
  "name": "Astral Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T20:20:52",
+ "generated_at": "2026-11-09T13:48:11",
  "latest_call": "Aug 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 33839.0,
-   "pe": 57.2,
+   "market_cap_cr": 34328.0,
+   "pe": 58.0,
    "roce": 19.2,
    "roe": 13.9,
    "ttm_revenue": 7196.0,
@@ -842,12 +842,48 @@
  "ledger": {
   "promise_ledger": [
    {
+    "ref": "g1.2",
+    "promise": "Paint business full year FY26 growth guidance of 20%",
+    "made_in": "Q2 FY26",
+    "delivered": "Management reported delivering 23% growth in the paint industry for full year FY26 in Q4 FY26 call.",
+    "verdict": "delivered",
+    "checked_against": "Management reported FY26 paint growth in Q4 FY26",
+    "quote": "This year we have given a guidance of 20% growth for the full year and we are going to achieve it as per the guidance given by us.",
+    "page": 3,
+    "verified": true,
+    "url": "https://www.astralltd.com/wp-content/uploads/2025/11/Transcript.pdf"
+   },
+   {
+    "ref": "g1.3",
+    "promise": "Full year FY26 capex between Rs. 300 to Rs. 350 crores",
+    "made_in": "Q2 FY26",
+    "delivered": "Management confirmed spending ~360 crores in FY26, exceeding the 300-350 crore guidance range.",
+    "verdict": "missed",
+    "checked_against": "Management capex commentary in Q4 FY26",
+    "quote": "So for full layer Rs. 300 crores-Rs. 350 crores that previously we guided that remains the same?... So whatever we have given the guidance it is going to remain same.",
+    "page": 13,
+    "verified": true,
+    "url": "https://www.astralltd.com/wp-content/uploads/2025/11/Transcript.pdf"
+   },
+   {
+    "ref": "g1.1",
+    "promise": "UK business EBITDA margin to return to double digits next year",
+    "made_in": "Q2 FY26",
+    "delivered": "Management later lowered full year FY27 UK EBITDA margin guidance to 8%-10% in Q1 FY27.",
+    "verdict": "walked_back",
+    "checked_against": "Q1 FY27 guidance (g4.7)",
+    "quote": "what Sandeep bhai said we are confident that we will come back to our original double digit kind of EBITDA margin in the next year.",
+    "page": 4,
+    "verified": true,
+    "url": "https://www.astralltd.com/wp-content/uploads/2025/11/Transcript.pdf"
+   },
+   {
     "ref": "g4.2",
-    "promise": "Plumbing volume growth minimum double-digit FY27",
-    "made_in": "Q1 FY27 call",
-    "delivered": "Overall revenue YoY 26.1% in Q2 FY27 suggests strong growth but segment not disclosed",
+    "promise": "Plumbing volume growth of minimum double-digit for full year FY27",
+    "made_in": "Q1 FY27",
+    "delivered": "Delivered flat volume growth in Q1 FY27 per management commentary; full year outcome pending.",
     "verdict": "too_early",
-    "checked_against": "Q2 FY27 revenue YoY%",
+    "checked_against": "Management Q1 FY27 commentary",
     "quote": "So we have given the guidance of minimum double-digit growth for volume. And EBITDA, we have given 16% to 18%.",
     "page": 17,
     "verified": true,
@@ -855,60 +891,49 @@
    },
    {
     "ref": "g4.3",
-    "promise": "Plumbing EBITDA margin 16-18% FY27",
-    "made_in": "Q1 FY27 call",
-    "delivered": "Overall EBITDA% 13% in Q2 FY27, below guidance range",
-    "verdict": "missed",
-    "checked_against": "Q2 FY27 EBITDA%",
+    "promise": "Plumbing EBITDA margin guidance of 16% to 18% for FY27",
+    "made_in": "Q1 FY27",
+    "delivered": "Overall EBITDA margin dropped to 13.0% in Q2 FY27; segment EBITDA margin is not reported.",
+    "verdict": "too_early",
+    "checked_against": "Q2 FY27 reported company EBITDA margin (13.0%)",
     "quote": "right now, our guidance will remain to 16% to 18%. We will change our guidance if needed post Q2.",
     "page": 9,
-    "verified": true,
-    "url": "https://www.astralltd.com/wp-content/uploads/2026/08/Equirus-Astral-Aug12-2026-1.pdf"
-   },
-   {
-    "ref": "g4.4",
-    "promise": "Paint top line growth 20-25% FY27",
-    "made_in": "Q1 FY27 call",
-    "delivered": "Overall revenue YoY 26.1% in Q2 FY27 exceeds range",
-    "verdict": "delivered",
-    "checked_against": "Q2 FY27 revenue YoY%",
-    "quote": "Paint, we have given guidance of 20% to 25% kind of top line growth.",
-    "page": 17,
     "verified": true,
     "url": "https://www.astralltd.com/wp-content/uploads/2026/08/Equirus-Astral-Aug12-2026-1.pdf"
    }
   ],
   "credibility": {
-   "score": 3,
-   "line": "Guidance often lacks segment data; few promises verifiable, raising doubt."
+   "score": 6,
+   "line": "Achieved FY26 paint growth guidance but exceeded capex budget and walked back UK margin targets."
   },
   "narrative_vs_numbers": [
    {
     "agree": false,
-    "point": "Management touts double-digit margins but overall EBITDA fell to 13% in Q2 FY27"
-   },
-   {
-    "agree": true,
-    "point": "Paint growth claim aligns with 26.1% revenue YoY in Q2 FY27"
+    "point": "Management guided 16-18% plumbing EBITDA margins, but company overall EBITDA margin declined to 13.0% in Q2 FY27."
    },
    {
     "agree": false,
-    "point": "Plumbing margin guidance of 16-18% not met by overall 13% EBITDA%"
+    "point": "Management reported flat plumbing volume in Q1 FY27 despite company revenue growing 15.9% YoY in Q1 FY27."
+   },
+   {
+    "agree": true,
+    "point": "Operating cash flow reached ₹1,117 crore in Mar 2026, consistent with strong 5-year cash conversion of 143%."
    }
   ],
   "bull": [
-   "Paint revenue growth 26.1% YoY in Q2 FY27 exceeds guidance",
-   "EBITDA% 18% in Mar 2026 shows strong profitability",
-   "Operating cash flow 1117 crore in FY26 indicates cash strength"
+   "Operating cash flow grew to ₹1,117 crore in FY26 with FCF of ₹661 crore.",
+   "Paint business delivered 23% growth in FY26, beating management's 20% guidance.",
+   "Practically debt-free balance sheet with D/E of 0.08 and 5-year cash conversion of 1.43."
   ],
   "bear": [
-   "Overall EBITDA% dropped to 13% in Q2 FY27, below margin guidance",
-   "Plumbing EBITDA margin guidance missed with 13% overall",
-   "Borrowings rose to 333 crore, increasing leverage"
+   "Company EBITDA margin compressed to 13.0% in Sep 2026, down 300 bps YoY.",
+   "Total borrowings increased nearly 3x from ₹119 crore in Mar 2024 to ₹333 crore in Sep 2026.",
+   "Management walked back UK adhesive EBITDA margin guidance from double digits to 8-10% for FY27."
   ],
   "watch": [
-   "Segment-level margins for UK adhesive and plumbing",
-   "Actual capex spend vs FY27 target 300-350 crore"
+   "Plumbing volume recovery following flat growth in Q1 FY27.",
+   "Overall EBITDA margin trend after falling to 13.0% in Q2 FY27.",
+   "FY27 capex execution against the ₹300-350 crore guidance."
   ]
  },
  "ledger_ok": true,
@@ -949,26 +974,26 @@
    "cached": true
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 3144,
-   "out": 2695,
-   "secs": 15.0,
+   "model": "gemini-3.6-flash",
+   "in": 3444,
+   "out": 4319,
+   "secs": 72.0,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
   "fresh_calls": 1,
-  "tokens_in": 66547,
-  "tokens_out": 6506,
+  "tokens_in": 66847,
+  "tokens_out": 8130,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 15.5
+  "secs": 73.1
  }
 }
