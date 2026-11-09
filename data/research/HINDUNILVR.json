@@ -2,12 +2,12 @@
  "symbol": "HINDUNILVR",
  "name": "Hindustan Unilever Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:25:20",
+ "generated_at": "2026-11-09T13:57:33",
  "latest_call": "Nov 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 470013.0,
-   "pe": 42.0,
+   "market_cap_cr": 467334.0,
+   "pe": 41.7,
    "roce": 28.4,
    "roe": 31.0,
    "ttm_revenue": 68359.0,
@@ -398,6 +398,11 @@
  "sources": [
   {
    "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2eb875fe-ef79-4b40-88b8-228ccc8be17e.pdf"
+  },
+  {
+   "kind": "transcript",
    "label": "Q3 FY26 call",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38a5c0b9-6eee-4de5-bdd8-98ac200204cc.pdf"
   },
@@ -412,11 +417,6 @@
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f8bf7fdd-0f7d-4440-a443-08ea9a8e6d04.pdf"
   },
   {
-   "kind": "transcript",
-   "label": "Q2 FY27 call",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d90194e-b9dc-48b0-b48e-3de0d0ef5f6d.pdf"
-  },
-  {
    "kind": "annual_report",
    "label": "Annual Report 2026",
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/881493e4-75af-4a7f-8c64-9d0886e63f1d.pdf"
@@ -425,6 +425,115 @@
  "calls": [
   {
    "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2eb875fe-ef79-4b40-88b8-228ccc8be17e.pdf",
+   "pages": 43,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Reported EBITDA margin to improve 50-60 bps post Ice Cream demerger",
+     "horizon": "December quarter onwards",
+     "low": 50,
+     "high": 60,
+     "unit": "bps",
+     "quote": "Our current near to mid-term guidance is 22-23%, hence everything else being equal, Ice Cream demerger adds 50-60 bps to this guidance.",
+     "page": 12,
+     "speaker": "Ritesh Tiwari",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Near to mid-term EBITDA margin guidance of 22-23%",
+     "horizon": "near to mid-term",
+     "low": 22,
+     "high": 23,
+     "unit": "%",
+     "quote": "Our current near to mid-term guidance is 22-23%, hence everything else being equal, Ice Cream demerger adds 50-60 bps to this guidance.",
+     "page": 12,
+     "speaker": "Ritesh Tiwari",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Expect second half volume growth to be better than first half",
+     "horizon": "second half of financial year",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "Overall, we expect growth of second half of this financial year to be better than the first half.",
+     "page": 12,
+     "speaker": "Ritesh Tiwari",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Expect low-single digit price growth if commodity prices remain unchanged",
+     "horizon": "near term",
+     "low": null,
+     "high": null,
+     "unit": "%",
+     "quote": "If commodity prices remain where they are, we expect a low-single digit price growth.",
+     "page": 12,
+     "speaker": "Ritesh Tiwari",
+     "verified": true,
+     "id": "g1.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered 2% Underlying Sales Growth with a turnover of Rs. 16,061 crores.",
+     "quote": "With a turnover of Rs. 16,061 crores we had a 2% Underlying Sales Growth in the quarter.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Gross margin stood at 50.9%, almost flat year-on-year, and improved 130 bps sequentially.",
+     "quote": "Gross Margin stood at 50.9%, almost flat year-on-year... On a sequential basis, our gross margin has seen a 130 bps improvement",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "claim": "EBITDA at 23.2% was down 90 basis points year-on-year.",
+     "quote": "EBITDA at 23.2% was down 90 basis points year on year, in line with our stated intent to continue investing in the business.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Delivered first half USG of 3% led by 2% Underlying Volume Growth.",
+     "quote": "From a first-half perspective, we delivered a USG of 3% led by 2% Underlying Volume Growth.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "GST impact on demand and destocking normalization timeline",
+     "quote": "So, my specific question here is, has the GST-related destocking been more in rural areas for you and for the sector?",
+     "page": 20,
+     "verified": true
+    },
+    {
+     "topic": "Trade-off between volume growth and operating margins",
+     "quote": "Any thoughts on -- is there a trade-off between growth and margins, as HUL looks into the next few years",
+     "page": 23,
+     "verified": true
+    },
+    {
+     "topic": "Volume growth elasticity and recovery after GST price cuts",
+     "quote": "So, my specific question, once everything normalizes, say, start of November, ex of the grammage increase... do you see customers actually buying more FMCG in terms of volumes?",
+     "page": 18,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and focused on volume-led growth and strategic execution."
+  },
+  {
+   "n": 2,
    "quarter": "Q3 FY26",
    "date": "Feb 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38a5c0b9-6eee-4de5-bdd8-98ac200204cc.pdf",
@@ -442,7 +551,7 @@
      "page": 13,
      "speaker": "Niranjan Gupta",
      "verified": true,
-     "id": "g1.1"
+     "id": "g2.1"
     },
     {
      "metric": "margin",
@@ -455,7 +564,7 @@
      "page": 13,
      "speaker": "Niranjan Gupta",
      "verified": true,
-     "id": "g1.2"
+     "id": "g2.2"
     }
    ],
    "claims": [
@@ -495,7 +604,7 @@
    "tone": "Confident and optimistic about consumption recovery and internal strategic transformation actions."
   },
   {
-   "n": 2,
+   "n": 3,
    "quarter": "Q4 FY26",
    "date": "May 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55988411-440d-4801-8c08-90a5908c4a04.pdf",
@@ -513,7 +622,7 @@
      "page": 14,
      "speaker": "Niranjan Gupta",
      "verified": true,
-     "id": "g2.1"
+     "id": "g3.1"
     },
     {
      "metric": "revenue growth",
@@ -526,7 +635,7 @@
      "page": 14,
      "speaker": "Niranjan Gupta",
      "verified": true,
-     "id": "g2.2"
+     "id": "g3.2"
     },
     {
      "metric": "capex",
@@ -539,7 +648,7 @@
      "page": 5,
      "speaker": "Priya Nair",
      "verified": true,
-     "id": "g2.3"
+     "id": "g3.3"
     }
    ],
    "claims": [
@@ -579,7 +688,7 @@
    "tone": "Confident, resolute and operationally agile amidst volatile commodity environments."
   },
   {
-   "n": 3,
+   "n": 4,
    "quarter": "Q1 FY27",
    "date": "Aug 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f8bf7fdd-0f7d-4440-a443-08ea9a8e6d04.pdf",
@@ -597,7 +706,7 @@
      "page": 9,
      "speaker": "Niranjan Gupta",
      "verified": true,
-     "id": "g3.1"
+     "id": "g4.1"
     },
     {
      "metric": "revenue growth",
@@ -610,7 +719,7 @@
      "page": 9,
      "speaker": "Niranjan Gupta",
      "verified": true,
-     "id": "g3.2"
+     "id": "g4.2"
     }
    ],
    "claims": [
@@ -648,76 +757,6 @@
     }
    ],
    "tone": "Confident in portfolio resilience and demand stability while exercising operational discipline amid external volatility."
-  },
-  {
-   "n": 4,
-   "quarter": "Q2 FY27",
-   "date": "Nov 2026",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d90194e-b9dc-48b0-b48e-3de0d0ef5f6d.pdf",
-   "pages": 26,
-   "scanned": false,
-   "guidance": [
-    {
-     "metric": "margin",
-     "promise": "Expect medium-term EBITDA Margin to be within the current guided range of 22% to 24%.",
-     "horizon": "medium-term",
-     "low": 22,
-     "high": 24,
-     "unit": "%",
-     "quote": "We expect medium-term EBITDA Margin to be within the current guided range of 22% to 24%.",
-     "page": 9,
-     "speaker": "Niranjan Gupta",
-     "verified": true,
-     "id": "g4.1"
-    }
-   ],
-   "claims": [
-    {
-     "claim": "Delivered Turnover of Rs. 18,071 crores with 15% Underlying Sales Growth.",
-     "quote": "we delivered a Turnover of Rs. 18,071 crores with a 15% Underlying Sales Growth, our highest in the last 14 quarters.",
-     "page": 4,
-     "verified": true
-    },
-    {
-     "claim": "Underlying Volume Growth remained strong at 7%.",
-     "quote": "Underlying Volume Growth remained strong at 7%, underpinned by disciplined execution and ongoing portfolio transformation.",
-     "page": 4,
-     "verified": true
-    },
-    {
-     "claim": "PAT before exceptional items grew 9% to Rs. 2,795 crores.",
-     "quote": "Profit After Tax before exceptional items growing 9% to Rs. 2,795 crores.",
-     "page": 4,
-     "verified": true
-    },
-    {
-     "claim": "Home Care and Beauty & Wellbeing delivered strong double-digit USG.",
-     "quote": "Home Care and Beauty & Wellbeing delivering strong double-digit USG driven by strong double-digit UVG.",
-     "page": 4,
-     "verified": true
-    }
-   ],
-   "pushback": [
-    {
-     "topic": "Volume growth momentum and rural demand sustainability",
-     "quote": "do you worry about any moderation in volume growth momentum ahead? And what are you witnessing on the ground, particularly in rural",
-     "page": 9,
-     "verified": true
-    },
-    {
-     "topic": "Gross margins and inflation pass-through",
-     "quote": "do you think Gross Margins have kind of bottomed out in this quarter? Or you think one should continue to see some more pressure on Gross Margin trajectory",
-     "page": 10,
-     "verified": true
-    },
-    {
-     "topic": "Earnings growth vs revenue growth and operating leverage",
-     "quote": "The earning growth seems to be a bit lacklustre. And especially coming from Home Care and if I may say, just the soaps portfolio",
-     "page": 15,
-     "verified": true
-    }
-   ],
-   "tone": "Confident and resilient, highlighting strong volume-led growth and strategic execution."
   }
  ],
  "business": {
@@ -782,107 +821,91 @@
   "promise_ledger": [
    {
     "ref": "g1.2",
-    "promise": "Consolidated EBITDA margin to stay around guided range.",
-    "made_in": "Q3 FY26 call",
-    "delivered": "Dec 2025 EBITDA margin was 23.0% and Mar 2026 was 23.0%, staying within the guided 22.5%-23.5% range.",
+    "promise": "Near to mid-term EBITDA margin guidance of 22-23%.",
+    "made_in": "Q2 FY26",
+    "delivered": "EBITDA margin remained at 23.0% for three quarters before landing at 22.0% in Sep 2026.",
     "verdict": "delivered",
-    "checked_against": "Dec 2025 and Mar 2026 EBITDA%",
-    "quote": "we expect consolidated EBITDA margin to stay around the guided range.",
-    "page": 13,
+    "checked_against": "Dec 2025 to Sep 2026 quarterly EBITDA%",
+    "quote": "Our current near to mid-term guidance is 22-23%, hence everything else being equal, Ice Cream demerger adds 50-60 bps to this guidance.",
+    "page": 12,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38a5c0b9-6eee-4de5-bdd8-98ac200204cc.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2eb875fe-ef79-4b40-88b8-228ccc8be17e.pdf"
    },
    {
     "ref": "g2.1",
-    "promise": "Mid-term margin guidance to remain around 22.5% to 23.5%.",
-    "made_in": "Q4 FY26 call",
-    "delivered": "Jun 2026 EBITDA margin was 23.0%, within the 22.5%-23.5% range.",
-    "verdict": "delivered",
-    "checked_against": "Jun 2026 EBITDA%",
-    "quote": "we expect the mid-term margin guidance to remain around our current guided range of 22.5% to 23.5%.",
-    "page": 14,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55988411-440d-4801-8c08-90a5908c4a04.pdf"
-   },
-   {
-    "ref": "g1.1",
     "promise": "FY27 revenue growth expected to be better than FY26.",
-    "made_in": "Q3 FY26 call",
-    "delivered": "FY26 revenue growth was 5.1% (64468.0 vs 61328.0), while Jun 2026 was 10.1% and Sep 2026 was 14.5% Rev YoY.",
-    "verdict": "delivered",
-    "checked_against": "Jun 2026 and Sep 2026 Rev YoY%",
+    "made_in": "Q3 FY26",
+    "delivered": "Full-year FY27 incomplete; Q1 FY27 and Q2 FY27 reported 10.1% and 14.5% revenue YoY growth.",
+    "verdict": "too_early",
+    "checked_against": "Jun 2026 and Sep 2026 revenue YoY%",
     "quote": "expect growth in financial year'27 to be better than financial year'26.",
     "page": 13,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38a5c0b9-6eee-4de5-bdd8-98ac200204cc.pdf"
    },
    {
-    "ref": "g2.3",
+    "ref": "g3.3",
     "promise": "Committed Rs 2,000 crores of capex investments in premium formats.",
-    "made_in": "Q4 FY26 call",
-    "delivered": "Management reported a commitment of Rs. 2,000 crores, but specific capex outlay figures are not isolated in the reported data.",
+    "made_in": "Q4 FY26",
+    "delivered": "Capex deployment is ongoing; segment-level capital expenditure is not detailed in reported quarterly numbers.",
     "verdict": "too_early",
-    "checked_against": "Reported cash flows and capex lines",
+    "checked_against": "Annual capex and segment reports",
     "quote": "For instance, we have recently committed Rs. 2,000 crores of capex investments in premium formats of Beauty and Home Care.",
     "page": 5,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55988411-440d-4801-8c08-90a5908c4a04.pdf"
-   },
-   {
-    "ref": "g4.1",
-    "promise": "Expect medium-term EBITDA Margin to be within guided range of 22% to 24%.",
-    "made_in": "Q2 FY27 call",
-    "delivered": "Sep 2026 EBITDA margin reported at 22.0%, sitting at the lower boundary of the 22% to 24% range.",
-    "verdict": "delivered",
-    "checked_against": "Sep 2026 EBITDA%",
-    "quote": "We expect medium-term EBITDA Margin to be within the current guided range of 22% to 24%.",
-    "page": 9,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d90194e-b9dc-48b0-b48e-3de0d0ef5f6d.pdf"
    }
   ],
   "credibility": {
-   "score": 9,
-   "line": "Consistently delivers within stated EBITDA margin ranges while revenue growth accelerated to 14.5% by Sep 2026."
+   "score": null,
+   "line": "Only one promise can be checked against reported numbers so far — too few to score."
   },
   "narrative_vs_numbers": [
    {
     "agree": true,
-    "point": "Revenue growth accelerated from -0.1% in Dec 2024 to 14.5% YoY in Sep 2026, aligning with upbeat guidance."
-   },
-   {
-    "agree": true,
-    "point": "EBITDA margins remained disciplined, printing between 22.0% and 24.0% across quarters matching the guided mid-term ranges."
+    "point": "Revenue YoY growth accelerated from -0.0% in Sep 2025 to 14.5% in Sep 2026, validating management's growth trajectory."
    },
    {
     "agree": false,
-    "point": "While operating cash flow was robust at Rs 10,999 crore in Mar 2026, OCF/PAT dropped to 0.73 from 1.50 in FY24."
+    "point": "Management guided 22.5%-23.5% EBITDA margin, but Sep 2026 reported EBITDA margin dropped to 22.0%."
+   },
+   {
+    "agree": false,
+    "point": "Operating cash flow conversion deteriorated to 0.73 OCF/PAT in Mar 2026 from 1.11 in Mar 2025."
    }
   ],
   "bull": [
-   "Revenue growth accelerated over four quarters, reaching 14.5% YoY in Sep 2026.",
-   "Practically debt-free balance sheet with a D/E ratio of 0.03 as of Sep 2026.",
-   "High profitability metrics demonstrated by a ROCE of 28.4% and ROE of 31.0%."
+   "Revenue YoY growth accelerated sharply from 5.7% in Dec 2025 to 14.5% in Sep 2026.",
+   "Strong return profile with ROCE of 28.4%, ROE of 31.0%, and minimal debt-to-equity ratio of 0.03.",
+   "Robust 5-year operating cash conversion averaging 104% of reported net profit."
   ],
   "bear": [
-   "Operating cash flow to PAT ratio weakened to 0.73 in Mar 2026 down from 1.50 in Mar 2024.",
-   "EBITDA margin softened to 22.0% in Sep 2026, hitting the lower bound of the medium-term 22% to 24% range.",
-   "Free cash flow declined to Rs 9,667 crores in Mar 2026 compared to Rs 14,012 crores in Mar 2024."
+   "EBITDA margin dropped to 22.0% in Sep 2026, below the guided 22.5%-23.5% range.",
+   "Operating cash flow fell to Rs 10,999 crore in Mar 2026, lowering OCF/PAT to 0.73.",
+   "EBIT margin steadily declined from 21.7% in Sep 2025 to 20.4% in Sep 2026."
   ],
   "watch": [
-   "Whether EBITDA margin recovers from the 22.0% reported in Sep 2026.",
-   "Continuation of the revenue acceleration trend beyond the 14.5% reported in Sep 2026.",
-   "Improvement in OCF/PAT conversion from the 0.73 level recorded in Mar 2026."
+   "EBITDA margin recovery into the guided 22.5%-23.5% range in Q3 FY27.",
+   "Cash flow conversion improvement back toward historical >1.0 OCF/PAT levels.",
+   "Sustainability of revenue growth following Sep 2026's 14.5% YoY performance."
   ]
  },
  "ledger_ok": true,
  "usage": [
   {
    "model": "gemini-3.5-flash-lite",
+   "in": 22361,
+   "out": 1056,
+   "secs": 4.3,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
    "in": 18237,
    "out": 576,
    "secs": 4.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -890,7 +913,7 @@
    "in": 18889,
    "out": 790,
    "secs": 3.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -898,15 +921,7 @@
    "in": 13863,
    "out": 624,
    "secs": 3.2,
-   "cached": false,
-   "fallback": false
-  },
-  {
-   "model": "gemini-3.5-flash-lite",
-   "in": 14309,
-   "out": 626,
-   "secs": 3.4,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -914,29 +929,30 @@
    "in": 11833,
    "out": 364,
    "secs": 2.7,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
-   "in": 3111,
-   "out": 1202,
-   "secs": 4.1,
+   "model": "gemini-3.6-flash",
+   "in": 3331,
+   "out": 4631,
+   "secs": 22.2,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 80242,
-  "tokens_out": 4182,
+  "fresh_calls": 2,
+  "tokens_in": 88514,
+  "tokens_out": 8041,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 27.1
+  "secs": 28.6
  }
 }

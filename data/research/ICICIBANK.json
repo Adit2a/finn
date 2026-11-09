@@ -2,12 +2,12 @@
  "symbol": "ICICIBANK",
  "name": "ICICI Bank Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:25:47",
+ "generated_at": "2026-11-09T13:58:10",
  "latest_call": "Jul 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 1125432.0,
-   "pe": 19.0,
+   "market_cap_cr": 1134628.0,
+   "pe": 19.2,
    "roce": 7.18,
    "roe": 15.9,
    "ttm_revenue": 206190.0,
@@ -253,12 +253,12 @@
  "sources": [
   {
    "kind": "transcript",
-   "label": "Q3 FY26 call",
+   "label": "Q3 FY26 (Jan) call",
    "url": "https://www.icici.bank.in/content/dam/icicibank/india/managed-assets/docs/about-us/2026/transcript-earnings-call-jan2026.pdf"
   },
   {
    "kind": "transcript",
-   "label": "Q3 FY26 call",
+   "label": "Q3 FY26 (Jan) call",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2941b192-7144-4566-874a-a0d4124a003f.pdf"
   },
   {
@@ -280,7 +280,7 @@
  "calls": [
   {
    "n": 1,
-   "quarter": "Q3 FY26",
+   "quarter": "Q3 FY26 (Jan)",
    "date": "Jan 2026",
    "url": "https://www.icici.bank.in/content/dam/icicibank/india/managed-assets/docs/about-us/2026/transcript-earnings-call-jan2026.pdf",
    "pages": 26,
@@ -288,8 +288,8 @@
    "guidance": [
     {
      "metric": "margin",
-     "promise": "NIM should remain range-bound from here on",
-     "horizon": "near future",
+     "promise": "Expect NIM to remain range-bound from here on",
+     "horizon": "near term",
      "low": null,
      "high": null,
      "unit": null,
@@ -302,9 +302,9 @@
    ],
    "claims": [
     {
-     "claim": "Core operating profit increased by 6.0% year-on-year to 175.13 billion Rupees.",
-     "quote": "The core operating profit increased by 6.0% year-on-year and 2.5% quarter-on-quarter to 175.13 billion Rupees in this quarter.",
-     "page": 2,
+     "claim": "Total deposits grew by 9.2% year-on-year and 2.9% sequentially at December 31, 2025.",
+     "quote": "Total deposits grew by 9.2% year-on-year and 2.9% sequentially at December 31, 2025.",
+     "page": 3,
      "verified": true
     },
     {
@@ -314,43 +314,43 @@
      "verified": true
     },
     {
-     "claim": "Net interest income increased by 7.7% year-on-year to 219.32 billion Rupees.",
+     "claim": "Net interest income increased by 7.7% year-on-year and 1.9% sequentially to 219.32 billion Rupees.",
      "quote": "Net interest income increased by 7.7% year-on-year and 1.9% sequentially to 219.32 billion Rupees in this quarter.",
      "page": 7,
      "verified": true
     },
     {
-     "claim": "Average LCR for the quarter was about 126%.",
-     "quote": "The Bank’s average LCR for the quarter was about 126%.",
+     "claim": "Profit after tax was 113.18 billion Rupees in this quarter.",
+     "quote": "The profit after tax was 113.18 billion Rupees in this quarter compared to 117.92 billion Rupees in Q3 of last year.",
      "page": 3,
      "verified": true
     }
    ],
    "pushback": [
     {
-     "topic": "Standard asset provision and PSL classification",
-     "quote": "So, what is the size of the portfolio on which these provisions were to be made? And what will be the impact on operating expenses now that you have that much lower priority portfolio? Also, what was the classification issue?",
+     "topic": "Standard asset provisions on agricultural priority sector",
+     "quote": "My first question is on the standard asset provision. So, what is the size of the portfolio on which these provisions were to be made?",
      "page": 11,
      "verified": true
     },
     {
-     "topic": "Credit card book growth slowdown",
-     "quote": "So, what is weighing on the overall credit card book growth? Is it merely a decline in the share of transactor loans following the festive pick-up in Q2, or there is more to read into it?",
+     "topic": "Credit card portfolio decline and growth trends",
+     "quote": "And the third one, specifically on the credit card. So, what is weighing on the overall credit card book growth?",
      "page": 13,
      "verified": true
     },
     {
      "topic": "CEO tenure extension duration",
-     "quote": "So, what is the thought process behind the Board seeking a two-year extension as opposed to a full three-year extension?",
+     "quote": "What is the thought process behind the Board seeking a two-year extension as opposed to a full three-year extension?",
      "page": 21,
      "verified": true
     }
    ],
-   "tone": "Confident, transparent, and measured regarding regulatory adjustments and business momentum."
+   "tone": "Confident, transparent, and measured while addressing regulatory impacts and margin stability."
   },
   {
    "n": 2,
-   "quarter": "Q3 FY26",
+   "quarter": "Q3 FY26 (Jan)",
    "date": "Jan 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2941b192-7144-4566-874a-a0d4124a003f.pdf",
    "pages": 47,
@@ -358,78 +358,65 @@
    "guidance": [
     {
      "metric": "margin",
-     "promise": "Expect NIMs to remain range bound reflecting repricing of benchmarks and competition.",
-     "horizon": "looking ahead",
-     "low": null,
-     "high": null,
-     "unit": null,
-     "quote": "Looking ahead, we do expect NIMs to remain more or less range bound, reflecting the repricing of the external benchmarks on loans and investments",
-     "page": 8,
-     "speaker": "Sandeep Batra",
-     "verified": true,
-     "id": "g2.1"
-    },
-    {
-     "metric": "other",
-     "promise": "Work towards repayment and renewal of agricultural PSL loans to make them in conformity with PSL guidelines.",
+     "promise": "NIMs to remain more or less range bound reflecting repricing of external benchmarks",
      "horizon": "going forward",
      "low": null,
      "high": null,
      "unit": null,
-     "quote": "We will work towards repayment and renewal of these loans to make them in conformity with the PSL guidelines, and our endeavour would be to minimise the PSL and provisioning impact.",
-     "page": 6,
+     "quote": "Looking ahead, we do expect NIMs to remain more or less range bound, reflecting the repricing of the external benchmarks on loans and investments, as you rightly pointed out.",
+     "page": 8,
      "speaker": "Sandeep Batra",
      "verified": true,
-     "id": "g2.2"
+     "id": "g2.1"
     }
    ],
    "claims": [
     {
-     "claim": "Net interest income increased by 7.7% year-on-year to ₹21,932 crore in Q3-2026.",
+     "claim": "Net interest income increased by 7.7% year-on-year to ₹21,932 crore in Q3-2026",
      "quote": "Net interest income increased by 7.7% year-on-year to ₹21,932 crore in Q3-2026",
      "page": 3,
      "verified": true
     },
     {
-     "claim": "Total period-end deposits increased by 9.2% year-on-year to ₹16,59,611 crore.",
+     "claim": "Profit after tax was ₹11,318 crore in Q3-2026",
+     "quote": "Profit after tax was ₹11,318 crore in Q3-2026",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Total period-end deposits increased by 9.2% year-on-year to ₹16,59,611 crore",
      "quote": "Total period-end deposits increased by 9.2% year-on-year to ₹16,59,611 crore at December 31, 2025",
      "page": 4,
      "verified": true
     },
     {
-     "claim": "Domestic loan portfolio grew by 11.5% year-on-year at December 31, 2025.",
+     "claim": "Domestic loan portfolio grew by 11.5% year-on-year at December 31, 2025",
      "quote": "The domestic loan portfolio grew by 11.5% year-on-year at December 31, 2025",
      "page": 4,
-     "verified": true
-    },
-    {
-     "claim": "Profit after tax was ₹11,318 crore in Q3-2026.",
-     "quote": "Profit after tax was ₹11,318 crore in Q3-2026",
-     "page": 3,
      "verified": true
     }
    ],
    "pushback": [
     {
-     "topic": "Agriculture PSL provisioning requirements and classification",
-     "quote": "Could you first, just simply explain what the bank was doing and what RBI required them to do differently?",
+     "topic": "RBI directed standard asset provisions on agriculture PSL portfolio",
+     "quote": "Could you first, just simply explain what the bank was doing and what RBI required them to do differently? What has prompted this kind of a change?",
      "page": 6,
      "verified": true
     },
     {
-     "topic": "CEO term duration extension",
+     "topic": "CEO term length set to two years",
      "quote": "Mr. Bakhshi getting a two-year extension, it was long awaited by the Street, but why specifically only the two-year term?",
      "page": 6,
      "verified": true
     },
     {
-     "topic": "Credit card portfolio performance and run-down",
-     "quote": "What is weighing on the overall credit card book growth? Is it merely a decline in the share of transactor loans following the festive pick-up in Q2, or there is more to read into it?",
-     "page": 34,
+     "topic": "Size and impact of the uncompliant agricultural PSL portfolio",
+     "quote": "Firstly, just repeat the size of the loan portfolio where there is misclassification. The numbers are pretty large, and it would be a significant share of your outstanding agriculture portfolio",
+     "page": 13,
      "verified": true
     }
    ],
-   "tone": "Confident, transparent, and resilient while addressing regulatory provisions and questions about strategy."
+   "tone": "Confident and transparent addressing regulatory observations while maintaining focus on risk-calibrated growth."
   },
   {
    "n": 3,
@@ -659,11 +646,11 @@
   "promise_ledger": [
    {
     "ref": "g1.1",
-    "promise": "NIM should remain range-bound from here on",
+    "promise": "Expect NIM to remain range-bound near term",
     "made_in": "Q3 FY26",
-    "delivered": "Management reiterated this view across subsequent calls (g2.1, g3.1, g4.1), maintaining expectations of range-bound NIMs.",
-    "verdict": "delivered",
-    "checked_against": "Subsequent call guidance",
+    "delivered": "NIM is not disclosed in the provided reported financial tables",
+    "verdict": "too_early",
+    "checked_against": "NIM not in reported numbers",
     "quote": "overall, we would stay with our view that the NIM should be range-bound from here on.",
     "page": 12,
     "verified": true,
@@ -671,25 +658,13 @@
    },
    {
     "ref": "g2.1",
-    "promise": "Expect NIMs to remain range bound reflecting repricing of benchmarks",
+    "promise": "NIMs to remain range bound reflecting loan/investment repricing",
     "made_in": "Q3 FY26",
-    "delivered": "Repeated in Q4 FY27 as range-bound expectations for FY27 (g3.1) and Q1 FY27 (g4.1).",
-    "verdict": "delivered",
-    "checked_against": "Subsequent call guidance",
-    "quote": "Looking ahead, we do expect NIMs to remain more or less range bound, reflecting the repricing of the external benchmarks on loans and investments",
-    "page": 8,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2941b192-7144-4566-874a-a0d4124a003f.pdf"
-   },
-   {
-    "ref": "g2.2",
-    "promise": "Work towards repayment and renewal of agricultural PSL loans",
-    "made_in": "Q3 FY26",
-    "delivered": "Endeavour stated to minimise PSL and provisioning impact; specific quantum not provided in data.",
+    "delivered": "NIM figure is not provided in reported numbers table",
     "verdict": "too_early",
-    "checked_against": "Management commentary",
-    "quote": "We will work towards repayment and renewal of these loans to make them in conformity with the PSL guidelines, and our endeavour would be to minimise the PSL and provisioning impact.",
-    "page": 6,
+    "checked_against": "NIM not in reported numbers",
+    "quote": "Looking ahead, we do expect NIMs to remain more or less range bound, reflecting the repricing of the external benchmarks on loans and investments, as you rightly pointed out.",
+    "page": 8,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2941b192-7144-4566-874a-a0d4124a003f.pdf"
    },
@@ -697,9 +672,9 @@
     "ref": "g3.1",
     "promise": "Expect NIMs to be range-bound in FY27",
     "made_in": "Q4 FY26",
-    "delivered": "Reaffirmed in Q1 FY27 call assuming no policy rate movements (g4.1).",
-    "verdict": "delivered",
-    "checked_against": "Subsequent call guidance",
+    "delivered": "FY27 is ongoing; NIM is not tracked in reported financials table",
+    "verdict": "too_early",
+    "checked_against": "NIM not in reported numbers",
     "quote": "We do expect NIMs to be range-bound in FY27.",
     "page": 8,
     "verified": true,
@@ -707,11 +682,11 @@
    },
    {
     "ref": "g4.1",
-    "promise": "Expect net interest margin to be range bound under current conditions",
+    "promise": "Expect net interest margin range bound assuming no policy rate moves",
     "made_in": "Q1 FY27",
-    "delivered": "Maintained consistent guidance across multiple quarters.",
-    "verdict": "delivered",
-    "checked_against": "Management guidance",
+    "delivered": "NIM figure is omitted from reported financial tables",
+    "verdict": "too_early",
+    "checked_against": "NIM not in reported numbers",
     "quote": "Based on current conditions and assuming no policy rate movements, I would say it should be range bound.",
     "page": 14,
     "verified": true,
@@ -719,55 +694,55 @@
    }
   ],
   "credibility": {
-   "score": 8,
-   "line": "Management has consistently guided for range-bound NIMs and maintained strategic commentary across quarters."
+   "score": null,
+   "line": "None of these promises can be checked against reported numbers yet — no score."
   },
   "narrative_vs_numbers": [
    {
     "agree": true,
-    "point": "PAT grew steadily from 13,481 crore in Dec 2025 to 17,389 crore in Sep 2026."
-   },
-   {
-    "agree": true,
-    "point": "Revenue YoY improved significantly to 16.2% in Sep 2026 compared to 2.8% in Dec 2025."
+    "point": "Revenue YoY growth re-accelerated from 2.5% in Mar 2026 to 16.2% in Sep 2026 (₹55,992 crore)."
    },
    {
     "agree": false,
-    "point": "Borrowings increased sharply from 220,264 crore in Mar 2026 to 295,561 crore in Sep 2026."
+    "point": "Management claimed Q1 FY27 PAT grew 15.9% YoY to ₹14,805 crore, but reported Jun 2026 PAT shows ₹16,276 crore (12.6% YoY)."
+   },
+   {
+    "agree": false,
+    "point": "Operating cash flow dropped 45.2% from ₹122,805 crore in Mar 2025 to ₹67,325 crore in Mar 2026 despite PAT growth."
    }
   ],
   "bull": [
-   "PAT grew 21.4% year-on-year to 17,389 crore in Sep 2026.",
-   "Revenue growth accelerated to 16.2% YoY in Sep 2026.",
-   "Equity base expanded to 387,662 crore by Sep 2026 with a D/E of 0.76."
+   "Sep 2026 PAT reached ₹17,389 crore, growing 21.4% YoY.",
+   "Revenue YoY growth accelerated to 16.2% in Sep 2026, reaching ₹55,992 crore.",
+   "Leverage reduced as D/E improved from 0.70 in Mar 2025 to 0.61 in Mar 2026."
   ],
   "bear": [
-   "Operating cash flow dropped to 67,325 crore in Mar 2026 from 122,805 crore in Mar 2025.",
-   "Borrowings surged to 295,561 crore in Sep 2026 from 220,264 crore in Mar 2026.",
-   "Free cash flow declined to 63,778 crore for the year ended Mar 2026."
+   "Operating cash flow dropped from ₹122,805 crore in Mar 2025 to ₹67,325 crore in Mar 2026.",
+   "Dec 2025 PAT declined 2.6% YoY to ₹13,481 crore before rebounding.",
+   "Analysts pressed management on standard asset provisions for agri PSL and credit card contraction."
   ],
   "watch": [
-   "Borrowings trajectory and debt-to-equity ratio",
-   "Cash flow conversion trends",
-   "NIM stability under rate changes"
+   "OCF conversion trend relative to PAT in FY27.",
+   "Borrowings expansion after rising to ₹295,561 crore in Sep 2026.",
+   "Revenue YoY growth sustainability after 16.2% print in Sep 2026."
   ]
  },
  "ledger_ok": true,
  "usage": [
   {
    "model": "gemini-3.5-flash-lite",
-   "in": 11430,
-   "out": 683,
-   "secs": 2.8,
-   "cached": false,
+   "in": 11433,
+   "out": 674,
+   "secs": 3.4,
+   "cached": true,
    "fallback": false
   },
   {
    "model": "gemini-3.5-flash-lite",
-   "in": 22983,
-   "out": 817,
-   "secs": 3.4,
-   "cached": false,
+   "in": 22986,
+   "out": 710,
+   "secs": 15.5,
+   "cached": true,
    "fallback": false
   },
   {
@@ -775,7 +750,7 @@
    "in": 23193,
    "out": 712,
    "secs": 3.4,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -783,7 +758,7 @@
    "in": 10181,
    "out": 695,
    "secs": 3.5,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -791,29 +766,30 @@
    "in": 10557,
    "out": 546,
    "secs": 2.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
-   "in": 3024,
-   "out": 978,
-   "secs": 4.1,
+   "model": "gemini-3.6-flash",
+   "in": 3019,
+   "out": 3516,
+   "secs": 16.3,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 81368,
-  "tokens_out": 4431,
+  "fresh_calls": 1,
+  "tokens_in": 81369,
+  "tokens_out": 6853,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 27.5
+  "secs": 17.3
  }
 }

@@ -1,11 +1,12 @@
 """Re-judge Promise Ledgers with the strongest model currently available.
 
 Only the final reasoning step runs again (transcript extraction stays cached). A ledger is replaced
-only if the new one comes from a model at least as strong as the old one; otherwise it is kept.
+only if Gemini Flash wrote the new one; otherwise the previous ledger is kept. (Groq's verdicts were
+reviewed against Flash-Lite's and were not reliably better, e.g. a margin from the wrong quarter, a
+"lower is better" target marked missed, so a fallback model never replaces an existing ledger.)
 
-    python scripts/upgrade_ledgers.py                    # every ledger written by a fallback model
+    python scripts/upgrade_ledgers.py                    # every ledger not written by Gemini Flash
     python scripts/upgrade_ledgers.py INFY DIXON         # specific companies
-    python scripts/upgrade_ledgers.py --flash INFY ...   # accept only Gemini Flash verdicts
 """
 import json
 import os
@@ -24,12 +25,11 @@ RANK = lambda m: 0 if not m else 1 if "lite" in m else 3 if "gemini" in m else 2
 
 
 def weak(d: dict) -> bool:
-    return bool(d.get("ledger")) and RANK(d.get("ledger_model")) < 2
+    return bool(d.get("ledger")) and RANK(d.get("ledger_model")) < 3
 
 
 if __name__ == "__main__":
     args = sys.argv[1:]
-    flash_only = "--flash" in args
     want = [a for a in args if not a.startswith("--")]
     todo = []
     for p in sorted(OUT.glob("*.json")):
@@ -45,7 +45,7 @@ if __name__ == "__main__":
         for ev in research.run(s, force=True):
             if ev["type"] == "done":
                 new = ev["dossier"].get("ledger_model")
-        better = RANK(new) >= max(RANK(old), 3 if flash_only else 0) and RANK(new) > 1
+        better = RANK(new) == 3
         if not better:
             path.write_text(before, encoding="utf-8")  # keep the previous ledger
         print(f"[{i}/{len(todo)}] {s}: {old} -> {new} {'(kept new)' if better else '(kept previous)'}", flush=True)

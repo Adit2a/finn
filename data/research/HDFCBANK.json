@@ -2,12 +2,12 @@
  "symbol": "HDFCBANK",
  "name": "HDFC Bank Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T22:40:23",
+ "generated_at": "2026-11-09T13:56:16",
  "latest_call": "Oct 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 1211977.0,
-   "pe": 15.1,
+   "market_cap_cr": 1226028.0,
+   "pe": 15.3,
    "roce": 7.02,
    "roe": 13.6,
    "ttm_revenue": 359956.0,
@@ -669,64 +669,52 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g2.1",
-    "promise": "Endeavor for LCR to be between 110% and 120%",
-    "made_in": "Q4 FY26",
-    "delivered": "Management claimed LCR constraints on Q2 FY27 call, but LCR figures are not provided in reported numbers.",
+    "ref": "g3.3",
+    "promise": "Secure significant market share in FCNR mobilization during July-September",
+    "made_in": "Q1 FY27",
+    "delivered": "Delivered 4 percentage point lift to deposit growth (18.8% total YoY) from FCNR in Q2 FY27.",
+    "verdict": "delivered",
+    "checked_against": "Q2 FY27 management claim on FCNR deposits",
+    "quote": "And you will see in the month of July, August, September, we have certain milestones... you will see a very handsome, or that's the endeavor to ensure that we are reasonably strong and significant market share in the market.",
+    "page": 8,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=509cc499-6cb1-4d9f-8de9-9c7de6c70eef.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Net interest margin trajectory to be upward from next quarter onwards",
+    "made_in": "Q2 FY27",
+    "delivered": "Target is for Q3 FY27 onwards; reported data extends only to Q2 FY27.",
     "verdict": "too_early",
-    "checked_against": "Reported numbers do not contain LCR metrics",
+    "checked_against": "Q3 FY27 performance",
+    "quote": "The trajectory will be upward from the next quarter onwards.",
+    "page": 10,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7e45614-ae12-4bb9-b92d-623b3a63f166.pdf"
+   },
+   {
+    "ref": "g2.1",
+    "promise": "Maintain Liquidity Coverage Ratio between 110% and 120%",
+    "made_in": "Q4 FY26",
+    "delivered": "Future endeavor; analysts pressed on LCR and deposit constraints in Q2 FY27 call.",
+    "verdict": "too_early",
+    "checked_against": "Q2 FY27 call commentary",
     "quote": "Kunal, in the past, we have mentioned that our endeavor for LCR is to be between 110% and 120%.",
     "page": 9,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a77abbbb-954a-4221-8240-67bf0da6ba1c.pdf"
    },
    {
-    "ref": "g2.2",
-    "promise": "Provide summary of legal review as and when it happens",
-    "made_in": "Q4 FY26",
-    "delivered": "No legal review summary was provided in the subsequent reported numbers or text.",
-    "verdict": "too_early",
-    "checked_against": "Reported numbers text",
-    "quote": "The legal review, which is what we had committed at the time when we went to the press, is in process. As and when this happens, we shall provide a summary of the same.",
-    "page": 5,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a77abbbb-954a-4221-8240-67bf0da6ba1c.pdf"
-   },
-   {
     "ref": "g3.1",
-    "promise": "Profit growth should be at or above balance sheet growth in longer term",
+    "promise": "Profit growth at or above balance sheet growth in longer term",
     "made_in": "Q1 FY27",
-    "delivered": "PAT YoY grew 5.8% in Sep 2026 and 19.3% in Jun 2026, while revenue YoY grew 9.4% and 3.7%.",
-    "verdict": "partly",
-    "checked_against": "Sep 2026 PAT YoY 5.8% vs Revenue YoY 9.4%",
+    "delivered": "Longer term goal; Sep 2026 PAT grew 5.8% YoY while revenue grew 9.4%.",
+    "verdict": "too_early",
+    "checked_against": "Sep 2026 PAT YoY and Revenue YoY",
     "quote": "We do think that in the longer term that the profit growth should be at or above the balance sheet growth.",
     "page": 11,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=509cc499-6cb1-4d9f-8de9-9c7de6c70eef.pdf"
-   },
-   {
-    "ref": "g3.4",
-    "promise": "Aim to reach CASA ratio near pre-merger levels of 38-40 percent",
-    "made_in": "Q1 FY27",
-    "delivered": "Management noted CASA decline on Q1 FY27; reported numbers do not contain CASA ratios.",
-    "verdict": "too_early",
-    "checked_against": "Reported numbers",
-    "quote": "For a start, the endeavor and our vision is to reach to somewhere near the pre-merger levels or just around the time of the merger, which was around 38. Post the merger we at we were 38 and before that we were 40.",
-    "page": 9,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=509cc499-6cb1-4d9f-8de9-9c7de6c70eef.pdf"
-   },
-   {
-    "ref": "g4.1",
-    "promise": "Expect net interest margin trajectory to be upward from next quarter onwards",
-    "made_in": "Q2 FY27",
-    "delivered": "Too early to verify net interest margin trajectory against reported revenue and PAT figures.",
-    "verdict": "too_early",
-    "checked_against": "Sep 2026 revenue and PAT",
-    "quote": "The trajectory will be upward from the next quarter onwards.",
-    "page": 10,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7e45614-ae12-4bb9-b92d-623b3a63f166.pdf"
    }
   ],
   "credibility": {
@@ -736,31 +724,31 @@
   "narrative_vs_numbers": [
    {
     "agree": false,
-    "point": "Management claimed quarterly PAT reached Rs 19.5 billion in Q2 FY27, but reported PAT was Rs 21,537 crore."
+    "point": "Management claimed deposit outperformance, but quarterly PAT growth slowed to 5.8% YoY in Sep 2026."
    },
    {
     "agree": true,
-    "point": "Reported annual revenue grew from Rs 122,189 crore in Mar 2020 to Rs 348,615 crore in Mar 2026, confirming massive balance sheet expansion."
+    "point": "Management claimed strong deposit growth in Q2 FY27, supported by 4 percentage points lift from promised FCNR mobilization."
    },
    {
-    "agree": true,
-    "point": "Rule-based observation notes profit lagging sales over 3 years (19.7% vs 26.9%), supporting the narrative of margin pressure."
+    "agree": false,
+    "point": "Management cited cost efficiencies, but profit growth over 3 years (19.7%) lagged revenue growth (26.9%)."
    }
   ],
   "bull": [
-   "Annual PAT increased steadily from Rs 27,296 crore in Mar 2020 to Rs 79,219 crore in Mar 2026.",
-   "Operating cash flow reached Rs 113,506 crore and free cash flow reached Rs 110,144 crore in Mar 2026.",
-   "Debt-to-equity ratio improved from 1.6 in Mar 2024 down to 0.98 as of Sep 2026."
+   "Sep 2026 PAT reached ₹21,537 crore (up 5.8% YoY) with revenue expanding to ₹95,132 crore.",
+   "Mobilized FCNR deposits effectively, providing 4 percentage points lift to 18.8% YoY deposit growth in Q2 FY27.",
+   "Gross NPA remained healthy at 1.11% in Q2 FY27 with D/E ratio improving to 0.98."
   ],
   "bear": [
-   "Quarterly revenue growth slowed to 3.7% in Jun 2026 and 9.4% in Sep 2026 compared to historical quarters.",
-   "Profit has lagged sales over a 3-year period at 19.7% versus 26.9%, indicating persistent margin pressure.",
-   "PAT YoY growth slowed to 5.8% by Sep 2026 from 19.3% in Jun 2026."
+   "Sep 2026 PAT YoY growth dropped to 5.8% from 19.3% in Jun 2026.",
+   "Operating cash flow fell from ₹127,242 crore in Mar 2025 to ₹113,506 crore in Mar 2026.",
+   "Analysts pressed on margin compression, cost of funds pressures, and CASA market share decline."
   ],
   "watch": [
-   "Net interest margin trajectory in upcoming quarters",
-   "CASA ratio recovery toward pre-merger 38-40% levels",
-   "LCR realization relative to the 110%-120% endeavor"
+   "NIM trajectory in Q3 FY27 following management guidance.",
+   "CASA ratio progress toward 38-40% target.",
+   "PAT growth relative to revenue growth next quarter."
   ]
  },
  "ledger_ok": true,
@@ -806,25 +794,26 @@
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
+   "model": "gemini-3.6-flash",
    "in": 3084,
-   "out": 1090,
-   "secs": 4.0,
+   "out": 3973,
+   "secs": 18.1,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
   "fresh_calls": 1,
   "tokens_in": 67016,
-  "tokens_out": 4578,
+  "tokens_out": 7461,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 4.9
+  "secs": 19.1
  }
 }

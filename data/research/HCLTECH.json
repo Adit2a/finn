@@ -2,12 +2,12 @@
  "symbol": "HCLTECH",
  "name": "HCL Technologies Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T22:38:14",
+ "generated_at": "2026-11-09T13:55:32",
  "latest_call": "Oct 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 391691.0,
-   "pe": 20.6,
+   "market_cap_cr": 381012.0,
+   "pe": 20.0,
    "roce": 30.4,
    "roe": 23.8,
    "ttm_revenue": 138052.0,
@@ -857,73 +857,74 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g1.3",
-    "promise": "Deliver full year EBIT margin guidance of 17% to 18%",
-    "made_in": "Q3 FY26",
-    "delivered": "Full year Mar 2026 EBIT% not explicitly listed as a single annual EBIT percentage, but reported quarterly EBIT% reached 18.6% in Dec 2025 and 16.5% in Mar 2026.",
-    "verdict": "partly",
-    "checked_against": "Reported quarterly EBIT%",
-    "quote": "We remain on track to deliver on our full year EBIT margin guidance of 17% to 18%.",
+    "ref": "g1.2",
+    "promise": "Raise company level revenue growth guidance to 4% to 4.5% in constant currency for FY26.",
+    "made_in": "Dec 2025",
+    "delivered": "FY26 consolidated constant currency revenue growth came in at 3.9%, missing the guided 4.0%-4.5% range.",
+    "verdict": "missed",
+    "checked_against": "Q4 FY26 management statement of 3.9% FY26 cc growth",
+    "quote": "we are raising our full year services revenue growth guidance to 4.75% to 5.25% in constant currency terms and the company level guidance to 4% to 4.5% in constant currency terms.",
     "page": 13,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=08d64f75-ab38-4158-8b8a-0d933bc007d3.pdf"
    },
    {
-    "ref": "g2.1",
-    "promise": "FY27 revenue growth of 1% to 4% in constant currency",
-    "made_in": "Q4 FY26",
-    "delivered": "Management raised FY27 constant currency revenue growth guidance to 2.5% to 4% on the Q2 FY27 call.",
-    "verdict": "walked_back",
-    "checked_against": "g4.1",
-    "quote": "The revenue growth guidance for the full year is 1% to 4% in constant currency and 1.5% to 4.5% for Services.",
-    "page": 12,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48f5d6fd-b499-45da-bc6d-2e0439495ec2.pdf"
-   },
-   {
     "ref": "g2.3",
-    "promise": "FY27 EBIT margin guidance of 17.5% to 18.5%",
-    "made_in": "Q4 FY26",
-    "delivered": "Management retained EBIT margin guidance of 17.5% to 18.5% through Q1 FY27 and Q2 FY27 calls.",
-    "verdict": "delivered",
-    "checked_against": "g3.2 and g4.2",
+    "promise": "FY27 EBIT margin guidance of 17.5% to 18.5%.",
+    "made_in": "Mar 2026",
+    "delivered": "Reiterated in Q1 and Q2 FY27. Reported EBIT% was 16.9% in Q1 FY27 and 18.0% in Q2 FY27.",
+    "verdict": "too_early",
+    "checked_against": "Jun 2026 (16.9%) and Sep 2026 (18.0%) reported EBIT%",
     "quote": "EBIT margin guidance is 17.5% to 18.5%.",
     "page": 12,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48f5d6fd-b499-45da-bc6d-2e0439495ec2.pdf"
+   },
+   {
+    "ref": "g3.3",
+    "promise": "Strategic investment of up to INR3,500 crores for AI datacenter capacity.",
+    "made_in": "Jun 2026",
+    "delivered": "Long-term investment planned to scale up to 50 megawatts capacity; implementation underway.",
+    "verdict": "too_early",
+    "checked_against": "Q1 FY27 management call statement",
+    "quote": "In this regard, we will make a strategic investment of up to INR3,500 crores and with the potential to scale to 50 megawatts of capacity.",
+    "page": 13,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=11be9fba-0308-4756-a474-e4f2903fdaac.pdf"
    }
   ],
   "credibility": {
-   "score": 7,
-   "line": "Management consistently delivers on margin guidance and updates top-line expectations proactively."
+   "score": null,
+   "line": "Only one promise can be checked against reported numbers so far — too few to score."
   },
   "narrative_vs_numbers": [
    {
-    "agree": true,
-    "point": "Advanced AI revenue scaling rapidly, reaching $219 million in Sep 2026, up 78% YoY."
+    "agree": false,
+    "point": "Management touted record Q1 FY27 bookings of $2.4B, yet Q1 FY27 CC revenue declined 0.5% sequentially."
    },
    {
     "agree": true,
-    "point": "EBIT margin improved sequentially to 18.0% in Sep 2026 from 16.9% in Jun 2026."
+    "point": "Management claimed Q2 FY27 EBIT margin reached 18.2%, aligning with reported Sep 2026 EBIT% of 18.0%."
    },
    {
-    "agree": true,
-    "point": "Strong cash conversion maintained with 5-year operating cash flow at 127% of profit."
+    "agree": false,
+    "point": "Despite reported PAT rising to ₹16,652 crore in FY26, operating cash flow dropped to ₹19,975 crore from ₹22,261 crore."
    }
   ],
   "bull": [
-   "Virtually debt-free with a D/E ratio of 0.08 as of Sep 2026.",
-   "New deal bookings reached $3.3 billion in Sep 2026, up 27% YoY.",
-   "ROCE stands at 30.4% and ROE at 23.8%."
+   "Advanced AI revenue expanded from $155.1 million in Q4 FY26 to $219 million in Q2 FY27, up 78% YoY.",
+   "Q2 FY27 new deal bookings reached $3.3 billion, growing 27% YoY and 35% sequentially.",
+   "Balance sheet remains practically debt-free with D/E of 0.08 and 5-year cash conversion of 1.27."
   ],
   "bear": [
-   "PAT YoY growth has fluctuated, showing negative quarters through FY26.",
-   "Borrowings increased to 6013.0 crore in Sep 2026 from 5215.0 crore in Mar 2026.",
-   "Software revenue decline and ARR disconnect questioned by analysts."
+   "FY26 constant currency revenue growth of 3.9% fell short of management's 4.0% to 4.5% guidance.",
+   "Annual operating cash flow declined 10.3% YoY in Mar 2026 to ₹19,975 crore.",
+   "EBIT margin dropped to 16.5% in Mar 2026 quarter before recovering to 18.0% in Sep 2026."
   ],
   "watch": [
-   "FY27 constant currency revenue growth outcome",
-   "AI datacenter investment execution up to INR3,500 crores"
+   "Achievement of narrowed FY27 constant currency growth target of 2.5% to 4.0%.",
+   "Capital deployment toward the ₹3,500 crore AI datacenter commitment.",
+   "Sustained quarterly EBIT margin within the 17.5% to 18.5% guidance band."
   ]
  },
  "ledger_ok": true,
@@ -969,25 +970,26 @@
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
+   "model": "gemini-3.6-flash",
    "in": 3818,
-   "out": 976,
-   "secs": 7.7,
+   "out": 3306,
+   "secs": 34.6,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
   "fresh_calls": 1,
   "tokens_in": 63090,
-  "tokens_out": 5227,
+  "tokens_out": 7557,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 8.4
+  "secs": 35.5
  }
 }

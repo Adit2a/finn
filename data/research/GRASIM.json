@@ -2,12 +2,12 @@
  "symbol": "GRASIM",
  "name": "Grasim Industries Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T22:35:50",
+ "generated_at": "2026-11-09T13:55:05",
  "latest_call": "Aug 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 218398.0,
-   "pe": 38.1,
+   "market_cap_cr": 216163.0,
+   "pe": 37.6,
    "roce": 8.01,
    "roe": 4.98,
    "ttm_revenue": 184029.0,
@@ -901,10 +901,10 @@
    {
     "ref": "g1.3",
     "promise": "Outline capex outlay of INR2,263 crores for FY26",
-    "made_in": "Q2 FY26 call",
-    "delivered": "Cannot be verified from the reported financial tables as capital expenditure figures are not separately detailed.",
+    "made_in": "Q2 FY26",
+    "delivered": "FY26 free cash flow was -₹33,130 cr; standalone capex breakdown is not separately detailed in reported tables",
     "verdict": "too_early",
-    "checked_against": "Reported financial tables",
+    "checked_against": "Mar 2026 Free cash flow",
     "quote": "Grasim has outlined a capex outlay of INR2,263 crores for FY '26",
     "page": 9,
     "verified": true,
@@ -913,46 +913,46 @@
    {
     "ref": "g2.2",
     "promise": "Exit FY27 at a breakeven level for Birla Pivot",
-    "made_in": "Q3 FY26 call",
-    "delivered": "Deadline is FY27 exit, which is beyond the current reported period ending June 2026 (Q1 FY27).",
+    "made_in": "Q3 FY26",
+    "delivered": "Repeated in Q4 FY26 and Q1 FY27; Q1 FY27 Birla Pivot revenue reported at ₹2,548 cr (up 75% YoY)",
     "verdict": "too_early",
-    "checked_against": "Q1 FY27 reported numbers",
+    "checked_against": "Management call update Q1 FY27",
     "quote": "I think from our current estimates, we will exit FY27 at a breakeven level. That is our current estimate.",
     "page": 12,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=09ec268c-938c-466c-ac03-665ce62cacb4.pdf"
    },
    {
-    "ref": "g3.3",
-    "promise": "UltraTech to reach 240 plus million tons per annum capacity by March 2028",
-    "made_in": "Q4 FY26 call",
-    "delivered": "Deadline is March 2028; management claimed UltraTech cement grey capacity crossed 200 million tons in April 2026.",
+    "ref": "g1.1",
+    "promise": "Achieve profitable decorative paints business within 3 years of full-scale operations",
+    "made_in": "Q2 FY26",
+    "delivered": "Repeated in Q3, Q4 FY26 and Q1 FY27; Q1 FY27 paint revenue reached ₹1,661 cr (up 64% YoY)",
     "verdict": "too_early",
-    "checked_against": "Q4 FY26 management claims",
-    "quote": "we remain firmly on track to reach 240 plus million tons per annum by March 2028.",
-    "page": 9,
+    "checked_against": "Management call update Q1 FY27",
+    "quote": "We have committed to be number two as well as profitable within three years of full-scale operation.",
+    "page": 10,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e57c46f9-e2c3-4887-88d1-59faf74c3afc.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f37088cf-7f7f-44b6-bfcf-ab02e3c09a38.pdf"
    },
    {
-    "ref": "g4.4",
-    "promise": "Standalone capex for FY27 expected at INR3,157 crores",
-    "made_in": "Q1 FY27 call",
-    "delivered": "Deadline is FY27, so it cannot be verified from the reported Q1 FY27 figures.",
-    "verdict": "too_early",
-    "checked_against": "Q1 FY27 reported numbers",
-    "quote": "The standalone plan for FY27 is expected at INR3,157 crores.",
-    "page": 9,
+    "ref": "g4.3",
+    "promise": "Guide over 50% revenue growth on a Y-on-Y basis for paints for FY27",
+    "made_in": "Q1 FY27",
+    "delivered": "Q1 FY27 Birla Opus revenue grew 64% YoY to ₹1,661 cr, beating the 50% threshold",
+    "verdict": "delivered",
+    "checked_against": "Management call update Q1 FY27",
+    "quote": "Yes, on a Y-on-Y basis we are guiding over 50% revenue, which is the second part of your question.",
+    "page": 12,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=faf05132-2e28-4f71-a275-b376a6411208.pdf"
    },
    {
     "ref": "g4.5",
-    "promise": "Maintaining consolidated net debt to TTM EBITDA below two for the entire year",
-    "made_in": "Q1 FY27 call",
-    "delivered": "Borrowings reached INR227,853 crores and D/E stood at 2.2 as of March 2026, exceeding the targeted leverage.",
-    "verdict": "missed",
-    "checked_against": "Mar 2026 D/E of 2.2",
+    "promise": "Maintaining consolidated net debt to TTM EBITDA below two for entire FY27",
+    "made_in": "Q1 FY27",
+    "delivered": "Mar 2026 borrowings stood at ₹2,27,853 cr against EBITDA of ₹36,296 cr (D/E 2.2); target applies to FY27 exit",
+    "verdict": "too_early",
+    "checked_against": "Mar 2026 Borrowings and EBITDA",
     "quote": "We will be maintaining our net debt below two.",
     "page": 17,
     "verified": true,
@@ -965,32 +965,32 @@
   },
   "narrative_vs_numbers": [
    {
+    "agree": false,
+    "point": "Management highlights FY26 revenue growth to ₹1,75,431 cr, but operating cash flow stayed deeply negative at -₹17,810 cr."
+   },
+   {
+    "agree": false,
+    "point": "Management targets net debt/EBITDA under 2, but total borrowings expanded to ₹2,27,853 cr pushing D/E ratio to 2.2."
+   },
+   {
     "agree": true,
-    "point": "Consolidated revenue reached record highs, with Q1 FY27 revenue at INR48,716 crores and FY26 annual revenue at INR1,75,431 crores."
-   },
-   {
-    "agree": false,
-    "point": "Despite reported profitability, operating cash flow and free cash flow remained heavily negative at -INR17,810 crores and -INR33,130 crores in Mar 2026."
-   },
-   {
-    "agree": false,
-    "point": "Borrowings surged from INR103,039 crores in Mar 2023 to INR227,853 crores in Mar 2026, pushing D/E to 2.2."
+    "point": "Consolidated Q1 FY27 revenue reached ₹48,716 cr (up 21.4% YoY), validating management's strong top-line narrative."
    }
   ],
   "bull": [
-   "Consolidated revenue grew to INR48,716 crores in Q1 FY27, up 21.4% year-on-year.",
-   "EBITDA margins improved to 23.0% in Q1 FY27 compared to 18.0% in Sep 2024.",
-   "Annual revenue scaled to INR1,75,431 crores for the year ended March 2026."
+   "Q1 FY27 revenue grew 21.4% YoY to ₹48,716 cr with EBITDA margin expanding to 23.0%.",
+   "Birla Opus Q1 FY27 paint revenue grew 64% YoY to ₹1,661 cr, surpassing the 50% growth target.",
+   "FY26 consolidated revenue reached ₹1,75,431 cr, up 18.2% from ₹1,48,478 cr in FY25."
   ],
   "bear": [
-   "Operating cash flow for Mar 2026 was negative at -INR17,810 crores.",
-   "Borrowings increased to INR227,853 crores in Mar 2026, resulting in a high D/E ratio of 2.2.",
-   "Free cash flow remained deeply negative at -INR33,130 crores for Mar 2026."
+   "5-year cumulative cash conversion is negative (-102%), with FY26 OCF at -₹17,810 cr.",
+   "Total borrowings escalated to ₹2,27,853 cr in Mar 2026, driving D/E ratio up to 2.2.",
+   "Free cash flow was heavily negative at -₹33,130 cr in FY26 due to continuous expansion capex."
   ],
   "watch": [
-   "Consolidated net debt to EBITDA trajectory",
-   "Birla Pivot EBITDA breakeven progress by FY27",
-   "Operating cash flow conversion relative to PAT"
+   "Birla Pivot EBITDA breakeven exit by Q4 FY27.",
+   "Consolidated net debt to EBITDA trajectory staying below 2.0.",
+   "FY27 standalone capex spend against ₹3,157 cr guidance."
   ]
  },
  "ledger_ok": true,
@@ -1036,25 +1036,26 @@
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
+   "model": "gemini-3.6-flash",
    "in": 3913,
-   "out": 1079,
-   "secs": 15.3,
+   "out": 3555,
+   "secs": 18.0,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
   "fresh_calls": 1,
   "tokens_in": 70653,
-  "tokens_out": 5750,
+  "tokens_out": 8226,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 16.8
+  "secs": 19.4
  }
 }

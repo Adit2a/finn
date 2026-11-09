@@ -2,12 +2,12 @@
  "symbol": "HDFCLIFE",
  "name": "HDFC Life Insurance Company Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T22:41:13",
+ "generated_at": "2026-11-09T13:56:43",
  "latest_call": "Oct 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 122164.0,
-   "pe": 59.6,
+   "market_cap_cr": 122719.0,
+   "pe": 59.9,
    "roce": 10.3,
    "roe": 11.3,
    "ttm_revenue": 107513.0,
@@ -845,10 +845,10 @@
   "promise_ledger": [
    {
     "ref": "g1.1",
-    "promise": "Neutralize the GST impact over the next couple of quarters",
-    "made_in": "Q3 FY26 call",
-    "delivered": "Management stated in Q4 FY26 that the Q4 impact was 110 basis points and expected to taper off.",
-    "verdict": "delivered",
+    "promise": "Neutralize GST impact over the next couple of quarters",
+    "made_in": "Q3 FY26",
+    "delivered": "Pushed timeline in Q4 FY26 (g2.1) to neutralize GST impact in H1 FY27 instead.",
+    "verdict": "walked_back",
     "checked_against": "Management commentary in Q4 FY26 call",
     "quote": "We remain on track to largely neutralize the impact over the next couple of quarters.",
     "page": 4,
@@ -856,24 +856,36 @@
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8183f0ee-2fc1-451e-a0bc-996461d27757.pdf"
    },
    {
-    "ref": "g2.4",
-    "promise": "Raise up to INR 1,000 crores by way of a preferential issue to HDFC Bank",
-    "made_in": "Q4 FY26 call",
-    "delivered": "Board approval was taken to add 900 basis points to solvency, but specific completion figures are unverified in reported financials.",
-    "verdict": "too_early",
-    "checked_against": "Solvency ratio of 180% as of September 30, 2026",
-    "quote": "we have taken board approval to raise up to INR1,000 crores by way of a preferential issue to our parent, HDFC Bank. This will add 900 basis points to our current solvency.",
-    "page": 5,
+    "ref": "g1.3",
+    "promise": "Expect Q4 to build on momentum seen in Q3",
+    "made_in": "Q3 FY26",
+    "delivered": "Mar 2026 revenue declined 17.8% YoY and EBITDA margin compressed to 0.6% from 0.9% in Dec 2025.",
+    "verdict": "missed",
+    "checked_against": "Mar 2026 Revenue YoY and EBITDA%",
+    "quote": "We expect Q4 to build on the momentum seen in the last quarter, with growth in FY27 supported by continued strength in protection",
+    "page": 6,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e7ac30c3-9907-4d58-bcc9-1d2014e98c69.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8183f0ee-2fc1-451e-a0bc-996461d27757.pdf"
+   },
+   {
+    "ref": "g3.2",
+    "promise": "Grow in line with or faster than the industry over FY27",
+    "made_in": "Q1 FY27",
+    "delivered": "Q2 FY27 individual WRP grew 11% ahead of private industry at 10%, while Sep 2026 revenue grew 18.3% YoY.",
+    "verdict": "delivered",
+    "checked_against": "Sep 2026 Revenue YoY and Q2 FY27 WRP growth",
+    "quote": "growing in line with or faster than the industry over the course of the year",
+    "page": 4,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4ea5debd-fa20-4ac2-9e0e-674ee56302d4.pdf"
    },
    {
     "ref": "g4.2",
-    "promise": "Expect to complete raising up to Rs 500 crore through subordinated debt during current quarter",
-    "made_in": "Q2 FY27 call",
-    "delivered": "Borrowings stood at Rs 3,099 crore as of September 30, 2026, unchanged from March 2026.",
+    "promise": "Raise up to ₹500 crore sub-debt during current quarter",
+    "made_in": "Q2 FY27",
+    "delivered": "Borrowings remained unchanged at ₹3,099 crore in Sep 2026 compared to Mar 2026.",
     "verdict": "missed",
-    "checked_against": "Sep 2026 Borrowings of Rs 3,099 crore",
+    "checked_against": "Sep 2026 Borrowings balance",
     "quote": "The Board has approved raising up to ₹500 crore through subordinated debt, which we expect to complete during the current quarter",
     "page": 4,
     "verified": true,
@@ -881,32 +893,37 @@
    }
   ],
   "credibility": {
-   "score": 6,
-   "line": "Management delivers on general business growth but misses specific capital raising timelines like subordinated debt."
+   "score": 5,
+   "line": "Management pushed GST timeline and missed Q4 momentum, but operational growth re-accelerated by Q2 FY27."
   },
   "narrative_vs_numbers": [
    {
+    "agree": false,
+    "point": "Q3 FY26 claimed 7% PAT growth, but reported Dec 2025 PAT declined 0.7% YoY to ₹418 crore."
+   },
+   {
     "agree": true,
-    "point": "Profit after tax grew 16.5% YoY to Rs 522 crore in Sep 2026, aligning with management claims of solid H1 performance."
+    "point": "Q2 FY27 claimed 13% H1 PAT growth, supported by Jun 2026 PAT +11.5% and Sep 2026 PAT +16.5%."
    },
    {
     "agree": false,
-    "point": "Borrowings remained flat at Rs 3,099 crore in Sep 2026, contradicting the expected Q2 completion of the Rs 500 crore sub-debt raise."
+    "point": "EBITDA margins remain depressed at 1.4% in Sep 2026 despite management reporting double-digit VNB growth."
    }
   ],
   "bull": [
-   "PAT grew 16.5% YoY to Rs 522 crore in Sep 2026.",
-   "Strong 5-year operating cash conversion at 773% of profit.",
-   "Solvency ratio remained robust at 180% as of September 30, 2026."
+   "5-year operating cash conversion is strong at 773% of net profit (OCF ₹22,625 crore in Mar 2026).",
+   "Sep 2026 revenue grew 18.3% YoY to ₹24,437 crore with PAT expanding 16.5% YoY to ₹522 crore.",
+   "H1 FY27 VNB grew 12% to ₹2,037 crore, with Q2 WRP growth beating private industry."
   ],
   "bear": [
-   "Borrowings increased 3.3x over 3 years from Rs 950 crore in Mar 2024 to Rs 3,099 crore in Sep 2026.",
-   "EBITDA margins remain thin, hovering around 1.4% to 1.5% through FY27 quarters.",
-   "Subordinated debt raising guided for Q2 FY27 was not reflected in the reported borrowings."
+   "Borrowings expanded 3.3x over 3 years from ₹950 crore in Mar 2023 to ₹3,099 crore in Sep 2026.",
+   "Full-year EBITDA margin dropped to 1.8% in Mar 2026, down from 3.9% in Mar 2020.",
+   "GST neutralization timeline was walked back from next couple quarters in Q3 to H1 FY27 in Q4."
   ],
   "watch": [
-   "Completion of the Rs 500 crore subordinated debt raise.",
-   "Solvency ratio stability above 180%."
+   "Completion of the ₹500 crore subordinated debt raising during FY27.",
+   "Full Ind AS adoption preparation and regulatory forbearance approval for FY27.",
+   "EBITDA margin trajectory above 1.4% levels."
   ]
  },
  "ledger_ok": true,
@@ -952,25 +969,26 @@
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
+   "model": "gemini-3.6-flash",
    "in": 3498,
-   "out": 773,
-   "secs": 3.8,
+   "out": 3697,
+   "secs": 15.8,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
   "fresh_calls": 1,
   "tokens_in": 80789,
-  "tokens_out": 4595,
+  "tokens_out": 7519,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 4.8
+  "secs": 16.9
  }
 }

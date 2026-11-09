@@ -2,12 +2,12 @@
  "symbol": "HINDALCO",
  "name": "Hindalco Industries Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:24:39",
+ "generated_at": "2026-11-09T13:57:08",
  "latest_call": "Aug 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 214317.0,
-   "pe": 9.2,
+   "market_cap_cr": 215992.0,
+   "pe": 9.18,
    "roce": 13.2,
    "roe": 13.0,
    "ttm_revenue": 321187.0,
@@ -884,48 +884,48 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g1.3",
-    "promise": "FY26 capex expected to be around 8500 crores",
-    "made_in": "Q2 FY26 call",
-    "delivered": "Cannot be checked against reported financial numbers, as reported capex figures are not provided in the reported numbers block.",
-    "verdict": "too_early",
-    "checked_against": "Reported numbers block",
-    "quote": "So this year, we have said the capex is going to be around INR8,500 crores.",
-    "page": 14,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1b03a6af-6e8d-4f5b-bd66-02bc9e20d27b.pdf"
-   },
-   {
     "ref": "g2.4",
-    "promise": "Take renewable capacity to 522 Megawatts by the end of this financial year",
-    "made_in": "Q3 FY26 call",
-    "delivered": "Management claimed renewable energy capacity stood at 470 megawatts at the end of the year, missing the 522 MW target.",
+    "promise": "Take renewable capacity to 522 MW by end of FY26",
+    "made_in": "Q3 FY26",
+    "delivered": "Reached 470 MW at end of FY26, missing target by 52 MW",
     "verdict": "missed",
-    "checked_against": "Q4 FY26 mgmt claim",
+    "checked_against": "Management Q4 FY26 claim of 470 MW renewable capacity",
     "quote": "taking our renewable capacity to 522 Megawatts by the end of this financial year.",
     "page": 5,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=50d84af3-4d68-44ed-b11d-0da8e22bec40.pdf"
    },
    {
-    "ref": "g1.2",
-    "promise": "Consolidated net debt to EBITDA will not cross 2 in next 4 years",
-    "made_in": "Q2 FY26 call",
-    "delivered": "Borrowings rose to INR113,129 crores by Sep 2026, with D/E at 0.71.",
-    "verdict": "too_early",
-    "checked_against": "Sep 2026 Borrowings and D/E",
-    "quote": "All I can tell you is that will not cross 2 in the next 4 years. We will make sure that the console net debt to EBITDA is kept below 2.",
-    "page": 9,
+    "ref": "g1.1",
+    "promise": "FY27 total capex expected around 11000 crores",
+    "made_in": "Q2 FY26",
+    "delivered": "Raised in Q4 FY26 to ₹12,000 crores for India alone plus $2.3B-$2.4B for Novelis",
+    "verdict": "walked_back",
+    "checked_against": "Q4 FY26 guidance update (g3.1)",
+    "quote": "I think that next year, we are expecting around INR11,000 crores. I think that is FY '27.",
+    "page": 14,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1b03a6af-6e8d-4f5b-bd66-02bc9e20d27b.pdf"
    },
    {
+    "ref": "g3.2",
+    "promise": "Consolidated net debt peak between 80000 and 90000 crores over 2 years",
+    "made_in": "Q4 FY26",
+    "delivered": "Horizon open; reported gross borrowings reached ₹113,129 crore by Sep 2026",
+    "verdict": "too_early",
+    "checked_against": "Sep 2026 reported borrowings of ₹113,129 crore",
+    "quote": "Absolute gross debt or net debt?... Consolidated net debt peak should be between INR80,000 crores and INR90,000 crores over the next 2 years.",
+    "page": 12,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3f3ea49-38f0-4d66-ac44-857e97c2c6f6.pdf"
+   },
+   {
     "ref": "g4.2",
     "promise": "Expect 1 million tons from Chakla captive coal mine in FY28",
-    "made_in": "Q1 FY27 call",
-    "delivered": "Target is set for FY28; deadline has not passed.",
+    "made_in": "Q1 FY27",
+    "delivered": "Pending production timeline for FY28",
     "verdict": "too_early",
-    "checked_against": "Q1 FY27 call horizon",
+    "checked_against": "Future FY28 coal production reporting",
     "quote": "Chakla back to commence, we are expecting about 1 million tons from Chakla, Bandha will only start from the middle of the year. So I would say about 0.5 million tons for Bandha.",
     "page": 14,
     "verified": true,
@@ -933,37 +933,37 @@
    }
   ],
   "credibility": {
-   "score": null,
-   "line": "Only one promise can be checked against reported numbers so far — too few to score."
+   "score": 5,
+   "line": "Management missed FY26 renewable targets and escalated capex guidance while total borrowings doubled in under three years."
   },
   "narrative_vs_numbers": [
    {
-    "agree": true,
-    "point": "Consolidated revenue growth accelerated strongly, showing reported YoY growth rising from 13.5% in Sep 2025 to 38.8% in Sep 2026."
-   },
-   {
-    "agree": true,
-    "point": "Consolidated PAT surged 58.9% YoY to 7533.0 crores in Sep 2026, aligning with management claims of profit expansion."
+    "agree": false,
+    "point": "PAT grew 75% YoY in Q1 FY27 to ₹7,013 cr, but FY26 free cash flow turned heavily negative to -₹19,508 cr."
    },
    {
     "agree": false,
-    "point": "Borrowings doubled over 3 years from INR56,356 crores in Mar 2024 to INR113,129 crores in Sep 2026, despite leverage commitments."
+    "point": "Management promises leverage discipline near 2x, yet total borrowings rose from ₹56,356 cr in Mar 2024 to ₹113,129 cr in Sep 2026."
+   },
+   {
+    "agree": true,
+    "point": "Top-line growth narrative matches numbers as quarterly revenue YoY accelerated from 13.9% in Dec 2025 to 38.8% in Sep 2026."
    }
   ],
   "bull": [
-   "Revenue growth accelerated across four quarters, reaching 38.8% YoY in Sep 2026 with revenue at 91708.0 crores.",
-   "EBITDA reached 12814.0 crores in Sep 2026 with an operating margin of 14.0%.",
-   "PAT surged 58.9% year-on-year to 7533.0 crores in Sep 2026."
+   "Quarterly revenue growth accelerated to 38.8% YoY in Sep 2026 with PAT hitting ₹7,533 crore.",
+   "EBITDA margin reached 16.0% in Jun 2026, reflecting strong operating performance.",
+   "Long-term cash conversion remains supportive with 5-year operating cash flow at 150% of PAT."
   ],
   "bear": [
-   "Borrowings surged to INR113,129 crores by Sep 2026 up from INR56,356 crores in Mar 2024.",
-   "Free cash flow turned negative at -19508.0 crores for the year ending Mar 2026.",
-   "Cash conversion deteriorated with OCF/PAT dropping to 0.77 for the year ending Mar 2026."
+   "Borrowings doubled from ₹56,356 crore in Mar 2024 to ₹113,129 crore in Sep 2026.",
+   "Free cash flow deteriorated from ₹4,006 crore in Mar 2025 to -₹19,508 crore in Mar 2026.",
+   "Missed FY26 renewable capacity commitment, achieving 470 MW versus the promised 522 MW."
   ],
   "watch": [
-   "Borrowings trajectory above INR113,129 crores",
-   "Free cash flow recovery",
-   "FY27 capex execution against INR12,000 crores guidance"
+   "Gross borrowings trend against the ₹80,000-₹90,000 crore net debt peak guidance.",
+   "Execution of ₹12,000 crore India capex and Novelis Bay Minette spending.",
+   "Addition of 414 MW solar/wind capacity during FY27."
   ]
  },
  "ledger_ok": true,
@@ -973,7 +973,7 @@
    "in": 16263,
    "out": 807,
    "secs": 4.6,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -981,7 +981,7 @@
    "in": 17482,
    "out": 1127,
    "secs": 4.2,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -989,7 +989,7 @@
    "in": 14370,
    "out": 979,
    "secs": 4.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -997,7 +997,7 @@
    "in": 17301,
    "out": 1056,
    "secs": 5.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1005,29 +1005,30 @@
    "in": 12708,
    "out": 382,
    "secs": 3.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
+   "model": "gemini-3.6-flash",
    "in": 3946,
-   "out": 1080,
-   "secs": 4.3,
+   "out": 3387,
+   "secs": 16.0,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
+  "fresh_calls": 1,
   "tokens_in": 82070,
-  "tokens_out": 5431,
+  "tokens_out": 7738,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 40.7
+  "secs": 17.3
  }
 }
