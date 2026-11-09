@@ -84,10 +84,15 @@ function priceAlerts(holdings, rules, sinceMs) {
   }
   return out;
 }
+// only news that can plausibly move a price may be named as a move's cause: a compliance officer's
+// appointment never explains a 3.7% day, a new CEO or chairman can
+const MOVERS = new Set(['results', 'earnings_call', 'M&A', 'fund_raise', 'credit_rating', 'litigation', 'capex', 'press_release', 'pledging', 'dividend', 'bonus_split']);
+const TOP_JOB = /chief executive|\bceo\b|managing director|\bm\.?d\b|\bcfo\b|chief financial|chair/i;
+const canMove = e => MOVERS.has(e.category) || (e.category === 'management_change' && (e.people || []).some(p => TOP_JOB.test(p.role || '')));
 function linkCauses(px, events) {  // what filing most likely explains each move
   for (const a of px) {
     const t = new Date(a.ts).getTime();
-    a.cause = events.filter(e => e.symbol === a.symbol && e.score >= 33 && new Date(e.ts) <= t + 6 * 3600e3 && new Date(e.ts) >= t - 3 * DAY)
+    a.cause = events.filter(e => e.symbol === a.symbol && e.score >= 33 && canMove(e) && new Date(e.ts) <= t + 6 * 3600e3 && new Date(e.ts) >= t - 3 * DAY)
       .sort((x, y) => y.score - x.score)[0];
   }
   return px;
@@ -175,7 +180,8 @@ function App() {
   const setPf = p => { setPfRaw(p); store.set('portfolio', p); syncTelegram(rules, p); };
   const flash = (msg, undo) => { setToast({ msg, undo }); clearTimeout(flash.t); flash.t = setTimeout(() => setToast(null), 3500); };
 
-  const [tab, arg] = route.split('/');
+  let [tab, arg] = route.replace(/^\/+/, '').split('/');
+  if (!['brief', 'portfolio', 'alerts', 'research'].includes(tab)) { tab = 'brief'; arg = undefined; }  // a mistyped link shows the Brief, not a blank page
   const asOf = feed ? new Date(feed.generated_at).getTime() : Date.now();
   // everything the app shows is filtered to this device's portfolio
   const view = useMemo(() => {
@@ -239,7 +245,17 @@ function Brief({ feed, asOf, rules, flash, focus, pf }) {
   const items = useMemo(() => {
     const ev = feed.events.map(e => ({ ...e, kind: 'filing' }));
     const px = linkCauses(priceAlerts(feed.holdings, rules, since), feed.events).map(a => ({ ...a, tier: a.score >= 68 ? 'act' : 'glance' }));
-    return ev.concat(px)
+    // a move explained by a filing already in this window becomes one line on that filing's card, not a second card
+    const shown = new Map(ev.filter(e => new Date(e.ts) >= since).map(e => [e.id, e]));
+    const loose = px.filter(a => {
+      const host = a.cause && shown.get(a.cause.id);
+      if (!host) return true;
+      host.move = a;
+      if (a.tier === 'act' && host.tier === 'glance') host.tier = 'act';
+      host.score = Math.max(host.score, a.score);
+      return false;
+    });
+    return ev.concat(loose)
       .filter(e => new Date(e.ts) >= since && (!sym || e.symbol === sym))
       .map(e => muted.has(`${e.symbol}|${e.category}`) ? { ...e, tier: 'routine', mutedBy: true } : e)
       .sort((a, b) => b.score - a.score || new Date(b.ts) - new Date(a.ts));
@@ -383,7 +399,8 @@ function Card({ e, asOf, leaving, onDone, onMute, isDone }) {
       <span class="cat"><span class="dot" style="background:${catColor(e.category)}"></span>${CAT_LABEL[e.category]}</span>
       <span class="when">${ago(e.ts, asOf)}</span><${Controls} onMute=${onMute} onDone=${onDone}/></div>
     <div class="headline">${e.headline}</div>
-    ${e.why && html`<div class="why">${e.why}</div>`}
+    ${e.move && html`<${MoveLine} a=${e.move}/>`}
+    ${e.why && (!e.people?.length || /\d/.test(e.why)) && html`<div class="why">${e.why}</div>`}
     ${e.results && html`<${Results} r=${e.results}/>`}
     ${e.people?.length > 0 && html`<div class="people">${e.people.slice(0, 3).map(p => html`<${Person} p=${p} company=${e.company}/>`)}</div>`}
     ${e.reasons?.length > 0 && !e.results && html`<div class="because">${e.reasons.join(' · ')}</div>`}
@@ -408,22 +425,28 @@ function Results({ r }) {
   </div>`;
 }
 
-function Person({ p, company }) {
+function Person({ p, company }) {  // one line by default; tap for background, reason and profile links
+  const [open, setOpen] = useState(false);
   const q = encodeURIComponent(`${(p.name || '').replace(/^(mr|ms|mrs|dr|shri|smt)\.?\s+/i, '')} ${company || ''}`);
   const verb = { appointed: 'Joins as', resigned: 'Leaves as', retired: 'Retires as', 're-appointed': 'Re-appointed as', redesignated: 'Now' }[p.change] || p.change;
-  return html`<div class="person">
+  const more = p.background || p.previous || p.reason;
+  return html`<div class="person ${open ? 'open' : ''}" role="button" tabindex="0" aria-expanded=${open}
+      onClick=${() => setOpen(!open)} onKeyDown=${ev => ev.key === 'Enter' && setOpen(!open)}>
     <div class="avatar">${initials(p.name)}</div>
     <div style="flex:1;min-width:0">
       <div class="nm">${p.name}</div>
-      <div class="rl">${verb} ${p.role}${p.effective ? ` · ${p.effective}` : ''}</div>
-      ${p.background && html`<div class="bg">${p.background}</div>`}
-      ${p.previous && html`<div class="pv">Previously ${p.previous}</div>`}
-      ${p.reason && html`<div class="pv">Reason given: ${p.reason}</div>`}
-      <div class="pv"><a href="https://www.linkedin.com/search/results/people/?keywords=${q}" target="_blank" rel="noopener">LinkedIn ↗</a>
-        ${p.profile_source && html` · <a href=${p.profile_url} target="_blank" rel="noopener">${p.profile_source.replace(' (name match)', '')} ↗</a>`}</div>
+      <div class="rl">${verb} ${p.role}${p.effective ? ` · ${fmtEff(p.effective)}` : ''}</div>
+      ${open && html`
+        ${p.background && html`<div class="bg">${p.background}</div>`}
+        ${p.previous && html`<div class="pv">Previously ${p.previous}</div>`}
+        ${p.reason && html`<div class="pv">Reason given: ${p.reason}</div>`}
+        <div class="pv" onClick=${ev => ev.stopPropagation()}><a href="https://www.linkedin.com/search/results/people/?keywords=${q}" target="_blank" rel="noopener">LinkedIn ↗</a>
+          ${p.profile_source && html` · <a href=${p.profile_url} target="_blank" rel="noopener">${p.profile_source.replace(' (name match)', '')} ↗</a>`}</div>`}
     </div>
+    <span class="pchev" aria-hidden="true">${more && !open ? 'Profile ' : ''}›</span>
   </div>`;
 }
+const fmtEff = s => /^\d{4}-\d{2}-\d{2}$/.test(s) ? fmtDate(s) : s;  // "2026-09-07" → "7 Sep 2026"
 
 function PriceCard({ e, asOf, leaving, onDone, onMute }) {
   const sw = useSwipe(onDone);
@@ -444,17 +467,28 @@ function PriceCard({ e, asOf, leaving, onDone, onMute }) {
   </article>`;
 }
 
+/* the market's reaction, shown on the card of the filing that explains it */
+const MoveLine = ({ a }) => html`<div class="moveline num">
+  <span class=${tone(a.ret)}>${pct(a.ret)}</span>${a.vHit ? html` on <b>${a.mult.toFixed(1)}×</b> normal volume` : ''}<span class="faint"> · ${fmtDate(a.ts)} close</span></div>`;
+
+// one-line subtitles in the list only when they add a fact the headline lacks (a figure), never a paraphrase
+const factual = e => e.why && /\d/.test(e.why) && e.category !== 'management_change';
+
 function Row({ e, asOf, onDone, onMute }) {
   const [open, setOpen] = useState(false);
   const title = e.kind === 'price' ? `${pct(e.ret)} move${e.vHit ? ` on ${e.mult.toFixed(1)}× volume` : ''}` : e.headline;
+  const sub = [e.kind === 'price' ? (e.cause ? 'Likely trigger: ' + CAT_LABEL[e.cause.category].toLowerCase() : 'No filing explains it') : CAT_LABEL[e.category],
+               e.move && `stock ${pct(e.move.ret)}`, factual(e) && e.why].filter(Boolean).join(' · ');
   return html`
     <button class="row" onClick=${() => setOpen(!open)} aria-expanded=${open}>
       <span class="dot" style="background:${catColor(e.category)}"></span>
       <span class="sym">${e.symbol}</span>
-      <span class="t">${title}<small>${CAT_LABEL[e.category]}${e.why ? ` · ${e.why}` : ''}</small></span>
+      <span class="t"><span class="tt">${title}</span><small>${sub}</small></span>
       <span class="w">${ago(e.ts, asOf)}</span>
     </button>
     ${open && html`<div class="expand">
+      ${e.why && !factual(e) && html`<div class="why" style="margin:0 0 8px">${e.why}</div>`}
+      ${e.move && html`<${MoveLine} a=${e.move}/>`}
       ${e.results && html`<${Results} r=${e.results}/>`}
       ${e.people?.length > 0 && html`<div class="people">${e.people.slice(0, 2).map(p => html`<${Person} p=${p} company=${e.company}/>`)}</div>`}
       ${e.kind === 'price' && html`<div class="trigger">${e.cause ? html`Likely trigger — ${e.cause.headline}` : 'No filing explains this move.'}</div>`}
@@ -809,6 +843,8 @@ function Dossier({ d, agent }) {
   const rows = L ? [...L.promise_ledger].sort((a, b) => order.indexOf(a.verdict) - order.indexOf(b.verdict)) : [];
   const tally = rows.reduce((m, r) => (m[r.verdict] = (m[r.verdict] || 0) + 1, m), {});
   const ccc = n.working_capital['Cash Conversion Cycle'] || n.working_capital['Working Capital Days'];
+  const [allRows, setAllRows] = useState(false);
+  useEffect(() => setAllRows(false), [d.symbol]);
   const segCols = ['var(--accent)', 'var(--up)', 'var(--warn)', '#b48cff', '#5fc8d8', 'var(--down)', 'var(--faint)'];
 
   return html`
@@ -833,29 +869,37 @@ function Dossier({ d, agent }) {
           <div class="panel">${agent}<p class="faint" style="font-size:13px;margin-top:8px">First analysis of this company takes about a minute. Financials are ready below.</p></div></section>`}
 
         ${L && html`<section class="sec">
-          <div class="sec-h"><h2>Promise ledger</h2><span class="count">${d.promise_source === 'annual_report' ? `from ${d.calls[0].quarter} outlook — no calls held` : `last ${plural(d.calls.length, 'call')}`}</span></div>
-          <div class="panel">
+          <div class="sec-h"><h2>In 30 seconds</h2><span class="count">${d.promise_source === 'annual_report' ? `${d.calls[0].quarter} outlook · no calls held` : `last ${plural(d.calls.length, 'call')}`}</span></div>
+          <div class="panel verdict">
             <div class="cred"><${Ring} score=${L.credibility?.score}/><div class="line">${L.credibility?.line}</div></div>
-            <div class="tally">${order.filter(k => tally[k]).map(k => html`<span style="flex:${tally[k]};background:${VCOLOR[k]}"></span>`)}</div>
-            <div class="legend">${order.filter(k => tally[k]).map(k => html`<span><span class="dot" style="background:${VCOLOR[k]}"></span>${tally[k]} ${VERDICT[k].toLowerCase()}</span>`)}</div>
+            ${rows.length > 0 && html`<div class="tally">${order.filter(k => tally[k]).map(k => html`<span style="flex:${tally[k]};background:${VCOLOR[k]}"></span>`)}</div>
+            <div class="legend">${order.filter(k => tally[k]).map(k => html`<span><span class="dot" style="background:${VCOLOR[k]}"></span>${tally[k]} ${VERDICT[k].toLowerCase()}</span>`)}</div>`}
+            ${(L.bull?.[0] || L.bear?.[0] || L.watch?.[0]) && html`<ul class="takeaways">
+              ${L.bull?.[0] && html`<li><span class="tk up">Bull</span><span>${L.bull[0]}</span></li>`}
+              ${L.bear?.[0] && html`<li><span class="tk down">Bear</span><span>${L.bear[0]}</span></li>`}
+              ${L.watch?.[0] && html`<li><span class="tk">Watch</span><span>${L.watch[0]}</span></li>`}
+            </ul>`}
           </div>
-          <div class="panel ledger">${rows.map(r => html`<${LedgerRow} r=${r}/>`)}</div>
         </section>`}
 
-        ${L?.narrative_vs_numbers?.length > 0 && html`<section class="sec">
-          <div class="sec-h"><h2>Story vs numbers</h2></div>
-          <div class="panel"><ul class="nvn">${L.narrative_vs_numbers.map(x => html`<li>
-            <span class="ic" style="background:${x.agree ? 'var(--up-soft)' : 'var(--down-soft)'};color:${x.agree ? 'var(--up)' : 'var(--down)'}">${x.agree ? '✓' : '✗'}</span><span>${x.point}</span></li>`)}</ul></div>
+        ${rows.length > 0 && html`<section class="sec">
+          <div class="sec-h"><h2>Promise ledger</h2><span class="count">${plural(rows.length, 'promise')} · tap for the quote</span></div>
+          <div class="panel ledger">${(allRows ? rows : rows.slice(0, 3)).map(r => html`<${LedgerRow} r=${r}/>`)}
+            ${rows.length > 3 && html`<button class="more" onClick=${() => setAllRows(!allRows)}>${allRows ? 'Show fewer' : `Show all ${rows.length} promises`}</button>`}</div>
         </section>`}
 
-        ${L && html`<section class="sec">
-          <div class="sec-h"><h2>Bull vs bear</h2></div>
-          <div class="bb">
-            <div class="panel"><h3 class="up"><span class="dot" style="background:var(--up)"></span>Bull case</h3><ul>${(L.bull || []).map(x => html`<li>${x}</li>`)}</ul></div>
-            <div class="panel"><h3 class="down"><span class="dot" style="background:var(--down)"></span>Bear case</h3><ul>${(L.bear || []).map(x => html`<li>${x}</li>`)}</ul></div>
-          </div>
-          ${L.watch?.length > 0 && html`<div class="panel" style="margin-top:10px"><h3 style="font-size:13px;font-weight:650;color:var(--muted);margin-bottom:6px">Check next quarter</h3>
-            <ul class="flags">${L.watch.map(x => html`<li>${x}</li>`)}</ul></div>`}
+        ${L && (L.narrative_vs_numbers?.length > 0 || (L.bull || []).length + (L.bear || []).length > 2 || L.watch?.length > 1) && html`<section class="sec folds">
+          ${L.narrative_vs_numbers?.length > 0 && html`<details class="fold"><summary><span>Story vs numbers</span>
+              <span class="count">${L.narrative_vs_numbers.filter(x => x.agree).length} of ${L.narrative_vs_numbers.length} hold up</span></summary>
+            <ul class="nvn">${L.narrative_vs_numbers.map(x => html`<li>
+              <span class="ic" style="background:${x.agree ? 'var(--up-soft)' : 'var(--down-soft)'};color:${x.agree ? 'var(--up)' : 'var(--down)'}">${x.agree ? '✓' : '✗'}</span><span>${x.point}</span></li>`)}</ul></details>`}
+          ${(L.bull || []).length + (L.bear || []).length > 2 && html`<details class="fold"><summary><span>More of the bull and bear case</span></summary>
+            <div class="bb">
+              ${L.bull?.length > 1 && html`<div><h3 class="up"><span class="dot" style="background:var(--up)"></span>Bull</h3><ul>${L.bull.slice(1).map(x => html`<li>${x}</li>`)}</ul></div>`}
+              ${L.bear?.length > 1 && html`<div><h3 class="down"><span class="dot" style="background:var(--down)"></span>Bear</h3><ul>${L.bear.slice(1).map(x => html`<li>${x}</li>`)}</ul></div>`}
+            </div></details>`}
+          ${L.watch?.length > 1 && html`<details class="fold"><summary><span>What to check next quarter</span><span class="count">${L.watch.length}</span></summary>
+            <ul class="flags">${L.watch.map(x => html`<li>${x}</li>`)}</ul></details>`}
         </section>`}
 
         ${!agent && d.calls.length > 0 && html`<${AskBox} sym=${d.symbol}/>`}
@@ -882,18 +926,18 @@ function Dossier({ d, agent }) {
             ${ccc && !s.is_financial && html`<div class="chart"><div class="t">Cash cycle, days</div><div class="v">${ccc.at(-1)[1] ?? '—'}</div>
               <${Line} values=${ccc.map(x => x[1])} color="var(--warn)"/><div class="ax"><span>${ccc[0][0]}</span><span>${ccc.at(-1)[0]}</span></div></div>`}
           </div>
-          ${n.flags.length > 0 && html`<div class="panel" style="margin-top:10px"><ul class="flags">${n.flags.map(f => html`<li class=${f.tone}>${f.text}</li>`)}</ul></div>`}
+          ${n.flags.length > 0 && html`<div class="panel" style="margin-top:10px"><ul class="flags">${n.flags.slice(0, 3).map(f => html`<li class=${f.tone}>${f.text}</li>`)}</ul></div>`}
         </section>
 
-        ${d.business?.segments?.length > 0 && html`<section class="sec">
-          <div class="sec-h"><h2>Business mix</h2><span class="count">annual report ${d.business.year}</span></div>
-          <div class="panel">
+        ${d.business?.segments?.length > 0 && html`<section class="sec folds">
+          <details class="fold"><summary><span>Business mix</span><span class="count">annual report ${d.business.year}</span></summary>
+          <div>
             ${d.business.segments.filter(x => x.share_pct).length > 1 && html`<div class="segbar">${d.business.segments.filter(x => x.share_pct).map((x, i) => html`<span style="flex:${x.share_pct};background:${segCols[i % segCols.length]}"></span>`)}</div>`}
             <ul class="seglist">${d.business.segments.map((x, i) => html`<li><span class="sw" style="background:${segCols[i % segCols.length]}"></span>
               <span><b>${x.name}</b>${x.what ? html` <span class="faint">${x.what}</span>` : ''}</span><span class="p num">${x.share_pct ? x.share_pct + '%' : ''}</span></li>`)}</ul>
             ${d.business.mix_note && html`<div class="fine">${d.business.mix_note}</div>`}
             ${d.business.risks_mgmt_flags?.length > 0 && html`<div class="fine">Risks management names: ${d.business.risks_mgmt_flags.join(' · ')}</div>`}
-          </div>
+          </div></details>
         </section>`}
 
         ${!agent && html`<${Sources} d=${d}/>`}
@@ -907,9 +951,9 @@ function Sources({ d }) {
   const kind = x => x.kind === 'transcript' ? ['Earnings call transcript', I.mic] : ['Annual report', I.doc];
   const c = d.cost;
   const built = new Date(d.generated_at).toLocaleString('en-IN', { day: 'numeric', month: 'short', year: 'numeric', hour: 'numeric', minute: '2-digit' });
-  return html`<section class="sec">
-    <div class="sec-h"><h2>Sources</h2></div>
-    <div class="panel">
+  return html`<section class="sec folds">
+    <details class="fold"><summary><span>Sources</span><span class="count">${plural(docs.length + 1, 'document')}</span></summary>
+    <div>
       <ul class="docs">
         ${docs.map(x => { const [k, ic] = kind(x); return html`<li><a href=${x.url} target="_blank" rel="noopener">
           <span class="di"><${Icon} d=${ic}/></span>
@@ -926,7 +970,7 @@ function Sources({ d }) {
         <dt>Models</dt><dd>${c.models.join(', ') || 'None — figures only'}${d.ledger_fallback ? ' (fallback; upgrades on the next run)' : ''}</dd>
         <dt>Usage</dt><dd>${plural(c.calls, 'call')} · ${inr(c.tokens_in)} input tokens · free tier</dd>
       </dl></details>`}
-    </div>
+    </div></details>
   </section>`;
 }
 
