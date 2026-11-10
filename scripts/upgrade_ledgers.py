@@ -7,6 +7,10 @@ reviewed against Flash-Lite's and were not reliably better, e.g. a margin from t
 
     python scripts/upgrade_ledgers.py                    # every ledger not written by Gemini Flash
     python scripts/upgrade_ledgers.py INFY DIXON         # specific companies
+    python scripts/upgrade_ledgers.py TCS --rest         # TCS first, then all the others
+    python scripts/upgrade_ledgers.py --limit=12         # leave some of the day's quota for live use
+
+Stops by itself once Flash's free daily quota is used up.
 """
 import json
 import os
@@ -30,23 +34,36 @@ def weak(d: dict) -> bool:
 
 if __name__ == "__main__":
     args = sys.argv[1:]
-    want = [a for a in args if not a.startswith("--")]
-    todo = []
+    limit = next((int(a.split("=")[1]) for a in args if a.startswith("--limit=")), 99)
+    want = [a.upper() for a in args if not a.startswith("--")]
+    have = {}
     for p in sorted(OUT.glob("*.json")):
         d = json.loads(p.read_text(encoding="utf-8"))
-        if (want and d["symbol"] in want) or (not want and weak(d)):
-            todo.append(d["symbol"])
+        have[d["symbol"]] = d
+    # named companies first, in the order given; then every other ledger not written by Flash
+    todo = [s for s in want if s in have and weak(have[s])]
+    if not want or "--rest" in args:
+        todo += [s for s, d in have.items() if weak(d) and s not in todo]
+    todo = todo[:limit]
     print(f"{len(todo)} ledgers to re-judge: {' '.join(todo)}", flush=True)
+    misses = 0
     for i, s in enumerate(todo, 1):
         path = OUT / f"{s}.json"
         before = path.read_text(encoding="utf-8")
         old = json.loads(before).get("ledger_model")
         new = None
-        for ev in research.run(s, force=True):
-            if ev["type"] == "done":
-                new = ev["dossier"].get("ledger_model")
-        better = RANK(new) == 3
+        try:
+            for ev in research.run(s, force=True):
+                if ev["type"] == "done":
+                    new = ev["dossier"].get("ledger_model")
+        except Exception as e:  # one company failing must not stop the batch
+            new = f"error {e.__class__.__name__}"
+        better = RANK(new) == 3 and "error" not in str(new)
         if not better:
             path.write_text(before, encoding="utf-8")  # keep the previous ledger
         print(f"[{i}/{len(todo)}] {s}: {old} -> {new} {'(kept new)' if better else '(kept previous)'}", flush=True)
+        misses = 0 if better else misses + 1
+        if misses >= 2:
+            print("Gemini Flash is out of quota for today; stopping. Run again after the daily reset.", flush=True)
+            break
         time.sleep(8)

@@ -1,10 +1,11 @@
-"""Copy the live server's (encrypted) Telegram subscriber list into data/subscribers.enc.
+"""Copy what the live server has learned into the repo: the (encrypted) Telegram subscriber list
+(data/subscribers.enc) and the stocks visitors started tracking (data/universe.json).
 
 Free hosting forgets files on restart, so the GitHub jobs call this and commit the result; the next
 deploy starts with every subscriber intact. Prints "changed" when the file was updated.
 Needs TELEGRAM_BOT_TOKEN (to prove we're allowed) and FINN_PUBLIC_URL.
 """
-import os
+import json
 import sys
 from pathlib import Path
 
@@ -15,8 +16,26 @@ sys.path.insert(0, str(ROOT))
 
 from finn import notify  # noqa: E402
 
+def sync_universe(base: str) -> bool:
+    """Add stocks that visitors started tracking on the live server to data/universe.json."""
+    try:
+        r = httpx.get(f"{base}/api/universe", timeout=120)
+        live = r.json() if r.status_code == 200 else []
+    except (httpx.HTTPError, ValueError):
+        return False
+    path = ROOT / "data" / "universe.json"
+    mine = json.loads(path.read_text(encoding="utf-8")) if path.exists() else []
+    known = {h["symbol"] for h in mine}
+    new = [h for h in live if isinstance(h, dict) and h.get("symbol") and h["symbol"] not in known]
+    if new:
+        path.write_text(json.dumps(mine + new, indent=1), encoding="utf-8")
+    return bool(new)
+
+
 if __name__ == "__main__":
     base = notify.URL()
+    if base and sync_universe(base):
+        print("changed (tracked stocks)")
     if not (notify.configured() and base):
         sys.exit("skipped: TELEGRAM_BOT_TOKEN or FINN_PUBLIC_URL not set")
     try:

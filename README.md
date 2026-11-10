@@ -1,11 +1,11 @@
 # FINN — a portfolio inbox that tells you what changed, and whether management keeps its word
 
-**Live app:** https://finn-dq90.onrender.com — best on a phone (add it to your home screen). Free hosting: if it has been idle, the first load can take up to a minute.
+**Live app:** https://finn-dq90.onrender.com — best on a phone (add it to your home screen). It runs on free hosting; on the rare occasion the server has just restarted, the first load can take up to a minute.
 
 FINN is a mobile-first investing agent for Indian equities. It does two things:
 
-- **Push — the Brief.** Every exchange filing across an 18-stock portfolio, ranked by how much it could matter. Results arrive as exact Revenue / EBITDA / PBT / PAT tables (QoQ, YoY) read from the company's XBRL filing. Unusual price/volume days are linked to the filing that probably caused them. Routine paperwork is filed away. You clear items like an inbox, and "Less" teaches it what you don't care about.
-- **Pull — Research.** Type any NSE symbol. FINN reads the last four earnings-call transcripts and the latest annual report and builds a **Promise Ledger**: every commitment management made, checked against what the reported numbers show. Every quote is verified against the transcript text and linked to its page.
+- **Push — the Brief.** Every exchange filing across your portfolio, ranked by how much it could matter. Results arrive as exact Revenue / EBITDA / PBT / PAT tables (QoQ, YoY) read from the company's XBRL filing. An unusual price or volume day is shown on the filing that probably caused it, or marked plainly as unexplained. Routine paperwork is filed away. You clear items like an inbox, and "Less" teaches it what you don't care about.
+- **Pull — Research.** Type any NSE symbol. FINN reads the last four earnings-call transcripts and the latest annual report and builds a **Promise Ledger**: every commitment management made, checked against what the reported numbers show. Every quote is verified against the transcript text and linked to its page. Each company opens with a 30-second summary (credibility score, the strongest bull and bear point, what to watch); the detail is one tap away.
 
 ## Run it locally
 
@@ -15,6 +15,7 @@ python -m venv .venv
 cp .env.example .env                              # add free Gemini + Groq keys (both optional)
 python scripts/refresh.py                         # build data/feed.json (~2 min)
 uvicorn server:app --port 8000                    # open http://localhost:8000 on your phone/laptop
+python -m pytest -q                               # offline tests of the arithmetic and the rules
 ```
 
 With no key, everything except the Promise Ledger, filing reads and Q&A still works (rules + XBRL + arithmetic).
@@ -42,7 +43,13 @@ server.py            FastAPI: serves the app + /api/feed, /api/research/{sym}/st
   └─ pull/research.py      screener index → numbers.py (no model) → cheap model ×4 transcripts
                            → quote verification → cheap model on AR pages → strong model synthesis
 web/                 Preact + htm, no build step, installable PWA
+tests/               offline tests: XBRL arithmetic, filing rules, materiality, alert de-duplication
 ```
+
+### Staying up on free hosting
+- The server requests its own public URL every 10 minutes, so the free instance does not go to sleep (GitHub's scheduled jobs proved too irregular to rely on for this).
+- A free host forgets files when it restarts. The GitHub jobs copy what the server has learned (Telegram subscribers, encrypted; stocks visitors added) into the repo, and the app quietly re-tracks any stock a device holds that the server has forgotten.
+- Only one analysis of a company runs at a time; a second visitor waits for the first result instead of spending the model quota twice.
 
 ### Model routing (the cost story)
 

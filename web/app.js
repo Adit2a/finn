@@ -176,6 +176,18 @@ function App() {
     return f;
   });
   useEffect(() => { loadFeed().catch(e => setErr(String(e))); loadStatus(); }, []);
+  // A stock this device holds that the server no longer knows (the free host forgets files when it
+  // restarts) is quietly tracked again, so it never just disappears from the portfolio.
+  const healed = useRef(false);
+  useEffect(() => {
+    if (!feed || !pf || healed.current) return;
+    healed.current = true;
+    const known = new Set(feed.holdings.map(h => h.symbol));
+    const lost = pf.map(p => p.symbol).filter(s => !known.has(s)).slice(0, 8);
+    if (!lost.length) return;
+    Promise.all(lost.map(symbol => fetch('/api/track', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ symbol }) }).catch(() => null)))
+      .then(() => { setTimeout(loadFeed, 45e3); setTimeout(loadFeed, 120e3); });
+  }, [feed, pf]);
   const setRules = r => { setRulesRaw(r); store.set('rules', r); syncTelegram(r, pf); };
   const setPf = p => { setPfRaw(p); store.set('portfolio', p); syncTelegram(rules, p); };
   const flash = (msg, undo) => { setToast({ msg, undo }); clearTimeout(flash.t); flash.t = setTimeout(() => setToast(null), 3500); };
@@ -403,7 +415,7 @@ function Card({ e, asOf, leaving, onDone, onMute, isDone }) {
     ${e.why && (!e.people?.length || /\d/.test(e.why)) && html`<div class="why">${e.why}</div>`}
     ${e.results && html`<${Results} r=${e.results}/>`}
     ${e.people?.length > 0 && html`<div class="people">${e.people.slice(0, 3).map(p => html`<${Person} p=${p} company=${e.company}/>`)}</div>`}
-    ${e.reasons?.length > 0 && !e.results && html`<div class="because">${e.reasons.join(' · ')}</div>`}
+    ${e.reasons?.length > 0 && !e.results && (!e.people?.length || /\d/.test(e.reasons.join(' '))) && html`<div class="because">${e.reasons.join(' · ')}</div>`}
     <div class="links">
       ${research && html`<a class="primary" href="#research/${e.symbol}">See promise ledger</a>`}
       ${e.pdf && html`<a href=${e.pdf} target="_blank" rel="noopener">Read filing ↗</a>`}
@@ -504,6 +516,7 @@ function Row({ e, asOf, onDone, onMute }) {
 
 /* ====================================================================== PORTFOLIO */
 function Portfolio({ feed, pf, setPf, flash, reload }) {
+  const [editing, setEditing] = useState(false);
   const [pending, setPending] = useState({});  // symbol -> 'building' | 'failed'
   const [, setTick] = useState(0);
   useEffect(() => { loadSymbols().then(() => setTick(t => t + 1)); }, []);
@@ -556,10 +569,11 @@ function Portfolio({ feed, pf, setPf, flash, reload }) {
       <${SearchBox} cached=${new Set()} onPick=${add} action="Add" placeholder="Add a stock — name or symbol"/>
     </header>
     <section class="sec">
-      <div class="list pf">
+      <div class="pf-tools"><button class="quiet-link" onClick=${() => setEditing(!editing)}>${editing ? 'Done' : 'Edit'}</button></div>
+      <div class="list pf ${editing ? 'editing' : ''}">
         <div class="pf-row pf-head"><span>Stock</span><span class="r">Price</span><span class="r">Today</span><span class="r">Qty</span><span class="r">Avg cost</span><span class="r">Value</span><span class="r">Return</span><span></span></div>
         ${rows.map(r => html`<div class="pf-row" key=${r.symbol}>
-          <a class="pf-name" href="#brief/${r.symbol}" title="See ${r.symbol}'s news"><b>${r.symbol}</b><small>${r.name}</small></a>
+          <a class="pf-name" href="#brief/${r.symbol}" title="See ${r.symbol}'s news"><b>${r.symbol}</b>${r.name !== r.symbol && html`<small>${r.name}</small>`}</a>
           <span class="r num pf-price">${pending[r.symbol] === 'building' ? html`<span class="spin"></span>` : pending[r.symbol] === 'failed' ? html`<span class="faint">unavailable</span>` : r.last ? `₹${inr(r.last, 1)}` : '—'}</span>
           <span class="r num pf-chg ${tone(r.chg)}">${pct(r.chg)}</span>
           <input class="pf-in pf-qty num" inputmode="decimal" placeholder="Qty" aria-label="Quantity of ${r.symbol}" value=${r.qty ?? ''} onChange=${e => edit(r.symbol, 'qty', e.target.value)}/>
@@ -662,7 +676,7 @@ const ALERT_CATS = ['results', 'M&A', 'management_change', 'fund_raise', 'litiga
 function RulesPanel({ rules, setRules, nPx, nAnn, days }) {
   const set = (k, v) => setRules({ ...rules, [k]: v });
   const toggle = c => set('categories', rules.categories.includes(c) ? rules.categories.filter(x => x !== c) : [...rules.categories, c]);
-  const total = nPx + nAnn;
+  const total = nPx + nAnn, perDay = total / 21;  // ~21 trading days in 30
   return html`<div class="panel">
     <div class="panel-h"><h3>Rules</h3></div>
     <div class="rule">
@@ -680,7 +694,8 @@ function RulesPanel({ rules, setRules, nPx, nAnn, days }) {
       <div class="hint">Alert when a material filing of these types lands</div>
       <div class="toggles">${ALERT_CATS.map(c => html`<button aria-pressed=${rules.categories.includes(c)} class=${rules.categories.includes(c) ? 'on' : ''} onClick=${() => toggle(c)}>${CAT_LABEL[c]}</button>`)}</div>
     </div>
-    <p class="verdict-line"><b>${total}</b> alerts in 30 days (${nPx} price/volume on ${plural(days, 'day')}, ${nAnn} filings) — ${total > 40 ? 'noisy; tighten a threshold.' : total < 3 ? 'very quiet; you may miss things.' : 'a sensible signal-to-noise ratio.'}</p>
+    <p class="verdict-line">These rules would have sent <b>${plural(total, 'alert')}</b> in 30 days (${nPx} price or volume, ${nAnn} filings), ${
+      total < 3 ? 'which is very quiet; you may miss things.' : perDay > 4 ? `about ${Math.round(perDay)} a day. That is a lot; tighten a threshold.` : perDay >= 1 ? `about ${Math.round(perDay)} a day, in one message after the close.` : 'fewer than one a day.'}</p>
   </div>`;
 }
 
@@ -689,7 +704,9 @@ function Alerts({ feed, asOf, rules, setRules, pf }) {
   const px = linkCauses(priceAlerts(feed.holdings, rules, since), feed.events);
   const ann = feed.events.filter(e => rules.categories.includes(e.category) && e.score >= 60 && new Date(e.ts) >= since);
   const all = [...px, ...ann.map(e => ({ ...e, kind: 'filing' }))].sort((a, b) => new Date(b.ts) - new Date(a.ts));
-  const byDay = all.slice(0, 80).reduce((m, e) => { const k = fmtDay(e.ts); (m[k] = m[k] || []).push(e); return m; }, {});
+  const [older, setOlder] = useState(false);
+  const days = Object.entries(all.slice(0, 80).reduce((m, e) => { const k = fmtDay(e.ts); (m[k] = m[k] || []).push(e); return m; }, {}));
+  const shownDays = older ? days : days.slice(0, 3);
   const panel = html`<${RulesPanel} rules=${rules} setRules=${setRules} nPx=${px.length} nAnn=${ann.length} days=${new Set(px.map(a => a.ts.slice(0, 10))).size}/>`;
   return html`
     <header class="head">
@@ -701,9 +718,10 @@ function Alerts({ feed, asOf, rules, setRules, pf }) {
       <div>
         <div class="rail-mobile sec"><${TelegramPanel} rules=${rules} pf=${pf}/>${panel}</div>
         <section class="sec">
-          ${all.length ? Object.entries(byDay).map(([d, list]) => html`<div class="day-h">${d}</div>
+          ${all.length ? shownDays.map(([d, list]) => html`<div class="day-h">${d}</div>
             <div class="list">${list.map(e => html`<${Row} key=${e.id} e=${e} asOf=${asOf} onDone=${() => {}}/>`)}</div>`)
             : html`<div class="empty">Nothing crossed your lines in 30 days.</div>`}
+          ${days.length > 3 && html`<div style="text-align:center;padding:16px 0 0"><button class="btn" onClick=${() => setOlder(!older)}>${older ? 'Show recent only' : `Show ${plural(days.length - 3, 'earlier day')}`}</button></div>`}
         </section>
       </div>
       <aside class="rail"><${TelegramPanel} rules=${rules} pf=${pf}/>${panel}</aside>
@@ -803,6 +821,9 @@ function Research({ sym, status, feed, onDone }) {
   const cached = new Set(status?.cached || []);
   const ready = status?.ready || [];
   const holdingsReady = new Set(feed.holdings.map(h => h.symbol));
+  const [allReady, setAllReady] = useState(false);
+  // your holdings first, then the companies with a scored track record
+  const sortedReady = [...ready].sort((a, b) => holdingsReady.has(b.symbol) - holdingsReady.has(a.symbol) || (b.score != null) - (a.score != null) || (b.promises || 0) - (a.promises || 0));
   const agent = html`<div class="agent">
     ${steps.map((s, i) => html`<div class="step ${s.type === 'warn' || s.type === 'error' ? 'warn' : i === steps.length - 1 && running ? 'live' : ''}">
       <span class="ic">${s.type === 'warn' || s.type === 'error' ? '!' : i === steps.length - 1 && running ? html`<span class="spin"></span>` : '✓'}</span>${s.text}</div>`)}
@@ -818,14 +839,15 @@ function Research({ sym, status, feed, onDone }) {
     </header>
     ${!sym && html`
       <section class="sec">
-        <div class="sec-h"><h2>Recently analysed</h2></div>
-        <div class="ready-grid">${[...ready].sort((a, b) => holdingsReady.has(b.symbol) - holdingsReady.has(a.symbol) || (b.score ?? -1) - (a.score ?? -1)).map(r => html`
+        <div class="sec-h"><h2>Ready to read</h2><span class="count">${ready.length} companies · any other takes about a minute</span></div>
+        <div class="ready-grid">${sortedReady.slice(0, allReady ? 999 : 6).map(r => html`
           <button class="rcard" onClick=${() => go(`research/${r.symbol}`)}>
             <${Ring} score=${r.score} size=${44}/>
             <div style="min-width:0;flex:1"><div class="nm">${r.name || r.symbol}</div>
               <div class="sy">${r.symbol}${holdingsReady.has(r.symbol) ? ' · Holding' : ''}</div>
               <div class="tl">${r.promises ? html`<span class="up">${r.delivered} kept</span> · <span class=${r.missed ? 'down' : ''}>${r.missed} broken</span>` : 'Financials only'}</div></div>
           </button>`)}</div>
+        ${ready.length > 6 && html`<div style="text-align:center;padding:16px 0 0"><button class="btn" onClick=${() => setAllReady(!allReady)}>${allReady ? 'Show fewer' : `Show all ${ready.length}`}</button></div>`}
       </section>
       `}
     ${sym && !dossier && html`<div class="sec"><div class="panel">${agent}</div></div>`}

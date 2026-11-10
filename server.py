@@ -2,9 +2,15 @@
 from __future__ import annotations
 
 import json
+import logging
+import os
 import re
 import threading
+import time
+from collections import defaultdict
 from pathlib import Path
+
+import httpx
 
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.responses import FileResponse, JSONResponse, Response, StreamingResponse
@@ -20,6 +26,7 @@ DATA = ROOT / "data"
 WEB = ROOT / "web"
 
 app = FastAPI(title="FINN")
+log = logging.getLogger("finn")
 SYM = re.compile(r"^[A-Z0-9&\-]{1,20}$")
 
 
@@ -38,11 +45,17 @@ def _sym(s: str) -> str:
     return s
 
 
-@app.get("/api/status")
-def status():
-    cfg = json.loads((ROOT / "config" / "portfolio.json").read_text())
+_status_cache: dict = {}
+
+
+def _ready() -> list[dict]:
+    """One summary line per saved dossier; re-read only when a dossier file changes."""
+    files = sorted((DATA / "research").glob("*.json"))
+    key = tuple((p.name, p.stat().st_mtime_ns) for p in files)
+    if _status_cache.get("key") == key:
+        return _status_cache["ready"]
     ready = []
-    for p in sorted((DATA / "research").glob("*.json")):
+    for p in files:
         try:
             d = json.loads(p.read_text(encoding="utf-8"))
         except Exception:
@@ -54,6 +67,14 @@ def status():
                       "line": (L.get("credibility") or {}).get("line"),
                       "missed": verdicts.count("missed") + verdicts.count("walked_back"),
                       "delivered": verdicts.count("delivered"), "promises": len(verdicts)})
+    _status_cache.update(key=key, ready=ready)
+    return ready
+
+
+@app.get("/api/status")
+def status():
+    cfg = json.loads((ROOT / "config" / "portfolio.json").read_text())
+    ready = _ready()
     return {"llm": llm.available(),
             "research_demo": cfg["research_demo"],
             "cached": [r["symbol"] for r in ready], "ready": ready}
@@ -75,18 +96,32 @@ def research_cached(symbol: str):
     return FileResponse(p, media_type="application/json")
 
 
+_research_locks: dict[str, threading.Lock] = defaultdict(threading.Lock)
+WAITING = "Someone else is analysing this company right now; waiting for their result"
+FAILED = "The analysis could not be completed. The data sources may be busy; please try again in a minute."
+
+
 @app.get("/api/research/{symbol}/stream")
-def research_stream(symbol: str, force: bool = False):
+def research_stream(symbol: str):
     sym = _sym(symbol)
 
     def gen():
+        # one build per company at a time: a second visitor waits, then gets the saved dossier
+        # instead of spending the free model quota twice
+        lock = _research_locks[sym]
+        if not lock.acquire(blocking=False):
+            yield f"data: {json.dumps({'type': 'step', 'text': WAITING})}\n\n"
+            lock.acquire()
         try:
-            for ev in research.run(sym, force=force):
+            for ev in research.run(sym):
                 yield f"data: {json.dumps(ev, ensure_ascii=False, default=str)}\n\n"
         except LookupError:
             yield f"data: {json.dumps({'type': 'error', 'text': f'{sym} not found. Use the NSE symbol, e.g. INFY.'})}\n\n"
-        except Exception as e:
-            yield f"data: {json.dumps({'type': 'error', 'text': f'{e.__class__.__name__}: {e}'})}\n\n"
+        except Exception:
+            log.exception("research failed for %s", sym)
+            yield f"data: {json.dumps({'type': 'error', 'text': FAILED})}\n\n"
+        finally:
+            lock.release()
 
     return StreamingResponse(gen(), media_type="text/event-stream",
                              headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"})
@@ -160,6 +195,13 @@ def track(t: Track):
     return {"symbol": sym, "status": "building"}
 
 
+@app.get("/api/universe")
+def universe():
+    """Stocks visitors have added. The GitHub jobs copy this into the repo so the daily refresh covers them."""
+    uni = digest.UNIVERSE
+    return JSONResponse(json.loads(uni.read_text(encoding="utf-8")) if uni.exists() else [])
+
+
 @app.get("/api/track/{symbol}")
 def track_status(symbol: str):
     sym = _sym(symbol)
@@ -188,6 +230,26 @@ def _telegram_webhook():
     base = notify.URL()
     if notify.configured() and base.startswith("https://"):
         threading.Thread(target=lambda: print("telegram webhook:", notify.set_webhook(base)), daemon=True).start()
+
+
+@app.on_event("startup")
+def _keep_awake():
+    """Free hosting sleeps after 15 idle minutes (a ~40 s cold start, and files written since the last
+    deploy are lost). A request to our own public URL every 10 minutes keeps the one free instance up;
+    a month of that fits inside the free allowance."""
+    base = notify.URL()
+    if not (os.environ.get("RENDER") and base.startswith("https://")):
+        return
+
+    def loop():
+        while True:
+            time.sleep(600)
+            try:
+                httpx.get(f"{base}/api/status", timeout=30)
+            except httpx.HTTPError:
+                pass
+
+    threading.Thread(target=loop, daemon=True).start()
 
 
 @app.get("/api/telegram/status")
