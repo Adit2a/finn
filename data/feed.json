@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T21:29:34",
+ "generated_at": "2026-11-11T00:12:15",
  "window_days": 30,
  "holdings": [
   {
@@ -456,7 +456,7 @@
     {
      "d": "2026-11-09",
      "c": 1324.4,
-     "v": 19730765
+     "v": 19734153
     }
    ]
   },
@@ -914,7 +914,7 @@
     {
      "d": "2026-11-09",
      "c": 798.15,
-     "v": 64825158
+     "v": 64826814
     }
    ]
   },
@@ -1372,7 +1372,7 @@
     {
      "d": "2026-11-09",
      "c": 1064.85,
-     "v": 9198839
+     "v": 9203283
     }
    ]
   },
@@ -1830,7 +1830,7 @@
     {
      "d": "2026-11-09",
      "c": 2475.4,
-     "v": 2894460
+     "v": 2897701
     }
    ]
   },
@@ -2288,7 +2288,7 @@
     {
      "d": "2026-11-09",
      "c": 6040.0,
-     "v": 481089
+     "v": 481139
     }
    ]
   },
@@ -2746,7 +2746,7 @@
     {
      "d": "2026-11-09",
      "c": 1904.5,
-     "v": 3125542
+     "v": 3127099
     }
    ]
   },
@@ -3204,7 +3204,7 @@
     {
      "d": "2026-11-09",
      "c": 12603.0,
-     "v": 171579
+     "v": 171649
     }
    ]
   },
@@ -3662,7 +3662,7 @@
     {
      "d": "2026-11-09",
      "c": 5005.0,
-     "v": 839804
+     "v": 839812
     }
    ]
   },
@@ -4120,7 +4120,7 @@
     {
      "d": "2026-11-09",
      "c": 2509.3,
-     "v": 1001969
+     "v": 1001985
     }
    ]
   },
@@ -4578,7 +4578,7 @@
     {
      "d": "2026-11-09",
      "c": 12928.0,
-     "v": 557936
+     "v": 558028
     }
    ]
   },
@@ -5036,7 +5036,7 @@
     {
      "d": "2026-11-09",
      "c": 4185.0,
-     "v": 3250136
+     "v": 3251721
     }
    ]
   },
@@ -5494,7 +5494,7 @@
     {
      "d": "2026-11-09",
      "c": 363.45,
-     "v": 12241495
+     "v": 12242872
     }
    ]
   },
@@ -5952,7 +5952,7 @@
     {
      "d": "2026-11-09",
      "c": 3119.2,
-     "v": 960794
+     "v": 960820
     }
    ]
   },
@@ -6410,7 +6410,7 @@
     {
      "d": "2026-11-09",
      "c": 7832.5,
-     "v": 228101
+     "v": 228133
     }
    ]
   },
@@ -6868,7 +6868,7 @@
     {
      "d": "2026-11-09",
      "c": 4999.0,
-     "v": 831490
+     "v": 831506
     }
    ]
   },
@@ -7326,7 +7326,7 @@
     {
      "d": "2026-11-09",
      "c": 1540.0,
-     "v": 95303
+     "v": 95306
     }
    ]
   },
@@ -7784,7 +7784,7 @@
     {
      "d": "2026-11-09",
      "c": 401.5,
-     "v": 7327920
+     "v": 7329368
     }
    ]
   },
@@ -8242,7 +8242,7 @@
     {
      "d": "2026-11-09",
      "c": 360.0,
-     "v": 4436690
+     "v": 4438333
     }
    ]
   },
@@ -8700,7 +8700,7 @@
     {
      "d": "2026-11-09",
      "c": 1215.9,
-     "v": 1877132
+     "v": 1877163
     }
    ]
   },
@@ -9158,7 +9158,7 @@
     {
      "d": "2026-11-09",
      "c": 573.65,
-     "v": 664447
+     "v": 664527
     }
    ]
   },
@@ -10525,6 +10525,75 @@
    "label": "Legal / regulatory"
   },
   {
+   "id": "106854012",
+   "symbol": "MARUTI",
+   "company": "Maruti Suzuki India Limited",
+   "category": "results",
+   "headline": "Q2 FY27: revenue +26% YoY, PAT -26% YoY",
+   "why": null,
+   "score": 88,
+   "reasons": [
+    "PAT -26% YoY"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/MARUTIASHISH_10112026115416_STxIntimation_SMCResults_FirstHalfYr_10Nov2026.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "General Updates",
+   "ts": "2026-11-10T11:56:00",
+   "related": [],
+   "results": {
+    "symbol": "MARUTI",
+    "quarter": "Q2 FY27",
+    "quarter_end": "2026-09-30",
+    "basis": "Consolidated",
+    "kind": "corporate",
+    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1747193_27102026073131_WEB.xml",
+    "derived": [],
+    "metrics": [
+     {
+      "key": "revenue",
+      "label": "Revenue",
+      "value": 53355.5,
+      "qoq": 1.7,
+      "yoy": 26.0,
+      "prev_q": 52469.8,
+      "prev_y": 42344.2
+     },
+     {
+      "key": "ebitda",
+      "label": "EBITDA",
+      "value": 5177.7,
+      "qoq": -16.3,
+      "yoy": -14.2,
+      "prev_q": 6187.3,
+      "prev_y": 6032.2
+     },
+     {
+      "key": "pbt",
+      "label": "PBT",
+      "value": 3150.1,
+      "qoq": -27.5,
+      "yoy": -26.3,
+      "prev_q": 4343.5,
+      "prev_y": 4272.0
+     },
+     {
+      "key": "pat",
+      "label": "PAT",
+      "value": 2466.1,
+      "qoq": -28.5,
+      "yoy": -26.4,
+      "prev_q": 3446.9,
+      "prev_y": 3349.0
+     }
+    ],
+    "ebitda_margin": 9.7,
+    "ebitda_margin_bps_yoy": -454
+   },
+   "tier": "act",
+   "label": "Results"
+  },
+  {
    "id": "106843746",
    "symbol": "ZYDUSLIFE",
    "company": "Zydus Lifesciences Limited",
@@ -11263,6 +11332,24 @@
    "related": [],
    "tier": "act",
    "label": "M&A"
+  },
+  {
+   "id": "106854062",
+   "symbol": "BAJFINANCE",
+   "company": "Bajaj Finance Limited",
+   "category": "fund_raise",
+   "headline": "Allotment of 5,74,25,740 securities pursuant to Preferential Issue at its meeting held on November 10, 2026",
+   "why": null,
+   "score": 70,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_10112026125828_BFL_Reg_30__Allotment_of_warrants_Final_1.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Allotment of Securities",
+   "ts": "2026-11-10T12:58:49",
+   "related": [],
+   "tier": "act",
+   "label": "Fund raise"
   },
   {
    "id": "106829445",
@@ -13749,40 +13836,22 @@
    "label": "Investor meet"
   },
   {
-   "id": "106813708",
-   "symbol": "POLYCAB",
-   "company": "Polycab India Limited",
-   "category": "investor_meetings",
-   "headline": "Schedule of meet",
+   "id": "106854034",
+   "symbol": "BAJFINANCE",
+   "company": "Bajaj Finance Limited",
+   "category": "unclassified",
+   "headline": "Outcome of PI 2026 - Special Committee Meeting held on November 10, 2026",
    "why": null,
-   "score": 8,
+   "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_10102026202405_Intimation_of_Earnings_Call.pdf",
+   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_10112026121523_BFL_Reg_30_Outcome_PricingofPIpostVRFinal.pdf",
    "people": [],
    "read_by": null,
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "ts": "2026-10-10T20:24:14",
+   "subject": "Committee Meeting Updates",
+   "ts": "2026-11-10T12:15:58",
    "related": [],
    "tier": "routine",
-   "label": "Investor meet"
-  },
-  {
-   "id": "106813489",
-   "symbol": "DIXON",
-   "company": "Dixon Technologies (India) Limited",
-   "category": "investor_meetings",
-   "headline": "Outcome of Analyst/ Institutional Investor Meet",
-   "why": null,
-   "score": 8,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_10102026134116_InvestorMeetOutcome10102026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "ts": "2026-10-10T13:41:35",
-   "related": [],
-   "tier": "routine",
-   "label": "Investor meet"
+   "label": "Routine"
   },
   {
    "id": "106853387",
@@ -15349,71 +15418,9 @@
    "related": [],
    "tier": "routine",
    "label": "Routine"
-  },
-  {
-   "id": "106813660",
-   "symbol": "TCS",
-   "company": "Tata Consultancy Services Limited",
-   "category": "unclassified",
-   "headline": "Copy of Newspaper Publication",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_10102026180525_SEInt10102026_signed.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Copy of Newspaper Publication",
-   "ts": "2026-10-10T18:06:21",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106813653",
-   "symbol": "TCS",
-   "company": "Tata Consultancy Services Limited",
-   "category": "unclassified",
-   "headline": "Copy of Newspaper Publication",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_10102026175539_SEInt10102026_signed.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Copy of Newspaper Publication",
-   "ts": "2026-10-10T17:56:32",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106813631",
-   "symbol": "BAJFINANCE",
-   "company": "Bajaj Finance Limited",
-   "category": "unclassified",
-   "headline": "Copy of Newspaper Publication",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_10102026171855_SEIntimationnewspaperadvt_Sd.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Copy of Newspaper Publication",
-   "ts": "2026-10-10T17:19:27",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
   }
  ],
  "upcoming": [
-  {
-   "symbol": "TATAPOWER",
-   "date": "2026-11-11",
-   "kind": "results",
-   "title": "Results board meeting",
-   "detail": "To consider and approve the financial results for the quarter and half year ended September 30, 2026, and other business matters",
-   "source": null
-  },
   {
    "symbol": "HAL",
    "date": "2026-11-12",
@@ -15483,13 +15490,11 @@
   ]
  },
  "llm": {
-  "calls": 2,
+  "calls": 0,
   "cached": 0,
-  "in": 2676,
-  "out": 189,
-  "models": [
-   "gemini-3.5-flash-lite"
-  ],
-  "remembered": 49
+  "in": 0,
+  "out": 0,
+  "models": [],
+  "remembered": 51
  }
 }
