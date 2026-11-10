@@ -25,8 +25,8 @@ const plural = (n, w) => `${n} ${w}${n === 1 ? '' : 's'}`;
 
 const WINDOWS = [
   { k: 'session', label: 'Last session', title: 'Since the close before the latest trading day — covers evenings and weekends' },
-  { k: 1, label: '24 hours' }, { k: 7, label: '7 days' }, { k: 30, label: '30 days' },
-  { k: 'last', label: 'New since last look' },
+  { k: 1, label: '24h', title: 'The last 24 hours' }, { k: 7, label: '7 days' }, { k: 30, label: '30 days' },
+  { k: 'last', label: 'New', title: 'Only what has arrived since you last opened FINN' },
 ];
 function sessionStart(holdings, asOf) {  // close (15:30 IST) of the trading day before the latest one
   const days = [...new Set(holdings.flatMap(h => (h.series || []).map(x => x.d)))].sort();
@@ -131,8 +131,19 @@ function Line({ values, color = 'var(--accent)' }) {
     <polyline points=${pts} fill="none" stroke=${color} stroke-width="2" vector-effect="non-scaling-stroke" stroke-linejoin="round" stroke-linecap="round"/>
   </svg>`;
 }
-function Ring({ score, size = 56 }) {
+function Ring({ score, size = 56, parts }) {
   const r = size / 2 - 4, c = 2 * Math.PI * r;
+  if (score == null && parts) {  // not enough judged promises for a score: draw the tally instead (kept / broken / open)
+    const total = parts.reduce((a, x) => a + x[0], 0) || 1;
+    let off = 0;
+    return html`<div class="ring" style="width:${size}px;height:${size}px" title="Too few promises can be checked yet for a score">
+      <svg width=${size} height=${size}>${parts.filter(x => x[0]).map(([n, col, dash]) => {
+        const len = n / total * c, seg = html`<circle cx=${size / 2} cy=${size / 2} r=${r} fill="none" stroke=${col} stroke-width="4"
+          stroke-dasharray=${dash ? dashes(len, c) : `${Math.max(0, len - 2)} ${c}`} stroke-dashoffset=${-off}/>`;
+        off += len; return seg; })}</svg>
+      ${parts.at(-1)[0] > 0 && html`<span class="val open">${parts.at(-1)[0]}<small>open</small></span>`}
+    </div>`;
+  }
   const col = score == null ? 'var(--faint)' : score >= 7 ? 'var(--up)' : score >= 4 ? 'var(--warn)' : 'var(--down)';
   return html`<div class="ring" style="width:${size}px;height:${size}px" title=${score == null ? 'Not enough checkable promises to score' : `Credibility ${score}/10`}>
     <svg width=${size} height=${size}><circle cx=${size / 2} cy=${size / 2} r=${r} fill="none" stroke="var(--line-2)" stroke-width="4"/>
@@ -141,6 +152,9 @@ function Ring({ score, size = 56 }) {
     <span class="val num" style="font-size:${size * 0.36}px;color:${col}">${score ?? '–'}</span>
   </div>`;
 }
+// a dotted arc of the given length: "3 3 3 3 ... gap-to-the-end"
+const dashes = (len, c) => { const n = Math.max(1, Math.floor(len / 6)); return `${'3 3 '.repeat(n)}0 ${c}`; };
+
 function heatStyle(chg) {
   if (chg == null) return 'background:var(--raised)';
   const a = Math.min(0.9, 0.14 + Math.abs(chg) / 4 * 0.7);
@@ -210,7 +224,10 @@ function App() {
   }, [view, rules]);
 
   if (err) return html`<div class="empty" style="padding-top:30vh"><div class="glyph">⚠︎</div>Couldn't load the brief.<br/><span class="mono">${err}</span></div>`;
-  if (!view || !rules) return html`<div class="empty" style="padding-top:40vh"><span class="spin"></span></div>`;
+  if (!view || !rules) return html`<div class="skeleton" aria-busy="true" aria-label="Loading your brief">
+    <div class="sk sk-line" style="width:32%"></div><div class="sk sk-title"></div><div class="sk sk-line" style="width:78%"></div>
+    <div class="sk sk-card" style="height:210px"></div><div class="sk sk-card" style="height:260px"></div><div class="sk sk-card" style="height:120px"></div>
+  </div>`;
 
   const nav = [['brief', 'Brief', I.brief], ['portfolio', 'Portfolio', I.portfolio], ['alerts', 'Alerts', I.alerts], ['research', 'Research', I.research]];
   return html`<div class="shell ${slim ? 'slim' : ''}">
@@ -227,7 +244,7 @@ function App() {
         aria-label=${slim ? 'Expand sidebar' : 'Collapse sidebar'}><${Icon} d=${I.collapse}/><span class="lbl">Collapse</span></button></div>
     </nav>
     <main class="main">
-      ${tab === 'brief' && html`<${Brief} feed=${view} asOf=${asOf} rules=${rules} flash=${flash} focus=${arg} pf=${pf}/>`}
+      ${tab === 'brief' && html`<${Brief} feed=${view} asOf=${asOf} rules=${rules} flash=${flash} focus=${arg} pf=${pf} sample=${store.get('portfolio', null) === null}/>`}
       ${tab === 'portfolio' && html`<${Portfolio} feed=${feed} pf=${pf} setPf=${setPf} flash=${flash} reload=${loadFeed}/>`}
       ${tab === 'alerts' && html`<${Alerts} feed=${view} asOf=${asOf} rules=${rules} setRules=${setRules} pf=${pf}/>`}
       ${tab === 'research' && html`<${Research} sym=${arg} status=${status} feed=${view} onDone=${loadStatus}/>`}
@@ -238,7 +255,10 @@ function App() {
 const lastSym = () => store.get('lastSym', null);
 
 /* ====================================================================== BRIEF */
-function Brief({ feed, asOf, rules, flash, focus, pf }) {
+function Brief({ feed, asOf, rules, flash, focus, pf, sample }) {
+  const [welcome, setWelcome] = useState(sample && !store.get('welcomed', false));
+  const [hint, setHint] = useState(!store.get('hinted', false));
+  const dismiss = (key, set) => { store.set(key, true); set(false); };
   const [win, setWin] = useState(store.get('win', 'session'));
   const [done, setDone] = useState(() => new Set(store.get('done', [])));
   const [muted, setMuted] = useState(() => new Set(store.get('muted', [])));
@@ -291,6 +311,7 @@ function Brief({ feed, asOf, rules, flash, focus, pf }) {
     flash(`Fewer ${CAT_LABEL[e.category].toLowerCase()} items from ${e.symbol}`, () => { n.delete(key); setMuted(new Set(n)); store.set('muted', [...n]); });
   };
   const pulse = c => html`<${Pulse} feed=${feed} sym=${sym} setSym=${setSym} compact=${c}/>`;
+  const lastClose = feed.holdings.map(h => h.series?.at(-1)?.d).filter(Boolean).sort().at(-1);
   const hour = new Date().getHours();
   const greeting = hour < 12 ? 'Good morning' : hour < 17 ? 'Good afternoon' : 'Good evening';
   const span = { session: 'since the last session', 1: 'in the last 24 hours', 7: 'this week', 30: 'this month', last: 'since you last looked' }[win];
@@ -299,7 +320,7 @@ function Brief({ feed, asOf, rules, flash, focus, pf }) {
 
   return html`
     <header class="head">
-      <div class="eyebrow">${fmtDay(asOf)}</div>
+      <div class="eyebrow">${fmtDay(Date.now())}${lastClose ? html` · data to the ${fmtDate(lastClose)} close` : ''}</div>
       <h1>${greeting}</h1>
       <p class="sub">${sym ? html`Showing <b>${sym}</b> only · <a href="#brief" onClick=${() => setSym(null)}>Show everything</a>` : summary}</p>
     </header>
@@ -308,12 +329,18 @@ function Brief({ feed, asOf, rules, flash, focus, pf }) {
 
     <div class="cols">
       <div>
+        ${welcome && html`<div class="sec"><div class="callout">
+          <span>This is a sample portfolio. <a href="#portfolio" onClick=${() => dismiss('welcomed', setWelcome)}>Make it yours</a> and the brief, alerts and events follow your stocks.</span>
+          <button class="icon-btn" aria-label="Dismiss" title="Dismiss" onClick=${() => dismiss('welcomed', setWelcome)}><${Icon} d=${I.x} size=${15}/></button></div></div>`}
         <div class="rail-mobile sec">${pulse(true)}</div>
 
         ${act.length > 0 && html`<section class="sec">
           <div class="sec-h"><h2><span class="dot" style="background:var(--down)"></span>Needs attention
             <span class="info" title="Ranked by materiality: the exchange's own subject lines, exact figures from XBRL filings, deal size against market cap, and a small model that reads only the filings whose summary is unclear. Clear an item with ✓ or a left swipe; ⊖ shows you less of that kind.">i</span></h2></div>
-          ${act.map(e => html`<${Card} key=${e.id} e=${e} asOf=${asOf} leaving=${leaving === e.id} onDone=${() => clear(e.id)} onMute=${() => mute(e)} isDone=${done.has(e.id)}/>`)}
+          ${act.map((e, i) => html`<${Card} key=${e.id} e=${e} asOf=${asOf} leaving=${leaving === e.id} onDone=${() => clear(e.id)} onMute=${() => mute(e)} isDone=${done.has(e.id)}/>
+            ${i === 0 && hint && html`<div class="hintbar">
+              <span><span class="hk"><${Icon} d=${I.check} size=${14}/></span> or a left swipe clears a card. <span class="hk"><${Icon} d=${I.less} size=${14}/></span> shows you less of that kind. Tap a stock above to see only its news.</span>
+              <button onClick=${() => dismiss('hinted', setHint)}>Got it</button></div>`}`)}
         </section>`}
 
         ${glance.length > 0 && html`<section class="sec">
@@ -324,7 +351,7 @@ function Brief({ feed, asOf, rules, flash, focus, pf }) {
         ${feed.upcoming?.length > 0 && html`<div class="rail-mobile sec"><${Upcoming} items=${feed.upcoming} limit=${4}/></div>`}
         <div class="rail-mobile sec"><${TelegramPanel} rules=${rules} pf=${pf} compact/></div>
         ${act.length + glance.length === 0 && html`<div class="empty"><div class="glyph">☕</div>
-          Nothing material ${win === 'last' ? 'since your last look' : win === 'session' ? 'since the last session' : `in the last ${WINDOWS.find(w => w.k === win).label}`}${sym ? ` for ${sym}` : ''}.
+          Nothing material ${win === 'last' ? 'since your last look' : win === 'session' ? 'since the last session' : win === 1 ? 'in the last 24 hours' : `in the last ${win} days`}${sym ? ` for ${sym}` : ''}.
           ${win !== 30 && html`<div style="margin-top:16px"><button class="btn" onClick=${() => pickWin(win === 7 ? 30 : 7)}>Look back ${win === 7 ? '30 days' : '7 days'}</button></div>`}
         </div>`}
 
@@ -842,10 +869,10 @@ function Research({ sym, status, feed, onDone }) {
         <div class="sec-h"><h2>Ready to read</h2><span class="count">${ready.length} companies · any other takes about a minute</span></div>
         <div class="ready-grid">${sortedReady.slice(0, allReady ? 999 : 6).map(r => html`
           <button class="rcard" onClick=${() => go(`research/${r.symbol}`)}>
-            <${Ring} score=${r.score} size=${44}/>
+            <${Ring} score=${r.score} size=${44} parts=${[[r.delivered, 'var(--up)'], [r.missed, 'var(--down)'], [Math.max(0, r.promises - r.delivered - r.missed), 'var(--faint)', true]]}/>
             <div style="min-width:0;flex:1"><div class="nm">${r.name || r.symbol}</div>
               <div class="sy">${r.symbol}${holdingsReady.has(r.symbol) ? ' · Holding' : ''}</div>
-              <div class="tl">${r.promises ? html`<span class="up">${r.delivered} kept</span> · <span class=${r.missed ? 'down' : ''}>${r.missed} broken</span>` : 'Financials only'}</div></div>
+              <div class="tl">${r.promises ? tallyLine(r) : 'Financials only'}</div></div>
           </button>`)}</div>
         ${ready.length > 6 && html`<div style="text-align:center;padding:16px 0 0"><button class="btn" onClick=${() => setAllReady(!allReady)}>${allReady ? 'Show fewer' : `Show all ${ready.length}`}</button></div>`}
       </section>
@@ -854,6 +881,13 @@ function Research({ sym, status, feed, onDone }) {
     ${dossier && html`<${Dossier} d=${dossier} agent=${dossier.pending ? agent : null}/>`}
   `;
 }
+
+// "2 kept · 1 broken · 3 open", leaving out whatever is zero
+const tallyLine = r => {
+  const open = Math.max(0, r.promises - r.delivered - r.missed);
+  const bits = [r.delivered && html`<span class="up">${r.delivered} kept</span>`, r.missed && html`<span class="down">${r.missed} broken</span>`, open && html`<span>${open} still open</span>`].filter(Boolean);
+  return bits.map((b, i) => html`${i ? ' · ' : ''}${b}`);
+};
 
 const VERDICT = { delivered: 'Delivered', partly: 'Partly', missed: 'Missed', walked_back: 'Walked back', too_early: 'Too early' };
 const VCOLOR = { delivered: 'var(--up)', partly: 'var(--warn)', missed: 'var(--down)', walked_back: 'var(--down)', too_early: 'var(--faint)' };
@@ -893,7 +927,7 @@ function Dossier({ d, agent }) {
         ${L && html`<section class="sec">
           <div class="sec-h"><h2>In 30 seconds</h2><span class="count">${d.promise_source === 'annual_report' ? `${d.calls[0].quarter} outlook · no calls held` : `last ${plural(d.calls.length, 'call')}`}</span></div>
           <div class="panel verdict">
-            <div class="cred"><${Ring} score=${L.credibility?.score}/><div class="line">${L.credibility?.line}</div></div>
+            <div class="cred">${L.credibility?.score != null && html`<${Ring} score=${L.credibility.score}/>`}<div class="line">${L.credibility?.line}</div></div>
             ${rows.length > 0 && html`<div class="tally">${order.filter(k => tally[k]).map(k => html`<span style="flex:${tally[k]};background:${VCOLOR[k]}"></span>`)}</div>
             <div class="legend">${order.filter(k => tally[k]).map(k => html`<span><span class="dot" style="background:${VCOLOR[k]}"></span>${tally[k]} ${VERDICT[k].toLowerCase()}</span>`)}</div>`}
             ${(L.bull?.[0] || L.bear?.[0] || L.watch?.[0]) && html`<ul class="takeaways">

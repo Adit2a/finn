@@ -1,5 +1,5 @@
 // FINN service worker: app shell offline, data network-first with the last copy as fallback.
-const SHELL = 'finn-shell-v8', DATA = 'finn-data-v1';
+const SHELL = 'finn-shell-v9', DATA = 'finn-data-v1';
 const ASSETS = ['/', '/app.js', '/styles.css', '/vendor/preact-htm.js', '/icon.svg', '/manifest.webmanifest', '/symbols.json', '/vendor/inter-latin.woff2', '/vendor/inter-latin-ext.woff2'];
 
 self.addEventListener('install', e => {
