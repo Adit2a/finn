@@ -1,0 +1,20 @@
+name: Tests
+
+# The arithmetic and the rules are tested offline (no network, no model calls) on every code change.
+on:
+  push:
+    paths: ["**.py", "requirements.txt", ".github/workflows/tests.yml"]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt pytest
+      - run: python -m pytest -q

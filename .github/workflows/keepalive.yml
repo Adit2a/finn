@@ -1,8 +1,9 @@
 name: Keep the free server awake
 
-# Render's free tier sleeps after 15 idle minutes and takes ~30-60 s to wake. A light ping during
-# Indian daytime keeps the first visit fast (well within 750 free hours/month). The same job saves
-# new Telegram subscribers to the repo, so a restart of the free server never loses them.
+# The server keeps itself awake (see _keep_awake in server.py). This job is the backstop that wakes it
+# if it ever goes down, and it saves what the server has learned since the last deploy (new Telegram
+# subscribers, stocks visitors added) to the repo, so a restart of the free host never loses them.
+# GitHub runs scheduled jobs best-effort, often far less often than the cron asks.
 on:
   schedule:
     - cron: "*/10 2-18 * * *"   # every 10 min, 07:30-00:30 IST
@@ -35,10 +36,12 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           FINN_PUBLIC_URL: ${{ vars.FINN_PUBLIC_URL }}
         run: |
-          if python scripts/sync_subscribers.py | grep -q changed; then
+          python scripts/sync_subscribers.py || true
+          git add data/universe.json
+          if [ -f data/subscribers.enc ]; then git add data/subscribers.enc; fi
+          if ! git diff --cached --quiet; then
             git config user.name "finn-bot"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data/subscribers.enc
-            git commit -m "data: sync subscribers [skip render]"
+            git commit -m "data: sync subscribers and tracked stocks [skip render]"
             git pull --rebase -q && git push
           fi

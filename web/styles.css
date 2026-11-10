@@ -489,3 +489,11 @@ details.fold summary::after { content: "›"; color: var(--faint); font-size: 18
 details.fold[open] summary::after { transform: rotate(90deg); }
 details.fold > :not(summary) { padding: 0 16px 14px; }
 details.fold .bb > div + div { margin-top: 6px; }
+
+/* portfolio on a phone: one line per stock; quantity and cost fields only while editing */
+.pf-tools { display: none; }
+@media (max-width: 720px) {
+  .pf-tools { display: flex; justify-content: flex-end; padding: 0 4px 8px; }
+  .pf:not(.editing) .pf-row { grid-template-areas: "name price chg ret"; grid-template-columns: minmax(0, 1fr) auto 58px auto; row-gap: 0; }
+  .pf:not(.editing) .pf-qty, .pf:not(.editing) .pf-avg, .pf:not(.editing) .pf-row .icon-btn { display: none; }
+}
