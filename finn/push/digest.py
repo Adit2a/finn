@@ -160,7 +160,9 @@ def build(days: int = 30, read_pdfs: bool = True, today: dt.date | None = None,
         upcoming = []
 
     usage["models"] = sorted(usage["models"])
-    return {"generated_at": dt.datetime.now().isoformat(timespec="seconds"),
+    # Indian time wherever this runs (GitHub's runners are on UTC): filing times from NSE are IST too
+    ist = dt.datetime.now(dt.timezone(dt.timedelta(hours=5, minutes=30))).replace(tzinfo=None)
+    return {"generated_at": ist.isoformat(timespec="seconds"),
             "window_days": days, "holdings": out_hold, "events": events, "upcoming": upcoming,
             "default_portfolio": [h["symbol"] for h in cfg["holdings"]],
             "rules": cfg["default_rules"], "llm": usage}
