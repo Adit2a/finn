@@ -2,12 +2,12 @@
  "symbol": "TCS",
  "name": "Tata Consultancy Services Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:44:52",
+ "generated_at": "2026-11-10T13:30:49",
  "latest_call": "Oct 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 904251.0,
-   "pe": 16.6,
+   "market_cap_cr": 895621.0,
+   "pe": 16.4,
    "roce": 63.0,
    "roe": 51.8,
    "ttm_revenue": 283248.0,
@@ -387,12 +387,12 @@
   },
   {
    "kind": "transcript",
-   "label": "Q1 FY27 call",
+   "label": "Q1 FY27 (Jul) call",
    "url": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/q1/Management%20Commentary/Transcript%20of%20the%20Q1%202025-26%20Earnings%20Conference%20Call%20held%20at%201900%20hrs%20IST%20on%20Jul%2010,%202025.pdf"
   },
   {
    "kind": "transcript",
-   "label": "Q1 FY27 call",
+   "label": "Q1 FY27 (Jul) call",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf"
   },
   {
@@ -479,15 +479,15 @@
   },
   {
    "n": 2,
-   "quarter": "Q1 FY27",
+   "quarter": "Q1 FY27 (Jul)",
    "date": "Jul 2026",
    "url": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/q1/Management%20Commentary/Transcript%20of%20the%20Q1%202025-26%20Earnings%20Conference%20Call%20held%20at%201900%20hrs%20IST%20on%20Jul%2010,%202025.pdf",
    "pages": 29,
    "scanned": false,
    "guidance": [
     {
-     "metric": "revenue growth",
-     "promise": "International market will do better in FY26 than FY25",
+     "metric": "other",
+     "promise": "International market to do better in FY26 than FY25 in constant currency",
      "horizon": "FY26",
      "low": null,
      "high": null,
@@ -497,29 +497,81 @@
      "speaker": "K Krithivasan",
      "verified": true,
      "id": "g2.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Aspiration to continue to drive growth in company overall growth itself in FY26",
+     "horizon": "FY26",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "it is our aspiration to continue to drive growth in company overall growth itself.",
+     "page": 17,
+     "speaker": "K Krithivasan",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Honor all job offers for the rest of the year",
+     "horizon": "rest of the year",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We have honored all the job offers, and we'll do so for the rest of the year.",
+     "page": 5,
+     "speaker": "Milind Lakkad",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "margin",
+     "promise": "Improve operating leverage and margins from here going forward",
+     "horizon": "Q2 FY26 and beyond",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "overall, at a portfolio level, we'll look towards improving margins from here.",
+     "page": 21,
+     "speaker": "Samir Seksaria",
+     "verified": true,
+     "id": "g2.4"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Q2 should be at least better than Q1 if there are no further delays",
+     "horizon": "Q2 FY26",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "if there are no further delays, Q2 should be at least better than Q1, but we need to wait and watch based on what happens in the market.",
+     "page": 18,
+     "speaker": "K Krithivasan",
+     "verified": true,
+     "id": "g2.5"
     }
    ],
    "claims": [
     {
-     "claim": "Q1 FY26 revenue declined by 3.1% year-on-year in constant currency.",
+     "claim": "Q1 revenue declined 3.1% year-on-year in constant currency terms.",
      "quote": "In this backdrop, our quarterly revenue declined by 3.1% year-on-year in constant currency terms.",
      "page": 3,
      "verified": true
     },
     {
-     "claim": "Q1 FY26 operating margin was 24.5% and net margin was 20.1%.",
+     "claim": "Q1 operating margin stood at 24.5% and net margin at 20.1%.",
      "quote": "Our operating margin was 24.5% and the net margin was 20.1%.",
      "page": 3,
      "verified": true
     },
     {
-     "claim": "Total value of contracts signed in Q1 FY26 was $9.4 billion, up 13.2% year-on-year.",
+     "claim": "Total value of contracts signed in Q1 FY26 was $9.4 billion.",
      "quote": "Our total value of contracts signed in Q1 FY26 was $9.4 billion, up 13.2% year-on-year.",
      "page": 3,
      "verified": true
     },
     {
-     "claim": "Workforce at the end of the first quarter was 613,069.",
+     "claim": "TCS workforce stood at 613,069 at the end of the first quarter.",
      "quote": "Our workforce at the end of the first quarter was 613,069.",
      "page": 5,
      "verified": true
@@ -527,29 +579,29 @@
    ],
    "pushback": [
     {
-     "topic": "Margins and capacity",
-     "quote": "So what is pulling down your margin compared to where it was before the BSNL deal?",
+     "topic": "Margin pressure despite BSNL exit and excess capacity",
+     "quote": "Now between this period, you have lowered your SG&A expenses. I imagine that your employee pyramid also would have improved. You have spoken about how productivity has improved over the last 1 year and pricing also seems to be stable. So, what is pulling down your margin compared to where it was before the BSNL deal?",
      "page": 18,
      "verified": true
     },
     {
-     "topic": "Deal wins vs revenue conversion",
-     "quote": "Do you think AI-infused profit pass-through might impact the revenue conversion we might have in the medium term?",
-     "page": 20,
+     "topic": "Dichotomy between strong TCV deal wins and revenue contraction",
+     "quote": "What's happening in some of the deals, where the clients decide that they can reprioritize, or de-scope, I was explaining in the earlier question, there was one particular large client, where they decided that maybe the particular work can be done, they can delay the work or extend the period over which the work can be done, and they ramped down the number of people that were engaged.",
+     "page": 25,
      "verified": true
     },
     {
-     "topic": "North America growth and market share",
-     "quote": "North America being one of the biggest markets, like where are we losing in this market? And why -- is it not growing on an absolute basis for us?",
-     "page": 26,
+     "topic": "Employee cost increase despite flat revenues and headcount",
+     "quote": "And that is why the employee cost in absolute terms is up by $150 million, while the number of employees has not increased significantly. Just trying to understand why there is a big jump in employee costs in the last 2 quarters, whereas our international revenues have largely remained flat?",
+     "page": 27,
      "verified": true
     }
    ],
-   "tone": "Cautious regarding near-term demand pressures while confident in medium-to-long-term business model strength."
+   "tone": "Cautious yet optimistic regarding medium-to-long term demand, addressing short-term discretionary headwinds transparently."
   },
   {
    "n": 3,
-   "quarter": "Q1 FY27",
+   "quarter": "Q1 FY27 (Jul)",
    "date": "Jul 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf",
    "pages": 25,
@@ -557,9 +609,9 @@
    "guidance": [
     {
      "metric": "margin",
-     "promise": "Exit operating margins at 25% plus and strive to achieve it sooner.",
-     "horizon": "remaining FY27",
-     "low": 25.0,
+     "promise": "Exit operating margins at 25% plus and strive to achieve it",
+     "horizon": "next few quarters",
+     "low": 25,
      "high": null,
      "unit": "%",
      "quote": "We want to exit at 25% plus and strive to achieve it sooner rather than later.",
@@ -567,68 +619,55 @@
      "speaker": "Samir Seksaria",
      "verified": true,
      "id": "g3.1"
-    },
-    {
-     "metric": "volume",
-     "promise": "Target to have at least 1% of employee base working in FDE model.",
-     "horizon": "going forward",
-     "low": 1.0,
-     "high": null,
-     "unit": "%",
-     "quote": "going forward, we would deﬁnitely target to have the deﬁnition that we come up with, and target to have at least 1% of our employee base, to work in the new operating model.",
-     "page": 15,
-     "speaker": "Aarthi Subramanian",
-     "verified": true,
-     "id": "g3.2"
     }
    ],
    "claims": [
     {
-     "claim": "Q1 FY27 revenue stood at 72275 crore rupees, growing 2.2% sequentially.",
+     "claim": "Q1 revenue reached 72,275 crore, growing 2.2% sequentially and 13.9% year-on-year.",
      "quote": "Our Q1 revenue stood at ₹72,275 crore, growing 2.2% sequentially and 13.9% year-on-year.",
      "page": 3,
      "verified": true
     },
     {
-     "claim": "Operating margins stood at 24% for the quarter, declining 130 bps sequentially.",
-     "quote": "Operating margin for the quarter was 24%, declining 130 bps sequentially.",
-     "page": 5,
-     "verified": true
-    },
-    {
-     "claim": "Delivered a TCV of $9.5 billion in Q1 FY27.",
+     "claim": "TCOV TCV for the quarter stood at $9.5 billion with strong large deal closures.",
      "quote": "We delivered a TCV of $9.5 billion, including net new AI-led business transformation deals",
      "page": 3,
      "verified": true
     },
     {
-     "claim": "Annualized AI services revenue stands at $2.6 billion at the end of Q1 FY27.",
-     "quote": "At the end of Q1 FY27, it stands at $2.6 billion in annualized revenue, which is up 13.9% QoQ.",
+     "claim": "Annualized AI services revenue reached $2.6 billion, up 13.6% quarter-on-quarter.",
+     "quote": "At the end of Q1 FY27, it stands at $2.6 billion in annualized revenue, which is up 13.6% QoQ.",
      "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Operating margins for the quarter stood at 24%, down 130 bps due to wage hikes.",
+     "quote": "Our operating margins stood at 24%, down 130 bps sequentially, primarily due to wage hikes.",
+     "page": 4,
      "verified": true
     }
    ],
    "pushback": [
     {
-     "topic": "Demand slowdown and macro/geopolitical impact",
-     "quote": "How did you see the quarter, if you could quantify the impact from some of the macro and geopolitical uncertainties you saw in the quarter",
+     "topic": "Demand uncertainty and macro impact",
+     "quote": "how did you see the quarter, if you could quantify the impact from some of the macro and geopolitical uncertainties",
      "page": 11,
      "verified": true
     },
     {
-     "topic": "AI productivity pass-through and revenue deﬂation",
-     "quote": "discuss the impact, percentage of revenues or the business or the client has already gone through the productivity pass-through, and how much is left?",
-     "page": 12,
+     "topic": "AI productivity pass-through and revenue deflation",
+     "quote": "what part of the business has already gone through it?",
+     "page": 13,
      "verified": true
     },
     {
-     "topic": "Hiring and wage hikes amidst AI white-collar reduction concerns",
-     "quote": "your wage hikes and hiring seem to be sending a signal that you see things diƯerently. Can you talk a bit about why you've given this wage hike and why such strong hiring",
+     "topic": "Hiring and wage hikes despite AI white-collar impact",
+     "quote": "your wage hikes and hiring seem to be sending a signal that you see things differently.",
      "page": 17,
      "verified": true
     }
    ],
-   "tone": "Optimistic and confident in demand recovery, AI adoption scale, and long-term positioning."
+   "tone": "Optimistic about demand recovery and strategic positioning in AI transformation despite geopolitical headwinds."
   },
   {
    "n": 4,
@@ -778,12 +817,36 @@
  "ledger": {
   "promise_ledger": [
    {
+    "ref": "g2.4",
+    "promise": "Improve operating leverage and margins going forward from Q1 FY27 levels",
+    "made_in": "Q1 FY27",
+    "delivered": "EBIT margin remained flat at 24.0% in Q2 FY27 (Sep 2026), failing to improve sequentially.",
+    "verdict": "missed",
+    "checked_against": "Q2 FY27 EBIT%",
+    "quote": "overall, at a portfolio level, we'll look towards improving margins from here.",
+    "page": 21,
+    "verified": true,
+    "url": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/q1/Management%20Commentary/Transcript%20of%20the%20Q1%202025-26%20Earnings%20Conference%20Call%20held%20at%201900%20hrs%20IST%20on%20Jul%2010,%202025.pdf"
+   },
+   {
+    "ref": "g2.5",
+    "promise": "Q2 performance to be better than Q1 assuming no further delays",
+    "made_in": "Q1 FY27",
+    "delivered": "Q2 FY27 revenue grew sequentially to ₹73,188 crore from ₹72,275 crore, but EBIT margin remained flat at 24.0%.",
+    "verdict": "partly",
+    "checked_against": "Q2 FY27 Revenue and EBIT%",
+    "quote": "if there are no further delays, Q2 should be at least better than Q1, but we need to wait and watch based on what happens in the market.",
+    "page": 18,
+    "verified": true,
+    "url": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/q1/Management%20Commentary/Transcript%20of%20the%20Q1%202025-26%20Earnings%20Conference%20Call%20held%20at%201900%20hrs%20IST%20on%20Jul%2010,%202025.pdf"
+   },
+   {
     "ref": "g1.1",
     "promise": "Move towards 26% operating margin on a longer-term basis",
     "made_in": "Q4 FY26",
-    "delivered": "EBIT% was 25.3% in Mar 2026 and 24.0% in Sep 2026, remaining below 26%",
+    "delivered": "EBIT margin dropped from 25.3% in Mar 2026 to 24.0% in Sep 2026; long-term target remains open.",
     "verdict": "too_early",
-    "checked_against": "EBIT% reported for Mar 2026 and Sep 2026",
+    "checked_against": "Q2 FY27 EBIT%",
     "quote": "We'd like to move towards 26%, but on a longer-term basis.",
     "page": 26,
     "verified": true,
@@ -791,85 +854,49 @@
    },
    {
     "ref": "g3.1",
-    "promise": "Exit operating margins at 25% plus and strive to achieve it sooner",
+    "promise": "Exit operating margins at 25% plus in the next few quarters",
     "made_in": "Q1 FY27",
-    "delivered": "EBIT% was 24.0% in Jun 2026 and 24.0% in Sep 2026, missing the 25% target",
-    "verdict": "missed",
-    "checked_against": "EBIT% for Jun 2026 and Sep 2026",
+    "delivered": "EBIT margin stood at 24.0% in Sep 2026; deadline is in upcoming quarters.",
+    "verdict": "too_early",
+    "checked_against": "Q2 FY27 EBIT%",
     "quote": "We want to exit at 25% plus and strive to achieve it sooner rather than later.",
     "page": 23,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf"
-   },
-   {
-    "ref": "g2.1",
-    "promise": "International market will do better in FY26 than FY25",
-    "made_in": "Q1 FY27",
-    "delivered": "Annual revenue grew to 267,021.0 crore in Mar 2026 versus 255,324.0 crore in Mar 2025",
-    "verdict": "delivered",
-    "checked_against": "Annual Revenue for Mar 2026 and Mar 2025",
-    "quote": "at this time we are confident the international market will do better in FY '26 than FY '25.",
-    "page": 17,
-    "verified": true,
-    "url": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/q1/Management%20Commentary/Transcript%20of%20the%20Q1%202025-26%20Earnings%20Conference%20Call%20held%20at%201900%20hrs%20IST%20on%20Jul%2010,%202025.pdf"
-   },
-   {
-    "ref": "g3.2",
-    "promise": "Target to have at least 1% of employee base working in FDE model",
-    "made_in": "Q1 FY27",
-    "delivered": "No headcount breakdown for the FDE model is provided in the reported numbers",
-    "verdict": "too_early",
-    "checked_against": "Reported numbers text",
-    "quote": "going forward, we would deﬁnitely target to have the deﬁnition that we come up with, and target to have at least 1% of our employee base, to work in the new operating model.",
-    "page": 15,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf"
-   },
-   {
-    "ref": "g4.1",
-    "promise": "Work towards inching up margins higher from current levels",
-    "made_in": "Q2 FY27",
-    "delivered": "EBIT% remained flat at 24.0% in Sep 2026 compared to Jun 2026",
-    "verdict": "partly",
-    "checked_against": "EBIT% for Jun 2026 and Sep 2026",
-    "quote": "we will work towards inching margins higher from here.",
-    "page": 21,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
    }
   ],
   "credibility": {
    "score": 5,
-   "line": "Management missed its operating margin exit target of 25% plus, delivering 24% in Jun and Sep 2026."
+   "line": "Margin promises missed as EBIT margin dropped from 25.3% in Mar 2026 to 24.0% in Sep 2026."
   },
   "narrative_vs_numbers": [
    {
     "agree": false,
-    "point": "Management claimed stable operating margins at 24%, but this is lower than the 25.3% reported in Mar 2026."
+    "point": "Management promised margin improvement from Q1 FY27, but Q2 FY27 EBIT margin remained stagnant at 24.0%."
    },
    {
     "agree": true,
-    "point": "Annual revenue grew to 267,021.0 crore in Mar 2026, supporting the claim of better international market performance."
+    "point": "Management reported annualized AI revenue reaching $3.1 billion while Sep 2026 revenue grew 11.2% YoY to ₹73,188 crore."
    },
    {
     "agree": true,
-    "point": "Operating cash flow reached 52,094.0 crore in Mar 2026, consistent with strong 105% OCF to PAT conversion."
+    "point": "Operating cash flow conversion remains strong at 1.05x PAT in FY26, supporting management's cash generation story."
    }
   ],
   "bull": [
-   "Annual revenue grew to 267,021.0 crore in Mar 2026 with PAT of 49,454.0 crore.",
-   "Strong cash conversion with 5y operating cash at 101% of profit.",
-   "Free cash flow improved to 48,013.0 crore in Mar 2026 from 44,994.0 crore in Mar 2025."
+   "5-year operating cash conversion is strong at 101% of PAT, reaching ₹52,094 crore in FY26.",
+   "Sep 2026 revenue grew 11.2% YoY to ₹73,188 crore with annualized AI revenue reaching $3.1 billion.",
+   "Balance sheet shows high ROCE of 63.0%, ROE of 51.8%, and low D/E ratio of 0.10."
   ],
   "bear": [
-   "EBIT% declined from 25.3% in Mar 2026 to 24.0% in Sep 2026.",
-   "Borrowings increased to 11,808.0 crore by Sep 2026 from 8,021.0 crore in Mar 2024.",
-   "PAT declined 13.9% year-on-year in Dec 2025 to 10,720.0 crore."
+   "EBIT margin declined 130 bps from 25.3% in Mar 2026 to 24.0% in Sep 2026.",
+   "Management promised sequential margin improvement post Q1 FY27, but EBIT margin stayed flat at 24.0%.",
+   "Total borrowings increased from ₹7,688 crore in Mar 2023 to ₹11,808 crore in Sep 2026."
   ],
   "watch": [
-   "Operating margins in upcoming quarters",
-   "Borrowings level",
-   "TCV conversion to revenue"
+   "EBIT margin progression toward 25% target in coming quarters.",
+   "Impact of subcontracting costs on operating margins.",
+   "Conversion of $9.6 billion Q2 TCV into revenue."
   ]
  },
  "ledger_ok": true,
@@ -879,23 +906,23 @@
    "in": 15075,
    "out": 604,
    "secs": 3.6,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
    "model": "gemini-3.5-flash-lite",
-   "in": 14675,
+   "in": 14678,
+   "out": 1227,
+   "secs": 5.3,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 12363,
    "out": 631,
-   "secs": 8.7,
-   "cached": false,
-   "fallback": false
-  },
-  {
-   "model": "gemini-3.5-flash-lite",
-   "in": 12360,
-   "out": 817,
-   "secs": 3.7,
-   "cached": false,
+   "secs": 2.9,
+   "cached": true,
    "fallback": false
   },
   {
@@ -903,7 +930,7 @@
    "in": 14033,
    "out": 590,
    "secs": 4.4,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -911,29 +938,30 @@
    "in": 10524,
    "out": 478,
    "secs": 10.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
-   "in": 3124,
-   "out": 1113,
-   "secs": 12.3,
+   "model": "gemini-3.6-flash",
+   "in": 3324,
+   "out": 4398,
+   "secs": 101.1,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 69791,
-  "tokens_out": 4233,
+  "fresh_calls": 1,
+  "tokens_in": 69997,
+  "tokens_out": 7928,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 48.3
+  "secs": 102.4
  }
 }

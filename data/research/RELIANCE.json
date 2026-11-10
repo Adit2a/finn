@@ -2,11 +2,11 @@
  "symbol": "RELIANCE",
  "name": "Reliance Industries Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:39:45",
+ "generated_at": "2026-11-10T13:32:39",
  "latest_call": "Nov 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 1794290.0,
+   "market_cap_cr": 1792249.0,
    "pe": 21.8,
    "roce": 10.3,
    "roe": 8.91,
@@ -390,7 +390,12 @@
  "sources": [
   {
    "kind": "transcript",
-   "label": "Q3 FY26 call",
+   "label": "Q3 FY26 (Jan) call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 (Jan) call",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf"
   },
   {
@@ -404,11 +409,6 @@
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf"
   },
   {
-   "kind": "transcript",
-   "label": "Q2 FY27 call",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8e997741-4d35-4188-933a-cf020fb9c816.pdf"
-  },
-  {
    "kind": "annual_report",
    "label": "Annual Report 2026",
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cc08294f-ec68-4f15-aaa4-c14a3c4bdfb2.pdf"
@@ -417,62 +417,250 @@
  "calls": [
   {
    "n": 1,
-   "quarter": "Q3 FY26",
+   "quarter": "Q3 FY26 (Jan)",
    "date": "Jan 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf",
    "pages": 38,
    "scanned": false,
-   "guidance": [],
-   "claims": [
+   "guidance": [
     {
-     "claim": "Quick commerce run rate reached 1.6 million orders.",
-     "quote": "we have now 1.6 million orders run rate that is what we are doing, and very much on track to be the second largest QC player.",
-     "page": 3,
-     "verified": true
+     "metric": "volume",
+     "promise": "More than double beverage capacity this year with high-speed lines across 12 states",
+     "horizon": "this year",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We continue our expansion. We will be more than doubling our capacity on beverages this year. We have high-speed lines across 12 states during the year.",
+     "page": 12,
+     "speaker": "Sh Ketan Mody",
+     "verified": true,
+     "id": "g1.1"
     },
     {
-     "claim": "Consolidated quarterly revenue up 10% year-on-year.",
+     "metric": "other",
+     "promise": "Start work on food parks in this quarter itself across allocated land in multiple states",
+     "horizon": "this quarter",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We also have started working on our food parks. We have been allocated land across states in multiple states. For most of the sites, our work on food parks will begin in this quarter itself, the next quarter.",
+     "page": 12,
+     "speaker": "Sh Ketan Mody",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Kurnool beverage plant to be ready by March",
+     "horizon": "March",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "In fact, one of the beverage plants at Kurnool will be ready by March itself.",
+     "page": 12,
+     "speaker": "Sh Ketan Mody",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Scale up pet care category in next couple of quarters",
+     "horizon": "next couple of quarters",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We have piloted this in southern cities, and we plan to scale this up in next couple of quarters.",
+     "page": 13,
+     "speaker": "Sh Ketan Mody",
+     "verified": true,
+     "id": "g1.4"
+    },
+    {
+     "metric": "other",
+     "promise": "Expand noodle segment into more cities next quarter",
+     "horizon": "next quarter",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "This is currently being launched in four cities, and we plan to expand this in next quarter.",
+     "page": 13,
+     "speaker": "Sh Ketan Mody",
+     "verified": true,
+     "id": "g1.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated quarterly revenue grew 10% and EBITDA grew 6%",
      "quote": "Revenue is up 10%, EBITDA up about 6%. And overall, PAT at 22,290 crores, which was also up about 1.6%.",
      "page": 3,
      "verified": true
     },
     {
-     "claim": "Jio subscriber base reached 515 million with 8.9 million net adds.",
+     "claim": "Jio subscriber base reached 515 million with 8.9 million net adds",
      "quote": "We ended the quarter with 515 million plus subscribers, 8.9 million net adds during the quarter.",
      "page": 5,
      "verified": true
     },
     {
-     "claim": "Reliance Retail achieved highest-ever quarterly revenue at 97,600 Crores.",
-     "quote": "Good evening, everyone. In the retail business, this quarter we had the highest ever revenue at 97,600 Crores.",
+     "claim": "Reliance Retail achieved highest ever quarterly revenue at 97,600 Crores",
+     "quote": "In the retail business, this quarter we had the highest ever revenue at 97,600 Crores. The revenue was up 8.1%.",
      "page": 9,
+     "verified": true
+    },
+    {
+     "claim": "FMCG revenue reached 5,000 Crores, up 60% year-on-year",
+     "quote": "And we are at more than 5,000 Crores of turnover, and this is 60% up on a year-on-year basis.",
+     "page": 3,
      "verified": true
     }
    ],
    "pushback": [
     {
-     "topic": "Retail revenue growth slowdown and buckets that underperformed",
-     "quote": "What are the buckets which you think did not do that well in this quarter which led to slightly lower revenue growth?",
+     "topic": "Retail revenue growth slowdown factors",
+     "quote": "You talked about lot of businesses doing quite well. What are the buckets which you think did not do that well in this quarter which led to slightly lower revenue growth?",
      "page": 26,
      "verified": true
     },
     {
-     "topic": "Quick commerce cash burn and contribution margin",
+     "topic": "Quick commerce cash burn and contribution margins",
      "quote": "On the quick commerce side can you give some sense of what is a quantum of cash burn there?",
      "page": 27,
      "verified": true
     },
     {
-     "topic": "New energy capex, funding, and ingot/wafer competitiveness",
+     "topic": "New energy ingot/wafer competitiveness against China",
      "quote": "Lastly on the new energy side especially when you come to manufacturing ingots and wafers, do you think in the way current prices are you will be competitive because there at least you will have to compete with China?",
      "page": 27,
      "verified": true
     }
    ],
-   "tone": "Confident and constructive regarding long-term growth despite short-term quarterly volatilities."
+   "tone": "Confident and constructive regarding long-term growth and strategic execution despite short-term quarterly volatilities."
   },
   {
    "n": 2,
+   "quarter": "Q3 FY26 (Jan)",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf",
+   "pages": 38,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "More than double beverage capacity this year with high-speed lines across 12 states",
+     "horizon": "this year",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We continue our expansion. We will be more than doubling our capacity on beverages this year. We have high-speed lines across 12 states during the year.",
+     "page": 12,
+     "speaker": "Sh Ketan Mody",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Start work on food parks in this quarter itself across allocated land in multiple states",
+     "horizon": "this quarter",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We also have started working on our food parks. We have been allocated land across states in multiple states. For most of the sites, our work on food parks will begin in this quarter itself, the next quarter.",
+     "page": 12,
+     "speaker": "Sh Ketan Mody",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "other",
+     "promise": "Kurnool beverage plant to be ready by March",
+     "horizon": "March",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "In fact, one of the beverage plants at Kurnool will be ready by March itself.",
+     "page": 12,
+     "speaker": "Sh Ketan Mody",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Scale up pet care category in next couple of quarters",
+     "horizon": "next couple of quarters",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We have piloted this in southern cities, and we plan to scale this up in next couple of quarters.",
+     "page": 13,
+     "speaker": "Sh Ketan Mody",
+     "verified": true,
+     "id": "g2.4"
+    },
+    {
+     "metric": "other",
+     "promise": "Expand noodle segment into more cities next quarter",
+     "horizon": "next quarter",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "This is currently being launched in four cities, and we plan to expand this in next quarter.",
+     "page": 13,
+     "speaker": "Sh Ketan Mody",
+     "verified": true,
+     "id": "g2.5"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated quarterly revenue grew 10% and EBITDA grew 6%",
+     "quote": "Revenue is up 10%, EBITDA up about 6%. And overall, PAT at 22,290 crores, which was also up about 1.6%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Jio subscriber base reached 515 million with 8.9 million net adds",
+     "quote": "We ended the quarter with 515 million plus subscribers, 8.9 million net adds during the quarter.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Reliance Retail achieved highest ever quarterly revenue at 97,600 Crores",
+     "quote": "In the retail business, this quarter we had the highest ever revenue at 97,600 Crores. The revenue was up 8.1%.",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "claim": "FMCG revenue reached 5,000 Crores, up 60% year-on-year",
+     "quote": "And we are at more than 5,000 Crores of turnover, and this is 60% up on a year-on-year basis.",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Retail revenue growth slowdown factors",
+     "quote": "You talked about lot of businesses doing quite well. What are the buckets which you think did not do that well in this quarter which led to slightly lower revenue growth?",
+     "page": 26,
+     "verified": true
+    },
+    {
+     "topic": "Quick commerce cash burn and contribution margins",
+     "quote": "On the quick commerce side can you give some sense of what is a quantum of cash burn there?",
+     "page": 27,
+     "verified": true
+    },
+    {
+     "topic": "New energy ingot/wafer competitiveness against China",
+     "quote": "Lastly on the new energy side especially when you come to manufacturing ingots and wafers, do you think in the way current prices are you will be competitive because there at least you will have to compete with China?",
+     "page": 27,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and constructive regarding long-term growth and strategic execution despite short-term quarterly volatilities."
+  },
+  {
+   "n": 3,
    "quarter": "Q4 FY26",
    "date": "Apr 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=971d8c86-397a-4780-b843-5a84d3006d0b.pdf",
@@ -490,7 +678,7 @@
      "page": 19,
      "speaker": "Sh Karan Suri",
      "verified": true,
-     "id": "g2.1"
+     "id": "g3.1"
     }
    ],
    "claims": [
@@ -542,7 +730,7 @@
    "tone": "Prudent and agile amid unprecedented geopolitical energy shocks, while highlighting strong consumer business growth."
   },
   {
-   "n": 3,
+   "n": 4,
    "quarter": "Q1 FY27",
    "date": "Jul 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf",
@@ -560,7 +748,7 @@
      "page": 8,
      "speaker": "Dinesh Taluja",
      "verified": true,
-     "id": "g3.1"
+     "id": "g4.1"
     },
     {
      "metric": "volume",
@@ -573,7 +761,7 @@
      "page": 20,
      "speaker": "Karan Suri",
      "verified": true,
-     "id": "g3.2"
+     "id": "g4.2"
     },
     {
      "metric": "volume",
@@ -586,7 +774,7 @@
      "page": 20,
      "speaker": "Karan Suri",
      "verified": true,
-     "id": "g3.3"
+     "id": "g4.3"
     },
     {
      "metric": "revenue growth",
@@ -599,7 +787,7 @@
      "page": 30,
      "speaker": "Ketan Mody",
      "verified": true,
-     "id": "g3.4"
+     "id": "g4.4"
     }
    ],
    "claims": [
@@ -649,115 +837,6 @@
     }
    ],
    "tone": "Confident, transparent, and pragmatic amidst extraordinary macro volatility and energy market shocks."
-  },
-  {
-   "n": 4,
-   "quarter": "Q2 FY27",
-   "date": "Nov 2026",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8e997741-4d35-4188-933a-cf020fb9c816.pdf",
-   "pages": 29,
-   "scanned": false,
-   "guidance": [
-    {
-     "metric": "profit",
-     "promise": "New energy earnings contribution starting in FY 2028",
-     "horizon": "FY 2028",
-     "low": null,
-     "high": null,
-     "unit": null,
-     "quote": "And on new energy, I just wanted to say that it is accelerating and we see the benefit, earnings contribution definitely starting in FY 2028.",
-     "page": 3,
-     "speaker": "Sh V Srikanth",
-     "verified": true,
-     "id": "g4.1"
-    },
-    {
-     "metric": "margin",
-     "promise": "Retail online investments to start being accretive to bottom line next year",
-     "horizon": "next year",
-     "low": null,
-     "high": null,
-     "unit": null,
-     "quote": "while we are funding the investment right now, from next year onwards, we start seeing that it is being accretive because of the discipline with which we are growing.",
-     "page": 9,
-     "speaker": "Sh Dinesh Taluja",
-     "verified": true,
-     "id": "g4.2"
-    },
-    {
-     "metric": "volume",
-     "promise": "Solar module capacity reaching 20 gigawatt early next year",
-     "horizon": "early next year",
-     "low": null,
-     "high": 20,
-     "unit": "units",
-     "quote": "when it comes to the solar value chain, as indicated, I think our module capacity is now six plus gigawatt, and we will be achieving up to 20 gigawatt early next year.",
-     "page": 24,
-     "speaker": "Sh Karan Suri",
-     "verified": true,
-     "id": "g4.3"
-    },
-    {
-     "metric": "volume",
-     "promise": "Solar cell capacity reaching 20 gigawatt first half next year",
-     "horizon": "first half next year",
-     "low": null,
-     "high": 20,
-     "unit": "units",
-     "quote": "Similarly, solar cell is now nearing around 5-gigawatt and we will be achieving again 20-gigawatt capacity sometime first half next year.",
-     "page": 24,
-     "speaker": "Sh Karan Suri",
-     "verified": true,
-     "id": "g4.4"
-    }
-   ],
-   "claims": [
-    {
-     "claim": "Consolidated EBITDA reached Rs 62,409 crores, up 24% year-on-year",
-     "quote": "It was an EBITDA of Rs.62,409 Crores, which is 24% up on a year-on-year basis. This is the highest EBITDA that we have declared for consol",
-     "page": 3,
-     "verified": true
-    },
-    {
-     "claim": "Consolidated PAT crossed Rs 30,000 crores, up 34% year-on-year",
-     "quote": "simultaneously, the PAT also at close to Rs.30,000 Crores, up 34%. Again, all time high, and with this, we crossed the Rs.50,000 Crores mark as far as PAT is concerned.",
-     "page": 3,
-     "verified": true
-    },
-    {
-     "claim": "O2C EBITDA led the charge with a 68% increase year-on-year",
-     "quote": "So, O2C led the charge with EBITDA up 68%. Of course, we benefited from the unprecedented tightness that we saw in energy markets",
-     "page": 3,
-     "verified": true
-    },
-    {
-     "claim": "Jio subscriber base reached 542 million with 300 million 5G customers",
-     "quote": "The total subscriber base at 542 million, 36 million net adds over the last 12 months. Our 5G subscriber base has now touched 300 million.",
-     "page": 5,
-     "verified": true
-    }
-   ],
-   "pushback": [
-    {
-     "topic": "Refinery outage duration and normalization timeline",
-     "quote": "so is it fair to assume this 5 million barrels is probably six to nine months away from normalization in a best case scenario, and worst case it could be it could stretch for even longer?",
-     "page": 21,
-     "verified": true
-    },
-    {
-     "topic": "Retail online grocery growth vs quick commerce competition",
-     "quote": "revenue growth number for online grocery that has been given about 46% or something this if we compare it to the biggest quick commerce players also, it is still underwhelming, to say the least.",
-     "page": 27,
-     "verified": true
-    },
-    {
-     "topic": "New energy commissioning and capital expenditure details",
-     "quote": "Can we get a quick update on the commissioning of the various new energy lines, please?",
-     "page": 24,
-     "verified": true
-    }
-   ],
-   "tone": "Confident, optimistic, and transparent regarding strategic retail investments and structural O2C tailwinds."
   }
  ],
  "business": {
@@ -822,84 +901,116 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g3.2",
-    "promise": "Achieve 20-gigawatt annual solar PV manufacturing capacity this year.",
+    "ref": "g1.3",
+    "promise": "Kurnool beverage plant to be ready by March",
+    "made_in": "Q3 FY26",
+    "delivered": "Segment-level operational status not disclosed in reported numbers or subsequent call statements",
+    "verdict": "too_early",
+    "checked_against": "Segment operational disclosures",
+    "quote": "In fact, one of the beverage plants at Kurnool will be ready by March itself.",
+    "page": 12,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "Commission solar and battery giga factories in next few quarters",
+    "made_in": "Q4 FY26",
+    "delivered": "Target horizon remains open; new energy segment status not reported in consolidated numbers",
+    "verdict": "too_early",
+    "checked_against": "Segment operational disclosures",
+    "quote": "and we aim to commission these factories in next few quarters.",
+    "page": 19,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=971d8c86-397a-4780-b843-5a84d3006d0b.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Double absolute EBITDA for retail business over next two years",
     "made_in": "Q1 FY27",
-    "delivered": "Management claimed solar module capacity is 6 plus gigawatt and will reach 20 gigawatt early next year (g4.3), missing the initial year-end deadline.",
-    "verdict": "missed",
-    "checked_against": "g4.3",
+    "delivered": "Two-year horizon open; retail segment EBITDA is not detailed in reported company financials",
+    "verdict": "too_early",
+    "checked_against": "Retail segment EBITDA disclosures",
+    "quote": "with the scale that will come in this year, the benefit of that scale will convert into value in terms of margins and cash generation over the next two years.",
+    "page": 8,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf"
+   },
+   {
+    "ref": "g4.2",
+    "promise": "Achieve 20-gigawatt annual capacity for solar PV manufacturing this year",
+    "made_in": "Q1 FY27",
+    "delivered": "Target horizon is FY27; integrated solar PV capacity not reported in consolidated financials",
+    "verdict": "too_early",
+    "checked_against": "New energy segment disclosures",
     "quote": "And we are on track, and I have got a few pictures to also demonstrate that, to achieve 20-gigawatt annual capacity for our solar PV manufacturing in an integrated fashion.",
     "page": 20,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf"
    },
    {
-    "ref": "g3.4",
-    "promise": "Reach 1 lakh Crores revenue in FMCG business by FY2030.",
+    "ref": "g4.4",
+    "promise": "Reach 1 lakh Crores revenue in FMCG business by FY2030",
     "made_in": "Q1 FY27",
-    "delivered": "Q4 FY26 claim stated FMCG business closed FY2026 with Rs 22,000 crores in revenue; target remains open for FY2030.",
+    "delivered": "Long-term horizon to FY2030; FMCG reported revenue was Rs 22,000 crore in FY2026",
     "verdict": "too_early",
-    "checked_against": "Q4 FY26 mgmt claim",
+    "checked_against": "FMCG business revenue",
     "quote": "we have anyway announced the target is to kind of take this to Rs.1 lakh Crores on FY2030.",
     "page": 30,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf"
-   },
-   {
-    "ref": "g4.1",
-    "promise": "New energy earnings contribution starting in FY 2028.",
-    "made_in": "Q2 FY27",
-    "delivered": "Deadline is FY 2028; reported numbers cannot confirm earnings contribution yet.",
-    "verdict": "too_early",
-    "checked_against": "FY 2028 earnings",
-    "quote": "And on new energy, I just wanted to say that it is accelerating and we see the benefit, earnings contribution definitely starting in FY 2028.",
-    "page": 3,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8e997741-4d35-4188-933a-cf020fb9c816.pdf"
    }
   ],
   "credibility": {
    "score": null,
-   "line": "Only one promise can be checked against reported numbers so far — too few to score."
+   "line": "None of these promises can be checked against reported numbers yet — no score."
   },
   "narrative_vs_numbers": [
    {
     "agree": true,
-    "point": "Revenue growth accelerated from 10.0% YoY in Sep 2025 to 29.8% YoY in Sep 2026, matching management's narrative of strong momentum."
-   },
-   {
-    "agree": true,
-    "point": "Consolidated EBITDA reached Rs 56,616 crores in Sep 2026, supporting claims of strong profitability expansion."
+    "point": "Revenue growth accelerated from 10.4% in Dec 2025 to 29.8% YoY in Sep 2026."
    },
    {
     "agree": false,
-    "point": "Despite claims of rapid scaling, new energy capacity targets for solar and batteries have been repeatedly deferred."
+    "point": "PAT fell -24.6% YoY in Jun 2026 despite management claiming group EBITDA rose 10%."
+   },
+   {
+    "agree": false,
+    "point": "EBITDA margins weakened from 18% in Dec 2024 to 15% in Mar and Jun 2026."
    }
   ],
   "bull": [
-   "Consolidated revenue growth accelerated strongly to 29.8% YoY in Sep 2026.",
-   "Operating cash flow reached Rs 192,113 crores for the year ended Mar 2026.",
-   "Consolidated PAT reached Rs 29,550 crores in Sep 2026, up 33.8% YoY."
+   "Quarterly revenue growth accelerated to 29.8% YoY reaching ₹330,601 crore in Sep 2026.",
+   "5-year operating cash conversion is strong at 190% of net profit.",
+   "Free cash flow expanded to ₹70,023 crore in FY2026 from ₹41,079 crore in FY2025."
   ],
   "bear": [
-   "Borrowings increased to Rs 405,322 crores as of Sep 2026.",
-   "Cash cycle stretched by 28 days over two years from -3 to 25.",
-   "Missed initial deadlines for 20-gigawatt solar and 40-gigawatt hour battery capacity."
+   "PAT reported negative YoY growth of -8.9% in Mar 2026 and -24.6% in Jun 2026.",
+   "EBITDA margin dropped to 15% during Mar 2026 and Jun 2026 quarters.",
+   "Total borrowings rose to ₹405,322 crore at Sep 2026 from ₹374,313 crore in Mar 2025."
   ],
   "watch": [
-   "Solar module capacity progress toward 20 gigawatt target",
-   "Borrowings and debt-to-equity ratio of 0.43",
-   "FMCG revenue trajectory toward the Rs 1 lakh Crore FY2030 goal"
+   "Execution on 20-GW solar PV and 40-GWh battery capacity targets.",
+   "Retail segment EBITDA trajectory toward 2-year doubling target.",
+   "Sustainability of Q2 FY27 PAT recovery of 33.8% YoY."
   ]
  },
  "ledger_ok": true,
  "usage": [
   {
    "model": "gemini-3.5-flash-lite",
-   "in": 27833,
-   "out": 527,
+   "in": 27836,
+   "out": 1139,
    "secs": 5.1,
-   "cached": false,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 27836,
+   "out": 1139,
+   "secs": 5.1,
+   "cached": true,
    "fallback": false
   },
   {
@@ -907,7 +1018,7 @@
    "in": 24732,
    "out": 628,
    "secs": 4.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -915,15 +1026,7 @@
    "in": 25302,
    "out": 1118,
    "secs": 6.1,
-   "cached": false,
-   "fallback": false
-  },
-  {
-   "model": "gemini-3.5-flash-lite",
-   "in": 24166,
-   "out": 1121,
-   "secs": 5.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -931,29 +1034,30 @@
    "in": 13394,
    "out": 414,
    "secs": 11.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
-   "in": 3521,
-   "out": 1002,
-   "secs": 14.8,
+   "model": "gemini-3.6-flash",
+   "in": 3878,
+   "out": 2711,
+   "secs": 38.7,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 118948,
-  "tokens_out": 4810,
+  "fresh_calls": 1,
+  "tokens_in": 122978,
+  "tokens_out": 7149,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 51.7
+  "secs": 40.0
  }
 }

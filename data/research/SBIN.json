@@ -2,12 +2,12 @@
  "symbol": "SBIN",
  "name": "State Bank of India",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:41:17",
+ "generated_at": "2026-11-10T13:33:27",
  "latest_call": "Nov 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 938307.0,
-   "pe": 11.0,
+   "market_cap_cr": 961846.0,
+   "pe": 11.3,
    "roce": 6.13,
    "roe": 15.4,
    "ttm_revenue": 538780.0,
@@ -253,6 +253,11 @@
  "sources": [
   {
    "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad15487a-d1a9-4e33-90e9-624255749750.pdf"
+  },
+  {
+   "kind": "transcript",
    "label": "Q3 FY26 call",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8fabbe0f-593e-4701-b565-d5fce57385a2.pdf"
   },
@@ -267,11 +272,6 @@
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0c8d1537-1fa0-4113-90ee-b26564172228.pdf"
   },
   {
-   "kind": "transcript",
-   "label": "Q2 FY27 call",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91e92b69-f201-4d3b-9060-9f75feee9a58.pdf"
-  },
-  {
    "kind": "annual_report",
    "label": "Annual Report 2026",
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/faa17496-838f-432d-a39f-32d82156799c.pdf"
@@ -280,6 +280,115 @@
  "calls": [
   {
    "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad15487a-d1a9-4e33-90e9-624255749750.pdf",
+   "pages": 25,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "margin",
+     "promise": "Sustained net interest margin above 3% through Q3 and Q4 FY26",
+     "horizon": "Q3 and Q4 FY26",
+     "low": 3.0,
+     "high": null,
+     "unit": "%",
+     "quote": "our guidance still stands good that we will be above 3% in Q3 and Q4.",
+     "page": 12,
+     "speaker": "C S Setty",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Deposits and credit growth of scheduled commercial banks to remain 11-12% during FY26",
+     "horizon": "FY26",
+     "low": 11.0,
+     "high": 12.0,
+     "unit": "%",
+     "quote": "deposits and credit growth of scheduled commercial banks may remain in the range of 11-12% during FY26.",
+     "page": 4,
+     "speaker": "C S Setty",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "profit",
+     "promise": "AUCA recovery guidance of 2000 crores per quarter continues",
+     "horizon": "per quarter",
+     "low": 2000.0,
+     "high": 2000.0,
+     "unit": "cr",
+     "quote": "And AUCA recovery, Chairman's guidance was 2000 crores per quarter, we have done 2400 crores and the guidance continues.",
+     "page": 7,
+     "speaker": "Rana Ashutosh Kumar Singh",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "margin",
+     "promise": "Long term NIM above 3% through the cycle",
+     "horizon": "through the cycle",
+     "low": 3.0,
+     "high": null,
+     "unit": "%",
+     "quote": "And we still are holding that our guidance, long term NIM above 3% through the cycle.",
+     "page": 23,
+     "speaker": "C S Setty",
+     "verified": true,
+     "id": "g1.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Raised Rs 25000 crores of equity capital via QIP with demand exceeding Rs 1.1 trillion",
+     "quote": "In this quarter, we also raised Rs 25,000 crores of equity capital by way of qualified institutional placement with a demand book of more than Rs. 1.1 trillion.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Domestic NIMs improved by 7 basis points quarter-on-quarter to 3.09%",
+     "quote": "Our domestic NIMs for the quarter improved by 7 basis points quarter-on-quarter to 3.09%, driven by repricing of deposits.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Achieved written-off account recovery of Rs 2483 crores in the quarter",
+     "quote": "Recoveries from written off accounts, as we have presented here, ₹2,483 crores.",
+     "page": 23,
+     "verified": true
+    },
+    {
+     "claim": "Reported Bank LCR at 143.8% up from 139% as on 30th June",
+     "quote": "LCR of the bank is 143.8%, up from 139% as on 30th June.",
+     "page": 24,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Valuation discounts versus peers and lower operating profit excluding exceptionals",
+     "quote": "As against the banks which we compare of about 57 trillion. But our market cap is only 8.82 lakh crores against the market cap of that bank of 15.14 lakh crores.",
+     "page": 6,
+     "verified": true
+    },
+    {
+     "topic": "Impact of expected credit loss (ECL) guidelines and SMA provisioning",
+     "quote": "So, on ECL, as in, sir, your initial assessment would help and given SMA 1 and 2 would be charged at 5% odd as per the proposed guidelines.",
+     "page": 10,
+     "verified": true
+    },
+    {
+     "topic": "Sustainability of NIM trajectory and margin pressures from MCLR deceleration",
+     "quote": "So, on balance, sir, would you believe that MCLR deceleration would be more than offset by TD repricing and maybe CRR benefit?",
+     "page": 12,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, transparent, and proactive in addressing fundamental metrics and strategic roadmap."
+  },
+  {
+   "n": 2,
    "quarter": "Q3 FY26",
    "date": "Feb 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8fabbe0f-593e-4701-b565-d5fce57385a2.pdf",
@@ -297,7 +406,7 @@
      "page": 7,
      "speaker": "C S Setty, Chairman",
      "verified": true,
-     "id": "g1.1"
+     "id": "g2.1"
     },
     {
      "metric": "margin",
@@ -310,7 +419,7 @@
      "page": 8,
      "speaker": "C S Setty, Chairman",
      "verified": true,
-     "id": "g1.2"
+     "id": "g2.2"
     },
     {
      "metric": "profit",
@@ -323,7 +432,7 @@
      "page": 26,
      "speaker": "C S Setty, Chairman",
      "verified": true,
-     "id": "g1.3"
+     "id": "g2.3"
     },
     {
      "metric": "volume",
@@ -336,7 +445,7 @@
      "page": 4,
      "speaker": "C S Setty, Chairman",
      "verified": true,
-     "id": "g1.4"
+     "id": "g2.4"
     },
     {
      "metric": "margin",
@@ -349,7 +458,7 @@
      "page": 25,
      "speaker": "C S Setty, Chairman",
      "verified": true,
-     "id": "g1.5"
+     "id": "g2.5"
     }
    ],
    "claims": [
@@ -401,7 +510,7 @@
    "tone": "Confident, transparent, and constructive regarding robust fundamentals, healthy growth levers, and stable return metrics."
   },
   {
-   "n": 2,
+   "n": 3,
    "quarter": "Q4 FY26",
    "date": "May 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a3280a0-5ce9-445e-a881-6b7c505e9a90.pdf",
@@ -419,7 +528,7 @@
      "page": 9,
      "speaker": "C.S. Setty",
      "verified": true,
-     "id": "g2.1"
+     "id": "g3.1"
     },
     {
      "metric": "volume",
@@ -432,7 +541,7 @@
      "page": 7,
      "speaker": "C.S. Setty",
      "verified": true,
-     "id": "g2.2"
+     "id": "g3.2"
     },
     {
      "metric": "other",
@@ -445,7 +554,7 @@
      "page": 7,
      "speaker": "C.S. Setty",
      "verified": true,
-     "id": "g2.3"
+     "id": "g3.3"
     },
     {
      "metric": "profit",
@@ -458,7 +567,7 @@
      "page": 32,
      "speaker": "C.S. Setty",
      "verified": true,
-     "id": "g2.4"
+     "id": "g3.4"
     },
     {
      "metric": "other",
@@ -471,7 +580,7 @@
      "page": 21,
      "speaker": "C.S. Setty",
      "verified": true,
-     "id": "g2.5"
+     "id": "g3.5"
     },
     {
      "metric": "profit",
@@ -484,7 +593,7 @@
      "page": 17,
      "speaker": "C.S. Setty",
      "verified": true,
-     "id": "g2.6"
+     "id": "g3.6"
     },
     {
      "metric": "volume",
@@ -497,7 +606,7 @@
      "page": 4,
      "speaker": "C.S. Setty",
      "verified": true,
-     "id": "g2.7"
+     "id": "g3.7"
     }
    ],
    "claims": [
@@ -549,7 +658,7 @@
    "tone": "Confident, transparent, and resolute in reiterating annual guidance despite short-term margin and treasury pressures."
   },
   {
-   "n": 3,
+   "n": 4,
    "quarter": "Q1 FY27",
    "date": "Aug 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0c8d1537-1fa0-4113-90ee-b26564172228.pdf",
@@ -567,7 +676,7 @@
      "page": 4,
      "speaker": "C.S. Setty",
      "verified": true,
-     "id": "g3.1"
+     "id": "g4.1"
     },
     {
      "metric": "volume",
@@ -580,7 +689,7 @@
      "page": 11,
      "speaker": "C.S. Setty",
      "verified": true,
-     "id": "g3.2"
+     "id": "g4.2"
     }
    ],
    "claims": [
@@ -630,115 +739,6 @@
     }
    ],
    "tone": "Confident, transparent, and optimistic about long-term institutional building and resilience."
-  },
-  {
-   "n": 4,
-   "quarter": "Q2 FY27",
-   "date": "Nov 2026",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91e92b69-f201-4d3b-9060-9f75feee9a58.pdf",
-   "pages": 31,
-   "scanned": false,
-   "guidance": [
-    {
-     "metric": "margin",
-     "promise": "Maintain domestic Net Interest Margin at not less than 3%",
-     "horizon": "through the cycles",
-     "low": 3.0,
-     "high": null,
-     "unit": "%",
-     "quote": "So I stick to my guidance, an annual guidance of return on assets of 1%, net interest margin not less than 3% and ROE of 15%, through the cycles you are assured of.",
-     "page": 13,
-     "speaker": "C.S. Setty",
-     "verified": true,
-     "id": "g4.1"
-    },
-    {
-     "metric": "volume",
-     "promise": "Achieve 14-15% credit growth for full year FY2027",
-     "horizon": "FY2027",
-     "low": 14.0,
-     "high": 15.0,
-     "unit": "%",
-     "quote": "And I believe that H2, generally, which is a busy season, we will be able to have that 14%-15% guidance for the full year easily achieved.",
-     "page": 10,
-     "speaker": "C.S. Setty",
-     "verified": true,
-     "id": "g4.2"
-    },
-    {
-     "metric": "profit",
-     "promise": "Maintain annual Return on Assets guidance of 1% through the cycles",
-     "horizon": "through the cycles",
-     "low": 1.0,
-     "high": null,
-     "unit": "%",
-     "quote": "So I stick to my guidance, an annual guidance of return on assets of 1%, net interest margin not less than 3% and ROE of 15%, through the cycles you are assured of.",
-     "page": 13,
-     "speaker": "C.S. Setty",
-     "verified": true,
-     "id": "g4.3"
-    },
-    {
-     "metric": "profit",
-     "promise": "Maintain annual Return on Equity guidance of 15% through the cycles",
-     "horizon": "through the cycles",
-     "low": 15.0,
-     "high": null,
-     "unit": "%",
-     "quote": "So I stick to my guidance, an annual guidance of return on assets of 1%, net interest margin not less than 3% and ROE of 15%, through the cycles you are assured of.",
-     "page": 13,
-     "speaker": "C.S. Setty",
-     "verified": true,
-     "id": "g4.4"
-    }
-   ],
-   "claims": [
-    {
-     "claim": "Net profit for the quarter reached 23038 crore rupees",
-     "quote": "Net Profit for the quarter was at ₹23,038 crore.",
-     "page": 5,
-     "verified": true
-    },
-    {
-     "claim": "Gross NPA ratio improved to 1.39 percent, lowest in over two decades",
-     "quote": "At 1.39%, the Gross NPA ratio is at its lowest level in more than two decades, while the Provision Coverage Ratio remained robust at 74%.",
-     "page": 6,
-     "verified": true
-    },
-    {
-     "claim": "Total business aggregated 115 trillion rupees with advances crossing 52 trillion",
-     "quote": "Total business aggregated ₹115 trillion, with the deposits amounting to ₹63 trillion and advances crossing ₹52 trillion.",
-     "page": 5,
-     "verified": true
-    },
-    {
-     "claim": "Capital Adequacy stood at 16.09 percent, improving by 147 basis points year on year",
-     "quote": "Capital Adequacy stood at 16.09%, improving by 147 basis points year-on-year, and is comfortably above regulatory requirements.",
-     "page": 6,
-     "verified": true
-    }
-   ],
-   "pushback": [
-    {
-     "topic": "Credit growth pace and second half sustainability",
-     "quote": "Our credit growth for the half year, if you look at, I mean, this quarter it is 3.19% but, overall, if you look, it is ₹2,76,000 crore, higher than the year end 2026. So, in order to attain the target of 15% or so, we will have to have the credit growth of ₹4,60,000 crore, more in the remaining 6months or 5.5 months.",
-     "page": 7,
-     "verified": true
-    },
-    {
-     "topic": "P&L accounting treatment of NSE stake sale and treasury losses",
-     "quote": "Another one is, Sir, on the NSE stakes, that small portion of sale of shares, which has gone to the capital reserves of ₹2,500 crore, whereas some of the other banks, they have taken it straight away into the bottom line, the Profit and Loss.",
-     "page": 8,
-     "verified": true
-    },
-    {
-     "topic": "Operating expense surge and upfronted costs",
-     "quote": "And, similarly, in the Operating Expenses also in this quarter have gone up substantially to ₹15,531 crore, as against ₹11,962 crore, in the last quarter, which has a miscellaneous item of ₹6,697 crore, ₹2,000 crore, higher than the last quarter.",
-     "page": 8,
-     "verified": true
-    }
-   ],
-   "tone": "Confident, transparent, and firm on financial guidance and accounting integrity."
   }
  ],
  "business": {
@@ -799,71 +799,108 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g1.1",
-    "promise": "Credit growth estimate revised to 13% to 15% for the current quarter",
-    "made_in": "Q3 FY26",
-    "delivered": "Credit growth guidance was revised across subsequent calls to 13-15% for FY27.",
+    "ref": "g1.3",
+    "promise": "AUCA recovery guidance of 2000 crores per quarter continues",
+    "made_in": "Q2 FY26",
+    "delivered": "Management reported written-off account recovery of ₹2,483 crores in Q2 FY26, exceeding the ₹2,000 crore target.",
     "verdict": "delivered",
-    "checked_against": "Subsequent call guidance",
-    "quote": "we are revising our credit growth estimate to 13% to 15% based on the trend which we have seen in the current quarter so far.",
+    "checked_against": "Management reported recovery of ₹2,483 crore in Q2 FY26",
+    "quote": "And AUCA recovery, Chairman's guidance was 2000 crores per quarter, we have done 2400 crores and the guidance continues.",
     "page": 7,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8fabbe0f-593e-4701-b565-d5fce57385a2.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad15487a-d1a9-4e33-90e9-624255749750.pdf"
    },
    {
-    "ref": "g1.5",
-    "promise": "Keep the cost to income ratio below 50 bps",
-    "made_in": "Q3 FY26",
-    "delivered": "Management later clarified and guided for cost-to-income below 50% in Q4 FY26 (g2.5).",
-    "verdict": "walked_back",
-    "checked_against": "g2.5 guidance update",
-    "quote": "Our objective is to keep the cost to income ratio below 50 bps. I think that guidance we had earlier given, we are sticking to that guidance.",
-    "page": 25,
+    "ref": "g3.6",
+    "promise": "Ensure minimum 15% return on equity to investors through cycles",
+    "made_in": "Q4 FY26",
+    "delivered": "Reported ROE stands at 15.4%, satisfying the minimum 15% target through cycles.",
+    "verdict": "delivered",
+    "checked_against": "Reported ROE of 15.4%",
+    "quote": "Through the cycles we would like to ensure 15% return on equity to our investor’s minimum.",
+    "page": 17,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8fabbe0f-593e-4701-b565-d5fce57385a2.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a3280a0-5ce9-445e-a881-6b7c505e9a90.pdf"
+   },
+   {
+    "ref": "g1.1",
+    "promise": "Sustained net interest margin above 3% through Q3 and Q4 FY26",
+    "made_in": "Q2 FY26",
+    "delivered": "Management confirmed domestic NIM remained resilient at 3% in Q1 FY27 call; NIM is not reported in financial tables.",
+    "verdict": "delivered",
+    "checked_against": "Q1 FY27 call management statement on domestic NIM at 3%",
+    "quote": "our guidance still stands good that we will be above 3% in Q3 and Q4.",
+    "page": 12,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad15487a-d1a9-4e33-90e9-624255749750.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "FY27 domestic net interest margin to be maintained above 3.0%",
+    "made_in": "Q4 FY26",
+    "delivered": "Re-confirmed in Q1 FY27 call (g4.1) at 3%, but full FY27 results remain pending.",
+    "verdict": "too_early",
+    "checked_against": "Q1 FY27 call domestic NIM guidance confirmation",
+    "quote": "We are sticking to our NIM of more than 3% for the full year, for the full year.",
+    "page": 9,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a3280a0-5ce9-445e-a881-6b7c505e9a90.pdf"
    }
   ],
   "credibility": {
    "score": 8,
-   "line": "Management consistently maintains and reiterates core guidance for ROA, ROE, NIM, and credit growth."
+   "line": "Management meets NIM, ROE, and recovery targets, though cash conversion remains low with 0.44 OCF/PAT."
   },
   "narrative_vs_numbers": [
    {
     "agree": true,
-    "point": "Net profit reached a record Rs 26,218 crore in Sep 2026 (Q2 FY27), up 19.9% YoY, matching strong profit narratives."
+    "point": "Reported PAT grew 19.9% YoY in Sep 2026 to ₹26,218 crore, supporting claims of record earnings."
+   },
+   {
+    "agree": false,
+    "point": "Operating cash flow fell from ₹45,484 crore in Mar 2025 to ₹38,097 crore in Mar 2026 despite PAT rising to ₹86,666 crore."
    },
    {
     "agree": true,
-    "point": "Total business aggregated 115 trillion rupees with advances crossing 52 trillion rupees in Sep 2026, confirming growth claims."
+    "point": "Reported ROE of 15.4% fulfills management's guidance of delivering minimum 15% ROE through cycles."
    },
    {
-    "agree": true,
-    "point": "Equity increased to Rs 671,592 crore in Sep 2026 alongside a reduced D/E ratio of 1.1."
+    "agree": false,
+    "point": "Free cash flow dropped from ₹39,847 crore in Mar 2025 to ₹29,734 crore in Mar 2026."
    }
   ],
   "bull": [
-   "PAT grew 19.9% YoY to Rs 26,218 crore in Sep 2026.",
-   "Total business reached 115 trillion rupees with advances exceeding 52 trillion rupees.",
-   "ROE stands at 15.4% and ROCE at 6.13%, supporting management's 15% ROE goal."
+   "Reported PAT increased 19.9% YoY to ₹26,218 crore in Sep 2026.",
+   "Reported ROE of 15.4% meets the minimum 15% target through cycles.",
+   "Annual revenue expanded from ₹490,313 crore in Mar 2025 to ₹514,933 crore in Mar 2026."
   ],
   "bear": [
-   "Borrowings remain high at Rs 741,291 crore as of Sep 2026.",
-   "Quarterly revenue growth shows some deceleration compared to historical highs.",
-   "Operating cash flow conversion metrics remain low over multi-year periods."
+   "Operating cash flow dropped 16.2% to ₹38,097 crore in Mar 2026 from ₹45,484 crore in Mar 2025.",
+   "Free cash flow decreased 25.4% to ₹29,734 crore in Mar 2026.",
+   "5-year cash conversion remains low at 0.23 with Mar 2026 OCF/PAT at 0.44."
   ],
   "watch": [
-   "Deposit and credit growth rates in H2 FY27",
-   "Maintenance of Net Interest Margin above 3.0%"
+   "Rebound in OCF/PAT ratio from 0.44 reported in Mar 2026.",
+   "Quarterly revenue growth sustaining above Sep 2026 rate of 10.3%.",
+   "D/E ratio trajectory after reaching 1.1 in Sep 2026."
   ]
  },
  "ledger_ok": true,
  "usage": [
   {
    "model": "gemini-3.5-flash-lite",
+   "in": 17293,
+   "out": 1096,
+   "secs": 3.8,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
    "in": 18513,
    "out": 1267,
    "secs": 18.3,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -871,7 +908,7 @@
    "in": 21079,
    "out": 1446,
    "secs": 11.9,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -879,15 +916,7 @@
    "in": 17283,
    "out": 805,
    "secs": 4.4,
-   "cached": false,
-   "fallback": false
-  },
-  {
-   "model": "gemini-3.5-flash-lite",
-   "in": 17976,
-   "out": 1234,
-   "secs": 14.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -895,29 +924,30 @@
    "in": 9363,
    "out": 333,
    "secs": 2.9,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
-   "in": 3868,
-   "out": 896,
-   "secs": 9.3,
+   "model": "gemini-3.6-flash",
+   "in": 3836,
+   "out": 4272,
+   "secs": 24.4,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 88082,
-  "tokens_out": 5981,
+  "fresh_calls": 1,
+  "tokens_in": 87367,
+  "tokens_out": 9219,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 70.4
+  "secs": 25.6
  }
 }

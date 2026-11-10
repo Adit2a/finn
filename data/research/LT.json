@@ -2,12 +2,12 @@
  "symbol": "LT",
  "name": "Larsen & Toubro Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:28:43",
+ "generated_at": "2026-11-10T13:34:33",
  "latest_call": "Jul 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 565337.0,
-   "pe": 29.9,
+   "market_cap_cr": 575821.0,
+   "pe": 30.5,
    "roce": 14.6,
    "roe": 15.9,
    "ttm_revenue": 300904.0,
@@ -986,11 +986,23 @@
    {
     "ref": "g1.1",
     "promise": "Maintain full year revenue growth guidance at 15 percent for FY26",
-    "made_in": "Q2 FY26 call",
-    "delivered": "Reported FY26 annual revenue grew to Rs 285,874.0 crore, representing an annual growth of 11.8% over FY25 Rs 255,734.0 crore, missing the 15% target.",
+    "made_in": "Sep 2025",
+    "delivered": "FY26 full year revenue grew 11.8% to ₹285,874 crore from ₹255,734 crore in FY25, missing target.",
     "verdict": "missed",
-    "checked_against": "FY26 annual revenue",
+    "checked_against": "FY25 and FY26 reported full year revenue",
     "quote": "Accordingly, we maintain our full year revenue growth guidance at 15%.",
+    "page": 10,
+    "verified": true,
+    "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q2FY26%20Earnings%20Call%20Transcript%20.pdf"
+   },
+   {
+    "ref": "g1.4",
+    "promise": "Working capital guidance for FY26 around 12 percent, revised to 10 percent in Q3",
+    "made_in": "Sep 2025",
+    "delivered": "Management reported Q4 FY26 Net Working Capital to Revenue ratio sharply improved to 4.1%.",
+    "verdict": "delivered",
+    "checked_against": "Q4 FY26 management reported working capital ratio",
+    "quote": "On Working Capital, our guidance for working capital for FY26 remains unchanged at around 12% by March 2026.",
     "page": 10,
     "verified": true,
     "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q2FY26%20Earnings%20Call%20Transcript%20.pdf"
@@ -998,72 +1010,51 @@
    {
     "ref": "g1.3",
     "promise": "Achieve full year EBITDA margin target of 8.5 percent for P and M business",
-    "made_in": "Q2 FY26 call",
-    "delivered": "Segment-level promises can only be checked against what management later reported; company-level reported EBITDA% for FY26 was 13.0%.",
-    "verdict": "too_early",
-    "checked_against": "FY26 annual EBITDA%",
+    "made_in": "Sep 2025",
+    "delivered": "Segment margin not reported in overall table; reported 9-month P&M EBITDA was 7.9% before Q4 margin pressure.",
+    "verdict": "missed",
+    "checked_against": "Q3 and Q4 FY26 management commentary on P&M margin drops",
     "quote": "With the execution momentum expected to pick up in H2, we are reasonably confident to achieve our full year EBITDA margin target of 8.5%.",
     "page": 10,
     "verified": true,
     "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q2FY26%20Earnings%20Call%20Transcript%20.pdf"
-   },
-   {
-    "ref": "g1.5",
-    "promise": "Consummate Hyderabad Metro transaction by end of current fiscal FY26",
-    "made_in": "Q2 FY26 call",
-    "delivered": "Document text lacks confirmation of the transaction's completion by March 2026.",
-    "verdict": "too_early",
-    "checked_against": "subsequent call claims and financial disclosures",
-    "quote": "The contours of the final agreement are being finalized, and we expect this transaction to get consummated by the end of the current fiscal FY '26.",
-    "page": 4,
-    "verified": true,
-    "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q2FY26%20Earnings%20Call%20Transcript%20.pdf"
-   },
-   {
-    "ref": "g2.4",
-    "promise": "Close the year with a Net Working Capital to Revenue target of around 10%",
-    "made_in": "Q3 FY26 call",
-    "delivered": "Management claimed in Q4 FY26 that Net Working Capital to Revenue improved sharply to 4.1%.",
-    "verdict": "delivered",
-    "checked_against": "Q4 FY26 management claims",
-    "quote": "our Net Working Capital to Revenue has improved sharply to 8.2% as of December '25, and we expect to close the year with a revised target of around 10%.",
-    "page": 9,
-    "verified": true,
-    "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Transcript%20Q3FY26.pdf"
    }
   ],
   "credibility": {
    "score": 6,
-   "line": "Management missed the FY26 revenue growth target of 15% (actual 11.8%), but delivered on working capital."
+   "line": "Missed FY26 revenue growth guidance, but exceeded working capital reduction targets and expanded total order book."
   },
   "narrative_vs_numbers": [
    {
     "agree": false,
-    "point": "Management guided for 15% revenue growth in FY26, but full-year reported revenue grew only 11.8% to Rs 285,874.0 crore."
+    "point": "Management reiterated 15% FY26 revenue growth, but reported full-year growth reached only 11.8%."
    },
    {
     "agree": true,
-    "point": "Order book expansion claims are backed by reported figures, rising 27% YoY to Rs 7.79 trillion as of June 2026."
+    "point": "Management claimed working capital ratio improved to 4.1% in Q4 FY26, beating the 10% target."
    },
    {
     "agree": true,
-    "point": "Management claimed strong cash conversion, supported by reported operating cash flow of Rs 16,741.0 crore for FY26."
+    "point": "Management claimed Q1 FY27 revenue grew 7% YoY, matching reported growth of 6.7% to ₹67,942 crore."
+   },
+   {
+    "agree": true,
+    "point": "Annual operating cash flow improved to ₹16,741 crore in FY26 from ₹9,151 crore in FY25."
    }
   ],
   "bull": [
-   "Order book reached Rs 7.79 trillion as of June 2026, up 27% year-on-year.",
-   "FY26 annual revenue grew to Rs 285,874.0 crore from Rs 255,734.0 crore in FY25.",
-   "Robust 5-year operating cash flow conversion at 115% of profit, with FY26 OCF at Rs 16,741.0 crore."
+   "Order book expanded 27% YoY to ₹7.79 trillion as of June 2026.",
+   "FY26 operating cash flow rebounded 83% YoY to ₹16,741 crore.",
+   "Working capital to revenue ratio improved sharply to 4.1% by March 2026."
   ],
   "bear": [
-   "Operating margins are under pressure, with EBIT% declining to 9.9% in Sep 2026 from 10.9% in Sep 2025.",
-   "Total borrowings expanded to Rs 140,300.0 crore as of Sep 2026, up from Rs 125,497.0 crore in March 2026.",
-   "Failed to meet the 15% full-year revenue growth guidance in FY26, achieving 11.8%."
+   "FY26 full year revenue growth of 11.8% fell short of the 15% guidance.",
+   "Full year EBITDA margin dropped from 17.0% in FY21 to 13.0% in FY26.",
+   "Q1 FY27 revenue growth decelerated to 6.7% YoY at ₹67,942 crore."
   ],
   "watch": [
-   "Check whether FY27 revenue growth lands in the guided 10% to 12% band.",
-   "Monitor debt levels following borrowings rising to Rs 140,300.0 crore in Sep 2026.",
-   "Track execution of the massive Rs 7.79 trillion order book."
+   "FY27 full-year revenue growth achieving the 10%-12% targeted band.",
+   "PPM portfolio margins stabilizing at the guided 7.8% level in FY27."
   ]
  },
  "ledger_ok": true,
@@ -1073,7 +1064,7 @@
    "in": 17701,
    "out": 1205,
    "secs": 9.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1081,7 +1072,7 @@
    "in": 15667,
    "out": 1131,
    "secs": 4.7,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1089,7 +1080,7 @@
    "in": 21896,
    "out": 1365,
    "secs": 25.6,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1097,7 +1088,7 @@
    "in": 18375,
    "out": 1231,
    "secs": 23.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1105,29 +1096,30 @@
    "in": 11423,
    "out": 549,
    "secs": 31.7,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
+   "model": "gemini-3.6-flash",
    "in": 4192,
-   "out": 1191,
-   "secs": 27.6,
+   "out": 3191,
+   "secs": 27.7,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
+  "fresh_calls": 1,
   "tokens_in": 89254,
-  "tokens_out": 6672,
+  "tokens_out": 8672,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 129.9
+  "secs": 29.0
  }
 }
