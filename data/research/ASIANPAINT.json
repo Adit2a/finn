@@ -2,12 +2,12 @@
  "symbol": "ASIANPAINT",
  "name": "Asian Paints Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:12:38",
+ "generated_at": "2026-11-10T13:41:34",
  "latest_call": "Nov 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 242963.0,
-   "pe": 49.1,
+   "market_cap_cr": 240692.0,
+   "pe": 48.6,
    "roce": 26.3,
    "roe": 21.8,
    "ttm_revenue": 38632.0,
@@ -386,6 +386,11 @@
  "sources": [
   {
    "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99e65c90-6bb0-4984-ac71-2a0f0eb4cc7f.pdf"
+  },
+  {
+   "kind": "transcript",
    "label": "Q3 FY26 call",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf"
   },
@@ -400,11 +405,6 @@
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf"
   },
   {
-   "kind": "transcript",
-   "label": "Q2 FY27 call",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ee7e6efe-1f9b-4b5e-bff7-1da18902ffeb.pdf"
-  },
-  {
    "kind": "annual_report",
    "label": "Annual Report 2026",
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf"
@@ -413,6 +413,102 @@
  "calls": [
   {
    "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99e65c90-6bb0-4984-ac71-2a0f0eb4cc7f.pdf",
+   "pages": 30,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Maintain a 4-5% difference between volume and value going forward",
+     "horizon": "next 6 months",
+     "low": 4,
+     "high": 5,
+     "unit": "%",
+     "quote": "As we go ahead, we have also looked at saying that we will maintain a 4-5% difference between volume and value.",
+     "page": 26,
+     "speaker": "Amit Syngle",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Aim for mid-single-digit value growth for the full year",
+     "horizon": "full year FY26",
+     "low": null,
+     "high": null,
+     "unit": "%",
+     "quote": "We are looking at mid-single-digit value growth for the full year.",
+     "page": 25,
+     "speaker": "Amit Syngle",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "margin",
+     "promise": "Maintain 18 to 20% PBDIT margin band as we go ahead",
+     "horizon": "going forward",
+     "low": 18,
+     "high": 20,
+     "unit": "%",
+     "quote": "Given all this, it is okay to maintain the whole guidance of 18 to 20% PBDIT margin band.",
+     "page": 27,
+     "speaker": "Amit Syngle",
+     "verified": true,
+     "id": "g1.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Delivered volume growth of 10.9% and value of 6% in Q2 FY26",
+     "quote": "We delivered a volume growth of 10.9% in Q2FY26, but we had a value of about 6%",
+     "page": 14,
+     "verified": true
+    },
+    {
+     "claim": "Standalone net sales grew by 5.8% with PBDIT growth of 21% in Q2 FY26",
+     "quote": "Net Sales as I said grew by 5.8%, Gross Margins have expanded by 270bps to 43.7%. PBDIT has grown by 21%",
+     "page": 20,
+     "verified": true
+    },
+    {
+     "claim": "International business achieved 9.9% growth in INR terms with PBT margins at 9%",
+     "quote": "It's been a strong quarter overall we have done 9.9% growth in INR terms. So, almost a double-digit value growth... The PBT margins are also at 9% for the quarter",
+     "page": 17,
+     "verified": true
+    },
+    {
+     "claim": "New products contributed more than 15% of revenue",
+     "quote": "new products contribute more than 15% of revenue. And that is something which we are really proud of.",
+     "page": 10,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Competitive intensity and dealer discounting",
+     "quote": "My specific question is in terms of the 10% free grammage in the different SKUs by a competitor, what has been your reaction?",
+     "page": 24,
+     "verified": true
+    },
+    {
+     "topic": "Volume vs value growth divergence",
+     "quote": "The second reason, you know, the September month was definitely much better... Secondly, the difference between your volume and value has been much lower versus historical trend. What drove that?",
+     "page": 26,
+     "verified": true
+    },
+    {
+     "topic": "Margin band and guidance sustainability",
+     "quote": "Given the raw material environment is benign, competitive intensity remains stable... are you comfortable to see visibility that you can land at the higher end of this margin band",
+     "page": 27,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and resilient while acknowledging subdued broader demand conditions."
+  },
+  {
+   "n": 2,
    "quarter": "Q3 FY26",
    "date": "Feb 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
@@ -430,7 +526,7 @@
      "page": 35,
      "speaker": "Amit Syngle",
      "verified": true,
-     "id": "g1.1"
+     "id": "g2.1"
     },
     {
      "metric": "volume",
@@ -443,7 +539,7 @@
      "page": 28,
      "speaker": "Amit Syngle",
      "verified": true,
-     "id": "g1.2"
+     "id": "g2.2"
     }
    ],
    "claims": [
@@ -495,7 +591,7 @@
    "tone": "Confident, transparent, and resilient despite short-term demand headwinds and competitive intensity."
   },
   {
-   "n": 2,
+   "n": 3,
    "quarter": "Q4 FY26",
    "date": "Jun 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
@@ -513,7 +609,7 @@
      "page": 22,
      "speaker": "Amit Syngle",
      "verified": true,
-     "id": "g2.1"
+     "id": "g3.1"
     },
     {
      "metric": "volume",
@@ -526,7 +622,7 @@
      "page": 21,
      "speaker": "Amit Syngle",
      "verified": true,
-     "id": "g2.2"
+     "id": "g3.2"
     },
     {
      "metric": "capex",
@@ -539,7 +635,7 @@
      "page": 12,
      "speaker": "Amit Syngle",
      "verified": true,
-     "id": "g2.3"
+     "id": "g3.3"
     }
    ],
    "claims": [
@@ -591,7 +687,7 @@
    "tone": "Confident, disciplined, and cautious regarding geopolitical and inflationary headwinds."
   },
   {
-   "n": 3,
+   "n": 4,
    "quarter": "Q1 FY27",
    "date": "Aug 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
@@ -609,7 +705,7 @@
      "page": 20,
      "speaker": "Amit Syngle",
      "verified": true,
-     "id": "g3.1"
+     "id": "g4.1"
     },
     {
      "metric": "margin",
@@ -622,7 +718,7 @@
      "page": 20,
      "speaker": "Amit Syngle",
      "verified": true,
-     "id": "g3.2"
+     "id": "g4.2"
     },
     {
      "metric": "capex",
@@ -635,7 +731,7 @@
      "page": 25,
      "speaker": "Amit Syngle",
      "verified": true,
-     "id": "g3.3"
+     "id": "g4.3"
     }
    ],
    "claims": [
@@ -685,105 +781,6 @@
     }
    ],
    "tone": "Confident yet cautious due to raw material volatility and intense competitive pressure."
-  },
-  {
-   "n": 4,
-   "quarter": "Q2 FY27",
-   "date": "Nov 2026",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ee7e6efe-1f9b-4b5e-bff7-1da18902ffeb.pdf",
-   "pages": 34,
-   "scanned": false,
-   "guidance": [
-    {
-     "metric": "margin",
-     "promise": "Maintain FY27 EBITDA margin band of 18% to 20% through cost excellence and VAE formulations.",
-     "horizon": "FY27",
-     "low": 18,
-     "high": 20,
-     "unit": "%",
-     "quote": "we believe as we go forward, for the year we should be able to maintain the band of what we have spoken of 18% to 20%.",
-     "page": 28,
-     "speaker": "Amit Syngle",
-     "verified": true,
-     "id": "g4.1"
-    },
-    {
-     "metric": "volume",
-     "promise": "Expect a volume growth of about 8% to 9% going forward.",
-     "horizon": "going forward",
-     "low": 8,
-     "high": 9,
-     "unit": "%",
-     "quote": "we feel that it would be reasonable to expect to see a volume growth of about 8% to 9% going forward.",
-     "page": 29,
-     "speaker": "Amit Syngle",
-     "verified": true,
-     "id": "g4.2"
-    },
-    {
-     "metric": "capex",
-     "promise": "Total CapEx of about Rs. 3,250 crores for VAE facility.",
-     "horizon": "ongoing",
-     "low": 3250,
-     "high": 3250,
-     "unit": "cr",
-     "quote": "Today we have got the phase 1 of it, out of the total CapEx of about Rs. 3,250 crores which is there.",
-     "page": 13,
-     "speaker": "Amit Syngle",
-     "verified": true,
-     "id": "g4.3"
-    }
-   ],
-   "claims": [
-    {
-     "claim": "Standalone decorative volume growth reached 6.4% in Q2 FY27.",
-     "quote": "we have been able to grow at a good volume of about 6.4% at the base of the last year",
-     "page": 14,
-     "verified": true
-    },
-    {
-     "claim": "Standalone decorative value growth was 14.5% in Q2 FY27.",
-     "quote": "the value growth has also been very strong at 14.5%.",
-     "page": 14,
-     "verified": true
-    },
-    {
-     "claim": "H1 standalone decorative volume growth stood at about 8%.",
-     "quote": "the volume growth is pretty strong at about 8% and the value growth being closer to 16%.",
-     "page": 14,
-     "verified": true
-    },
-    {
-     "claim": "Phase 1 of the VAE facility was commissioned in September.",
-     "quote": "I'm proud to announce that in September we started our VAE facility and this is something which has been implemented in a record time",
-     "page": 13,
-     "verified": true
-    }
-   ],
-   "pushback": [
-    {
-     "topic": "Gross margin recovery and passing on raw material inflation",
-     "quote": "I wanted to understand what kind of normative gross margin that we can revert back to in the second half.",
-     "page": 27,
-     "speaker": "Mihir Shah",
-     "verified": true
-    },
-    {
-     "topic": "Volume growth normalization after inventory fill-up",
-     "quote": "So how is a normalized volume growth looking in October? And is the inventory that got filled up earlier, has it normalized?",
-     "page": 26,
-     "speaker": "Mihir Shah",
-     "verified": true
-    },
-    {
-     "topic": "EBITDA margin sustainability given cost pressures",
-     "quote": "do you see any risk to that 18% to 20% band that we were looking to stick with at the EBITDA margin level?",
-     "page": 28,
-     "speaker": "Avi Mehta",
-     "verified": true
-    }
-   ],
-   "tone": "Confident yet pragmatic regarding inflationary pressures and margin management."
   }
  ],
  "business": {
@@ -824,60 +821,92 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g1.1",
-    "promise": "Keep EBITDA margin between 18% and 20% going ahead",
-    "made_in": "Q3 FY26",
-    "delivered": "Sep 2026 EBITDA% 16.0% below the 18‑20% band",
-    "verdict": "missed",
-    "checked_against": "Sep 2026 EBITDA%",
-    "quote": "So, I would say that we would keep the guidance between that 18 and 20% band as we go ahead and that is something which we will endeavour to maintain.",
-    "page": 35,
+    "ref": "g1.2",
+    "promise": "Aim for mid-single-digit value growth for full year FY26.",
+    "made_in": "Q2 FY26",
+    "delivered": "FY26 revenue reached ₹35,584 crore, up 4.95% YoY from ₹33,906 crore.",
+    "verdict": "delivered",
+    "checked_against": "FY26 annual revenue YoY",
+    "quote": "We are looking at mid-single-digit value growth for the full year.",
+    "page": 25,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99e65c90-6bb0-4984-ac71-2a0f0eb4cc7f.pdf"
+   },
+   {
+    "ref": "g1.3",
+    "promise": "Maintain 18 to 20% PBDIT margin band going ahead.",
+    "made_in": "Q2 FY26",
+    "delivered": "FY26 EBITDA margin reached 19.0% (₹6,700 crore EBITDA on ₹35,584 crore revenue); reiterated in Q3 and Q4 FY26.",
+    "verdict": "delivered",
+    "checked_against": "FY26 EBITDA margin",
+    "quote": "Given all this, it is okay to maintain the whole guidance of 18 to 20% PBDIT margin band.",
+    "page": 27,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99e65c90-6bb0-4984-ac71-2a0f0eb4cc7f.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Maintain FY27 full year volume growth in 8 to 10 percent band.",
+    "made_in": "Q1 FY27",
+    "delivered": "Full year FY27 results pending; Q1 reported standalone volume growth of 9%.",
+    "verdict": "too_early",
+    "checked_against": "FY27 annual volume growth",
+    "quote": "At the current stage, we are looking at the band of 8-10% for the full FY27.",
+    "page": 20,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf"
    }
   ],
   "credibility": {
-   "score": null,
-   "line": "Only one promise can be checked against reported numbers so far — too few to score."
+   "score": 7,
+   "line": "Met FY26 revenue and margin guidance, but missed margin guidance in Q2 FY27 as EBITDA% dropped to 16.0%."
   },
   "narrative_vs_numbers": [
    {
     "agree": false,
-    "point": "Management touts 18‑20% EBITDA margin but latest quarter shows 16%"
-   },
-   {
-    "agree": false,
-    "point": "Claims of high single‑digit volume growth lack supporting data in reported figures"
+    "point": "Sep 2026 EBITDA margin fell to 16.0%, missing management's 18-20% guidance band despite 16.9% revenue growth."
    },
    {
     "agree": true,
-    "point": "EBITDA absolute value rose to ₹2,169 cr in Jun 2026, confirming top‑line strength"
+    "point": "FY26 full year performance matched promises with 4.95% revenue growth to ₹35,584 crore and 19.0% EBITDA margin."
+   },
+   {
+    "agree": true,
+    "point": "Strong operating cash flow narrative backed by ₹7,088 crore generated in FY26, yielding 1.61 OCF/PAT conversion."
    }
   ],
   "bull": [
-   "EBITDA rose to ₹2,169 cr in Jun 2026, a 33% jump YoY",
-   "PAT reached ₹1,559 cr in Jun 2026, up 39.6% YoY",
-   "Operating cash flow surged to ₹7,088 cr in Mar 2026, 1.61× PAT"
+   "FY26 operating cash flow grew to ₹7,088 crore with 1.61 OCF/PAT cash conversion.",
+   "Achieved 19.0% EBITDA margin for full year FY26, hitting the 18-20% guidance band.",
+   "Jun 2026 revenue grew 17.9% YoY to ₹10,542 crore with 21.0% EBITDA margin."
   ],
   "bear": [
-   "EBITDA margin slipped to 16% in Sep 2026, below guidance",
-   "Revenue YoY fell 6.1% in Dec 2024, indicating demand weakness",
-   "Borrowings rose to ₹4,596 cr by Sep 2026, up 1.9× in three years"
+   "Sep 2026 EBITDA margin fell to 16.0%, breaching the guided 18-20% floor.",
+   "Total borrowings increased from ₹2,474 crore in Mar 2024 to ₹4,596 crore in Sep 2026.",
+   "Sep 2026 PAT grew only 6.6% YoY despite revenue growing 16.9% YoY."
   ],
   "watch": [
-   "Q1 FY27 EBITDA% to see if margin recovers",
-   "Confirmation of VAE Phase 1 commissioning",
-   "Actual decorative volume growth versus 8‑10% target"
+   "EBITDA margin recovery toward 18-20% target band in Q3 FY27.",
+   "Debt trajectory after borrowings expanded to ₹4,596 crore in Sep 2026.",
+   "Volume growth performance against the 8-10% full year FY27 guidance."
   ]
  },
  "ledger_ok": true,
  "usage": [
   {
    "model": "gemini-3.5-flash-lite",
+   "in": 12696,
+   "out": 917,
+   "secs": 17.4,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
    "in": 13924,
    "out": 758,
    "secs": 35.6,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -885,7 +914,7 @@
    "in": 13180,
    "out": 914,
    "secs": 33.2,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -893,15 +922,7 @@
    "in": 12393,
    "out": 891,
    "secs": 6.8,
-   "cached": false,
-   "fallback": false
-  },
-  {
-   "model": "gemini-3.5-flash-lite",
-   "in": 12375,
-   "out": 910,
-   "secs": 13.9,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -909,30 +930,30 @@
    "in": 12976,
    "out": 211,
    "secs": 2.6,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 3185,
-   "out": 961,
-   "secs": 2.7,
+   "model": "gemini-3.6-flash",
+   "in": 3474,
+   "out": 3350,
+   "secs": 19.0,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 68033,
-  "tokens_out": 4645,
+  "fresh_calls": 2,
+  "tokens_in": 68643,
+  "tokens_out": 7041,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 102.1
+  "secs": 42.3
  }
 }

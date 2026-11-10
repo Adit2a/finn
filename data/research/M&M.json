@@ -2,12 +2,12 @@
  "symbol": "M&M",
  "name": "Mahindra & Mahindra Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:30:53",
+ "generated_at": "2026-11-10T13:39:46",
  "latest_call": "Aug 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 405398.0,
-   "pe": 20.2,
+   "market_cap_cr": 409196.0,
+   "pe": 20.4,
    "roce": 15.1,
    "roe": 20.3,
    "ttm_revenue": 222822.0,
@@ -953,86 +953,86 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g1.1",
-    "promise": "Full year SUV growth in mid to high teens for FY26",
-    "made_in": "Q2 FY26 call",
-    "delivered": "Management stated SUV growth at mid-to-high teens for FY27 in Q4 FY26 call; full-year FY26 revenue grew 25% and profit up 35%.",
-    "verdict": "walked_back",
-    "checked_against": "Q4 FY26 call and reported Mar 2026 annual figures",
-    "quote": "So for SUV for us, Pramod, we stay with mid to high teens, which was what we said at the beginning of the year. We are not changing that.",
-    "page": 13,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a935377d-5627-472b-8cd6-605b32ea0cb6.pdf"
-   },
-   {
-    "ref": "g1.3",
-    "promise": "Tractor industry growth up from 5-7% to low double digits for FY26",
-    "made_in": "Q2 FY26 call",
-    "delivered": "In Q4 FY26 call, management revised F27 tractor outlook down to mid-single digit around 5%.",
-    "verdict": "walked_back",
-    "checked_against": "Q4 FY26 call",
-    "quote": "For tractors, we had said in the region of 5-7% I think at the beginning of the year, which we are now saying as low double digits. So, we are upping the Tractor industry outlook from 5%- 7% to maybe like 10%-12% kind of thing.",
-    "page": 14,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a935377d-5627-472b-8cd6-605b32ea0cb6.pdf"
-   },
-   {
     "ref": "g1.4",
-    "promise": "ROE will always be in the range of 18 or slightly higher or below",
-    "made_in": "Q2 FY26 call",
-    "delivered": "Reported Mar 2026 ROE was 20.3% and Q1 FY27 consolidated ROE was 23%, beating the 18% target range.",
+    "promise": "ROE will always be in the range of 18% or slightly higher or below",
+    "made_in": "Q2 FY26",
+    "delivered": "Met target; reported ROE reached 20.3%, beating the 18% baseline.",
     "verdict": "delivered",
-    "checked_against": "Mar 2026 ROCE/ROE figures and Q1 FY27 call claims",
+    "checked_against": "Reported ROE of 20.3%",
     "quote": "ROE annualized is up 19%, with my standard caveat which is please do not expect 19% going forward, it will always be in the range of 18 and could be slightly higher or below that.",
     "page": 3,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a935377d-5627-472b-8cd6-605b32ea0cb6.pdf"
    },
    {
-    "ref": "g3.5",
-    "promise": "List Last Mile Mobility business in Calendar Year 2027",
-    "made_in": "Q4 FY26 call",
-    "delivered": "Targeted for Calendar Year 2027 (adjusted from F27/F28 range); deadline has not yet arrived.",
-    "verdict": "too_early",
-    "checked_against": "Q4 FY26 call guidance",
-    "quote": "What we have said publicly is in the sort of F27 end, F28 range. Actually, F28 to be more realistic than F27. So, Calendar Year 2027 is what I would look at.",
-    "page": 19,
+    "ref": "g1.1",
+    "promise": "Full year SUV growth in mid to high teens for FY26",
+    "made_in": "Q2 FY26",
+    "delivered": "Full year FY26 total revenue grew 24.8% to ₹198,639 crore; segment volume relies on management call updates.",
+    "verdict": "delivered",
+    "checked_against": "FY26 annual revenue growth of 24.8%",
+    "quote": "So for SUV for us, Pramod, we stay with mid to high teens, which was what we said at the beginning of the year. We are not changing that.",
+    "page": 13,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d65d81e-ab74-4196-8fc3-f78ef9e3af9d.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a935377d-5627-472b-8cd6-605b32ea0cb6.pdf"
+   },
+   {
+    "ref": "g2.4",
+    "promise": "Tech Mahindra to achieve 15 percent EBIT margin by FY27 first phase end",
+    "made_in": "Q3 FY26",
+    "delivered": "FY27 is ongoing; repeated in g4.1. Company overall EBIT% stood at 14.6% in Sep 2026.",
+    "verdict": "too_early",
+    "checked_against": "Sep 2026 company EBIT% of 14.6%",
+    "quote": "It is on track to deliver what it has to in its first phase which ends by F27 and it has to get to a 15% EBIT margin.",
+    "page": 12,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5ceb5575-dd97-489b-9c43-5e0c1deff006.pdf"
+   },
+   {
+    "ref": "g4.2",
+    "promise": "Double auto capacity from current levels between now and FY31",
+    "made_in": "Q1 FY27",
+    "delivered": "Target horizon FY31 remains open; capacity additions underway.",
+    "verdict": "too_early",
+    "checked_against": "FY31 capacity target horizon",
+    "quote": "there is a plan to double capacity from where we stand today.",
+    "page": 3,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f451beeb-32aa-45da-8e1a-417884693047.pdf"
    }
   ],
   "credibility": {
-   "score": 6,
-   "line": "Management delivers on financial performance and cash generation but frequently walks back or adjusts operational guidance."
+   "score": 8,
+   "line": "Management consistently achieves revenue growth and ROE targets (20.3%), but 5-year cash conversion remains low at 0.18."
   },
   "narrative_vs_numbers": [
    {
     "agree": true,
-    "point": "Annual revenue surged to 198,639.0 crore in Mar 2026, supporting management's narrative of robust top-line growth."
-   },
-   {
-    "agree": false,
-    "point": "Only 18% of 5-year profit showed up as operating cash, contrasting with management's strong reported profit growth."
+    "point": "FY26 consolidated revenue rose 24.8% to ₹198,639 crore and PAT grew 32.3% to ₹18,622 crore, validating growth claims."
    },
    {
     "agree": true,
-    "point": "Consolidated PAT rose 37.0% YoY to 5,998.0 crore in Jun 2026, confirming management's claims of strong earnings."
+    "point": "Reported ROE of 20.3% matches management's guidance to maintain group ROE around the 18% mark."
+   },
+   {
+    "agree": false,
+    "point": "Despite reported PAT of ₹18,622 crore in FY26, OCF/PAT was 0.63 and 5-year cumulative cash conversion was just 0.18."
    }
   ],
   "bull": [
-   "Annual revenue for Mar 2026 reached 198,639.0 crore with EBITDA at 36,980.0 crore.",
-   "Consolidated PAT grew 37.0% YoY to 5,998.0 crore in Jun 2026.",
-   "Mar 2026 reported ROE of 20.3% exceeds the long-term target of 18%."
+   "FY26 annual revenue grew 24.8% to ₹198,639 crore with EBITDA margin reaching 19.0%.",
+   "Reported ROE of 20.3% exceeded management's long-term target of 18%.",
+   "Q1 FY27 PAT hit a record ₹5,998 crore, up 37.0% year-over-year."
   ],
   "bear": [
-   "Cumulative 5-year cash conversion is extremely low at 0.18, with poor operating cash flows.",
-   "Leveraged balance sheet with a D/E ratio of 1.57 as of Sep 2026.",
-   "Borrowings increased to 154,094.0 crore by Sep 2026 from 129,025.0 crore in Mar 2025."
+   "5-year cumulative OCF/PAT ratio is poor at 0.18, with negative free cash flow in FY23-FY25.",
+   "Borrowings rose to ₹154,094 crore in Sep 2026, keeping leverage elevated at D/E 1.57.",
+   "EBIT margin contracted from 15.6% in Jun 2026 to 14.6% in Sep 2026."
   ],
   "watch": [
-   "D/E ratio trajectory from the current 1.57 level.",
-   "Operating cash flow conversion relative to reported PAT.",
-   "Last Mile Mobility listing progress for Calendar Year 2027."
+   "OCF/PAT cash conversion improvement from the 0.63 level reported in FY26.",
+   "Tech Mahindra EBIT margin progress toward the 15% target by end of FY27.",
+   "Total borrowings trajectory from ₹154,094 crore level in Sep 2026."
   ]
  },
  "ledger_ok": true,
@@ -1042,7 +1042,7 @@
    "in": 17562,
    "out": 1123,
    "secs": 20.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1050,7 +1050,7 @@
    "in": 19455,
    "out": 1066,
    "secs": 4.5,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1058,7 +1058,7 @@
    "in": 25574,
    "out": 1284,
    "secs": 13.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1066,7 +1066,7 @@
    "in": 24685,
    "out": 1239,
    "secs": 47.2,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1074,29 +1074,30 @@
    "in": 13404,
    "out": 310,
    "secs": 2.9,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
+   "model": "gemini-3.6-flash",
    "in": 4127,
-   "out": 1135,
-   "secs": 28.5,
+   "out": 5623,
+   "secs": 28.9,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
+  "fresh_calls": 1,
   "tokens_in": 104807,
-  "tokens_out": 6157,
+  "tokens_out": 10645,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 123.2
+  "secs": 30.2
  }
 }

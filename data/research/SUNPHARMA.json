@@ -2,12 +2,12 @@
  "symbol": "SUNPHARMA",
  "name": "Sun Pharmaceutical Industries Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:43:13",
+ "generated_at": "2026-11-10T13:38:31",
  "latest_call": "Nov 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 459473.0,
-   "pe": 37.3,
+   "market_cap_cr": 456953.0,
+   "pe": 37.1,
    "roce": 20.5,
    "roe": 16.0,
    "ttm_revenue": 61631.0,
@@ -386,23 +386,23 @@
  "sources": [
   {
    "kind": "transcript",
-   "label": "Q4 FY26 call",
+   "label": "Q3 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1082d0ab-d6fb-40f5-873e-d7301397cd05.pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q4 FY26 (May) call",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=293c1789-7308-4864-982a-192b016de087.pdf"
   },
   {
    "kind": "transcript",
-   "label": "Q4 FY26 call",
+   "label": "Q4 FY26 (May) call",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=287022b2-8de5-487d-8d0d-77b819ee3eb4.pdf"
   },
   {
    "kind": "transcript",
    "label": "Q1 FY27 call",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=34be7c92-1d9f-4010-ba30-2344c959bc5e.pdf"
-  },
-  {
-   "kind": "transcript",
-   "label": "Q2 FY27 call",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fe431adc-0e1a-48ee-9c2b-b6e39cba04e4.pdf"
   },
   {
    "kind": "annual_report",
@@ -413,98 +413,161 @@
  "calls": [
   {
    "n": 1,
-   "quarter": "Q4 FY26",
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1082d0ab-d6fb-40f5-873e-d7301397cd05.pdf",
+   "pages": 22,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "other",
+     "promise": "Publish phase-2a data for GL0034 in diabetes and NASH over next few months",
+     "horizon": "next few months",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We are publishing phase-2a data in the certain scientific conferences, both for diabetes as well as for NASH over the next few months.",
+     "page": 14,
+     "speaker": "Dilip Shanghvi",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "other",
+     "promise": "Complete current phase-2b study for GL0034 within 12 to 18 months",
+     "horizon": "12-18 months",
+     "low": 12,
+     "high": 18,
+     "unit": "units",
+     "quote": "But the current phase-2b study which has started, that should possibly get over within maybe 12-to-18 months.",
+     "page": 14,
+     "speaker": "Dilip Shanghvi",
+     "verified": true,
+     "id": "g1.2"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Q3 FY26 sales reached Rs.1,54,691 million, registering a growth of 15.1% YoY.",
+     "quote": "During the 3rd Quarter of FY 2026, we recorded sales of Rs.1,54,691 million, registering a growth of 15.1% vis-à-vis Q3 FY 2025.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Q3 FY26 EBITDA increased by 23.4% YoY to Rs.49,485 million.",
+     "quote": "EBITDA for the quarter was Rs.49,485 million, an increase of 23.4% over Q3 last year.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "India formulations sales grew 16.2% to Rs.49,986 million in Q3 FY26.",
+     "quote": "For Q3 sales formulations in India were Rs.49,986 million, recording a growth of 16.2% over Q3 last year.",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "claim": "Global Innovative Medicines sales grew 14.3% in Q3 FY26 to reach US$423 million.",
+     "quote": "In Q3 FY26, our Global Innovative Medicines sales were up 14.3% to reach US$423 million.",
+     "page": 5,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "M&A Strategy & Target Size",
+     "quote": "Are you looking at tuck-ins, are you looking to add biosimilars, are you looking to expand your geographic presence, and how important is North America in the strategy?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "US Generic Sales Decline & Competition",
+     "quote": "So, is this to do with price erosion or the lack of launches, if you could also explain that?",
+     "page": 9,
+     "verified": true
+    },
+    {
+     "topic": "LEQSELVI Genetic Testing and Pricing",
+     "quote": "My understanding is the product requires a genetic testing before you put the patient on. Can you talk about that? Is not that a significant deterrent?",
+     "page": 14,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, measured, and disciplined regarding strategy, operations, and upcoming product launches."
+  },
+  {
+   "n": 2,
+   "quarter": "Q4 FY26 (May)",
    "date": "May 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=293c1789-7308-4864-982a-192b016de087.pdf",
    "pages": 25,
    "scanned": false,
    "guidance": [
     {
+     "metric": "profit",
+     "promise": "EPS accretive from the beginning of transaction close",
+     "horizon": "first full year of closing",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We believe this will be EPS accretive from the beginning.",
+     "page": 17,
+     "speaker": "Jayashree Satagopan",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
      "metric": "other",
-     "promise": "Realize potential synergies in the range of about $350 million in next two to four years",
+     "promise": "Cost synergies in the range of $350 million in next two to four years",
      "horizon": "next two to four years",
      "low": 350,
      "high": 350,
      "unit": null,
-     "quote": "There are also significant potential synergies that could come out, which we have highlighted could be in the range of about $350 million which could be materialized in the next two to four years.",
+     "quote": "potential synergies that could come out, which we have highlighted could be in the range of about $350 million which could be materialized in the next two to four years.",
      "page": 9,
      "speaker": "Jayashree Satagopan",
      "verified": true,
-     "id": "g1.1"
-    },
-    {
-     "metric": "debt",
-     "promise": "Remain focused on finding a way to paying down the debt as early as possible",
-     "horizon": "as early as possible",
-     "low": null,
-     "high": null,
-     "unit": null,
-     "quote": "However, we will remain focused on finding a way to paying down the debt as early as possible.",
-     "page": 4,
-     "speaker": "Dilip Shanghvi",
-     "verified": true,
-     "id": "g1.2"
-    },
-    {
-     "metric": "profit",
-     "promise": "Transaction will be EPS accretive from the beginning",
-     "horizon": "from the beginning",
-     "low": null,
-     "high": null,
-     "unit": null,
-     "quote": "Jayashree Satagopan: We believe this will be EPS accretive from the beginning.",
-     "page": 17,
-     "speaker": "Jayashree Satagopan",
-     "verified": true,
-     "id": "g1.3"
+     "id": "g2.2"
     },
     {
      "metric": "other",
-     "promise": "Expect this transaction to close in about six to nine month time",
+     "promise": "Expect deal to close in about six to nine month time",
      "horizon": "six to nine months",
      "low": 6,
      "high": 9,
      "unit": null,
-     "quote": "and we expect this deal to close in about six to nine month time.",
+     "quote": "we expect this deal to close in about six to nine month time.",
      "page": 9,
      "speaker": "Jayashree Satagopan",
      "verified": true,
-     "id": "g1.4"
+     "id": "g2.3"
     }
    ],
-   "claims": [
-    {
-     "claim": "Sun Pharma's revenues are $6.2 billion with presence in 100 countries and cash of $3.1 billion",
-     "quote": "All of you know like Sun today our revenues are $6.2 billion, we are present in 100 countries, and we are number one in India. And most importantly, we have strong balance sheet with $3.1 billion, as a cash.",
-     "page": 4,
-     "verified": true
-    }
-   ],
+   "claims": [],
    "pushback": [
     {
      "topic": "Cultural integration and management bandwidth",
-     "quote": "First question is for Dilip sir. If you could throw some light in terms of the cultural fit of the two organization and how it flows into your integration strategy? And the related question on that is how much of the top management bandwidth would be allocated toward the integration of this acquisition? And in your view, is there any impact of that which you could foresee on Sun Pharma's business? That would be the first question?",
+     "quote": "If you could throw some light in terms of the cultural fit of the two organization and how it flows into your integration strategy?",
      "page": 10,
      "verified": true
     },
     {
-     "topic": "Synergy details and cost of debt",
-     "quote": "The second part of the question would be on the cost of debt. So what is the current weighted average cost of debt that we will be inheriting from Organon and will the current debt would require refinancing? And if yes, then how does the cost of debt move from where it is now? Thank you.",
+     "topic": "Synergies breakdown and cost of debt",
+     "quote": "If you could share more details between the revenue as well as cost driver side of it... And the second part of the question would be on the cost of debt.",
      "page": 11,
      "verified": true
     },
     {
-     "topic": "Biosimilar strategy and US market reimbursement",
-     "quote": "Okay. If I may add, I think in the past Sun's management indicated the challenges which biosimilars face on the reimbursement part. So what's your view on reimbursement and competition dynamics in the US specifically?",
-     "page": 13,
+     "topic": "Growth strategy and in-licensing for innovative and biosimilars",
+     "quote": "What kind of roadmap you have in terms of acquiring or in-licensing assets to support growth and in absence of any in-licensing assets what's your comfort on the growth for these two segments?",
+     "page": 12,
      "verified": true
     }
    ],
-   "tone": "Confident, optimistic and strategic regarding the transformative Organon acquisition and long-term value creation."
+   "tone": "Confident, optimistic, and strategic regarding the transformational acquisition of Organon."
   },
   {
-   "n": 2,
-   "quarter": "Q4 FY26",
+   "n": 3,
+   "quarter": "Q4 FY26 (May)",
    "date": "May 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=287022b2-8de5-487d-8d0d-77b819ee3eb4.pdf",
    "pages": 18,
@@ -512,7 +575,7 @@
    "guidance": [
     {
      "metric": "revenue growth",
-     "promise": "FY27 consolidated top line high single-digit growth",
+     "promise": "FY27 consolidated top line growth expected to be high single-digit",
      "horizon": "FY27",
      "low": null,
      "high": null,
@@ -521,24 +584,24 @@
      "page": 6,
      "speaker": "Dilip Shanghvi",
      "verified": true,
-     "id": "g2.1"
+     "id": "g3.1"
     },
     {
-     "metric": "capex",
+     "metric": "other",
      "promise": "FY27 R&D spend to be 6% to 7% of sales",
      "horizon": "FY27",
      "low": 6,
      "high": 7,
      "unit": "%",
-     "quote": "We expect our FY27 R&D spend to be 6% to 7% of the sales for the next year.",
+     "quote": "We expect our FY27 R&D spend to be 6% to 7% of sales for the next year.",
      "page": 6,
      "speaker": "Dilip Shanghvi",
      "verified": true,
-     "id": "g2.2"
+     "id": "g3.2"
     },
     {
      "metric": "other",
-     "promise": "Complete Organon acquisition in Q4 FY27",
+     "promise": "Acquisition of Organon expected to be completed in Q4 FY27",
      "horizon": "Q4 FY27",
      "low": null,
      "high": null,
@@ -547,7 +610,20 @@
      "page": 6,
      "speaker": "Dilip Shanghvi",
      "verified": true,
-     "id": "g2.3"
+     "id": "g3.3"
+    },
+    {
+     "metric": "other",
+     "promise": "Effective tax rate expected to be in the range of 25% for next year and beyond",
+     "horizon": "FY27 and beyond",
+     "low": 25,
+     "high": 25,
+     "unit": "%",
+     "quote": "Yes. We expect the effective tax rate to be in the range of 25%.",
+     "page": 17,
+     "speaker": "Jayashree Satagopan",
+     "verified": true,
+     "id": "g3.4"
     }
    ],
    "claims": [
@@ -558,20 +634,20 @@
      "verified": true
     },
     {
-     "claim": "Full year FY26 sales grew 11.9% to INR 582 Billion",
+     "claim": "Q4 FY26 gross margin stood at 80.8%",
+     "quote": "Gross margin was at 80.8% for the quarter, higher than the same period last year, largely on account",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Full year FY26 sales grew 11.9% to INR 582 billion",
      "quote": "For the full year FY '26, sales were INR 582 Billion, a growth of 11.9%.",
      "page": 4,
      "verified": true
     },
     {
-     "claim": "Global Innovative Medicine sales reached US$ 354 million in Q4 FY26",
-     "quote": "In Q4 FY '26, our Innovative Medicine sales were up 20.1% to reach US$ 354 million.",
-     "page": 4,
-     "verified": true
-    },
-    {
-     "claim": "India formulation sales reached INR 48,359 million in Q4 FY26, recording 14.8% growth",
-     "quote": "the sales of India formulations were INR 48,359 million for the quarter, recording a growth of 14.8%.",
+     "claim": "Global Innovative Medicines sales crossed $1 billion in the US for the first time",
+     "quote": "I'm also pleased to note for the year that Innovative Medicines crossed $1 billion for the first time in the United States.",
      "page": 5,
      "verified": true
     }
@@ -579,14 +655,8 @@
    "pushback": [
     {
      "topic": "Sequential margin drop",
-     "quote": "So, and how much of this drop is because of, let's say, Revlimid driven and hence can continue going ahead?",
+     "quote": "Thank you for this opportunity. My first question is on the sequential drop in the margin.",
      "page": 8,
-     "verified": true
-    },
-    {
-     "topic": "Biosimilar STELARA impact",
-     "quote": "Has that changed anything for you for ILUMYA in terms of formulary positioning and general commentary on the market share that biosimilar might be taking?",
-     "page": 11,
      "verified": true
     },
     {
@@ -594,12 +664,18 @@
      "quote": "Just would like to understand what has been the major reason for this? Is it the compliance because the R&D has been pretty strong",
      "page": 12,
      "verified": true
+    },
+    {
+     "topic": "US specialty operating costs",
+     "quote": "In FY27, I think we don't have a large specialty launch. So, is it fair to expect that the operating cost growth will moderate in the current year",
+     "page": 15,
+     "verified": true
     }
    ],
-   "tone": "Confident and constructive regarding core business growth, new specialty launches, and future guidance."
+   "tone": "Confident and transparent regarding strategy, new launches, and growth drivers."
   },
   {
-   "n": 3,
+   "n": 4,
    "quarter": "Q1 FY27",
    "date": "Aug 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=34be7c92-1d9f-4010-ba30-2344c959bc5e.pdf",
@@ -617,7 +693,7 @@
      "page": 10,
      "speaker": "Jayashree Satagopan",
      "verified": true,
-     "id": "g3.1"
+     "id": "g4.1"
     }
    ],
    "claims": [
@@ -655,115 +731,6 @@
     }
    ],
    "tone": "Confident and transparent regarding core business growth while declining to provide product-specific guidance."
-  },
-  {
-   "n": 4,
-   "quarter": "Q2 FY27",
-   "date": "Nov 2026",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fe431adc-0e1a-48ee-9c2b-b6e39cba04e4.pdf",
-   "pages": 19,
-   "scanned": false,
-   "guidance": [
-    {
-     "metric": "other",
-     "promise": "Close the Organon acquisition by early 2027 or Q4 FY27",
-     "horizon": "early 2027",
-     "low": null,
-     "high": null,
-     "unit": null,
-     "quote": "The Organon acquisition is subject to satisfaction of the remaining customary closing conditions and is on track to close by early 2027.",
-     "page": 3,
-     "speaker": "Abhishek Sharma",
-     "verified": true,
-     "id": "g4.1"
-    },
-    {
-     "metric": "revenue growth",
-     "promise": "Stick to high single-digit guidance given at the beginning of the year",
-     "horizon": "FY27",
-     "low": null,
-     "high": null,
-     "unit": "%",
-     "quote": "Regarding the guidance, I think we'll stick to what guidance we have given at the beginning of the year.",
-     "page": 8,
-     "speaker": "Kirti Ganorkar",
-     "verified": true,
-     "id": "g4.2"
-    },
-    {
-     "metric": "capex",
-     "promise": "R&D spend to catch up and meet overall guidance in second half",
-     "horizon": "second half of the year",
-     "low": null,
-     "high": null,
-     "unit": null,
-     "quote": "Consolidated investments towards R&D for Q2 '27 stands at INR7,784 million or 4.8% of sales... we expect the second half of the year to catch up some of this R&D spend.",
-     "page": 6,
-     "speaker": "Dilip Shanghvi",
-     "verified": true,
-     "id": "g4.3"
-    },
-    {
-     "metric": "revenue growth",
-     "promise": "Return Ilumya to more typical growth patterns over the next few quarters",
-     "horizon": "next few quarters",
-     "low": null,
-     "high": null,
-     "unit": null,
-     "quote": "And as I mentioned, those interventions, coupled with the launch in psoriatic arthritis, we believe will return Ilumya to more typical growth patterns.",
-     "page": 7,
-     "speaker": "Richard Ascroft",
-     "verified": true,
-     "id": "g4.4"
-    }
-   ],
-   "claims": [
-    {
-     "claim": "Q2 FY27 sales reached INR1,61,000 million, a growth of 11.8% year-on-year.",
-     "quote": "During the second quarter of FY27, sales were at INR1,61,000 million, registering a growth of 11.8% vis-a-vis Q2 FY26.",
-     "page": 3,
-     "verified": true
-    },
-    {
-     "claim": "Gross margin for the quarter was at 80.8% due to product mix and currency tailwinds.",
-     "quote": "Gross margin was at 80.8% for the quarter, higher than the same period last year, largely on account of a better product mix and favorable currency tailwinds.",
-     "page": 3,
-     "verified": true
-    },
-    {
-     "claim": "EBITDA for the quarter was INR47,439 million with a margin of 29.3%.",
-     "quote": "EBITDA for the quarter was INR47,439 million, an increase of 4.8% over Q2 last year. EBITDA margins came in at 29.3%.",
-     "page": 4,
-     "verified": true
-    },
-    {
-     "claim": "India formulations sales were INR55,523 million, recording a growth of 17.3%.",
-     "quote": "The sales of India formulations were INR55,523 million for the quarter, recording a growth of 17.3%.",
-     "page": 5,
-     "verified": true
-    }
-   ],
-   "pushback": [
-    {
-     "topic": "Ilumya US slowdown drivers and time line to recovery",
-     "quote": "First one on the slowdown in growth for Ilumya in US Rick, can you highlight what is driving that? And what kind of actions we have taken? And what's the time line in terms of the recovery in the growth?",
-     "page": 7,
-     "verified": true
-    },
-    {
-     "topic": "Guidance update for FY27 given strong H1",
-     "quote": "And second one on the guidance for FY27. I mean, since the first half, we have been clocking at around double-digit top line growth versus our FY27 guidance of high single digit. So at this point in time, is there an update that you want to share?",
-     "page": 7,
-     "verified": true
-    },
-    {
-     "topic": "Assam plant ophthalmic products regulatory issues",
-     "quote": "There's a media article citing that the Indian drug regulator has asked Sun Pharma to discontinue production of ophthalmic products from its Assam plant. Can you comment whether this is true and whether this would have any material adverse impact on our numbers?",
-     "page": 14,
-     "verified": true
-    }
-   ],
-   "tone": "Confident, transparent, and measured regarding business performance, execution challenges, and strategic integrations."
   }
  ],
  "business": {
@@ -828,116 +795,112 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g1.4",
-    "promise": "Expect this transaction to close in about six to nine month time",
+    "ref": "g3.1",
+    "promise": "FY27 consolidated top line growth expected to be high single-digit",
     "made_in": "Q4 FY26",
-    "delivered": "Management updated timeline on subsequent calls, shifting completion to early 2027 or Q4 FY27.",
-    "verdict": "walked_back",
-    "checked_against": "g4.1 Q2 FY27 call",
-    "quote": "and we expect this deal to close in about six to nine month time.",
-    "page": 9,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=293c1789-7308-4864-982a-192b016de087.pdf"
-   },
-   {
-    "ref": "g2.1",
-    "promise": "FY27 consolidated top line high single-digit growth",
-    "made_in": "Q4 FY26",
-    "delivered": "Reported Sep 2026 revenue YoY growth was 11.9% and Jun 2026 was 10.5%.",
-    "verdict": "delivered",
-    "checked_against": "Sep 2026 Rev YoY% and Jun 2026 Rev YoY%",
+    "delivered": "Repeated in g4.1. Q1 FY27 revenue grew 10.5% YoY and Q2 FY27 grew 11.9% YoY; full year ongoing",
+    "verdict": "too_early",
+    "checked_against": "Jun 2026 and Sep 2026 Rev YoY%",
     "quote": "On the guidance, we expect high single-digit consolidated top line growth for FY27 based on our current understanding of the regulatory and macro environment.",
     "page": 6,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=287022b2-8de5-487d-8d0d-77b819ee3eb4.pdf"
    },
    {
-    "ref": "g2.2",
-    "promise": "FY27 R&D spend to be 6% to 7% of sales",
-    "made_in": "Q4 FY26",
-    "delivered": "Q2 FY27 R&D was reported at 4.8% of sales, with management expecting a catch-up in the second half.",
+    "ref": "g1.1",
+    "promise": "Publish phase-2a data for GL0034 in diabetes and NASH over next few months",
+    "made_in": "Q3 FY26",
+    "delivered": "Clinical trial publishing status is not reported in quarterly financial statements",
     "verdict": "too_early",
-    "checked_against": "Q2 FY27 call mgmt claim",
-    "quote": "We expect our FY27 R&D spend to be 6% to 7% of the sales for the next year.",
-    "page": 6,
+    "checked_against": "Scientific conference data publications",
+    "quote": "We are publishing phase-2a data in the certain scientific conferences, both for diabetes as well as for NASH over the next few months.",
+    "page": 14,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=287022b2-8de5-487d-8d0d-77b819ee3eb4.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1082d0ab-d6fb-40f5-873e-d7301397cd05.pdf"
    },
    {
     "ref": "g2.3",
-    "promise": "Complete Organon acquisition in Q4 FY27",
+    "promise": "Expect deal to close in about six to nine month time",
     "made_in": "Q4 FY26",
-    "delivered": "Acquisition target remains pending for early 2027 or Q4 FY27.",
+    "delivered": "Reiterated in g3.3 as target completion in Q4 FY27; transaction pending completion",
     "verdict": "too_early",
-    "checked_against": "g4.1 Q2 FY27 call",
-    "quote": "We expect the acquisition to be completed in Q4 FY27.",
-    "page": 6,
+    "checked_against": "Acquisition completion timeline",
+    "quote": "we expect this deal to close in about six to nine month time.",
+    "page": 9,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=287022b2-8de5-487d-8d0d-77b819ee3eb4.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=293c1789-7308-4864-982a-192b016de087.pdf"
    },
    {
-    "ref": "g4.3",
-    "promise": "R&D spend to catch up and meet overall guidance in second half",
-    "made_in": "Q2 FY27",
-    "delivered": "Q2 FY27 R&D was 4.8% of sales (INR7,784 million) compared to the 6% to 7% guidance range.",
+    "ref": "g2.2",
+    "promise": "Cost synergies in the range of $350 million in next two to four years",
+    "made_in": "Q4 FY26",
+    "delivered": "Multi-year target post deal closure; timeline spans 2 to 4 years",
     "verdict": "too_early",
-    "checked_against": "Q2 FY27 call mgmt claim",
-    "quote": "Consolidated investments towards R&D for Q2 '27 stands at INR7,784 million or 4.8% of sales... we expect the second half of the year to catch up some of this R&D spend.",
-    "page": 6,
+    "checked_against": "Future operational synergy realization",
+    "quote": "potential synergies that could come out, which we have highlighted could be in the range of about $350 million which could be materialized in the next two to four years.",
+    "page": 9,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fe431adc-0e1a-48ee-9c2b-b6e39cba04e4.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=293c1789-7308-4864-982a-192b016de087.pdf"
    }
   ],
   "credibility": {
-   "score": 8,
-   "line": "Management sticks to core guidance and maintains robust financial delivery with strong cash conversion."
+   "score": null,
+   "line": "None of these promises can be checked against reported numbers yet — no score."
   },
   "narrative_vs_numbers": [
    {
     "agree": true,
-    "point": "Revenue growth remains robust, with reported quarterly revenue reaching INR 16,199 million in Sep 2026, a 11.9% YoY increase."
+    "point": "Management guided high single-digit FY27 revenue growth, while reported Q1 and Q2 FY27 revenue grew 10.5% and 11.9% YoY."
    },
    {
     "agree": false,
-    "point": "Despite reported sales growth, PAT dropped 36.2% YoY to INR 1,995 million in Sep 2026."
+    "point": "Management touted strong Q1 FY27 EBITDA margin of 28.9%, but reported EBITDA margin declined YoY from 31.0% in Jun 2025."
    },
    {
-    "agree": true,
-    "point": "Balance sheet remains extremely strong with a D/E ratio of 0.04 as of Sep 2026 and equity at INR 89,280 million."
+    "agree": false,
+    "point": "Despite Sep 2026 revenue rising 11.9% YoY to ₹16,199 crore, reported PAT dropped 36.2% YoY to ₹1,995 crore."
    }
   ],
   "bull": [
-   "Strong five-year cash conversion with operating cash flow at 120% of profit.",
-   "Practically debt-free balance sheet with a D/E ratio of 0.04 as of Sep 2026.",
-   "Consistent revenue expansion with Sep 2026 revenue growing 11.9% YoY to INR 16,199 million."
+   "5-year operating cash flow conversion stands strong at 120% of reported net profit.",
+   "Balance sheet remains virtually debt-free with a D/E ratio of 0.04 as of September 2026.",
+   "Sep 2026 quarterly revenue expanded 11.9% YoY to reach ₹16,199 crore."
   ],
   "bear": [
-   "PAT dropped sharply by 36.2% YoY to INR 1,995 million in Sep 2026.",
-   "R&D spend at 4.8% of sales in Q2 FY27 falls short of the 6% to 7% guidance.",
-   "Ongoing regulatory issues at the Assam plant threaten ophthalmic products."
+   "Sep 2026 quarter PAT dropped 36.2% YoY to ₹1,995 crore from ₹3,125 crore.",
+   "EBITDA margins contracted from 32.0% in Dec 2025 to 29.0% in Sep 2026.",
+   "Analysts highlighted sharp US generic revenue step-down and specialty growth deceleration in Q1 FY27."
   ],
   "watch": [
-   "Organon acquisition closing timeline",
-   "Second half R&D spend catch-up",
-   "Ilumya US growth recovery"
+   "H2 FY27 revenue growth against the high single-digit guidance.",
+   "PAT margin recovery following the 36.2% YoY drop in Sep 2026.",
+   "Organon transaction closing progress targeted for Q4 FY27."
   ]
  },
  "ledger_ok": true,
  "usage": [
   {
    "model": "gemini-3.5-flash-lite",
-   "in": 18227,
-   "out": 926,
-   "secs": 4.1,
-   "cached": false,
+   "in": 14581,
+   "out": 860,
+   "secs": 3.9,
+   "cached": true,
    "fallback": false
   },
   {
    "model": "gemini-3.5-flash-lite",
-   "in": 13177,
-   "out": 904,
+   "in": 18230,
+   "out": 600,
    "secs": 3.8,
-   "cached": false,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 13180,
+   "out": 1000,
+   "secs": 4.6,
+   "cached": true,
    "fallback": false
   },
   {
@@ -945,15 +908,7 @@
    "in": 15259,
    "out": 568,
    "secs": 3.3,
-   "cached": false,
-   "fallback": false
-  },
-  {
-   "model": "gemini-3.5-flash-lite",
-   "in": 13767,
-   "out": 1177,
-   "secs": 4.7,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -961,29 +916,30 @@
    "in": 9384,
    "out": 366,
    "secs": 2.9,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
-   "in": 3464,
-   "out": 1027,
-   "secs": 4.3,
+   "model": "gemini-3.6-flash",
+   "in": 3320,
+   "out": 2926,
+   "secs": 66.7,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 73278,
-  "tokens_out": 4968,
+  "fresh_calls": 1,
+  "tokens_in": 73954,
+  "tokens_out": 6320,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 27.1
+  "secs": 67.7
  }
 }

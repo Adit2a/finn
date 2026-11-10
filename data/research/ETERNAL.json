@@ -2,12 +2,12 @@
  "symbol": "ETERNAL",
  "name": "Eternal Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:22:08",
+ "generated_at": "2026-11-10T13:42:25",
  "latest_call": "Oct 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 351804.0,
-   "pe": 714.0,
+   "market_cap_cr": 350742.0,
+   "pe": 711.0,
    "roce": 2.48,
    "roe": 0.38,
    "ttm_revenue": 77956.0,
@@ -831,39 +831,63 @@
   "promise_ledger": [
    {
     "ref": "g1.4",
-    "promise": "ROCE outcome to remain north of 40% long term",
+    "promise": "ROCE outcome to remain north of 40%",
     "made_in": "Q3 FY26",
-    "delivered": "Reported ROCE is 2.48%, far below 40%",
+    "delivered": "Reported company ROCE stands at 2.48%, falling far short of the >40% target.",
     "verdict": "missed",
-    "checked_against": "ROCE 2.48%",
+    "checked_against": "Reported ROCE 2.48%",
     "quote": "and hence, as a consequence of that, the ROCE outcome should still be north of 40%. That's what we're solving for.",
     "page": 6,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91f3f29f-c5c0-49b5-b425-a22374bf08ad.pdf"
    },
    {
-    "ref": "g1.1",
-    "promise": "District business losses to reach breakeven in next 4‑6 quarters",
+    "ref": "g1.2",
+    "promise": "Quick commerce Adjusted EBITDA margins to reach 5% to 6% of NOV",
     "made_in": "Q3 FY26",
-    "delivered": "Quarterly data through Sep 2026 shows no breakeven; deadline not yet reached",
+    "delivered": "Long-term target; total company EBITDA margin reached 3.1% in Sep 2026 quarter. Repeated in g2.1.",
     "verdict": "too_early",
-    "checked_against": "No district loss figure provided",
-    "quote": "Irrespective of that, as we have mentioned in question 13, we now expect the losses to come down sequentially from here towards breakeven in the next four to six quarters.",
-    "page": 8,
+    "checked_against": "Sep 2026 EBITDA margin 3.1%",
+    "quote": "Just to add, in the long term, in our letter we have mentioned that our confidence on margins going to 5% to 6% of NOV remains high",
+    "page": 7,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91f3f29f-c5c0-49b5-b425-a22374bf08ad.pdf"
    },
    {
-    "ref": "g2.2",
-    "promise": "Reach 3,000 stores by March",
+    "ref": "g2.3",
+    "promise": "Deliver 60% CAGR growth in quick commerce over three years",
     "made_in": "Q4 FY26",
-    "delivered": "Store count not disclosed; March deadline pending",
+    "delivered": "Three-year guidance remains ongoing; overall company revenue grew 77.6% YoY in Sep 2026.",
     "verdict": "too_early",
-    "checked_against": "No store count disclosed",
-    "quote": "On store addition, we're on track on our guidance for March of 3,000 stores.",
+    "checked_against": "Sep 2026 Revenue YoY% 77.6%",
+    "quote": "We've given overall guidance of 60% CAGR and that would obviously mean some reasonable store expansion",
     "page": 4,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=60af607c-5f1b-4d5d-8425-4929efa6aad1.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "End quick commerce at higher end of previously guided range",
+    "made_in": "Q1 FY27",
+    "delivered": "Target applies to full year FY27, which is currently in progress.",
+    "verdict": "too_early",
+    "checked_against": "Q2 FY27 performance",
+    "quote": "we think at this point we're likely to end at the higher end of the range that we had guided earlier and hence, the communication.",
+    "page": 3,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=faa4f0f7-06e4-4066-9d68-3da95dfe02d9.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Expect food delivery margins to remain flattish over next 1-2 years",
+    "made_in": "Q2 FY27",
+    "delivered": "Guidance horizon spans 1 to 2 years from Q2 FY27.",
+    "verdict": "too_early",
+    "checked_against": "Q2 FY27 EBITDA margin 3.1%",
+    "quote": "broadly, over the next 1 or 2 years, we expect the margins to remain flattish.",
+    "page": 3,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=64f36e3b-87e9-426e-be3e-515dca4525d2.pdf"
    }
   ],
   "credibility": {
@@ -872,28 +896,36 @@
   },
   "narrative_vs_numbers": [
    {
-    "agree": true,
-    "point": "Management touts margin improvement; EBITDA% rose from 0.3% (Mar 2024) to 2.2% (Mar 2026)."
+    "agree": false,
+    "point": "Management solves for >40% ROCE, but company reported ROCE is 2.48%."
    },
    {
     "agree": false,
-    "point": "Claims of near‑breakeven district losses conflict with no evidence of loss reduction."
+    "point": "Revenue growth narrative remains strong, but YoY growth decelerated from 201.9% in Dec 2025 to 77.6% in Sep 2026."
+   },
+   {
+    "agree": true,
+    "point": "Company profitability improved as EBITDA rose to ₹752 crore (3.1% margin) in Sep 2026 from ₹162 crore in Dec 2024."
+   },
+   {
+    "agree": false,
+    "point": "PAT reached ₹366 crore in FY26, but Free Cash Flow plunged to -₹1,114 crore."
    }
   ],
   "bull": [
-   "EBITDA% climbed to 2.2% FY26, indicating operating efficiency gains.",
-   "Operating margin up 1920 bps over three years supports margin narrative.",
-   "Revenue grew 77.6% YoY in Sep 2026, still strong absolute growth."
+   "Revenue expanded from ₹5,405 crore in Dec 2024 to ₹24,138 crore in Sep 2026.",
+   "Quarterly EBITDA reached ₹752 crore in Sep 2026, up from ₹162 crore in Dec 2024.",
+   "Company maintains long-term targets including $1 billion Adjusted EBITDA by FY29."
   ],
   "bear": [
-   "ROCE at 2.48% starkly misses the >40% target.",
-   "Free cash flow turned negative in Mar 2026 (-1114 cr).",
-   "Borrowings surged 7.7x to 5,757 cr, raising leverage concerns."
+   "Revenue YoY growth decelerated sequentially across 4 quarters from 201.9% to 77.6%.",
+   "Borrowings expanded 7.7x in 3 years, rising from ₹749 crore in FY24 to ₹5,757 crore in Sep 2026.",
+   "Free cash flow worsened to -₹1,114 crore in FY26 while ROCE remains low at 2.48%."
   ],
   "watch": [
-   "Quarterly district loss trends for breakeven assessment.",
-   "Store count versus 3,000‑store goal.",
-   "ROCE trajectory in upcoming quarters."
+   "Dec 2026 quarter YoY NOV growth acceleration as guided in g4.3.",
+   "EBITDA margin trend relative to the 3.1% achieved in Sep 2026.",
+   "Debt trajectory following borrowings of ₹5,757 crore in Sep 2026."
   ]
  },
  "ledger_ok": true,
@@ -939,26 +971,26 @@
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 3033,
-   "out": 1009,
-   "secs": 7.4,
+   "model": "gemini-3.6-flash",
+   "in": 3302,
+   "out": 3433,
+   "secs": 20.6,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
   "fresh_calls": 1,
-  "tokens_in": 55963,
-  "tokens_out": 4464,
+  "tokens_in": 56232,
+  "tokens_out": 6888,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 8.0
+  "secs": 21.8
  }
 }

@@ -2,11 +2,11 @@
  "symbol": "KOTAKBANK",
  "name": "Kotak Mahindra Bank Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:27:49",
+ "generated_at": "2026-11-10T13:36:10",
  "latest_call": "Aug 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 477996.0,
+   "market_cap_cr": 477001.0,
    "pe": 22.5,
    "roce": 6.98,
    "roe": 11.4,
@@ -653,10 +653,10 @@
    {
     "ref": "g1.1",
     "promise": "Expect credit costs to gradually moderate in second half of financial year.",
-    "made_in": "Q2 FY26 call",
-    "delivered": "Management reported normalization continuing in Q3 FY26, matching the guidance.",
-    "verdict": "delivered",
-    "checked_against": "Q3 FY26 call statements",
+    "made_in": "Q2 FY26",
+    "delivered": "Credit cost metric absent from reported table; Q4 FY26 management reported Gross NPA at 1.2% and Net NPA at 0.25%.",
+    "verdict": "too_early",
+    "checked_against": "Management Q4 FY26 call statements",
     "quote": "Overall, we expect our credit costs to now gradually moderate in the second half of the financial year.",
     "page": 4,
     "verified": true,
@@ -665,10 +665,10 @@
    {
     "ref": "g1.2",
     "promise": "Expect NIM to show gradual improvement with ongoing repricing of deposits and CRR benefits in H2.",
-    "made_in": "Q2 FY26 call",
-    "delivered": "NIM remained flat quarter-on-quarter in Q3 FY26, indicating the expectation was partly unmet.",
+    "made_in": "Q2 FY26",
+    "delivered": "Analysts noted NIM was flat Q-o-Q in Q3 FY26; Q1 FY27 management reported NIM was steady at 4.53%.",
     "verdict": "partly",
-    "checked_against": "Q3 FY26 call analysts pressed on NIM flat QoQ",
+    "checked_against": "Management Q3 FY26 and Q1 FY27 call statements",
     "quote": "We expect NIM to show gradual improvement with ongoing repricing of deposits and CRR benefits during the second half of the year assuming no further repo rate cut.",
     "page": 6,
     "verified": true,
@@ -677,10 +677,10 @@
    {
     "ref": "g2.2",
     "promise": "Expect a moderate increase in Q4 NIM assuming no further rate cuts in February.",
-    "made_in": "Q3 FY26 call",
-    "delivered": "Delivered YoY average net advances growth of 16.2% in Q4 FY26.",
-    "verdict": "delivered",
-    "checked_against": "Q4 FY26 mgmt claim",
+    "made_in": "Q3 FY26",
+    "delivered": "NIM is not reported in financial tables; management stated Q1 FY27 NIM was steady at 4.53%.",
+    "verdict": "too_early",
+    "checked_against": "Q1 FY27 management call statement",
     "quote": "assuming no further rate cuts in February, I think we will see a moderate increase in Q4 NIM",
     "page": 19,
     "verified": true,
@@ -688,11 +688,11 @@
    },
    {
     "ref": "g3.1",
-    "promise": "Expect NIM will be reducing next year, but the rate of reduction will be much lesser.",
-    "made_in": "Q4 FY26 call",
-    "delivered": "Net interest margin steady at 4.53% in Q1 FY27.",
-    "verdict": "delivered",
-    "checked_against": "Q1 FY27 mgmt claim NIM 4.53%",
+    "promise": "Expect NIM to reduce next year, but the rate of reduction will be much lesser and far more gradual.",
+    "made_in": "Q4 FY26",
+    "delivered": "Management reported Q1 FY27 NIM remained steady at 4.53%.",
+    "verdict": "too_early",
+    "checked_against": "Q1 FY27 management call statement",
     "quote": "We expect NIM will be reducing next year, but the rate of reduction will be much lesser and far more gradual",
     "page": 14,
     "verified": true,
@@ -700,37 +700,37 @@
    }
   ],
   "credibility": {
-   "score": 7,
-   "line": "Management generally delivers on operational asset growth and credit cost trends, though NIM projections faced headwinds."
+   "score": null,
+   "line": "Only one promise can be checked against reported numbers so far — too few to score."
   },
   "narrative_vs_numbers": [
    {
     "agree": true,
-    "point": "Revenue growth accelerated from 4.7% in Sep 2025 to 15.4% in Sep 2026, aligning with expansion claims."
-   },
-   {
-    "agree": true,
-    "point": "PAT reached INR 5,645 crore in Sep 2026, showing a 26.3% YoY increase matching reported profitability growth."
+    "point": "Q1 FY27 management PAT claim of ₹4,123 crore matches quarterly consolidated PAT growth to ₹5,480 crore (up 22.5%)."
    },
    {
     "agree": false,
-    "point": "Annual PAT dropped to INR 19,288 crore for Mar 2026 from INR 22,126 crore in Mar 2025 despite revenue gains."
+    "point": "Full-year PAT dropped to ₹19,288 crore in Mar 2026 from ₹22,126 crore in Mar 2025 despite ₹69,781 crore revenue."
+   },
+   {
+    "agree": true,
+    "point": "Reported revenue growth accelerated from 5.3% in Dec 2025 to 15.4% in Sep 2026 (₹19,856 crore)."
    }
   ],
   "bull": [
-   "Sep 2026 revenue accelerated strongly to 19,856 crore, growing 15.4% YoY.",
-   "Consolidated customer assets grew 16% YoY to INR 6,45,812 crore in Q1 FY27.",
-   "Strong operating cash flow of INR 41,727 crore for the year ended Mar 2026."
+   "PAT growth accelerated to 26.3% YoY in Sep 2026, reaching ₹5,645 crore.",
+   "Operating cash flow reached ₹41,727 crore in Mar 2026 with OCF/PAT ratio of 2.16.",
+   "Revenue growth accelerated to 15.4% YoY in Sep 2026 at ₹19,856 crore."
   ],
   "bear": [
-   "Annual PAT declined to INR 19,288 crore for Mar 2026 from INR 22,126 crore in Mar 2025.",
-   "Borrowings increased to INR 1,23,120 crore by Sep 2026 from INR 97,622 crore in Mar 2025.",
-   "Debt-to-equity ratio rose to 0.63 as of Sep 2026 compared to 0.53 in Mar 2026."
+   "Annual PAT fell from ₹22,126 crore in Mar 2025 to ₹19,288 crore in Mar 2026.",
+   "Profit lags sales over 3 years with 8.9% PAT growth vs 18.3% revenue growth.",
+   "Borrowings expanded to ₹123,120 crore in Sep 2026, raising D/E ratio to 0.63."
   ],
   "watch": [
-   "Whether NIM stays steady at 4.53% amid rate shifts.",
-   "If Sep 2026 revenue growth of 15.4% is sustained.",
-   "Evolution of borrowings reaching INR 1,23,120 crore."
+   "Sustainability of 15.4% revenue growth momentum.",
+   "Deposit growth, LCR trends, and NIM trajectory.",
+   "Borrowing growth after reaching ₹123,120 crore in Sep 2026."
   ]
  },
  "ledger_ok": true,
@@ -740,7 +740,7 @@
    "in": 17399,
    "out": 744,
    "secs": 6.5,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -748,7 +748,7 @@
    "in": 19427,
    "out": 866,
    "secs": 5.2,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -756,7 +756,7 @@
    "in": 16717,
    "out": 728,
    "secs": 8.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -764,7 +764,7 @@
    "in": 14258,
    "out": 581,
    "secs": 6.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -772,29 +772,30 @@
    "in": 10304,
    "out": 372,
    "secs": 2.9,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
+   "model": "gemini-3.6-flash",
    "in": 3040,
-   "out": 1082,
-   "secs": 20.0,
+   "out": 3391,
+   "secs": 57.6,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
+  "fresh_calls": 1,
   "tokens_in": 81145,
-  "tokens_out": 4373,
+  "tokens_out": 6682,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 54.7
+  "secs": 59.0
  }
 }

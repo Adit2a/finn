@@ -2,12 +2,12 @@
  "symbol": "TECHM",
  "name": "Tech Mahindra Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:45:41",
+ "generated_at": "2026-11-10T13:43:28",
  "latest_call": "Oct 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 179466.0,
-   "pe": 31.4,
+   "market_cap_cr": 176927.0,
+   "pe": 31.0,
    "roce": 23.1,
    "roe": 17.5,
    "ttm_revenue": 61361.0,
@@ -817,45 +817,57 @@
     "ref": "g2.3",
     "promise": "Get Return on Capital Employed to 30% for next year.",
     "made_in": "Q4 FY26",
-    "delivered": "ROCE stands at 23.1% in the reported data, missing the 30% target.",
-    "verdict": "missed",
-    "checked_against": "ROCE 23.1%",
+    "delivered": "ROCE is reported at 23.1%; full-year FY27 target of 30% remains pending.",
+    "verdict": "too_early",
+    "checked_against": "ROCE of 23.1%",
     "quote": "And then looking at Return on Capital Employed, we are close to 26% and our commitment to all of you is get to 30% for next year.",
     "page": 20,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1da5d491-416d-4037-be83-e0cdf7b1f438.pdf"
    },
    {
+    "ref": "g1.1",
+    "promise": "Progress towards a 15% EBIT margin for FY27",
+    "made_in": "Q3 FY26",
+    "delivered": "EBIT margin reached 14.8% in Q2 FY27 (Sep 2026), up from 13.1% in Q3 FY26; reiterated across calls.",
+    "verdict": "too_early",
+    "checked_against": "Q2 FY27 EBIT% of 14.8%",
+    "quote": "We expect to grow higher than the peer average by the end of FY27 while progressing towards a 15% EBIT margin for FY27.",
+    "page": 6,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=80aa906e-d58c-4c12-8389-1bfada3bb5c1.pdf"
+   },
+   {
+    "ref": "g1.2",
+    "promise": "Grow higher than peer average by end of FY27",
+    "made_in": "Q3 FY26",
+    "delivered": "Target horizon is full-year FY27; reiterated in Q4 FY26 and Q1 FY27 calls.",
+    "verdict": "too_early",
+    "checked_against": "FY27 CC revenue growth vs peers",
+    "quote": "We expect to grow higher than the peer average by the end of FY27 while progressing towards a 15% EBIT margin for FY27.",
+    "page": 6,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=80aa906e-d58c-4c12-8389-1bfada3bb5c1.pdf"
+   },
+   {
     "ref": "g4.2",
-    "promise": "Maintain 90% to 100% free cash flow to PAT on a full-year basis.",
+    "promise": "Maintain 90% to 100% free cash flow to PAT on full-year basis",
     "made_in": "Q2 FY27",
-    "delivered": "5y cash conversion is 133%; Mar 2026 FCF/PAT was 1.28 (5626/4806), currently above 100%.",
-    "verdict": "partly",
-    "checked_against": "Mar 2026 Free cash flow 5626.0 and PAT 4806.0",
+    "delivered": "FY26 FCF/PAT was 1.28; full-year FY27 performance remains pending.",
+    "verdict": "too_early",
+    "checked_against": "FY26 FCF to PAT ratio of 1.28",
     "quote": "We reiterate our stance to maintain 90% to 100% free cash flow to PAT on a full-year basis.",
     "page": 11,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=73a1ce37-8a16-4011-b2d6-cc4f3165de5f.pdf"
    },
    {
-    "ref": "g4.1",
-    "promise": "Achieve full-year FY27 EBIT margin target of 15%.",
-    "made_in": "Q2 FY27",
-    "delivered": "Sep 2026 EBIT% reached 14.8%, progressing towards the 15% target for FY27.",
-    "verdict": "too_early",
-    "checked_against": "Sep 2026 EBIT% 14.8%",
-    "quote": "We reiterate that we remain on track to achieve our full-year FY27 EBIT margin target of 15%.",
-    "page": 12,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=73a1ce37-8a16-4011-b2d6-cc4f3165de5f.pdf"
-   },
-   {
     "ref": "g4.3",
-    "promise": "Introduce AI revenue reporting as part of H2 FY27 disclosures.",
+    "promise": "Introduce AI revenue reporting as part of H2 FY27 disclosures",
     "made_in": "Q2 FY27",
-    "delivered": "Scheduled for H2 FY27 disclosures; reported figures do not include AI revenue breakdowns.",
+    "delivered": "Disclosures scheduled for H2 FY27 remain pending.",
     "verdict": "too_early",
-    "checked_against": "Reported numbers block",
+    "checked_against": "H2 FY27 disclosures",
     "quote": "We expect to introduce AI revenue reporting as part of our H2 FY27 disclosures and continue it on an ongoing basis",
     "page": 10,
     "verified": true,
@@ -863,37 +875,37 @@
    }
   ],
   "credibility": {
-   "score": 7,
-   "line": "Consistent margin expansion reported from 10.2% in Dec 2024 to 14.8% in Sep 2026."
+   "score": null,
+   "line": "None of these promises can be checked against reported numbers yet — no score."
   },
   "narrative_vs_numbers": [
    {
     "agree": true,
-    "point": "Operating margin expansion claimed across quarters is confirmed by reported EBIT% rising from 10.2% to 14.8%."
+    "point": "Management claimed continuous margin expansion; reported EBIT% rose from 10.2% in Dec 2024 to 14.8% in Sep 2026."
    },
    {
     "agree": true,
-    "point": "Revenue growth claims match reported figures, showing YoY revenue increase from 13286.0 to 16180.0 crore."
+    "point": "Management claimed steady top-line execution; YoY revenue growth accelerated from 1.4% in Dec 2024 to 15.6% in Sep 2026."
    },
    {
-    "agree": false,
-    "point": "ROCE commitment of 30% was missed, with reported ROCE sitting at 23.1%."
+    "agree": true,
+    "point": "Management emphasized strong cash flow; reported 5-year operating cash conversion stands at 133% of PAT."
    }
   ],
   "bull": [
-   "EBIT margin improved steadily over eight quarters from 10.2% (Dec 2024) to 14.8% (Sep 2026).",
-   "Revenue grew consistently every quarter, reaching 16180.0 crore by Sep 2026.",
-   "Practically debt-free with a debt-to-equity ratio of 0.07 as of Sep 2026."
+   "EBIT margin expanded to 14.8% in Sep 2026, approaching the 15% target for FY27.",
+   "Quarterly revenue grew 15.6% YoY in Sep 2026 to reach ₹16,180 crore.",
+   "Conservatively leveraged balance sheet with low D/E of 0.07 and robust cash conversion."
   ],
   "bear": [
-   "ROCE of 23.1% falls short of management's 30% target commitment.",
-   "PAT volatility remains, with Sep 2025 PAT dropping 4.5% YoY despite revenue growth.",
-   "Borrowings remain at 2184.0 crore as of Sep 2026 with low leverage."
+   "Current ROCE of 23.1% remains well short of the 30% target promised for next year.",
+   "Analysts flagged concerns over AI pricing deflation and client decision delays following Anthropic Claude releases.",
+   "Analysts pressed on gross margin peaks, labor costs, and competitive pricing pressures."
   ],
   "watch": [
-   "Whether EBIT% hits the 15% target in FY27.",
-   "Introduction of AI revenue reporting in H2 FY27 disclosures.",
-   "Free cash flow to PAT ratio trajectory."
+   "EBIT margin reaching the 15% target in H2 FY27.",
+   "Introduction of AI revenue reporting in H2 FY27.",
+   "ROCE progression toward the 30% goal."
   ]
  },
  "ledger_ok": true,
@@ -903,7 +915,7 @@
    "in": 14570,
    "out": 761,
    "secs": 4.4,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -911,7 +923,7 @@
    "in": 25788,
    "out": 1077,
    "secs": 4.6,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -919,7 +931,7 @@
    "in": 15253,
    "out": 801,
    "secs": 9.3,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -927,7 +939,7 @@
    "in": 15414,
    "out": 917,
    "secs": 7.4,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -935,29 +947,30 @@
    "in": 9499,
    "out": 189,
    "secs": 3.7,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
+   "model": "gemini-3.6-flash",
    "in": 3513,
-   "out": 946,
-   "secs": 4.1,
+   "out": 3451,
+   "secs": 24.5,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
+  "fresh_calls": 1,
   "tokens_in": 84037,
-  "tokens_out": 4691,
+  "tokens_out": 7196,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 40.3
+  "secs": 25.9
  }
 }

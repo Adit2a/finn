@@ -2,12 +2,12 @@
  "symbol": "BHARTIARTL",
  "name": "Bharti Airtel Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:17:54",
+ "generated_at": "2026-11-10T13:34:00",
  "latest_call": "Aug 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 1308488.0,
-   "pe": 39.2,
+   "market_cap_cr": 1293325.0,
+   "pe": 38.7,
    "roce": 17.6,
    "roe": 20.3,
    "ttm_revenue": 228781.0,
@@ -768,16 +768,40 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g2.1",
-    "promise": "Reach 1 GW data center capacity in next 3-4 years",
-    "made_in": "Q3 FY26",
-    "delivered": "No capacity figure reported; cannot assess yet",
+    "ref": "g1.1",
+    "promise": "Capex trajectory directionally should moderate over time",
+    "made_in": "Q2 FY26",
+    "delivered": "FCF reached Rs 76,683 crore in FY26 while OCF reached Rs 1,22,230 crore; long-term moderation pending.",
     "verdict": "too_early",
-    "checked_against": "none",
+    "checked_against": "FY26 Free Cash Flow and OCF",
+    "quote": "directionally, it should moderate over time.",
+    "page": 16,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b8f70dc5-c46b-481a-961c-ecbd39a6f45d.pdf"
+   },
+   {
+    "ref": "g2.1",
+    "promise": "Reach 1 gigawatt Data Center capacity in next 3-4 years",
+    "made_in": "Q3 FY26",
+    "delivered": "Multi-year target over 3-4 years; reaffirmed in Q1 FY27 starting from 130 MW baseline.",
+    "verdict": "too_early",
+    "checked_against": "Data center capacity additions",
     "quote": "Our plan is to reach 1 gigawatt capacity in the next three to four years and grow significantly ahead of the market.",
     "page": 5,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fbe1f35-07ac-4458-9799-d075511bcd53.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "Capex ballpark of this year give or take a little bit for FY2027",
+    "made_in": "Q4 FY26",
+    "delivered": "Target covers FY27; Sep 2026 YTD figures show strong cash flows with D/E at 1.26.",
+    "verdict": "too_early",
+    "checked_against": "FY27 Capex and cash flow metrics",
+    "quote": "our sense is that we will be in the ballpark of this year, give or take a little bit.",
+    "page": 8,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e76d0ca2-740a-4e0f-986a-2ad0ad39d515.pdf"
    }
   ],
   "credibility": {
@@ -786,32 +810,36 @@
   },
   "narrative_vs_numbers": [
    {
-    "agree": false,
-    "point": "Mgmt said Q2 FY26 revenue ~52,000 Cr, but reported Q2 FY27 (Sep 2025) revenue is 52,145 Cr"
+    "agree": true,
+    "point": "Management claimed FY26 revenue reached Rs 2,11,000 crore; reported FY26 revenue was Rs 2,10,973 crore."
    },
    {
-    "agree": false,
-    "point": "Mgmt claimed FY2026 revenue 211,000 Cr, but FY2026 reported revenue is 210,973 Cr"
+    "agree": true,
+    "point": "Q1 FY27 management reported revenue of Rs 58,500 crore; actual reported Jun 2026 revenue was Rs 58,539 crore."
    },
    {
-    "agree": false,
-    "point": "Mgmt said free cash flow ~10,750 Cr in Q2 FY26; reported Q2 FY27 free cash flow is 7,6683 Cr annual"
+    "agree": true,
+    "point": "Management reported Q1 FY27 operating free cash flow over Rs 16,450 crore; FY26 annual FCF stood at Rs 76,683 crore."
+   },
+   {
+    "agree": true,
+    "point": "De-leveraging narrative matches data as D/E reduced from 2.91 in Mar 2023 to 1.26 in Sep 2026."
    }
   ],
   "bull": [
-   "Revenue grew 16.7% YoY to 60,878 Cr in Sep 2026",
-   "EBITDA margin rose to 57% in Sep 2026",
-   "Free cash flow reached 76,683 Cr in FY2026"
+   "FY26 revenue expanded 21.96% to Rs 2,10,973 crore from Rs 1,72,985 crore in FY25.",
+   "Free cash flow surged 30% to Rs 76,683 crore in FY26 from Rs 58,990 crore in FY25.",
+   "D/E leverage ratio reduced steadily from 2.55 in Mar 2022 to 1.26 in Sep 2026."
   ],
   "bear": [
-   "Operating cash flow to PAT ratio fell to 3.61 in FY2026",
-   "Debt/equity improved but still 1.31, indicating leverage",
-   "Capex guidance unclear versus rising capex trend"
+   "Annual PAT dropped from Rs 37,481 crore in FY25 to Rs 33,823 crore in FY26.",
+   "Dec 2025 PAT declined 47.3% YoY and Mar 2026 PAT declined 25.9% YoY.",
+   "Total borrowings remain high at Rs 1,99,432 crore as of Sep 2026."
   ],
   "watch": [
-   "Q3 FY27 revenue growth rate",
-   "Data center capacity disclosures",
-   "Capex spend versus moderation promise"
+   "Data center capacity growth from 130 MW toward 1 GW target.",
+   "FY27 capex trajectory compared to FY26 annual capex.",
+   "Quarterly PAT growth recovery following FY26 net profit declines."
   ]
  },
  "ledger_ok": true,
@@ -821,7 +849,7 @@
    "in": 17886,
    "out": 581,
    "secs": 3.6,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -829,7 +857,7 @@
    "in": 20546,
    "out": 659,
    "secs": 3.6,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -837,7 +865,7 @@
    "in": 18963,
    "out": 724,
    "secs": 8.5,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -845,7 +873,7 @@
    "in": 19345,
    "out": 566,
    "secs": 4.1,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -853,30 +881,30 @@
    "in": 13037,
    "out": 513,
    "secs": 11.7,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 2729,
-   "out": 754,
-   "secs": 2.7,
+   "model": "gemini-3.6-flash",
+   "in": 3073,
+   "out": 4431,
+   "secs": 23.0,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 92506,
-  "tokens_out": 3797,
+  "fresh_calls": 1,
+  "tokens_in": 92850,
+  "tokens_out": 7474,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 41.0
+  "secs": 24.1
  }
 }

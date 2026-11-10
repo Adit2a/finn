@@ -2,12 +2,12 @@
  "symbol": "MARUTI",
  "name": "Maruti Suzuki India Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:32:56",
+ "generated_at": "2026-11-10T13:37:51",
  "latest_call": "Apr 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 403350.0,
-   "pe": 30.0,
+   "market_cap_cr": 406460.0,
+   "pe": 30.2,
    "roce": 18.9,
    "roe": 14.3,
    "ttm_revenue": 208192.0,
@@ -569,11 +569,11 @@
   "promise_ledger": [
    {
     "ref": "g4.1",
-    "promise": "Expect Maruti Suzuki volume growth of over 10% in FY27 compared to last year",
+    "promise": "Expect Maruti Suzuki volume growth of over 10% in FY27",
     "made_in": "Q4 FY26",
-    "delivered": "Too early to verify full year FY27 volume growth from current quarterly numbers.",
+    "delivered": "FY27 is ongoing; volume metrics are not reported directly in standard quarterly financial statements",
     "verdict": "too_early",
-    "checked_against": "FY27 volume growth",
+    "checked_against": "FY27 annual volume growth",
     "quote": "The broad expectation, which our Chairman also conveyed, is growth of over 10% this year as compared to the last year.",
     "page": 8,
     "verified": true,
@@ -581,11 +581,11 @@
    },
    {
     "ref": "g4.2",
-    "promise": "Plan INR 14,000 crores capex for the full year FY27",
+    "promise": "Plan INR 14,000 crores capex for full year FY27",
     "made_in": "Q4 FY26",
-    "delivered": "Full year FY27 capex cannot be fully verified yet as the year is ongoing.",
+    "delivered": "FY27 is ongoing; full year capex spending cannot be verified until FY27 annual report",
     "verdict": "too_early",
-    "checked_against": "FY27 capex",
+    "checked_against": "FY27 full year capex spending",
     "quote": "Overall, on the capex for FY 26-27, we are looking at a INR14,000 crores capex for the full year.",
     "page": 11,
     "verified": true,
@@ -593,24 +593,12 @@
    },
    {
     "ref": "g4.3",
-    "promise": "Increase production capacity to 4 million units per annum in the medium term",
+    "promise": "Increase production capacity to 4 million units per annum in medium term",
     "made_in": "Q4 FY26",
-    "delivered": "Medium-term target is still pending confirmation.",
+    "delivered": "Medium-term target; timeline extends beyond currently reported Q2 FY27 period",
     "verdict": "too_early",
-    "checked_against": "production capacity",
+    "checked_against": "Medium-term annual production capacity",
     "quote": "Besides, the company has put plans in place to increase the production capacity to 4 million units per annum in the medium term.",
-    "page": 4,
-    "verified": true,
-    "url": "https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/Transcript_earnings_call_Maruti_Suzuki_Q4_FY_26.pdf"
-   },
-   {
-    "ref": "g4.4",
-    "promise": "Enable a network of over 1 lakh charging points across India by 2030",
-    "made_in": "Q4 FY26",
-    "delivered": "Target deadline is 2030, making it too early to assess.",
-    "verdict": "too_early",
-    "checked_against": "charging network count",
-    "quote": "Aligned with Suzuki's global vision, we plan to introduce multiple EVs and to support this, our aim is to enable a network of over 1 lakh charging points across India by 2030, along with our dealers and charge point operators.",
     "page": 4,
     "verified": true,
     "url": "https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/Transcript_earnings_call_Maruti_Suzuki_Q4_FY_26.pdf"
@@ -619,9 +607,9 @@
     "ref": "g4.5",
     "promise": "Second plant at Kharkhoda and fourth line at Hansalpur operational within FY27",
     "made_in": "Q4 FY26",
-    "delivered": "Financial year 27 is ongoing; operational status check is pending full year completion.",
+    "delivered": "FY27 is ongoing; operational status of specific facilities is not detailed in financial tables",
     "verdict": "too_early",
-    "checked_against": "plant operational status",
+    "checked_against": "FY27 plant operational announcements",
     "quote": "The second plant at the Kharkhoda facility and the fourth production line at the Hansalpur facility in Gujarat is set to become operational within this financial year.",
     "page": 4,
     "verified": true,
@@ -635,31 +623,31 @@
   "narrative_vs_numbers": [
    {
     "agree": false,
-    "point": "Despite record Q4 FY26 net sales of INR 52,462 crore, subsequent quarters show margin compression with EBIT% dropping to 4.8% in Jun 2026."
+    "point": "Management celebrated record Q4 FY26 profits, but EBITDA margin collapsed from 12.0% in Mar 2026 to 8.0% in Jun 2026."
    },
    {
     "agree": true,
-    "point": "The company remains practically debt-free with a D/E ratio of 0.0 as of Sep 2026, matching balance sheet strength claims."
+    "point": "Analysts flagged margin pressure in Q4 FY26; Q2 FY27 PAT subsequently dropped 26.4% YoY to ₹2,466 crore."
    },
    {
-    "agree": false,
-    "point": "While annual revenue reached INR 183,316 crore in Mar 2026, PAT declined in Mar 2026 to INR 14,680 crore from INR 14,500 crore."
+    "agree": true,
+    "point": "Top-line revenue momentum continued, reaching ₹53,356 crore in Q2 FY27, up 26.0% YoY."
    }
   ],
   "bull": [
-   "Operating cash flow reached INR 19,100 crore in Mar 2026, with free cash flow at INR 8,754 crore.",
-   "Practically debt-free balance sheet with D/E at 0.0 and equity at INR 109,002 crore as of Sep 2026.",
-   "Strong 5-year operating cash conversion at 118% of profit."
+   "Q2 FY27 revenue grew 26.0% YoY to ₹53,356 crore, showing sustained top-line demand.",
+   "FY26 operating cash flow reached ₹19,100 crore with a 5-year cash conversion of 118%.",
+   "Balance sheet remains virtually debt-free with D/E at 0.0 and ₹109,002 crore equity in Sep 2026."
   ],
   "bear": [
-   "EBIT% declined significantly to 4.8% in Jun 2026 and 5.3% in Sep 2026 from 8.4% in Mar 2026.",
-   "PAT dropped 26.4% YoY in Sep 2026 to INR 2,466 crore.",
-   "EBITDA% dropped to 8.0% in Jun 2026 and 9.0% in Sep 2026 compared to 12.0% in Mar 2026."
+   "Q2 FY27 PAT fell 26.4% YoY to ₹2,466 crore despite 26.0% revenue expansion.",
+   "EBITDA margin contracted to 8.0% in Jun 2026 and 9.0% in Sep 2026 from 12.0% in Mar 2026.",
+   "EBIT margin dropped sharply to 4.8% in Q1 FY27 and 5.3% in Q2 FY27 under cost pressures."
   ],
   "watch": [
-   "FY27 capex progression",
-   "EBIT margins recovery",
-   "Volume growth delivery"
+   "EBITDA margin trajectory in H2 FY27.",
+   "FY27 capex spend toward the ₹14,000 crore guidance.",
+   "Commissioning timelines for Kharkhoda plant and Hansalpur line."
   ]
  },
  "ledger_ok": true,
@@ -669,7 +657,7 @@
    "in": 9165,
    "out": 1290,
    "secs": 30.3,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -677,29 +665,30 @@
    "in": 10170,
    "out": 243,
    "secs": 7.5,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
+   "model": "gemini-3.6-flash",
    "in": 2647,
-   "out": 1024,
-   "secs": 31.5,
+   "out": 2278,
+   "secs": 18.4,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 3,
-  "fresh_calls": 3,
+  "fresh_calls": 1,
   "tokens_in": 21982,
-  "tokens_out": 2557,
+  "tokens_out": 3811,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 83.9
+  "secs": 31.5
  }
 }

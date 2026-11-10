@@ -2,12 +2,12 @@
  "symbol": "AXISBANK",
  "name": "Axis Bank Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:14:21",
+ "generated_at": "2026-11-10T13:37:17",
  "latest_call": "Jul 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 410331.0,
-   "pe": 13.7,
+   "market_cap_cr": 408185.0,
+   "pe": 13.6,
    "roce": 6.24,
    "roe": 13.1,
    "ttm_revenue": 141510.0,
@@ -666,85 +666,78 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g2.1",
-    "promise": "Maintain through cycle NIM at 3.80%",
-    "made_in": "Q3 FY26 call",
-    "delivered": "Q2 FY26 NIM 3.73% and Q1 FY27 NIM 3.46% below 3.80%",
+    "ref": "g1.1",
+    "promise": "Margins to bottom out in Q3 FY26",
+    "made_in": "Q2 FY26",
+    "delivered": "NIM fell further to 3.46% in Q1 FY27 from 3.73% in Q2 FY26.",
     "verdict": "missed",
-    "checked_against": "Q2 FY26 NIM, Q1 FY27 NIM",
-    "quote": "The Bank maintains its through cycle stance of NIMs at 3.80% (cycle measured in terms of duration, starting from the date of last rate cut).",
-    "page": 6,
+    "checked_against": "Q1 FY27 management claim on NIM",
+    "quote": "for our franchise, we should see margins bottom up out in Q3. But please do note that this is subject to no incremental rate cuts.",
+    "page": 14,
     "verified": true,
-    "url": "https://www.axis.bank.in/docs/default-source/shareholders/financial-results-and-other-information/call-transcript/2025-2026/q3fy26-earnings-call-transcript.pdf"
-   },
-   {
-    "ref": "g4.1",
-    "promise": "Achieve structural NIM guidance of 3.8%",
-    "made_in": "Q1 FY27 call",
-    "delivered": "Q1 FY27 NIM 3.46% falls short of 3.8%",
-    "verdict": "missed",
-    "checked_against": "Q1 FY27 NIM",
-    "quote": "On the direction of NIM, we have not changed our structural NIM guidance of 3.8% including the time period that we have mentioned in the past.",
-    "page": 10,
-    "verified": true,
-    "url": "https://www.axis.bank.in/docs/default-source/shareholders/financial-results-and-other-information/call-transcript/2026-2027/q1fy27-earnings-call.pdf"
+    "url": "https://www.axisbank.com/docs/default-source/call-transcript/q2fy26-media-conference-call-transcript.pdf"
    },
    {
     "ref": "g3.3",
-    "promise": "Aspire for ROE of 18% at bank level",
-    "made_in": "Q4 FY26 call",
-    "delivered": "Reported ROE 13.1% in Sep 2026",
-    "verdict": "missed",
-    "checked_against": "Sep 2026 ROE",
+    "promise": "Aspire for 18% ROE at bank level",
+    "made_in": "Q4 FY26",
+    "delivered": "Reported ROE stands at 13.1%, below the 18% aspiration target.",
+    "verdict": "partly",
+    "checked_against": "Reported ROE (13.1%)",
     "quote": "At the bank level, we continue to aspire for 18% is what we would like to state.",
     "page": 15,
     "verified": true,
     "url": "https://www.axis.bank.in/docs/default-source/shareholders/financial-results-and-other-information/call-transcript/2025-2026/q4fy26-earnings-call.pdf"
    },
    {
-    "ref": "g1.1",
-    "promise": "Margins to bottom out in Q3, no incremental rate cuts",
-    "made_in": "Q2 FY26 call",
-    "delivered": "No margin data reported; cannot assess yet",
+    "ref": "g1.2",
+    "promise": "Grow 300 bps above market in medium term",
+    "made_in": "Q2 FY26",
+    "delivered": "Medium-term target is open; Q1 FY27 advances grew 19% YoY. Repeated in g4.2.",
     "verdict": "too_early",
-    "checked_against": "NIM figures",
-    "quote": "for our franchise, we should see margins bottom up out in Q3. But please do note that this is subject to no incremental rate cuts.",
-    "page": 14,
+    "checked_against": "Q1 FY27 advances growth YoY",
+    "quote": "reiterate our aspiration in the medium term to grow about 300 basis points above market.",
+    "page": 25,
     "verified": true,
     "url": "https://www.axisbank.com/docs/default-source/call-transcript/q2fy26-media-conference-call-transcript.pdf"
    }
   ],
   "credibility": {
-   "score": 3,
-   "line": "Management consistently falls short of its NIM and ROE targets."
+   "score": 5,
+   "line": "NIM declined to 3.46% despite guidance to bottom out, and reported ROE of 13.1% misses 18% target."
   },
   "narrative_vs_numbers": [
    {
-    "agree": false,
-    "point": "Guidance of 3.80% NIM contrasts with reported 3.73% and 3.46%."
-   },
-   {
-    "agree": false,
-    "point": "ROE aspiration of 18% is far above the 13.1% actually delivered."
-   },
-   {
     "agree": true,
-    "point": "Revenue growth of 17.9% YoY in Sep 2026 aligns with upbeat narrative."
+    "point": "Revenue YoY growth accelerated to 17.9% in Sep 2026, aligning with management's loan growth claims."
+   },
+   {
+    "agree": false,
+    "point": "Management predicted margins would bottom out in Q3 FY26, but Q1 FY27 NIM dropped to 3.46%."
+   },
+   {
+    "agree": false,
+    "point": "Management aspires for 18% bank-level ROE, but reported ROE currently sits at 13.1%."
+   },
+   {
+    "agree": false,
+    "point": "Operating cash flow turned negative at -₹8,637 crore in Mar 2026 despite reported PAT of ₹26,548 crore."
    }
   ],
   "bull": [
-   "Revenue rose 17.9% YoY in Sep 2026, showing strong top‑line momentum.",
-   "PAT grew 37.7% YoY in Sep 2026, indicating improving profitability.",
-   "Operating cash flow turned positive in Mar 2025, supporting liquidity."
+   "Revenue growth accelerated to 17.9% YoY in Sep 2026 quarter.",
+   "Sep 2026 quarterly PAT grew 37.7% YoY to ₹7,666 crore.",
+   "Total advances grew 19% YoY in Q1 FY27."
   ],
   "bear": [
-   "NIM slipped to 3.46% in Q1 FY27, missing the 3.80% structural target.",
-   "ROE at 13.1% lags far behind the 18% aspiration.",
-   "Free cash flow negative in Mar 2026, raising cash‑generation concerns."
+   "Q1 FY27 NIM contracted to 3.46%, below guidance.",
+   "Mar 2026 free cash flow was negative at -₹10,797 crore.",
+   "Reported ROE of 13.1% remains below 18% aspiration."
   ],
   "watch": [
-   "Q2 FY27 NIM to see if it approaches 3.80% target.",
-   "ROE trend in the next quarter for progress toward 18% goal."
+   "NIM trajectory toward 3.80% target.",
+   "Operating cash flow recovery from -₹8,637 crore.",
+   "Retail vs wholesale loan growth balance."
   ]
  },
  "ledger_ok": true,
@@ -754,7 +747,7 @@
    "in": 13585,
    "out": 729,
    "secs": 23.3,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -762,7 +755,7 @@
    "in": 17887,
    "out": 646,
    "secs": 3.6,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -770,7 +763,7 @@
    "in": 13769,
    "out": 1084,
    "secs": 14.6,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -778,7 +771,7 @@
    "in": 15401,
    "out": 632,
    "secs": 3.3,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -786,30 +779,30 @@
    "in": 11998,
    "out": 339,
    "secs": 2.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 2901,
-   "out": 1108,
-   "secs": 3.2,
+   "model": "gemini-3.6-flash",
+   "in": 3182,
+   "out": 3735,
+   "secs": 24.9,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 75541,
-  "tokens_out": 4538,
+  "fresh_calls": 1,
+  "tokens_in": 75822,
+  "tokens_out": 7165,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 55.8
+  "secs": 26.6
  }
 }
