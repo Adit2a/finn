@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-11T00:12:15",
+ "generated_at": "2026-11-12T00:14:29",
  "window_days": 30,
  "holdings": [
   {
    "symbol": "RELIANCE",
    "name": "Reliance Industries",
    "sector": "Conglomerate",
-   "mcap_cr": 1792249.0,
+   "mcap_cr": 1807817.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -464,7 +464,7 @@
    "symbol": "HDFCBANK",
    "name": "HDFC Bank",
    "sector": "Bank",
-   "mcap_cr": 1231738.0,
+   "mcap_cr": 1247984.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -922,7 +922,7 @@
    "symbol": "BAJFINANCE",
    "name": "Bajaj Finance",
    "sector": "NBFC",
-   "mcap_cr": 662971.0,
+   "mcap_cr": 671561.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -1380,7 +1380,7 @@
    "symbol": "TCS",
    "name": "TCS",
    "sector": "IT services",
-   "mcap_cr": 895621.0,
+   "mcap_cr": 895984.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -1838,7 +1838,7 @@
    "symbol": "PERSISTENT",
    "name": "Persistent Systems",
    "sector": "IT services",
-   "mcap_cr": 100164.0,
+   "mcap_cr": 99160.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -2296,7 +2296,7 @@
    "symbol": "SUNPHARMA",
    "name": "Sun Pharma",
    "sector": "Pharma",
-   "mcap_cr": 456953.0,
+   "mcap_cr": 456306.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -2754,7 +2754,7 @@
    "symbol": "DIXON",
    "name": "Dixon Technologies",
    "sector": "Electronics mfg",
-   "mcap_cr": 77141.0,
+   "mcap_cr": 78984.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -3212,7 +3212,7 @@
    "symbol": "TITAN",
    "name": "Titan",
    "sector": "Consumer",
-   "mcap_cr": 444337.0,
+   "mcap_cr": 441230.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -3670,7 +3670,7 @@
    "symbol": "ASIANPAINT",
    "name": "Asian Paints",
    "sector": "Consumer",
-   "mcap_cr": 240692.0,
+   "mcap_cr": 245348.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -4128,7 +4128,7 @@
    "symbol": "MARUTI",
    "name": "Maruti Suzuki",
    "sector": "Auto",
-   "mcap_cr": 406460.0,
+   "mcap_cr": 414957.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -4586,7 +4586,7 @@
    "symbol": "LT",
    "name": "Larsen & Toubro",
    "sector": "Infra / EPC",
-   "mcap_cr": 575821.0,
+   "mcap_cr": 579494.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -5044,7 +5044,7 @@
    "symbol": "ETERNAL",
    "name": "Eternal (Zomato)",
    "sector": "Internet",
-   "mcap_cr": 350742.0,
+   "mcap_cr": 348906.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -5502,7 +5502,7 @@
    "symbol": "TRENT",
    "name": "Trent",
    "sector": "Retail",
-   "mcap_cr": 166326.0,
+   "mcap_cr": 172076.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -5960,7 +5960,7 @@
    "symbol": "POLYCAB",
    "name": "Polycab",
    "sector": "Cables",
-   "mcap_cr": 118041.0,
+   "mcap_cr": 119973.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -6418,7 +6418,7 @@
    "symbol": "HAL",
    "name": "Hindustan Aeronautics",
    "sector": "Defence PSU",
-   "mcap_cr": 334321.0,
+   "mcap_cr": 332306.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -6876,7 +6876,7 @@
    "symbol": "DEEPAKNTR",
    "name": "Deepak Nitrite",
    "sector": "Chemicals",
-   "mcap_cr": 21005.0,
+   "mcap_cr": 21659.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -7334,7 +7334,7 @@
    "symbol": "COALINDIA",
    "name": "Coal India",
    "sector": "Mining PSU",
-   "mcap_cr": 247434.0,
+   "mcap_cr": 250516.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -7792,7 +7792,7 @@
    "symbol": "TATAPOWER",
    "name": "Tata Power",
    "sector": "Utilities",
-   "mcap_cr": 115032.0,
+   "mcap_cr": 115192.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -8250,7 +8250,7 @@
    "symbol": "ZYDUSLIFE",
    "name": "Zydus Lifesciences",
    "sector": "",
-   "mcap_cr": 121286.0,
+   "mcap_cr": 119932.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -8708,7 +8708,7 @@
    "symbol": "HSCL",
    "name": "Himadri Speciality Chemical",
    "sector": "",
-   "mcap_cr": 28945.0,
+   "mcap_cr": 28973.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -9166,7 +9166,7 @@
    "symbol": "ZEEMEDIA",
    "name": "Zee Media Corporation",
    "sector": "",
-   "mcap_cr": 467.0,
+   "mcap_cr": 462.0,
    "series": [
     {
      "d": "2026-07-02",
@@ -10263,6 +10263,92 @@
    "label": "Fund raise"
   },
   {
+   "id": "106855371",
+   "symbol": "TATAPOWER",
+   "company": "Tata Power Company Limited",
+   "category": "results",
+   "headline": "Q2 FY27: revenue +26% YoY, PAT +33% YoY",
+   "why": null,
+   "score": 90,
+   "reasons": [
+    "PAT +33% YoY"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/VPTPCL_11112026172001_outcome_final.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Outcome of Board Meeting",
+   "ts": "2026-11-11T20:35:57",
+   "related": [
+    {
+     "id": "106855404",
+     "headline": "Investor Presentation",
+     "subject": "Investor Presentation",
+     "pdf": "https://nsearchives.nseindia.com/corporate/VPTPCL_11112026173256_Analyst_Presentation_Q2_FY27.pdf",
+     "ts": "2026-11-11T17:33:14",
+     "category": "results"
+    },
+    {
+     "id": "106855738",
+     "headline": "Link of Recording",
+     "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+     "pdf": "https://nsearchives.nseindia.com/corporate/VPTPCL_11112026203424_Analyst_Call.pdf",
+     "ts": "2026-11-11T20:35:57",
+     "category": "earnings_call"
+    }
+   ],
+   "results": {
+    "symbol": "TATAPOWER",
+    "quarter": "Q2 FY27",
+    "quarter_end": "2026-09-30",
+    "basis": "Consolidated",
+    "kind": "corporate",
+    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1756234_11112026070341_WEB.xml",
+    "derived": [],
+    "metrics": [
+     {
+      "key": "revenue",
+      "label": "Revenue",
+      "value": 19635.94,
+      "qoq": 3.1,
+      "yoy": 26.3,
+      "prev_q": 19051.26,
+      "prev_y": 15544.91
+     },
+     {
+      "key": "ebitda",
+      "label": "EBITDA",
+      "value": 3995.21,
+      "qoq": -9.2,
+      "yoy": 4.9,
+      "prev_q": 4401.68,
+      "prev_y": 3807.36
+     },
+     {
+      "key": "pbt",
+      "label": "PBT",
+      "value": 1442.91,
+      "qoq": -16.8,
+      "yoy": 8.8,
+      "prev_q": 1735.04,
+      "prev_y": 1326.66
+     },
+     {
+      "key": "pat",
+      "label": "PAT",
+      "value": 1652.04,
+      "qoq": 17.9,
+      "yoy": 32.7,
+      "prev_q": 1400.86,
+      "prev_y": 1245.39
+     }
+    ],
+    "ebitda_margin": 20.3,
+    "ebitda_margin_bps_yoy": -415
+   },
+   "tier": "act",
+   "label": "Results"
+  },
+  {
    "id": "106820469",
    "symbol": "HSCL",
    "company": "Himadri Speciality Chemical Limited",
@@ -10513,7 +10599,7 @@
    "why": "Positive tax impact of Rs. 130,000 million and reduction of contingent liability by Rs. 63,000 million.",
    "score": 89,
    "reasons": [
-    "₹13,000 cr ≈ 3.2% of market cap"
+    "₹13,000 cr ≈ 3.1% of market cap"
    ],
    "pdf": "https://nsearchives.nseindia.com/corporate/MARUTI_15102026191103_Intimation_15102026.pdf",
    "people": [],
@@ -10813,6 +10899,26 @@
    "label": "Management"
   },
   {
+   "id": "106855429",
+   "symbol": "TATAPOWER",
+   "company": "Tata Power Company Limited",
+   "category": "capex",
+   "headline": "Approved investment of ₹11,871 crore for 1,800 MW Pumped Storage Project at Shirwata, Maharashtra",
+   "why": "Expands renewable energy infrastructure with 1,800 MW capacity addition over 51 months.",
+   "score": 84,
+   "reasons": [
+    "₹11,871 cr ≈ 10.3% of market cap"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/VPTPCL_11112026174200_Reg_30_Capacity_Addition_Shirwata.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Capacity addition",
+   "ts": "2026-11-11T17:42:13",
+   "related": [],
+   "tier": "act",
+   "label": "Capex"
+  },
+  {
    "id": "106834087",
    "symbol": "ASIANPAINT",
    "company": "Asian Paints Limited",
@@ -10979,6 +11085,36 @@
    },
    "tier": "act",
    "label": "Results"
+  },
+  {
+   "id": "106855625",
+   "symbol": "TATAPOWER",
+   "company": "Tata Power Company Limited",
+   "category": "management_change",
+   "headline": "Sanjay Banga appointed Additional Director and CEO Designate, and CEO & MD for five years.",
+   "why": "Leadership succession announced for the Chief Executive Officer and Managing Director role.",
+   "score": 81,
+   "reasons": [
+    "top-level role"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/KSTPCL_11112026190124_MD_APPT_-_Reg_30.pdf",
+   "people": [
+    {
+     "name": "Sanjay Banga",
+     "role": "Chief Executive Officer and Managing Director",
+     "change": "appointed",
+     "effective": "2027-05-01",
+     "background": "Alumnus of National Institute of Technology Kurukshetra, Faculty of Management Studies University of Delhi, and Harvard Business School. Over three decades of experience in power sector with NTPC, Reliance Energy, and Tata Power.",
+     "previous": "Chief Executive Officer and Managing Director of Tata Power Renewable Energy Limited and President - Renewables of The Tata Power Company Limited",
+     "reason": null
+    }
+   ],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Appointment",
+   "ts": "2026-11-11T19:01:38",
+   "related": [],
+   "tier": "act",
+   "label": "Management"
   },
   {
    "id": "106851762",
@@ -11262,6 +11398,33 @@
    "label": "Management"
   },
   {
+   "id": "106855359",
+   "symbol": "BAJFINANCE",
+   "company": "Bajaj Finance Limited",
+   "category": "fund_raise",
+   "headline": "Bajaj Finance opens QIP on November 11, 2026 at a floor price of 992.25 per share",
+   "why": "The company has opened a qualified institutions placement with a floor price of 992.25 per equity share.",
+   "score": 72,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_11112026171309_SEintimationopeningofissue.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "General Updates",
+   "ts": "2026-11-11T17:13:26",
+   "related": [
+    {
+     "id": "106854062",
+     "headline": "Allotment of 5,74,25,740 securities pursuant to Preferential Issue at its meeting held on November 10, 2026",
+     "subject": "Allotment of Securities",
+     "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_10112026125828_BFL_Reg_30__Allotment_of_warrants_Final_1.pdf",
+     "ts": "2026-11-10T12:58:49",
+     "category": "fund_raise"
+    }
+   ],
+   "tier": "act",
+   "label": "Fund raise"
+  },
+  {
    "id": "106837941",
    "symbol": "LT",
    "company": "Larsen & Toubro Limited",
@@ -11332,24 +11495,6 @@
    "related": [],
    "tier": "act",
    "label": "M&A"
-  },
-  {
-   "id": "106854062",
-   "symbol": "BAJFINANCE",
-   "company": "Bajaj Finance Limited",
-   "category": "fund_raise",
-   "headline": "Allotment of 5,74,25,740 securities pursuant to Preferential Issue at its meeting held on November 10, 2026",
-   "why": null,
-   "score": 70,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_10112026125828_BFL_Reg_30__Allotment_of_warrants_Final_1.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Allotment of Securities",
-   "ts": "2026-11-10T12:58:49",
-   "related": [],
-   "tier": "act",
-   "label": "Fund raise"
   },
   {
    "id": "106829445",
@@ -11542,7 +11687,7 @@
    "score": 60,
    "reasons": [
     "routine debt issuance",
-    "₹9,000 cr ≈ 9.0% of market cap"
+    "₹9,000 cr ≈ 9.1% of market cap"
    ],
    "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_16102026105516_PersistentSystemsStExchangeOutcomeOctober162026Signed.pdf",
    "people": [],
@@ -11892,6 +12037,26 @@
    "related": [],
    "tier": "glance",
    "label": "Press release"
+  },
+  {
+   "id": "106855083",
+   "symbol": "TITAN",
+   "company": "Titan Company Limited",
+   "category": "earnings_call",
+   "headline": "Earnings Call Transcripts",
+   "why": null,
+   "score": 40,
+   "reasons": [
+    "transcript: feeds research"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_11112026143915_SEearningcalltranscriptsQ2.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "ts": "2026-11-11T14:39:56",
+   "related": [],
+   "tier": "glance",
+   "label": "Earnings call"
   },
   {
    "id": "106852434",
@@ -12350,6 +12515,24 @@
    "related": [],
    "tier": "glance",
    "label": "Dividend"
+  },
+  {
+   "id": "106855421",
+   "symbol": "TATAPOWER",
+   "company": "Tata Power Company Limited",
+   "category": "press_release",
+   "headline": "A press release dated November 11, 2026, titled \"Press Release issued by the Company on the Audited Standalone Financial Results and Unaudited Consolidated Financial Results of the Company for the quarter and half year ended September 30, 2026",
+   "why": null,
+   "score": 32,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/VPTPCL_11112026173937_Press_Release.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Press Release",
+   "ts": "2026-11-11T17:39:57",
+   "related": [],
+   "tier": "routine",
+   "label": "Press release"
   },
   {
    "id": "106846325",
@@ -13001,6 +13184,26 @@
    "label": "Press release"
   },
   {
+   "id": "106855146",
+   "symbol": "HAL",
+   "company": "Hindustan Aeronautics Limited",
+   "category": "credit_rating",
+   "headline": "ICRA withdraws credit ratings for total bank facilities of Rs 6,050.00 crore",
+   "why": "ICRA withdrew ratings for long-term and short-term bank facilities upon company request.",
+   "score": 24,
+   "reasons": [
+    "reaffirmation"
+   ],
+   "pdf": "https://nsearchives.nseindia.com/corporate/HAL_11112026153259_WithdrawalOfRating_11112026.pdf",
+   "people": [],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Credit Rating- Others",
+   "ts": "2026-11-11T15:33:11",
+   "related": [],
+   "tier": "routine",
+   "label": "Credit rating"
+  },
+  {
    "id": "106831940",
    "symbol": "TITAN",
    "company": "Titan Company Limited",
@@ -13204,6 +13407,24 @@
    "related": [],
    "tier": "routine",
    "label": "Routine"
+  },
+  {
+   "id": "106854653",
+   "symbol": "TATAPOWER",
+   "company": "Tata Power Company Limited",
+   "category": "investor_meetings",
+   "headline": "Schedule of meet",
+   "why": null,
+   "score": 8,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/VPTPCL_11112026095652_Letter_to_SE_Analyst_Meet.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "ts": "2026-11-11T09:57:50",
+   "related": [],
+   "tier": "routine",
+   "label": "Investor meet"
   },
   {
    "id": "106853629",
@@ -13834,6 +14055,42 @@
    "related": [],
    "tier": "routine",
    "label": "Investor meet"
+  },
+  {
+   "id": "106855670",
+   "symbol": "TATAPOWER",
+   "company": "Tata Power Company Limited",
+   "category": "unclassified",
+   "headline": "Reg 30 Change in Management",
+   "why": null,
+   "score": 4,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/VPTPCL_11112026192204_Regulation_30_KMP.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Updates",
+   "ts": "2026-11-11T19:22:17",
+   "related": [],
+   "tier": "routine",
+   "label": "Routine"
+  },
+  {
+   "id": "106855021",
+   "symbol": "TATAPOWER",
+   "company": "Tata Power Company Limited",
+   "category": "unclassified",
+   "headline": "Grant of 6488790  Options",
+   "why": null,
+   "score": 4,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.com/corporate/VPTPCL_11112026134527_ESOP_Grant_SE_letter_1126.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "ESOP/ESOS/ESPS",
+   "ts": "2026-11-11T13:45:36",
+   "related": [],
+   "tier": "routine",
+   "label": "Routine"
   },
   {
    "id": "106854034",
@@ -15422,14 +15679,6 @@
  ],
  "upcoming": [
   {
-   "symbol": "HAL",
-   "date": "2026-11-12",
-   "kind": "results",
-   "title": "Results board meeting",
-   "detail": "To consider and approve the financial results for the period ended September 30, 2026",
-   "source": null
-  },
-  {
    "symbol": "ZEEMEDIA",
    "date": "2026-11-14",
    "kind": "results",
@@ -15490,11 +15739,13 @@
   ]
  },
  "llm": {
-  "calls": 0,
+  "calls": 4,
   "cached": 0,
-  "in": 0,
-  "out": 0,
-  "models": [],
+  "in": 8220,
+  "out": 512,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
   "remembered": 51
  }
 }

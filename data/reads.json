@@ -952,5 +952,55 @@
 "people": [],
 "model": "gemini-3.5-flash-lite",
 "ts": "2026-11-09T10:37:33"
+},
+"106855359": {
+"category": "fund_raise",
+"headline": "Bajaj Finance opens QIP on November 11, 2026 at a floor price of 992.25 per share",
+"why": "The company has opened a qualified institutions placement with a floor price of 992.25 per equity share.",
+"materiality": 75,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-11T17:13:26"
+},
+"106855146": {
+"category": "credit_rating",
+"headline": "ICRA withdraws credit ratings for total bank facilities of Rs 6,050.00 crore",
+"why": "ICRA withdrew ratings for long-term and short-term bank facilities upon company request.",
+"materiality": 30,
+"amount_cr": 6050.0,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-11T15:33:11"
+},
+"106855625": {
+"category": "management_change",
+"headline": "Sanjay Banga appointed Additional Director and CEO Designate, and CEO & MD for five years.",
+"why": "Leadership succession announced for the Chief Executive Officer and Managing Director role.",
+"materiality": 75,
+"amount_cr": null,
+"people": [
+{
+"name": "Sanjay Banga",
+"role": "Chief Executive Officer and Managing Director",
+"change": "appointed",
+"effective": "2027-05-01",
+"background": "Alumnus of National Institute of Technology Kurukshetra, Faculty of Management Studies University of Delhi, and Harvard Business School. Over three decades of experience in power sector with NTPC, Reliance Energy, and Tata Power.",
+"previous": "Chief Executive Officer and Managing Director of Tata Power Renewable Energy Limited and President - Renewables of The Tata Power Company Limited",
+"reason": null
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-11T19:01:38"
+},
+"106855429": {
+"category": "capex",
+"headline": "Approved investment of ₹11,871 crore for 1,800 MW Pumped Storage Project at Shirwata, Maharashtra",
+"why": "Expands renewable energy infrastructure with 1,800 MW capacity addition over 51 months.",
+"materiality": 85,
+"amount_cr": 11871.0,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-11T17:42:13"
 }
 }
