@@ -1002,5 +1002,25 @@
 "people": [],
 "model": "gemini-3.5-flash-lite",
 "ts": "2026-11-11T17:42:13"
+},
+"106857049": {
+"category": "management_change",
+"headline": "RBI approves re-appointment of V. Srinivasa Rangan as Executive Director for 1 year",
+"why": "Continuity of leadership for the executive director role.",
+"materiality": 30,
+"amount_cr": null,
+"people": [
+{
+"name": "V. Srinivasa Rangan",
+"role": "Whole-time Director (designated as Executive Director)",
+"change": "re-appointed",
+"effective": "November 23, 2026",
+"background": null,
+"previous": null,
+"reason": null
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-12T17:33:25"
 }
 }
