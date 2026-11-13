@@ -2,18 +2,18 @@
  "symbol": "BAJAJFINSV",
  "name": "Bajaj Finserv Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:15:50",
- "latest_call": "Aug 2026",
+ "generated_at": "2026-11-13T23:07:43",
+ "latest_call": "Nov 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 297949.0,
-   "pe": 27.6,
+   "market_cap_cr": 300009.0,
+   "pe": 27.8,
    "roce": 10.6,
    "roe": 13.2,
    "ttm_revenue": 163654.0,
    "ttm_pat": 21843.0,
    "margin_latest_q": 40.0,
-   "de": 4.52,
+   "de": 5.91,
    "is_financial": false,
    "margin_label": "Operating margin"
   },
@@ -190,9 +190,9 @@
    },
    {
     "y": "Sep 2026",
-    "debt": 379213.0,
+    "debt": 496132.0,
     "equity": 83974.0,
-    "de": 4.52
+    "de": 5.91
    }
   ],
   "working_capital": {
@@ -387,7 +387,7 @@
    },
    {
     "tone": "bad",
-    "text": "Leveraged balance sheet (D/E 4.52)"
+    "text": "Leveraged balance sheet (D/E 5.91)"
    }
   ]
  },
@@ -819,14 +819,50 @@
  "ledger": {
   "promise_ledger": [
    {
+    "ref": "g1.1",
+    "promise": "Break even in FY28 for Bajaj Finserv Health Limited",
+    "made_in": "Q2 FY26",
+    "delivered": "Target deadline is FY28; updated in Q4 FY26 (g3.3) to 24 months out.",
+    "verdict": "too_early",
+    "checked_against": "Bajaj Finserv Health segment PAT",
+    "quote": "And as far as quantitative financial output is concerned, we are very clear in next-to-next financial year, we should break even.",
+    "page": 21,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3535c6b2-1493-4091-8daf-2df714bfd208.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "Both insurance companies transition to Ind AS from April 1 2027",
+    "made_in": "Q4 FY26",
+    "delivered": "Target date is April 1 2027; deadline has not passed.",
+    "verdict": "too_early",
+    "checked_against": "Insurance subsidiaries accounting filings",
+    "quote": "Accordingly, both our insurance companies plan to seek forbearance for a year and would transition to Ind AS from 1st of April 2027.",
+    "page": 4,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2fe5bc74-eaaf-4882-b6a7-026fc39d5679.pdf"
+   },
+   {
     "ref": "g4.1",
     "promise": "Bajaj Finserv Direct to break even in Q3 or Q4 FY27",
     "made_in": "Q1 FY27",
-    "delivered": "Too early to assess; quarter ends Dec 2026‑Mar 2027 not yet reported",
+    "delivered": "Target timeframe is Q3 or Q4 FY27; current reporting is Q2 FY27.",
     "verdict": "too_early",
-    "checked_against": "Q2 FY27 revenue and PAT (Jun 2026) not applicable",
+    "checked_against": "Bajaj Finserv Direct quarterly financial results",
     "quote": "Hence, as the outcome of that, we are certain that in Q3 or Q4, on a quarter's results basis this year, we will break even. And on a full year basis, we will break even in the coming year.",
     "page": 11,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ab7ebc99-21a2-4920-8319-ba554c5abcf7.pdf"
+   },
+   {
+    "ref": "g4.3",
+    "promise": "Bajaj Finance opex to NTI ratio to improve 25-40 bps in FY27",
+    "made_in": "Q1 FY27",
+    "delivered": "Segment metric for FY27; cannot verify against consolidated reporting.",
+    "verdict": "too_early",
+    "checked_against": "Bajaj Finance segment disclosures",
+    "quote": "However, with visibility of green shoots in operating efficiencies due to our AI implementation, the company is confident that the opex to NTI ratio will improve by about 25 to 40 bps in the current financial year.",
+    "page": 6,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ab7ebc99-21a2-4920-8319-ba554c5abcf7.pdf"
    }
@@ -838,26 +874,35 @@
   "narrative_vs_numbers": [
    {
     "agree": true,
-    "point": "Mgmt said Q1 FY27 total income grew 19% to INR 42,037 cr; reported Jun 2026 revenue is 42,037 cr with 19.1% YoY."
+    "point": "Q1 FY27 total income grew 19.1% YoY to ₹42,037 crore and PAT rose 18.2% to ₹6,297 crore."
+   },
+   {
+    "agree": false,
+    "point": "5-year cash conversion is -3.49 as Mar 2026 OCF was negative ₹55,301 crore against ₹19,669 crore PAT."
+   },
+   {
+    "agree": false,
+    "point": "Leverage increased to D/E of 5.91 in Sep 2026, with total borrowings reaching ₹4,96,132 crore."
    },
    {
     "agree": true,
-    "point": "Mgmt claimed PAT grew 18% to INR 6,297 cr; reported Jun 2026 PAT is 6,297 cr with 18.2% YoY."
+    "point": "EBITDA margin reached 40.0% in Sep 2026 quarter compared to 38.0% in Sep 2025."
    }
   ],
   "bull": [
-   "Revenue rose 19.1% YoY to 42,037 cr in Jun 2026.",
-   "PAT increased 18.2% YoY to 6,297 cr in Jun 2026.",
-   "EBITDA margin improved to 41% in Jun 2026."
+   "Q2 FY27 revenue increased 16.7% YoY to ₹43,416 crore with PAT expanding 25.4% to ₹5,952 crore.",
+   "EBITDA margin expanded to 40.0% in Q2 FY27 from 38.0% in Q2 FY26.",
+   "FY26 annual PAT grew to ₹19,669 crore from ₹17,558 crore in FY25."
   ],
   "bear": [
-   "Operating cash flow remains negative at -55,301 cr in Mar 2026.",
-   "Debt‑to‑Equity rose to 5.52 in Mar 2026, indicating high leverage.",
-   "Margins under pressure: EBITDA% fell to 38% in Mar 2026 from 41% three years earlier."
+   "5-year cash conversion is -3.49 with FY26 operating cash flow at negative ₹55,301 crore.",
+   "Debt-to-equity ratio reached 5.91 by Sep 2026 with total borrowings of ₹4,96,132 crore.",
+   "3-year profit growth of 17.2% lagged 3-year revenue growth of 22.4%."
   ],
   "watch": [
-   "Health business operating break‑even timeline.",
-   "Opex‑to‑NTI ratio improvement claim."
+   "Bajaj Finserv Direct Q3 and Q4 FY27 break-even milestone status.",
+   "Borrowings trajectory beyond ₹4,96,132 crore and D/E levels.",
+   "Maintenance of EBITDA margins near 40% in coming quarters."
   ]
  },
  "ledger_ok": true,
@@ -867,7 +912,7 @@
    "in": 16763,
    "out": 856,
    "secs": 3.9,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -875,7 +920,7 @@
    "in": 13544,
    "out": 564,
    "secs": 3.1,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -883,7 +928,7 @@
    "in": 17521,
    "out": 1054,
    "secs": 4.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -891,7 +936,7 @@
    "in": 14459,
    "out": 1340,
    "secs": 7.2,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -899,30 +944,30 @@
    "in": 11190,
    "out": 401,
    "secs": 3.7,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 3259,
-   "out": 1175,
-   "secs": 3.3,
+   "model": "gemini-3.6-flash",
+   "in": 3609,
+   "out": 2995,
+   "secs": 38.0,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 76736,
-  "tokens_out": 5390,
+  "fresh_calls": 1,
+  "tokens_in": 77086,
+  "tokens_out": 7210,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 51.6
+  "secs": 38.9
  }
 }

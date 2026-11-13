@@ -135,10 +135,12 @@ def _state(model: str) -> str | None:
 
 def _probe(model: str) -> bool:
     """One tiny request, only for a model we know nothing about. New models are often
-    overloaded on the free tier; this keeps a real call from hanging for minutes."""
+    overloaded on the free tier; this keeps a real call from hanging for minutes. A visitor should
+    not wait on a busy model (20 s cut-off, then the fallback); batch jobs can afford to, and raise
+    FINN_PROBE_TIMEOUT."""
     try:
         r = httpx.post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
-                       params={"key": GEMINI_KEY}, timeout=20,
+                       params={"key": GEMINI_KEY}, timeout=float(os.getenv("FINN_PROBE_TIMEOUT", "20")),
                        json={"contents": [{"parts": [{"text": "Reply with the word ok"}]}]})
         state = "ok" if r.status_code == 200 else "quota" if r.status_code == 429 else "slow"
     except httpx.HTTPError:

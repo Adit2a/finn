@@ -2,12 +2,12 @@
  "symbol": "BAJAJ-AUTO",
  "name": "Bajaj Auto Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:15:16",
+ "generated_at": "2026-11-13T23:06:44",
  "latest_call": "Nov 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 299674.0,
-   "pe": 22.9,
+   "market_cap_cr": 298026.0,
+   "pe": 22.8,
    "roce": 28.2,
    "roe": 29.2,
    "ttm_revenue": 80851.0,
@@ -394,6 +394,11 @@
  "sources": [
   {
    "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6beac10f-a781-42da-b71b-38ad4dd37e78.pdf"
+  },
+  {
+   "kind": "transcript",
    "label": "Q3 FY26 call",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8874f8f9-b675-43ce-ad9c-6ed3bfffeb9a.pdf"
   },
@@ -408,11 +413,6 @@
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8490aae2-16b7-41b1-a0a3-de3e86380cf9.pdf"
   },
   {
-   "kind": "transcript",
-   "label": "Q2 FY27 call",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c7171a79-5c93-47e1-b324-9056d5abea0e.pdf"
-  },
-  {
    "kind": "annual_report",
    "label": "Annual Report 2026",
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5cfa2fc3-ea76-452d-a3a9-71d3c9bf5ad6.pdf"
@@ -421,6 +421,115 @@
  "calls": [
   {
    "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6beac10f-a781-42da-b71b-38ad4dd37e78.pdf",
+   "pages": 20,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Maintain export growth tempo in the coming months",
+     "horizon": "coming months",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We expect exports to continue to maintain the growth tempo in the coming months.",
+     "page": 4,
+     "speaker": "Rakesh Sharma",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "volume",
+     "promise": "Aim to outpace industry growth in 125cc plus segment in next 2-3 months",
+     "horizon": "next 2-3 months",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "We will aim to outpace the industry growth in the 125cc plus segment and continue the path of acquiring market share which commenced in the period of September-October.",
+     "page": 4,
+     "speaker": "Rakesh Sharma",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Maintain three-wheeler sales of over 100,000 units per quarter",
+     "horizon": "medium term",
+     "low": 100000,
+     "high": null,
+     "unit": "units",
+     "quote": "We expect E-auto performance to get unlocked due to the removal of supply constraints and we intend to capture a higher share of the improving ICE auto market, maintaining the growth tempo and sales of certainly over 100,000 units per quarter.",
+     "page": 5,
+     "speaker": "Rakesh Sharma",
+     "verified": true,
+     "id": "g1.3"
+    },
+    {
+     "metric": "volume",
+     "promise": "Sustained export momentum with 15-20% growth",
+     "horizon": "medium term",
+     "low": 15,
+     "high": 20,
+     "unit": "%",
+     "quote": "Secondly, sustained export momentum with 15%-20% growth with emphasis on superior positions in better markets.",
+     "page": 6,
+     "speaker": "Rakesh Sharma",
+     "verified": true,
+     "id": "g1.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Q2 topline reached almost Rs. 15,000 crores, growing at 14%",
+     "quote": "We closed the quarter, as you know, with a topline of almost Rs. 15,000 crores, growing at 14%, an all-time high.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "EBITDA crossed Rs 3,000 crores with 20.5% margin",
+     "quote": "EBITDA crossed Rs 3,000 crores, another all-time high with the EBITDA percentage of 20.5%.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "PAT came in close to Rs. 2,500 crores",
+     "quote": "PAT came in close to Rs. 2,500 crores, yet another all-time high.",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Free cash flow generated around Rs. 4,500 crores in H1 FY26",
+     "quote": "we generated around Rs. 4,500 crores of free cash in the first half of this year, which is a conversion of almost 100% of the profits after tax.",
+     "page": 8,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "GST rate impact on customer behavior",
+     "quote": "If you can sort of share a little bit more perspective on what you have seen post-GST in terms of customer behavior",
+     "page": 11,
+     "verified": true
+    },
+    {
+     "topic": "Commercial vehicle export growth drivers",
+     "quote": "Just looking to hear your thoughts on, is it opening up of new markets, is it stabilization, or there were some license issues and fidget restrictions.",
+     "page": 12,
+     "verified": true
+    },
+    {
+     "topic": "ABS norms impact and capacity",
+     "quote": "Also what is the update on the ABS norms coming up? How much impact can that have on the cost as well as demand in your assessment?",
+     "page": 13,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and transparent regarding record-breaking milestones and strategic responses."
+  },
+  {
+   "n": 2,
    "quarter": "Q3 FY26",
    "date": "Feb 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8874f8f9-b675-43ce-ad9c-6ed3bfffeb9a.pdf",
@@ -438,7 +547,7 @@
      "page": 12,
      "speaker": "Rakesh Sharma",
      "verified": true,
-     "id": "g1.1"
+     "id": "g2.1"
     },
     {
      "metric": "other",
@@ -451,7 +560,7 @@
      "page": 6,
      "speaker": "Rakesh Sharma",
      "verified": true,
-     "id": "g1.2"
+     "id": "g2.2"
     },
     {
      "metric": "other",
@@ -464,7 +573,7 @@
      "page": 6,
      "speaker": "Rakesh Sharma",
      "verified": true,
-     "id": "g1.3"
+     "id": "g2.3"
     },
     {
      "metric": "volume",
@@ -477,7 +586,7 @@
      "page": 4,
      "speaker": "Rakesh Sharma",
      "verified": true,
-     "id": "g1.4"
+     "id": "g2.4"
     }
    ],
    "claims": [
@@ -529,7 +638,7 @@
    "tone": "Confident and optimistic about record-breaking performance, strategic market share recovery, and successful turnaround actions."
   },
   {
-   "n": 2,
+   "n": 3,
    "quarter": "Q4 FY26",
    "date": "May 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cbc90a41-3f6e-4dcb-b47c-36dc70b66634.pdf",
@@ -547,7 +656,7 @@
      "page": 4,
      "speaker": "Rakesh Sharma",
      "verified": true,
-     "id": "g2.1"
+     "id": "g3.1"
     }
    ],
    "claims": [
@@ -599,7 +708,7 @@
    "tone": "Optimistic and confident while addressing supply chain and inflationary challenges."
   },
   {
-   "n": 3,
+   "n": 4,
    "quarter": "Q1 FY27",
    "date": "Jul 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8490aae2-16b7-41b1-a0a3-de3e86380cf9.pdf",
@@ -617,7 +726,7 @@
      "page": 4,
      "speaker": "Rakesh Sharma",
      "verified": true,
-     "id": "g3.1"
+     "id": "g4.1"
     },
     {
      "metric": "capex",
@@ -630,7 +739,7 @@
      "page": 6,
      "speaker": "Rakesh Sharma",
      "verified": true,
-     "id": "g3.2"
+     "id": "g4.2"
     },
     {
      "metric": "other",
@@ -643,7 +752,7 @@
      "page": 5,
      "speaker": "Rakesh Sharma",
      "verified": true,
-     "id": "g3.3"
+     "id": "g4.3"
     },
     {
      "metric": "volume",
@@ -656,7 +765,7 @@
      "page": 13,
      "speaker": "Rakesh Sharma",
      "verified": true,
-     "id": "g3.4"
+     "id": "g4.4"
     },
     {
      "metric": "other",
@@ -669,7 +778,7 @@
      "page": 5,
      "speaker": "Rakesh Sharma",
      "verified": true,
-     "id": "g3.5"
+     "id": "g4.5"
     }
    ],
    "claims": [
@@ -719,109 +828,6 @@
     }
    ],
    "tone": "Confident and resilient, highlighting record performance despite severe headwinds and volatile operating environment."
-  },
-  {
-   "n": 4,
-   "quarter": "Q2 FY27",
-   "date": "Nov 2026",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c7171a79-5c93-47e1-b324-9056d5abea0e.pdf",
-   "pages": 22,
-   "scanned": false,
-   "guidance": [
-    {
-     "metric": "volume",
-     "promise": "Expand overall capacity to about 7,75,000 units per month over next 6 to 9 months",
-     "horizon": "next 6 to 9 months",
-     "low": 775000,
-     "high": 775000,
-     "unit": "units",
-     "quote": "The overall capacity of 6,25,000 units per month is being expanded to about 7,75,000 units per month over the next 6 to 9 months in a phased manner.",
-     "page": 7,
-     "speaker": "Rakesh Sharma",
-     "verified": true,
-     "id": "g4.1"
-    },
-    {
-     "metric": "volume",
-     "promise": "Expand Chetak capacity to 80,000 per month by quarter 4",
-     "horizon": "quarter 4",
-     "low": 80000,
-     "high": 80000,
-     "unit": "units",
-     "quote": "We are expanding Chetak capacity to 80,000 per month by quarter 4, which will help us get market share and unlock new reach.",
-     "page": 5,
-     "speaker": "Rakesh Sharma",
-     "verified": true,
-     "id": "g4.2"
-    },
-    {
-     "metric": "margin",
-     "promise": "Expect the PLI rate for the second half to remain at the maximum level of 18%",
-     "horizon": "second half",
-     "low": 18,
-     "high": 18,
-     "unit": "%",
-     "quote": "And therefore, that now represents the maximum applicable rate under the scheme that we have exited, right. So therefore, the rate for the second half is expected to remain at this maximum level.",
-     "page": 10,
-     "speaker": "Dinesh Thapar",
-     "verified": true,
-     "id": "g4.3"
-    },
-    {
-     "metric": "volume",
-     "promise": "Launch 2 new brands spanning the 125cc to 250cc space in FY27",
-     "horizon": "FY27",
-     "low": 2,
-     "high": 2,
-     "unit": null,
-     "quote": "In addition, we will have 2 new brands in the pipeline, spanning the 125cc to 250cc space getting lined up for launch in FY27.",
-     "page": 5,
-     "speaker": "Rakesh Sharma",
-     "verified": true,
-     "id": "g4.4"
-    }
-   ],
-   "claims": [
-    {
-     "claim": "Q2 volumes crossed 1.5 million units, revenue surpassed INR20,000 crores, and EBITDA exceeded INR4,000 crores.",
-     "quote": "Volumes exceeded 15 lakh units, revenue surpassed INR20,000 crores, EBITDA exceeded INR4,000 crores and profit after tax also crossed another INR3,000 crores.",
-     "page": 7,
-     "verified": true
-    },
-    {
-     "claim": "Exports crossed highest ever volume of 7.8 lakh units in Q2, growing 41% YoY.",
-     "quote": "The BU crossed its highest ever volume of 7.8 lakh units in Q2, a growth of 41% year-on-year.",
-     "page": 3,
-     "verified": true
-    },
-    {
-     "claim": "Chetak unit economics reached double digits, making the overall EV business margin accretive domestically.",
-     "quote": "Significantly, the Chetak portfolio profitability has moved to double digits, in fact, at an overall level, our EV business... is now margin accretive at the corporate level.",
-     "page": 5,
-     "verified": true
-    }
-   ],
-   "pushback": [
-    {
-     "topic": "Domestic market share disconnect",
-     "quote": "For some reason, when we look at VAHAN market share or when we look at even the wholesale market share, we are not sort of able to see that impact of new launches.",
-     "page": 12,
-     "verified": true
-    },
-    {
-     "topic": "EV business revenue, margins and PLI sustainability",
-     "quote": "Could you share what is the overall revenues from the EV business in this quarter if you can give the split of 2-wheeler and 3-wheeler.",
-     "page": 14,
-     "verified": true
-    },
-    {
-     "topic": "Rural demand and monsoon deficit impact",
-     "quote": "What percentage of our 2-wheeler and 3-wheeler sales come from rural? And given the weak monsoon we have seen, what is your outlook on rural demand?",
-     "page": 17,
-     "verified": true
-    }
-   ],
-   "tone": "Confident, transparent, and optimistic despite cost pressures and supply chain challenges."
   }
  ],
  "business": {
@@ -878,96 +884,116 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g1.1",
-    "promise": "Export volume run rate 200,000+ units in Q4",
+    "ref": "g1.4",
+    "promise": "Sustained export momentum with 15-20% growth",
+    "made_in": "Q2 FY26",
+    "delivered": "Management reported Q3 FY26 exports crossed 600,000 units with 18% YoY growth, hitting the guided range.",
+    "verdict": "delivered",
+    "checked_against": "Q3 FY26 management call claim",
+    "quote": "Secondly, sustained export momentum with 15%-20% growth with emphasis on superior positions in better markets.",
+    "page": 6,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6beac10f-a781-42da-b71b-38ad4dd37e78.pdf"
+   },
+   {
+    "ref": "g2.1",
+    "promise": "Expect export volume run rate to reach 200,000 units plus in Q4",
     "made_in": "Q3 FY26",
-    "delivered": "No export volume data reported; cannot confirm",
-    "verdict": "too_early",
-    "checked_against": "none",
+    "delivered": "Management met run rate and raised target to 220k in Q4 call and >250k in Q1 FY27.",
+    "verdict": "delivered",
+    "checked_against": "Q4 FY26 and Q1 FY27 management call claims",
     "quote": "In fact, this quarter, which is quarter 4, we expect hopefully that we will turn in a 200,000 unit plus performance.",
     "page": 12,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8874f8f9-b675-43ce-ad9c-6ed3bfffeb9a.pdf"
    },
    {
-    "ref": "g2.1",
-    "promise": "Push exports to 220,000+ units per month this quarter",
+    "ref": "g3.1",
+    "promise": "Push exports to 220K plus levels per month this quarter",
     "made_in": "Q4 FY26",
-    "delivered": "Export figures not disclosed in reported numbers",
-    "verdict": "too_early",
-    "checked_against": "none",
+    "delivered": "Target surpassed as management subsequently targeted >250,000 units per month in Q1 FY27.",
+    "verdict": "delivered",
+    "checked_against": "Q1 FY27 management call claim",
     "quote": "We are looking at moving the exports needle to 2,20,000 units per month this quarter, up from the 2,00,000 levels.",
     "page": 4,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cbc90a41-3f6e-4dcb-b47c-36dc70b66634.pdf"
    },
    {
-    "ref": "g3.2",
-    "promise": "Expand capacity from 7M to 9M units per annum",
+    "ref": "g4.3",
+    "promise": "Accomplish exhaustive portfolio makeover of 150cc and 125cc segments within next 6 weeks",
     "made_in": "Q1 FY27",
-    "delivered": "Capacity not quantified in financial tables",
+    "delivered": "Timeline extends into next reporting period; product-level updates are pending management's October report.",
     "verdict": "too_early",
-    "checked_against": "none",
-    "quote": "So, with an eye on the future, we are undertaking an expansion of capacity by almost 25% from the current 7 million units per annum across different businesses to progressively go up to 9 million units per annum.",
-    "page": 6,
+    "checked_against": "Management call timeline",
+    "quote": "Our aim is to accomplish this exhaustive portfolio makeover within the next 6 weeks. So, by the time we meet next in October, we should be able to give you some early reports of their acceptance.",
+    "page": 5,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8490aae2-16b7-41b1-a0a3-de3e86380cf9.pdf"
    },
    {
-    "ref": "g4.4",
-    "promise": "Launch 2 new brands spanning 125cc‑250cc in FY27",
-    "made_in": "Q2 FY27",
-    "delivered": "No brand‑launch data in reported figures",
+    "ref": "g4.2",
+    "promise": "Expand capacity by 25% from 7 million to 9 million units per annum in medium term",
+    "made_in": "Q1 FY27",
+    "delivered": "Medium-term target is currently underway; unit capacity is not reported in quarterly financials.",
     "verdict": "too_early",
-    "checked_against": "none",
-    "quote": "In addition, we will have 2 new brands in the pipeline, spanning the 125cc to 250cc space getting lined up for launch in FY27.",
-    "page": 5,
+    "checked_against": "Medium term execution schedule",
+    "quote": "So, with an eye on the future, we are undertaking an expansion of capacity by almost 25% from the current 7 million units per annum across different businesses to progressively go up to 9 million units per annum.",
+    "page": 6,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c7171a79-5c93-47e1-b324-9056d5abea0e.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8490aae2-16b7-41b1-a0a3-de3e86380cf9.pdf"
    }
   ],
   "credibility": {
-   "score": null,
-   "line": "None of these promises can be checked against reported numbers yet — no score."
+   "score": 8,
+   "line": "Management consistently beats revenue and export volume targets, though cash conversion lags reported net profits."
   },
   "narrative_vs_numbers": [
    {
-    "agree": false,
-    "point": "Mgmt said Q3 FY26 revenue >15,000 cr with 19% growth; actual 17,832 cr and 41% YoY shows over‑promise on growth rate."
-   },
-   {
     "agree": true,
-    "point": "Mgmt claimed Q4 FY26 revenue >16,000 cr; reported 25,126 cr confirms the revenue promise."
+    "point": "Management claimed record revenue exceeding ₹58,000 crore for FY26; reported annual revenue reached ₹62,905 crore."
    },
    {
     "agree": false,
-    "point": "Mgmt touted 20.8% EBITDA margin in Q4 FY26; reported EBITDA% 19% falls short."
+    "point": "Despite strong PAT claims, cash generation remains weak with FY26 OCF/PAT at 0.25 and 5-year conversion at 0.46."
+   },
+   {
+    "agree": false,
+    "point": "Management boasts strong balance sheet performance, but borrowings ballooned 13.8x in 3 years to ₹26,401 crore by Sep 2026."
    }
   ],
   "bull": [
-   "Revenue rose to 25,126 cr in Sep 2026, well above the 16,000 cr target.",
-   "PAT surged to 3,384 cr in Sep 2026, a 59.5% YoY increase.",
-   "Operating cash flow turned positive at 2,597 cr in FY26 after a prior negative year."
+   "Sep 2026 revenue grew 59.7% YoY to ₹25,126 crore, sustaining high top-line momentum.",
+   "FY26 EBITDA reached ₹13,097 crore at a 21.0% margin, meeting profitability goals.",
+   "Export run rate targets successfully scaled up to over 250,000 units per month by Q1 FY27."
   ],
   "bear": [
-   "EBITDA margin slipped to 19% in Sep 2026, missing the 20.8% goal.",
-   "Borrowings jumped to 26,401 cr by Sep 2026, a 13.8x rise over three years.",
-   "Free cash flow remained low at 1,885 cr in FY26, only 25% of PAT."
+   "Borrowings rose from ₹1,912 crore in Mar 2024 to ₹26,401 crore in Sep 2026, driving D/E to 0.72.",
+   "Cash conversion is weak, with FY26 operating cash flow covering only 25% of reported PAT.",
+   "Quarterly EBITDA margin compressed 200 bps from 21.0% in Jun 2026 to 19.0% in Sep 2026."
   ],
   "watch": [
-   "Export volume trends in upcoming quarters",
-   "Chetak capacity rollout to 80,000 units/month",
-   "Execution of new 125cc‑250cc brand launches"
+   "Improvement in OCF/PAT ratio from FY26 level of 0.25.",
+   "Sustained export monthly volume exceeding 250,000 units.",
+   "Leverage trajectory following debt rise to ₹26,401 crore."
   ]
  },
  "ledger_ok": true,
  "usage": [
   {
    "model": "gemini-3.5-flash-lite",
+   "in": 15394,
+   "out": 1039,
+   "secs": 3.9,
+   "cached": false,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
    "in": 15934,
    "out": 1217,
    "secs": 4.7,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -975,7 +1001,7 @@
    "in": 18156,
    "out": 699,
    "secs": 3.5,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -983,15 +1009,7 @@
    "in": 17347,
    "out": 1354,
    "secs": 4.6,
-   "cached": false,
-   "fallback": false
-  },
-  {
-   "model": "gemini-3.5-flash-lite",
-   "in": 18329,
-   "out": 1090,
-   "secs": 9.3,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -999,30 +1017,30 @@
    "in": 10382,
    "out": 299,
    "secs": 3.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 3576,
-   "out": 1251,
-   "secs": 3.6,
+   "model": "gemini-3.6-flash",
+   "in": 3885,
+   "out": 3575,
+   "secs": 45.3,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 83724,
-  "tokens_out": 5910,
+  "fresh_calls": 2,
+  "tokens_in": 81098,
+  "tokens_out": 8183,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 33.3
+  "secs": 51.4
  }
 }

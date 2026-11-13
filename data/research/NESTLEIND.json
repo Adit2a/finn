@@ -2,12 +2,12 @@
  "symbol": "NESTLEIND",
  "name": "Nestle India Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:35:53",
+ "generated_at": "2026-11-13T23:00:19",
  "latest_call": "Aug 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 246166.0,
-   "pe": 61.9,
+   "market_cap_cr": 243180.0,
+   "pe": 61.2,
    "roce": 85.3,
    "roe": 74.2,
    "ttm_revenue": 25581.0,
@@ -299,21 +299,6 @@
  "sources": [
   {
    "kind": "transcript",
-   "label": "Q3 FY23 call",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=57b18a55-2938-4a2d-be61-e5c4f0cbc195.pdf"
-  },
-  {
-   "kind": "transcript",
-   "label": "Q2 FY24 call",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=51f589ba-8cc4-4dc1-8483-5790d410f3c1.pdf"
-  },
-  {
-   "kind": "transcript",
-   "label": "Q3 FY25 call",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cce29c06-5e1f-4c2a-9585-327e6d47710c.pdf"
-  },
-  {
-   "kind": "transcript",
    "label": "Q1 FY27 call",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=97e83f21-9f3c-47c2-ba36-2a29fe44a380.pdf"
   },
@@ -326,243 +311,6 @@
  "calls": [
   {
    "n": 1,
-   "quarter": "Q3 FY23",
-   "date": "Feb 2023",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=57b18a55-2938-4a2d-be61-e5c4f0cbc195.pdf",
-   "pages": 28,
-   "scanned": false,
-   "guidance": [
-    {
-     "metric": "capex",
-     "promise": "Spend roughly 13 billion INR in 2023 and 20 billion INR in 2024",
-     "horizon": "2023-2024",
-     "low": 13.0,
-     "high": 20.0,
-     "unit": "cr",
-     "quote": "The plan right now looks like ₹13 billion in 2023 and ₹20 billion in 2024 and the balance thereafter.",
-     "page": 23,
-     "speaker": "David McDaniel",
-     "verified": true,
-     "id": "g1.1"
-    },
-    {
-     "metric": "capex",
-     "promise": "Invest 5000 crores or 600 million Swiss francs in the coming three years",
-     "horizon": "next three years",
-     "low": null,
-     "high": null,
-     "unit": "cr",
-     "quote": "He talked about investing 5000 crores or 600 million Swiss francs in the coming three years.",
-     "page": 23,
-     "speaker": "Suresh Narayanan",
-     "verified": true,
-     "id": "g1.2"
-    }
-   ],
-   "claims": [
-    {
-     "claim": "Full year 2022 recorded highest organic growth in the decade at 14.8%.",
-     "quote": "After 2011, this is the year 2022, when we are seeing the highest organic growth that has been recorded by the Company at 14.8%.",
-     "page": 5,
-     "verified": true
-    },
-    {
-     "claim": "Quarter 4 2022 growth steady at about 14% with operating margins improving.",
-     "quote": "In terms of quarter 4 2022, the growth again has been steady, it has been about 14%.",
-     "page": 5,
-     "verified": true
-    },
-    {
-     "claim": "Nestlé Professional business clocked a 39% growth in 2022.",
-     "quote": "the Nestlé Professional business has clocked a 39% growth in 2022.",
-     "page": 10,
-     "verified": true
-    }
-   ],
-   "pushback": [
-    {
-     "topic": "Confectionery market growth and gap with market leader",
-     "quote": "What would be the growth of the confectionery and chocolates market in the last one year? What would be your sense and where exactly gains are happening?",
-     "page": 16,
-     "verified": true
-    },
-    {
-     "topic": "Volume slowdown in Q3 vs Q4 and metro LUP price hikes",
-     "quote": "When I see the tonnage data that has slowed down meaningfully in Q3 versus Q4 and you also highlighted that in metro, the growth rate in this quarter has slowed down",
-     "page": 16,
-     "verified": true
-    },
-    {
-     "topic": "Lower e-commerce percentage contribution compared to peers",
-     "quote": "When I see other companies in terms of percentage or domestic sales, you seem to be a bit lower - not a big gap but a bit lower that seems a bit strange",
-     "page": 17,
-     "verified": true
-    }
-   ],
-   "tone": "Confident, resilient, transparent, and pragmatic in navigating volatile inflation and commodity headwinds."
-  },
-  {
-   "n": 2,
-   "quarter": "Q2 FY24",
-   "date": "Oct 2023",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=51f589ba-8cc4-4dc1-8483-5790d410f3c1.pdf",
-   "pages": 65,
-   "scanned": false,
-   "guidance": [
-    {
-     "metric": "capex",
-     "promise": "Spend INR 5,000 crores in capital investments between 2023 to 2025.",
-     "horizon": "2023 to 2025",
-     "low": 5000,
-     "high": 5000,
-     "unit": "cr",
-     "quote": "2023 to 2025, they have committed INR5,000 crores.",
-     "page": 36,
-     "speaker": "Suresh Narayanan",
-     "verified": true,
-     "id": "g2.1"
-    },
-    {
-     "metric": "revenue growth",
-     "promise": "Achieve around 10% innovation contribution to total sales in the longer term.",
-     "horizon": "longer term",
-     "low": 10,
-     "high": 10,
-     "unit": "%",
-     "quote": "My objective, longer term objective is to get to about 10%. If I get about 10% that will be a good number",
-     "page": 61,
-     "speaker": "Suresh Narayanan",
-     "verified": true,
-     "id": "g2.2"
-    }
-   ],
-   "claims": [
-    {
-     "claim": "Nine months 2023 domestic sales growth reached 15.1%.",
-     "quote": "nine months '22, nine months 2023, 15%, 15.1%. So, the growth journey still continues.",
-     "page": 30,
-     "verified": true
-    },
-    {
-     "claim": "Net profit grew by 10.4% with steady performance.",
-     "quote": "Net profits grown by 10.4%, again there has been a steady performance here.",
-     "page": 33,
-     "verified": true
-    },
-    {
-     "claim": "Reported net profit margin improved by 170 business points from 19.7% to 21.4%.",
-     "quote": "There has been a smart improvement in the last year from 19.7% to 21.4%. That is a reported number that you know 170 business points.",
-     "page": 33,
-     "verified": true
-    }
-   ],
-   "pushback": [
-    {
-     "topic": "Volume loss and local competition",
-     "quote": "in terms of volume growth, would you have lost some share in these in the last few quarters?",
-     "page": 48,
-     "verified": true
-    },
-    {
-     "topic": "Pricing actions and rollbacks",
-     "quote": "Do you feel you're at the end of does those pricing actions now at a portfolio level?",
-     "page": 50,
-     "verified": true
-    },
-    {
-     "topic": "Royalty agreement review timeline",
-     "quote": "when is the agreement for royalty up for review? If you would clarify on that",
-     "page": 62,
-     "verified": true
-    }
-   ],
-   "tone": "Confident, transparent, and long-term focused on consistent growth, quality, and societal impact."
-  },
-  {
-   "n": 3,
-   "quarter": "Q3 FY25",
-   "date": "Feb 2025",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cce29c06-5e1f-4c2a-9585-327e6d47710c.pdf",
-   "pages": 43,
-   "scanned": false,
-   "guidance": [
-    {
-     "metric": "capex",
-     "promise": "Invest almost INR 5800 Crores between 2020 and 2025",
-     "horizon": "2020 to 2025",
-     "low": 5800,
-     "high": 5800,
-     "unit": "cr",
-     "quote": "in fact invested between 2020 and 2025, we would be investing almost INR 5,800 Crores and that is a significant amount of money for a food processing company.",
-     "page": 7,
-     "speaker": "Suresh Narayanan",
-     "verified": true,
-     "id": "g3.1"
-    },
-    {
-     "metric": "revenue",
-     "promise": "Outlet expansion in coming years to reach around 6 million outlets",
-     "horizon": "coming years",
-     "low": 6,
-     "high": 6,
-     "unit": "units",
-     "quote": "I think the outlet expansion, I would reckon, ballpark till about 6 million outlets is what we should be looking at in the coming years.",
-     "page": 36,
-     "speaker": "Suresh Narayanan",
-     "verified": true,
-     "id": "g3.2"
-    }
-   ],
-   "claims": [
-    {
-     "claim": "Reported 5.3 million outlets in 2024, achieving maximum outlet addition percentage among peers",
-     "quote": "And in 2024, we reported 5.3 million outlets. Now you will say why only 5.3? Please remember that during the MAGGI crisis, we lost a million outlets.",
-     "page": 9,
-     "verified": true
-    },
-    {
-     "claim": "Coffee capacities doubled in Nanjangud to help improve manufacturing efficiencies",
-     "quote": "We have doubled our coffee capacities now in Nanjangud. And hopefully that will lead to better efficiencies in coffee manufacture.",
-     "page": 32,
-     "verified": true
-    },
-    {
-     "claim": "Achieved double-digit growth in the Dr. Reddy's joint venture integration",
-     "quote": "They have shown double digit growth, which is also encouraging.",
-     "page": 23,
-     "verified": true
-    },
-    {
-     "claim": "Maintained stable noodles market shares around 60% region",
-     "quote": "Market shares I think noodles have been fairly stable. There can be a little bit of quarterly blips up and down but it is in the region of about 60 odd percent",
-     "page": 35,
-     "verified": true
-    }
-   ],
-   "pushback": [
-    {
-     "topic": "Milk and nutrition category performance and pressures",
-     "quote": "given the lack of data that we have in the recent quarters, we have seen milk and nutrition category seems to have declined probably versus one was expecting it to be quite resilient. What is ailing the category?",
-     "page": 30,
-     "verified": true
-    },
-    {
-     "topic": "Channel conflicts, e-commerce discounting, and traditional trade balance",
-     "quote": "How you are able to differentiate there, because when I see the noodles discounting for example, I see very high discounting on e-commerce.",
-     "page": 32,
-     "verified": true
-    },
-    {
-     "topic": "MAGGI growth slowdown and competitive pressures",
-     "quote": "one consistent growth driver for you has been MAGGI, which consistently grew double digits through good and bad cycles, where there seems to have been some slowdown last year.",
-     "page": 37,
-     "verified": true
-    }
-   ],
-   "tone": "Pragmatic, confident, realistic, and transparent regarding commodity pressures, inflation, and strategic growth drivers."
-  },
-  {
-   "n": 4,
    "quarter": "Q1 FY27",
    "date": "Aug 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=97e83f21-9f3c-47c2-ba36-2a29fe44a380.pdf",
@@ -580,7 +328,7 @@
      "page": 24,
      "speaker": "Edouard Mac Nab",
      "verified": true,
-     "id": "g4.1"
+     "id": "g1.1"
     }
    ],
    "claims": [
@@ -679,47 +427,11 @@
   "promise_ledger": [
    {
     "ref": "g1.1",
-    "promise": "Spend roughly 13 billion INR in 2023 and 20 billion INR in 2024",
-    "made_in": "Q3 FY23 call",
-    "delivered": "Capital investments between 2023 to 2025 were guided at INR 5,000 crores total on Q2 FY24 call.",
-    "verdict": "walked_back",
-    "checked_against": "Q2 FY24 call guidance",
-    "quote": "The plan right now looks like ₹13 billion in 2023 and ₹20 billion in 2024 and the balance thereafter.",
-    "page": 23,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=57b18a55-2938-4a2d-be61-e5c4f0cbc195.pdf"
-   },
-   {
-    "ref": "g2.1",
-    "promise": "Spend INR 5,000 crores in capital investments between 2023 to 2025",
-    "made_in": "Q2 FY24 call",
-    "delivered": "Later updated on Q3 FY25 call to investing almost INR 5800 Crores between 2020 and 2025.",
-    "verdict": "walked_back",
-    "checked_against": "Q3 FY25 call guidance",
-    "quote": "2023 to 2025, they have committed INR5,000 crores.",
-    "page": 36,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=51f589ba-8cc4-4dc1-8483-5790d410f3c1.pdf"
-   },
-   {
-    "ref": "g3.2",
-    "promise": "Outlet expansion in coming years to reach around 6 million outlets",
-    "made_in": "Q3 FY25 call",
-    "delivered": "Reported 5.3 million outlets in 2024, continuing expansion towards the 6 million target.",
+    "promise": "Deliver and maintain margin in line with past track record",
+    "made_in": "Q1 FY27",
+    "delivered": "Medium-term target; Q2 FY27 EBITDA margin reached 24.0%, matching historical annual levels of 23.0%-24.0%.",
     "verdict": "too_early",
-    "checked_against": "Q3 FY25 claim",
-    "quote": "I think the outlet expansion, I would reckon, ballpark till about 6 million outlets is what we should be looking at in the coming years.",
-    "page": 36,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cce29c06-5e1f-4c2a-9585-327e6d47710c.pdf"
-   },
-   {
-    "ref": "g4.1",
-    "promise": "Deliver and maintain our margin in line with past track record",
-    "made_in": "Q1 FY27 call",
-    "delivered": "Sep 2026 EBIT% reported at 20.7%, with EBITDA% at 24.0%.",
-    "verdict": "delivered",
-    "checked_against": "Sep 2026 EBIT% and EBITDA%",
+    "checked_against": "Sep 2026 EBITDA%",
     "quote": "we are not chasing growth at the cost of margin. We will deliver and maintain our margin in line with our past track record.",
     "page": 24,
     "verified": true,
@@ -727,70 +439,47 @@
    }
   ],
   "credibility": {
-   "score": 6,
-   "line": "Management frequently revises capex plans and targets, though core margins and cash generation remain strong."
+   "score": null,
+   "line": "None of these promises can be checked against reported numbers yet — no score."
   },
   "narrative_vs_numbers": [
    {
-    "agree": true,
-    "point": "EBIT% of 20.7% in Sep 2026 supports management's claim of maintaining stable operating margins."
-   },
-   {
-    "agree": true,
-    "point": "Strong operating cash flow of 5048.0 crore in Mar 2026 confirms robust cash generation."
+    "agree": false,
+    "point": "Management claims 20 quarters of double-digit NESCAFÉ growth, but segment performance is not detailed in reported financials."
    },
    {
     "agree": false,
-    "point": "Initial 2023-2024 capex guidance of 33 billion INR was subsequently replaced by a broader INR 5000-5800 crore multi-year target."
+    "point": "Management cited premium portfolio expansion to 14%, but quarterly product mix figures are not disclosed in financial statements."
+   },
+   {
+    "agree": true,
+    "point": "Despite analyst concerns on ad spend, Q2 FY27 EBITDA margin held steady at 24.0% with revenue up 20.3% YoY."
    }
   ],
   "bull": [
-   "High profitability with ROCE at 85.3% and ROE at 74.2% anchored in financial statements.",
-   "Practically debt-free balance sheet with a low D/E ratio of 0.08 in Sep 2026.",
-   "Strong cash conversion with 5y cash conversion at 1.25 and Mar 2026 FCF at 4221.0 crore."
+   "Q2 FY27 revenue grew 20.3% YoY to ₹6,788.0 crore while EBITDA margin held at 24.0%.",
+   "Cash conversion is strong with Mar 2026 OCF/PAT at 1.44 and 5-year conversion at 1.25.",
+   "Company is virtually debt-free with D/E of 0.08 and equity of ₹5,777.0 crore in Sep 2026."
   ],
   "bear": [
-   "Net profit volatility with Sep 2025 PAT declining by -17.4% YoY.",
-   "Borrowings increased to 464.0 crore by Sep 2026 from 345.0 crore in Mar 2024.",
-   "Frequent shifting of capital expenditure targets across consecutive calls reduces guidance reliability."
+   "EBIT margin contracted from 23.2% in Mar 2026 to 20.7% in Sep 2026.",
+   "Analysts raised concerns over sustainability of double-digit volume growth and milk category challenges.",
+   "Free cash flow saw extreme volatility, dropping to ₹932.0 crore in Mar 2025 before Mar 2026 recovery."
   ],
   "watch": [
-   "Verify outlet expansion progress toward the 6 million target.",
-   "Monitor sustainability of double-digit revenue growth rates averaging around 20%."
+   "EBITDA margin holding at the historical 23.0%-24.0% level.",
+   "Sustainability of revenue growth after 20.3% YoY in Sep 2026.",
+   "Ad spend impact on quarterly EBIT margins."
   ]
  },
  "ledger_ok": true,
  "usage": [
   {
    "model": "gemini-3.5-flash-lite",
-   "in": 19275,
-   "out": 758,
-   "secs": 4.0,
-   "cached": false,
-   "fallback": false
-  },
-  {
-   "model": "gemini-3.5-flash-lite",
-   "in": 36689,
-   "out": 700,
-   "secs": 4.2,
-   "cached": false,
-   "fallback": false
-  },
-  {
-   "model": "gemini-3.5-flash-lite",
-   "in": 25330,
-   "out": 828,
-   "secs": 5.7,
-   "cached": false,
-   "fallback": false
-  },
-  {
-   "model": "gemini-3.5-flash-lite",
    "in": 20354,
    "out": 502,
    "secs": 18.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -798,29 +487,30 @@
    "in": 10808,
    "out": 356,
    "secs": 8.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
-   "in": 2891,
-   "out": 927,
-   "secs": 9.7,
+   "model": "gemini-3.6-flash",
+   "in": 1964,
+   "out": 2773,
+   "secs": 188.9,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
-  "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 115347,
-  "tokens_out": 4071,
+  "calls": 3,
+  "fresh_calls": 1,
+  "tokens_in": 33126,
+  "tokens_out": 3631,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 55.1
+  "secs": 189.8
  }
 }

@@ -2,12 +2,12 @@
  "symbol": "ONGC",
  "name": "Oil & Natural Gas Corpn Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:37:24",
+ "generated_at": "2026-11-13T23:04:26",
  "latest_call": "Aug 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 295079.0,
-   "pe": 5.93,
+   "market_cap_cr": 282741.0,
+   "pe": 5.68,
    "roce": 14.2,
    "roe": 11.6,
    "ttm_revenue": 744475.0,
@@ -698,82 +698,98 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g1.3",
-    "promise": "Standalone E&P CapEx INR 30,000-35,000 crore annually FY26",
+    "ref": "g1.1",
+    "promise": "FY27 standalone crude oil production around 21 million metric tons",
     "made_in": "Q2 FY26",
-    "delivered": "CapEx not disclosed in reported numbers; cannot confirm",
-    "verdict": "too_early",
-    "checked_against": "FY26 annual financials (no CapEx figure provided)",
-    "quote": "We have our robust CapEx going on. We are not going to cut down on our exploration, etc.…continue to have around INR 30,000 to INR 35,000 CapEx for the years.",
-    "page": 5,
+    "delivered": "Implicitly lowered in Q1 FY27 call (g4.1) when total oil plus gas FY27 target was set to 39 MMT",
+    "verdict": "walked_back",
+    "checked_against": "Q1 FY27 call production guidance update",
+    "quote": "our standalone production, for the current year, oil, we expect 19.8 MMT, and for next year, it is 21 MMT.",
+    "page": 6,
     "verified": true,
     "url": "https://ongcindia.com/documents/77751/2660534/Transcription181125.pdf/6f9e95e9-c665-e747-03f8-feba399d7aa3"
    },
    {
-    "ref": "g4.4",
-    "promise": "Full year Capex USD 3.5-4 billion FY27",
-    "made_in": "Q1 FY27",
-    "delivered": "CapEx amount not reported in ₹; cannot verify",
-    "verdict": "too_early",
-    "checked_against": "FY27 quarterly data (no CapEx disclosed)",
-    "quote": "Full year Capex, I already told, it will be USD 3.5- 4 billion range. It depends on how our project progresses. That is the range we will maintain for the full year.",
-    "page": 21,
+    "ref": "g1.2",
+    "promise": "FY27 standalone gas production around 21.5 billion cubic meters",
+    "made_in": "Q2 FY26",
+    "delivered": "Implicitly lowered in Q1 FY27 call (g4.1) when combined FY27 oil and gas target was cut to 39 MMT",
+    "verdict": "walked_back",
+    "checked_against": "Q1 FY27 call production guidance update",
+    "quote": "As far as gas is concerned, it is 20 BCM for the current year, and it is 21.5 BCM for the next year.",
+    "page": 6,
     "verified": true,
-    "url": "https://ongcindia.com/documents/77751/2660534/Transcription-Q1-FY2627.pdf"
+    "url": "https://ongcindia.com/documents/77751/2660534/Transcription181125.pdf/6f9e95e9-c665-e747-03f8-feba399d7aa3"
    },
    {
     "ref": "g4.1",
-    "promise": "FY27 standalone oil+gas production ~39 MMT",
+    "promise": "FY27 standalone oil plus gas production expected to reach about 39 MMT",
     "made_in": "Q1 FY27",
-    "delivered": "Production volumes not in financial tables; cannot assess",
+    "delivered": "Target covers full year FY27; reported data only available up to Q2 FY27 (Sep 2026)",
     "verdict": "too_early",
-    "checked_against": "Q2 FY27 (Sep 2026) data – no volume metric",
+    "checked_against": "FY27 annual production reported figures",
     "quote": "This year, we expect to reach about 39 MMT oil plus gas.",
     "page": 5,
     "verified": true,
     "url": "https://ongcindia.com/documents/77751/2660534/Transcription-Q1-FY2627.pdf"
    },
    {
-    "ref": "g1.4",
-    "promise": "Reduce OPaL debt interest >1 percentage point",
-    "made_in": "Q2 FY26",
-    "delivered": "Interest rate not disclosed; cannot evaluate",
+    "ref": "g4.3",
+    "promise": "DUDP gas production expected to reach 2 MMSCMD by December",
+    "made_in": "Q1 FY27",
+    "delivered": "December horizon falls in Q3 FY27; financial data is only reported through Sep 2026",
     "verdict": "too_early",
-    "checked_against": "Debt figures (borrowings) only, no rate detail",
-    "quote": "we are expecting that we should be able to bring it down more than a percentage point.",
-    "page": 12,
+    "checked_against": "Q3 FY27 operational updates",
+    "quote": "By December, we'll be reaching a 2 MMSCMD gas.",
+    "page": 5,
     "verified": true,
-    "url": "https://ongcindia.com/documents/77751/2660534/Transcription181125.pdf/6f9e95e9-c665-e747-03f8-feba399d7aa3"
+    "url": "https://ongcindia.com/documents/77751/2660534/Transcription-Q1-FY2627.pdf"
+   },
+   {
+    "ref": "g4.4",
+    "promise": "Full year Capex expected to be maintained in range of USD 3.5-4 billion",
+    "made_in": "Q1 FY27",
+    "delivered": "Full year FY27 CapEx target remains open until FY27 annual reporting",
+    "verdict": "too_early",
+    "checked_against": "FY27 annual balance sheet and cash flow statements",
+    "quote": "Full year Capex, I already told, it will be USD 3.5- 4 billion range. It depends on how our project progresses. That is the range we will maintain for the full year.",
+    "page": 21,
+    "verified": true,
+    "url": "https://ongcindia.com/documents/77751/2660534/Transcription-Q1-FY2627.pdf"
    }
   ],
   "credibility": {
-   "score": null,
-   "line": "None of these promises can be checked against reported numbers yet — no score."
+   "score": 5,
+   "line": "Management reduced FY27 volume guidance from 42.5 MMT combined to 39 MMT within three quarters."
   },
   "narrative_vs_numbers": [
    {
     "agree": true,
-    "point": "Mgmt said Q2 FY26 profit rose 28.19% to 12,615 cr; reported PAT 12,615 cr and YoY 28.2%."
+    "point": "Management reported 28.19% net profit growth in Q2 FY26; consolidated PAT grew 28.2% YoY to ₹12,615 crore."
    },
    {
     "agree": false,
-    "point": "Mgmt claimed Q1 FY27 PAT 17,034 cr (+112% YoY); reported Q3 FY27 PAT 18,535 cr (+46.9% YoY)."
+    "point": "Management touted 112% PAT growth in Q1 FY27 standalone; consolidated Q1 FY27 PAT fell 43.3% YoY to ₹6,554 crore."
+   },
+   {
+    "agree": true,
+    "point": "Management claimed strong H1 performance; Q2 FY27 consolidated PAT jumped 46.9% YoY to ₹18,535 crore."
    }
   ],
   "bull": [
-   "PAT Q3 FY27 18,535 cr, up 46.9% YoY shows strong earnings momentum.",
-   "EBITDA margin rose to 19% in Q3 FY27, indicating operating leverage.",
-   "Operating cash flow 112,719 cr in FY26 exceeds PAT 49,793 cr (OCF/PAT 2.26)."
+   "Free cash flow expanded to ₹72,219 crore in FY26 from ₹50,143 crore in FY25.",
+   "Five-year cash conversion remains robust with average OCF to PAT ratio at 2.06.",
+   "Revenue for Sep 2026 quarter grew 25.6% YoY to ₹198,263 crore with 19.0% EBITDA margin."
   ],
   "bear": [
-   "PAT fell 43.3% YoY in Q2 FY26 despite revenue rise, signaling volatility.",
-   "EBITDA margin dropped to 8% in Q2 FY26, the lowest in the series.",
-   "Borrowings remain high at 174,316 cr, limiting financial flexibility."
+   "Combined FY27 oil and gas target was trimmed from 42.5 MMT/BCM to 39 MMT.",
+   "Consolidated PAT plunged 43.3% YoY to ₹6,554 crore in Jun 2026 quarter.",
+   "Borrowings remain elevated at ₹183,002 crore as of Sep 2026 with D/E at 0.46."
   ],
   "watch": [
-   "FY27 oil+gas production vs 39 MMT target",
-   "Capex spend in USD terms vs 3.5‑4 bn range",
-   "OPaL debt interest rate reduction progress"
+   "DUDP gas production reaching 2 MMSCMD by December 2026.",
+   "Achievement of 39 MMT standalone oil and gas production in FY27.",
+   "Full year FY27 CapEx deployment against USD 3.5-4 billion guidance."
   ]
  },
  "ledger_ok": true,
@@ -783,7 +799,7 @@
    "in": 12531,
    "out": 1371,
    "secs": 4.9,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -791,7 +807,7 @@
    "in": 2699,
    "out": 44,
    "secs": 10.6,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -799,7 +815,7 @@
    "in": 13368,
    "out": 1076,
    "secs": 10.6,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -807,30 +823,30 @@
    "in": 12918,
    "out": 231,
    "secs": 9.2,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 2805,
-   "out": 1246,
-   "secs": 3.3,
+   "model": "gemini-3.6-flash",
+   "in": 3170,
+   "out": 2730,
+   "secs": 21.5,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 5,
-  "fresh_calls": 5,
-  "tokens_in": 44321,
-  "tokens_out": 3968,
+  "fresh_calls": 1,
+  "tokens_in": 44686,
+  "tokens_out": 5452,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 57.2
+  "secs": 33.1
  }
 }

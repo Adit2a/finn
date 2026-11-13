@@ -2,12 +2,12 @@
  "symbol": "DRREDDY",
  "name": "Dr Reddys Laboratories Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:20:33",
+ "generated_at": "2026-11-13T23:05:49",
  "latest_call": "Oct 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 114582.0,
-   "pe": 40.9,
+   "market_cap_cr": 115317.0,
+   "pe": 41.2,
    "roce": 13.0,
    "roe": 11.2,
    "ttm_revenue": 33097.0,
@@ -403,12 +403,12 @@
   },
   {
    "kind": "transcript",
-   "label": "Q1 FY27 call",
+   "label": "Q1 FY27 (Jul) call",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=974a472a-c74c-4d8e-9572-168c04c00281.pdf"
   },
   {
    "kind": "transcript",
-   "label": "Q1 FY27 call",
+   "label": "Q1 FY27 (Jul) call",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=23b55ad8-a0ce-4573-b27a-d0d83f618ae5.pdf"
   },
   {
@@ -547,7 +547,7 @@
   },
   {
    "n": 2,
-   "quarter": "Q1 FY27",
+   "quarter": "Q1 FY27 (Jul)",
    "date": "Jul 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=974a472a-c74c-4d8e-9572-168c04c00281.pdf",
    "pages": 13,
@@ -570,29 +570,23 @@
    "claims": [],
    "pushback": [
     {
-     "topic": "Impurity root cause and process changes",
-     "quote": "Tushar, that, this impurity is coming from the raw material side, or because of the reaction, or is it to do with equipment-related issue? If you could highlight.",
-     "page": 7,
+     "topic": "Impurity and validation timeline",
+     "quote": "So, will the duration in which we are not able to supply attract any failure to supply kind of a fee?",
+     "page": 13,
      "verified": true
     },
     {
-     "topic": "Inventory write-down impact",
-     "quote": "First question, would we have to write down any inventory lying with OneSource?",
-     "page": 6,
-     "verified": true
-    },
-    {
-     "topic": "Impact on annual targets",
+     "topic": "Impact on annual targets and sales volume",
      "quote": "My question is, does this mean that Reddy’s is still on target to achieve its annual target that it has set earlier of 12 million pens in the first year of launch?",
      "page": 12,
      "verified": true
     }
    ],
-   "tone": "Transparent, calm, and forthcoming regarding a temporary supply halt while maintaining long-term confidence."
+   "tone": "Transparent, cautious, and reassuring regarding safety and long-term demand."
   },
   {
    "n": 3,
-   "quarter": "Q1 FY27",
+   "quarter": "Q1 FY27 (Jul)",
    "date": "Jul 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=23b55ad8-a0ce-4573-b27a-d0d83f618ae5.pdf",
    "pages": 22,
@@ -600,7 +594,7 @@
    "guidance": [
     {
      "metric": "capex",
-     "promise": "FY27 capex around ₹1,800 crores on a full-year basis",
+     "promise": "FY27 capex around 1800 crores",
      "horizon": "FY27",
      "low": 1800,
      "high": 1800,
@@ -612,86 +606,79 @@
      "id": "g3.1"
     },
     {
-     "metric": "margin",
-     "promise": "Maintain EBITDA margin in the neighbourhood of 20% for upcoming quarters",
-     "horizon": "FY27",
-     "low": 20,
-     "high": 20,
-     "unit": "%",
-     "quote": "Still I maintain what we discussed a few weeks ago, that we are in the neighbourhood of the 20% and likely to stay.",
-     "page": 8,
-     "speaker": "Erez Israeli",
-     "verified": true,
-     "id": "g3.2"
-    },
-    {
      "metric": "volume",
-     "promise": "Supply 6 to 7 million semaglutide pens between November and March",
+     "promise": "Supply 6 to 7 million pens between November and March",
      "horizon": "November to March",
-     "low": 6,
-     "high": 7,
+     "low": 6000000,
+     "high": 7000000,
      "unit": "units",
      "quote": "if everything will go well, we should be able to give to the market 6 to 7 million pens between November and March.",
      "page": 10,
      "speaker": "Erez Israeli",
      "verified": true,
-     "id": "g3.3"
+     "id": "g3.2"
     },
     {
      "metric": "margin",
-     "promise": "EBITDA margin will be higher than high-teens once semaglutide supplies resume",
-     "horizon": "FY27",
-     "low": null,
-     "high": null,
+     "promise": "Maintain neighborhood of 20% EBITDA margin excluding semaglutide impact",
+     "horizon": "Q2 FY27",
+     "low": 20,
+     "high": 20,
      "unit": "%",
-     "quote": "As we will resume, with the assumption that we will come back with semaglutide in November, of course, the margins will be higher than that.",
+     "quote": "Still I maintain what we discussed a few weeks ago, that we are in neighbourhood of the 20% and likely to stay. And that's what we are saying we will do including the next quarter, which will not be with semaglutide",
      "page": 8,
      "speaker": "Erez Israeli",
      "verified": true,
-     "id": "g3.4"
+     "id": "g3.3"
     }
    ],
    "claims": [
     {
-     "claim": "Consolidated revenues declined 5.6% YoY to ₹8,071 crores due to lower lenalidomide and semaglutide provisions",
-     "quote": "Consolidated revenues stood at ₹8,071 crores, which is US$853 million, a decline of 5.6% YoY",
+     "claim": "Consolidated revenues stood at 8,071 crores, declining 5.6% year-on-year",
+     "quote": "Consolidated revenues stood at ₹8,071 crores, which is US$853 million, a decline of 5.6% YoY and a growth of 7.4% on a sequential basis.",
      "page": 4,
      "verified": true
     },
     {
-     "claim": "EBITDA margin for the quarter was 12.5% impacted by semaglutide challenges and Middle East conflict",
+     "claim": "EBITDA margin for the quarter was 12.5%",
      "quote": "The business reported a revenue decline of 5.6% and an EBITDA margin of 12.5% for the quarter",
      "page": 3,
      "verified": true
     },
     {
-     "claim": "India business recorded robust double-digit YoY growth of 17% reaching ₹1,718 crores",
-     "quote": "Our India business revenues were ₹1,718 crores, accounting for 21% of our overall revenues and delivering a robust, double-digit, year-on-year growth of 17%",
-     "page": 7,
+     "claim": "Underlying base business delivered double-digit growth across key geographies",
+     "quote": "Notably, the underlying base business, excluding lenalidomide, continued to deliver healthy double-digit growth across all key geographies",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "claim": "Sold 180,000 semaglutide pens before stopping",
+     "quote": "Yeah, so we sold 180,000 pens before we stopped.",
+     "page": 10,
      "verified": true
     }
    ],
    "pushback": [
     {
-     "topic": "Semaglutide supply timeline and impact",
-     "quote": "So, since you last addressed on the semaglutide situation, is there any progress in terms of root cause analysis, and how you see possibility of a resolution?",
+     "topic": "Semaglutide root cause and US FDA plant inspections",
+     "quote": "Since you last addressed on the semaglutide situation, is there any progress in terms of root cause analysis, and how you see possibility of a resolution?",
      "page": 12,
      "verified": true
     },
     {
-     "topic": "US business growth and R&D productivity",
-     "quote": "So, despite these launches and Mayne acquisition, where have we struggled in terms of driving growth on the base US business?",
-     "page": 13,
+     "topic": "US base business growth and R&D productivity",
+     "quote": "So, if you can please comment on that. And, do you think that we have lagged peers in terms of R&D productivity for the US generic business?",
+     "page": 14,
      "verified": true
     },
     {
-     "topic": "Abatacept inspection and BLA approval risk",
-     "quote": "First question on abatacept update. So, two aspects here. One on plant inspection... And, second aspect. From an ongoing dialogue perspective with the US FDA on the product approval, what are the types of queries we are receiving?",
+     "topic": "Abatacept plant inspection observations and BLA review",
+     "quote": "One on plant inspection, where we have got 7 observations, and we have submitted the response. But let's say when we compare the observation, with the last inspection, which had 5 observations, how do those compare?",
      "page": 8,
      "verified": true
     }
    ],
-   "tone": "Confident and transparent regarding challenges, maintaining core growth and strategic priorities."
+   "tone": "Confident in core business strength, proactive on operational hurdles, and committed to strategic growth."
   },
   {
    "n": 4,
@@ -835,86 +822,74 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g3.2",
-    "promise": "Maintain EBITDA margin around 20% for upcoming quarters",
+    "ref": "g3.3",
+    "promise": "Maintain neighborhood of 20% EBITDA margin in Q2 FY27",
     "made_in": "Q1 FY27",
-    "delivered": "Q2 FY27 EBITDA margin was 20%",
+    "delivered": "Reported EBITDA margin for Q2 FY27 (Sep 2026) was exactly 20.0%.",
     "verdict": "delivered",
-    "checked_against": "Q2 FY27 EBITDA%",
-    "quote": "Still I maintain what we discussed a few weeks ago, that we are in the neighbourhood of the 20% and likely to stay.",
+    "checked_against": "Sep 2026 EBITDA%",
+    "quote": "Still I maintain what we discussed a few weeks ago, that we are in neighbourhood of the 20% and likely to stay. And that's what we are saying we will do including the next quarter, which will not be with semaglutide",
     "page": 8,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=23b55ad8-a0ce-4573-b27a-d0d83f618ae5.pdf"
    },
    {
-    "ref": "g1.1",
-    "promise": "Margins to improve and be above 50% in FY27",
-    "made_in": "Q4 FY26",
-    "delivered": "No gross margin figure reported; cannot verify",
-    "verdict": "too_early",
-    "checked_against": "gross margin (not reported)",
-    "quote": "Given our focus on cost efficiencies and productivity improvement, we expect the margins to improve and be above 50% in FY27.",
-    "page": 3,
-    "verified": true,
-    "url": "https://www.drreddys.com/cms/sites/default/files/2026-05/DRL_Q4FY26EarningsCall%20Transcript_12May2026.pdf"
-   },
-   {
-    "ref": "g1.4",
-    "promise": "R&D spend 7-8% in fiscal ahead (FY27)",
-    "made_in": "Q4 FY26",
-    "delivered": "R&D % not disclosed in reported data",
-    "verdict": "too_early",
-    "checked_against": "R&D spend % (not reported)",
-    "quote": "We expect the spends to be in the range of 7-8% in the fiscal ahead.",
-    "page": 4,
-    "verified": true,
-    "url": "https://www.drreddys.com/cms/sites/default/files/2026-05/DRL_Q4FY26EarningsCall%20Transcript_12May2026.pdf"
-   },
-   {
     "ref": "g1.5",
-    "promise": "Capex around ₹2,000 crore for FY27",
+    "promise": "Capex for FY27 around 2,000 crores",
     "made_in": "Q4 FY26",
-    "delivered": "Capex amount not disclosed in reported data",
-    "verdict": "too_early",
-    "checked_against": "capex (not reported)",
+    "delivered": "Management lowered FY27 capex target to ~1,800 crores in Q1 FY27 (g3.1) and to 1,600-1,700 crores in Q2 FY27 (g4.1).",
+    "verdict": "walked_back",
+    "checked_against": "Q1 FY27 and Q2 FY27 management call guidance",
     "quote": "So, next year would be around ₹2,000 crores.",
     "page": 17,
+    "verified": true,
+    "url": "https://www.drreddys.com/cms/sites/default/files/2026-05/DRL_Q4FY26EarningsCall%20Transcript_12May2026.pdf"
+   },
+   {
+    "ref": "g1.3",
+    "promise": "Semaglutide volume sales between 6 to 7 million units by end calendar 2026",
+    "made_in": "Q4 FY26",
+    "delivered": "Sold 180,000 pens before stopping; revised timeline targets 6-7 million pens supply between Nov and Mar FY27.",
+    "verdict": "too_early",
+    "checked_against": "Q1 FY27 commentary and sales updates",
+    "quote": "Specifically, for the next, let's say, until the end of calendar ‘26, I believe that the number is somewhere between 6 to 7 million units.",
+    "page": 8,
     "verified": true,
     "url": "https://www.drreddys.com/cms/sites/default/files/2026-05/DRL_Q4FY26EarningsCall%20Transcript_12May2026.pdf"
    }
   ],
   "credibility": {
-   "score": null,
-   "line": "Only one promise can be checked against reported numbers so far — too few to score."
+   "score": 6,
+   "line": "Met Q2 EBITDA margin target of 20%, but repeatedly trimmed capex guidance and hit semaglutide supply pauses."
   },
   "narrative_vs_numbers": [
    {
     "agree": false,
-    "point": "Management touts margin improvement but EBITDA margin fell to 20% from 26% FY25."
-   },
-   {
-    "agree": true,
-    "point": "Revenue remains robust above ₹8,600 cr despite YoY decline."
+    "point": "Management claimed base business double-digit growth, but total revenue fell 5.5% in Jun 2026 and 1.5% in Sep 2026."
    },
    {
     "agree": false,
-    "point": "Capex and R&D guidance lack supporting figures in the financials."
+    "point": "Management highlighted 20.6% Q2 EBITDA margin, whereas reported GAAP EBITDA margin was 20.0% and EBIT margin was 13.8%."
+   },
+   {
+    "agree": true,
+    "point": "Operating cash flow conversion remains healthy with 5-year OCF at 106% of cumulative net profit."
    }
   ],
   "bull": [
-   "EBITDA margin hit the 20% target in Q2 FY27.",
-   "Revenue stayed above ₹8.6 bn, showing scale.",
-   "Operating cash flow to PAT ratio improved to 1.36 in FY26."
+   "Q2 FY27 EBITDA margin recovered to 20.0% from 11.0% in Q1 FY27.",
+   "Strong cash generation with 5-year operating cash flow equal to 106% of net profit.",
+   "Aurigene CDMO business generated over $100 million revenue in the past 12 months."
   ],
   "bear": [
-   "EBITDA margin dropped from 26% FY25 to 20% FY27.",
-   "Quarterly revenue YoY fell 1.5% in Q2 FY27.",
-   "No disclosed data to confirm promised >50% gross margin."
+   "Borrowings increased 3.6x over 3 years from ₹2,002 crore in Mar 2024 to ₹7,229 crore in Sep 2026.",
+   "Operating EBIT margin contracted 700 bps over 3 years as profit growth lagged sales.",
+   "PAT declined YoY for three consecutive quarters, dropping 69.1% in Jun 2026 and 31.7% in Sep 2026."
   ],
   "watch": [
-   "Actual FY27 capex spend.",
-   "R&D spend as % of revenue.",
-   "Semaglutide pen supply volumes."
+   "Validation and delivery of 6-7 million semaglutide pens by March FY27.",
+   "R&D spend holding within the guided 7-8% range.",
+   "FY27 capex cash outflow relative to revised ₹1,600-1,700 crore guidance."
   ]
  },
  "ledger_ok": true,
@@ -924,22 +899,22 @@
    "in": 13833,
    "out": 1237,
    "secs": 4.2,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 9183,
+   "out": 331,
+   "secs": 3.7,
    "cached": false,
    "fallback": false
   },
   {
    "model": "gemini-3.5-flash-lite",
-   "in": 9180,
-   "out": 395,
-   "secs": 11.5,
-   "cached": false,
-   "fallback": false
-  },
-  {
-   "model": "gemini-3.5-flash-lite",
-   "in": 16324,
-   "out": 1015,
-   "secs": 4.2,
+   "in": 16327,
+   "out": 960,
+   "secs": 4.3,
    "cached": false,
    "fallback": false
   },
@@ -948,7 +923,7 @@
    "in": 13919,
    "out": 1056,
    "secs": 4.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -956,30 +931,30 @@
    "in": 12245,
    "out": 259,
    "secs": 3.6,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 3288,
-   "out": 1208,
-   "secs": 3.5,
+   "model": "gemini-3.6-flash",
+   "in": 3559,
+   "out": 2827,
+   "secs": 36.9,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 68789,
-  "tokens_out": 5170,
+  "fresh_calls": 3,
+  "tokens_in": 69066,
+  "tokens_out": 6670,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 36.7
+  "secs": 46.5
  }
 }
