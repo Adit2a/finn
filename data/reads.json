@@ -1022,5 +1022,25 @@
 ],
 "model": "gemini-3.5-flash-lite",
 "ts": "2026-11-12T17:33:25"
+},
+"106858944": {
+"category": "management_change",
+"headline": "V. Srinivasa Rangan re-appointed as Executive Director of HDFC Bank for 1 year",
+"why": null,
+"materiality": 30,
+"amount_cr": null,
+"people": [
+{
+"name": "V. Srinivasa Rangan",
+"role": "Whole-time Director (designated as Executive Director)",
+"change": "re-appointed",
+"effective": "November 23, 2026",
+"background": "Aged 66, holds Bachelor of Commerce from University of Delhi and is an Associate of ICAI. Former Executive Director & CFO of HDFC Limited. Serves on boards of Credila Financial Services Limited and HDFC Asset Management Company Limited.",
+"previous": "Executive Director & CFO of HDFC Limited",
+"reason": null
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-13T16:35:23"
 }
 }
