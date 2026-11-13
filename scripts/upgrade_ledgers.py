@@ -10,7 +10,8 @@ reviewed against Flash-Lite's and were not reliably better, e.g. a margin from t
     python scripts/upgrade_ledgers.py TCS --rest         # TCS first, then all the others
     python scripts/upgrade_ledgers.py --limit=12         # leave some of the day's quota for live use
 
-Stops by itself once Flash's free daily quota is used up.
+Stops by itself when Flash stops answering (daily quota spent, or overloaded at US peak hours;
+FINN_PROBE_TIMEOUT=60 makes the run more patient).
 """
 import json
 import os
@@ -64,6 +65,6 @@ if __name__ == "__main__":
         print(f"[{i}/{len(todo)}] {s}: {old} -> {new} {'(kept new)' if better else '(kept previous)'}", flush=True)
         misses = 0 if better else misses + 1
         if misses >= 2:
-            print("Gemini Flash is out of quota for today; stopping. Run again after the daily reset.", flush=True)
+            print("Gemini Flash is not answering (daily quota spent, or overloaded); stopping. Try again later, with FINN_PROBE_TIMEOUT=60 at busy hours.", flush=True)
             break
         time.sleep(8)

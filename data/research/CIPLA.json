@@ -2,12 +2,12 @@
  "symbol": "CIPLA",
  "name": "Cipla Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:19:12",
+ "generated_at": "2026-11-13T23:05:07",
  "latest_call": "Oct 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 113732.0,
-   "pe": 36.6,
+   "market_cap_cr": 112306.0,
+   "pe": 36.2,
    "roce": 15.5,
    "roe": 11.6,
    "ttm_revenue": 28139.0,
@@ -800,11 +800,11 @@
   "promise_ledger": [
    {
     "ref": "g1.1",
-    "promise": "FY26 EBITDA margin around 21%",
+    "promise": "FY26 EBITDA margin guidance to land at around 21%",
     "made_in": "Q3 FY26",
-    "delivered": "FY26 EBITDA margin reported at 21.0%, meeting guidance",
+    "delivered": "FY26 reported EBITDA margin landed at 21.0%, meeting the full year target.",
     "verdict": "delivered",
-    "checked_against": "FY26 EBITDA%",
+    "checked_against": "Mar 2026 annual EBITDA%",
     "quote": "Now, these are deliberate strategic choices and will lead to FY’26 EBITDA margin guidance to land at around 21%.",
     "page": 6,
     "verified": true,
@@ -812,11 +812,11 @@
    },
    {
     "ref": "g2.1",
-    "promise": "FY27 EBITDA margin 18.5%‑20%",
+    "promise": "FY27 EBITDA margins in the range of 18.5% to 20%",
     "made_in": "Q4 FY26",
-    "delivered": "Q2 FY27 EBITDA margin 19.0%, within range",
-    "verdict": "delivered",
-    "checked_against": "Q2 FY27 EBITDA%",
+    "delivered": "Pending; repeated in g3.1 and g4.1. Q1 FY27 EBITDA margin was 17.0% and Q2 FY27 was 19.0%.",
+    "verdict": "too_early",
+    "checked_against": "Q1 FY27 and Q2 FY27 EBITDA%",
     "quote": "We expect the EBITDA margins to be in the range of 18.5% to 20% and this would be actually achieved with a sequential improvement quarter-on-quarter",
     "page": 7,
     "verified": true,
@@ -824,11 +824,11 @@
    },
    {
     "ref": "g2.2",
-    "promise": "$1 billion NA run‑rate by FY27 end",
+    "promise": "Reach $1 billion run rate for North America towards end of FY27",
     "made_in": "Q4 FY26",
-    "delivered": "Q2 FY27 NA revenue $172 m → annualized $688 m, below $1 bn",
-    "verdict": "missed",
-    "checked_against": "Q2 FY27 NA revenue",
+    "delivered": "Pending FY27 exit; repeated in g4.2. Management reported Q2 FY27 NA revenue of $172 million.",
+    "verdict": "too_early",
+    "checked_against": "Management reported Q2 FY27 North America revenue",
     "quote": "our aim is to cross $1 billion mark as a run rate towards the end of this financial year, i.e., FY '27.",
     "page": 7,
     "verified": true,
@@ -836,61 +836,49 @@
    },
    {
     "ref": "g4.3",
-    "promise": "R&D expense 6%‑7% of revenue FY27",
+    "promise": "Full year R&D expense in range of 6% to 7% of revenue",
     "made_in": "Q2 FY27",
-    "delivered": "R&D spend not disclosed in reported numbers",
+    "delivered": "Pending full year FY27 financial results.",
     "verdict": "too_early",
-    "checked_against": "R&D expense data",
+    "checked_against": "FY27 annual financial reports",
     "quote": "We continue to guide for the full year R&D expense in the range of 6% to 7% of the revenue.",
     "page": 5,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b3ecbdbf-929d-4e28-9598-94a0069417b4.pdf"
-   },
-   {
-    "ref": "g4.5",
-    "promise": "Effective tax 27%‑27.5% FY27",
-    "made_in": "Q2 FY27",
-    "delivered": "Tax rate not disclosed in reported numbers",
-    "verdict": "too_early",
-    "checked_against": "Effective tax rate data",
-    "quote": "It will be in the range of 27% to 27.5%, Neha.",
-    "page": 11,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b3ecbdbf-929d-4e28-9598-94a0069417b4.pdf"
    }
   ],
   "credibility": {
-   "score": 6,
-   "line": "Management hits headline EBITDA targets but falls short on NA revenue run‑rate."
+   "score": null,
+   "line": "Only one promise can be checked against reported numbers so far — too few to score."
   },
   "narrative_vs_numbers": [
    {
+    "agree": false,
+    "point": "Management claimed 10% YoY growth in One-India for Q3 FY26, but total revenue was flat at 0.0% YoY."
+   },
+   {
     "agree": true,
-    "point": "EBITDA margin narrative aligns with FY26 actual 21%."
+    "point": "Management guided FY26 EBITDA margin at around 21%, matching the reported full-year figure of 21.0%."
    },
    {
     "agree": false,
-    "point": "North America $1 bn run‑rate claim not supported by Q2 FY27 data."
-   },
-   {
-    "agree": false,
-    "point": "R&D expense guidance cannot be validated from disclosed figures."
+    "point": "Management reported 4% sequential revenue growth in Q2 FY27, but YoY revenue fell -2.4% and PAT dropped -37.0%."
    }
   ],
   "bull": [
-   "FY26 EBITDA margin hit 21% confirming margin guidance.",
-   "Q2 FY27 EBITDA margin 19% stays within FY27 target range.",
-   "Operating cash flow remains strong, OCF/PAT >1."
+   "Achieved FY26 EBITDA margin target of 21.0%, matching management guidance.",
+   "Strong 5-year operating cash conversion with OCF/PAT ratio standing at 1.05.",
+   "Practically debt-free balance sheet maintaining low D/E ratio of 0.02 in Sep 2026."
   ],
   "bear": [
-   "North America revenue annualized $688 m, far from $1 bn goal.",
-   "Quarterly revenue fell YoY in Mar‑2026, indicating slowdown.",
-   "PAT declined sharply YoY in recent quarters, signaling profit pressure."
+   "Q2 FY27 PAT fell 37.0% YoY to ₹852 crore, completing four straight quarters of steep decline.",
+   "Free cash flow dropped sharply from ₹3,490 crore in FY25 to ₹928 crore in FY26.",
+   "Cash cycle lengthened by 20 days over two years from 182 to 202 days."
   ],
   "watch": [
-   "NA revenue trend to see if run‑rate improves.",
-   "R&D spend as % of revenue in FY27.",
-   "Effective tax rate disclosure."
+   "Q3 FY27 EBITDA margin toward full-year 18.5% to 20% guidance.",
+   "North America quarterly revenue progression toward $1 billion exit run-rate target.",
+   "Working capital cycle trajectory from 202 days."
   ]
  },
  "ledger_ok": true,
@@ -900,7 +888,7 @@
    "in": 14420,
    "out": 609,
    "secs": 3.2,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -908,7 +896,7 @@
    "in": 14283,
    "out": 917,
    "secs": 4.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -916,7 +904,7 @@
    "in": 13951,
    "out": 503,
    "secs": 3.3,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -924,7 +912,7 @@
    "in": 12424,
    "out": 1238,
    "secs": 9.4,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -932,30 +920,30 @@
    "in": 11223,
    "out": 382,
    "secs": 2.7,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 2964,
-   "out": 980,
-   "secs": 3.2,
+   "model": "gemini-3.6-flash",
+   "in": 3276,
+   "out": 3222,
+   "secs": 32.9,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 69265,
-  "tokens_out": 4629,
+  "fresh_calls": 1,
+  "tokens_in": 69577,
+  "tokens_out": 6871,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 35.9
+  "secs": 33.9
  }
 }

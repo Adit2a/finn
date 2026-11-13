@@ -2,12 +2,12 @@
  "symbol": "ULTRACEMCO",
  "name": "UltraTech Cement Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:47:01",
+ "generated_at": "2026-11-13T23:03:46",
  "latest_call": "Oct 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 368466.0,
-   "pe": 41.4,
+   "market_cap_cr": 357618.0,
+   "pe": 40.2,
    "roce": 12.7,
    "roe": 11.1,
    "ttm_revenue": 95572.0,
@@ -918,97 +918,101 @@
   "promise_ledger": [
    {
     "ref": "g1.1",
-    "promise": "Reach 0.8x to 0.9x net debt to EBITDA by end of fiscal year.",
+    "promise": "Reach 0.8x to 0.9x net debt to EBITDA by end of fiscal year",
     "made_in": "Q3 FY26",
-    "delivered": "Reported net debt to EBITDA was 1.26x at September '26, missing the sub-1x expectation for the year.",
+    "delivered": "Net debt to EBITDA remained at 1.26x in September 2026, delaying sub-1x leverage to March 2027",
     "verdict": "missed",
-    "checked_against": "Q2 FY27 call management statements",
+    "checked_against": "Q2 FY27 management call commentary on leverage",
     "quote": "I believe and I'm very confident that we'll reach the mark of 1x and be in 0.8, 0.9x net debt EBITDA by the end of this fiscal year.",
     "page": 5,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2974562d-4ddc-4eab-bb39-5c69215eecc3.pdf"
    },
    {
-    "ref": "g2.2",
-    "promise": "Sustainable volume growth of 7% to 8% per annum.",
-    "made_in": "Q4 FY26",
-    "delivered": "Achieved domestic grey cement volume growth of 13.1% in Q1 FY27 and overall volume growth of 13.8% in Q2 FY27.",
-    "verdict": "delivered",
-    "checked_against": "Q1 FY27 and Q2 FY27 management claims",
-    "quote": "We expect a sustainable volume growth of 7% to 8% per annum.",
-    "page": 5,
+    "ref": "g1.5",
+    "promise": "Reach total capacity of 235 million tons by FY28",
+    "made_in": "Q3 FY26",
+    "delivered": "Management raised target in Q4 FY26 to over 242.5 million tons by FY28",
+    "verdict": "walked_back",
+    "checked_against": "Q4 FY26 management guidance update",
+    "quote": "235 by FY fiscal ' 28.",
+    "page": 12,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4e6bf58-5985-4eda-b714-7489b4b926b0.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2974562d-4ddc-4eab-bb39-5c69215eecc3.pdf"
    },
    {
     "ref": "g3.3",
-    "promise": "Target double-digit volume growth this fiscal year.",
+    "promise": "Target double-digit volume growth this fiscal year",
     "made_in": "Q1 FY27",
-    "delivered": "Achieved 13.1% volume growth in Q1 and 13.8% in Q2 FY27, meeting the double-digit target.",
+    "delivered": "Domestic grey cement volume grew 13.1% in Q1 FY27 and total volume grew 13.8% in Q2 FY27",
     "verdict": "delivered",
-    "checked_against": "Q1 FY27 and Q2 FY27 management claims",
+    "checked_against": "Q1 FY27 and Q2 FY27 reported volume growth claims",
     "quote": "Yes, we are targeting double-digit volume growth this year.",
     "page": 16,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4fd54e8a-8de9-4547-8a4c-908568d1cd0e.pdf"
    },
    {
-    "ref": "g4.1",
-    "promise": "Maintain FY27 capex guidance at around INR10,000 crores.",
-    "made_in": "Q2 FY27",
-    "delivered": "Guidance was maintained at plus-minus INR10,000 crores pending Q3 results evaluation.",
-    "verdict": "delivered",
-    "checked_against": "Q2 FY27 call guidance",
-    "quote": "I will still stick to INR10,000, but it will be better to look at a full year number after the Q3 results. Plus minus INR10,000 crores.",
-    "page": 8,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3892cb51-dbcd-43ad-955f-fe9fafe54003.pdf"
-   },
-   {
     "ref": "g1.2",
-    "promise": "Launch cable and wires products in October-December 2026 quarter.",
+    "promise": "Launch cable and wires products in October-December 2026 quarter",
     "made_in": "Q3 FY26",
-    "delivered": "Reaffirmed in Q1 FY27 for Q3 fiscal '27; pending final reporting of Q3 results.",
+    "delivered": "Reaffirmed in Q1 FY27 call for product launch in Q3 FY27",
     "verdict": "too_early",
-    "checked_against": "Q1 FY27 call guidance",
+    "checked_against": "Q1 FY27 management commentary",
     "quote": "civil work has started, and we are on schedule to see the launch of our product in the October-December '26 quarter as was committed earlier.",
     "page": 5,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2974562d-4ddc-4eab-bb39-5c69215eecc3.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Maintain FY27 capex guidance at around INR 10,000 crores",
+    "made_in": "Q2 FY27",
+    "delivered": "Guidance kept at around INR 10,000 crores for FY27",
+    "verdict": "too_early",
+    "checked_against": "Q2 FY27 management commentary",
+    "quote": "I will still stick to INR10,000, but it will be better to look at a full year number after the Q3 results. Plus minus INR10,000 crores.",
+    "page": 8,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3892cb51-dbcd-43ad-955f-fe9fafe54003.pdf"
    }
   ],
   "credibility": {
-   "score": 6,
-   "line": "Management delivers volume targets and capex plans, but struggles to hit net debt to EBITDA reduction goals."
+   "score": 7,
+   "line": "Management delivers on capacity expansions and volume growth but delayed leverage reduction to 1.26x net debt to EBITDA."
   },
   "narrative_vs_numbers": [
    {
+    "agree": true,
+    "point": "Q1 FY27 revenue rose 15.9% YoY to ₹24,648 crore, supporting claims of record first quarter performance."
+   },
+   {
     "agree": false,
-    "point": "Management stated net debt to EBITDA would drop below 1x by March, but reported 1.26x at September '26."
+    "point": "Management promised FY26 net debt/EBITDA of 0.8x-0.9x, but reported leverage remained elevated at 1.26x in September 2026."
    },
    {
     "agree": true,
-    "point": "Reported financial data shows borrowings rose 2.6x from INR11,403 crores in Mar 2024 to INR29,289 crores in Sep 2026."
+    "point": "Borrowings increased 2.6x from ₹11,403 crore in FY24 to ₹29,289 crore in September 2026 to fund expansion."
    },
    {
     "agree": true,
-    "point": "Operating cash flow strength is supported by 5y cash conversion at 1.64x of profit."
+    "point": "Operating cash flow expanded 43.4% to ₹15,316 crore in FY26, yielding ₹5,805 crore free cash flow."
    }
   ],
   "bull": [
-   "Consolidated annual revenue grew to INR88,512 crores in FY26.",
-   "Strong 5-year operating cash flow conversion at 1.64x of profit.",
-   "Domestic grey cement volume grew 13.1% in Q1 FY27."
+   "Revenue grew 18.8% YoY in Q2 FY27 to ₹23,295 crore with 13.8% quarterly volume growth.",
+   "FY26 operating cash flow reached ₹15,316 crore with 5-year average cash conversion of 164%.",
+   "Domestic production capacity reached 204.7 million tons after commissioning 4.6 million tons in September 2026."
   ],
   "bear": [
-   "Borrowings increased significantly to INR29,289 crores in Sep 2026 from INR11,403 crores in Mar 2024.",
-   "Net debt to EBITDA stood at 1.26x in September '26, missing targets.",
-   "Equity decreased from INR76,624 crores in Mar 2026 to INR73,588 crores in Sep 2026."
+   "Borrowings escalated 2.6x from ₹11,403 crore in FY24 to ₹29,289 crore in September 2026.",
+   "Net debt to EBITDA ratio stands at 1.26x in September 2026 versus target below 1x.",
+   "EBITDA margin dropped from 22.0% in Q4 FY26 to 16.0% in Q2 FY27."
   ],
   "watch": [
-   "Net debt to EBITDA ratio status in March 2027",
-   "Cables and wires product launch in Q3 FY27",
-   "Capex execution versus INR10,000 crores guidance"
+   "Net debt to EBITDA reduction below 1x by March 2027 target.",
+   "Wires and cables product launch execution in Q3 FY27.",
+   "Progress on achieving 240 million tons capacity target in FY27."
   ]
  },
  "ledger_ok": true,
@@ -1018,7 +1022,7 @@
    "in": 11862,
    "out": 1109,
    "secs": 11.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1026,7 +1030,7 @@
    "in": 14976,
    "out": 1089,
    "secs": 4.4,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1034,7 +1038,7 @@
    "in": 13899,
    "out": 1144,
    "secs": 4.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1042,7 +1046,7 @@
    "in": 13418,
    "out": 1054,
    "secs": 13.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1050,29 +1054,30 @@
    "in": 10734,
    "out": 164,
    "secs": 8.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
+   "model": "gemini-3.6-flash",
    "in": 4070,
-   "out": 1042,
-   "secs": 11.2,
+   "out": 5262,
+   "secs": 31.8,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
+  "fresh_calls": 1,
   "tokens_in": 68959,
-  "tokens_out": 5602,
+  "tokens_out": 9822,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 64.3
+  "secs": 32.8
  }
 }

@@ -2,12 +2,12 @@
  "symbol": "ADANIPORTS",
  "name": "Adani Ports & Special Economic Zone Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:10:05",
+ "generated_at": "2026-11-13T23:08:30",
  "latest_call": "Jul 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 449111.0,
-   "pe": 32.5,
+   "market_cap_cr": 439994.0,
+   "pe": 31.8,
    "roce": 14.1,
    "roe": 16.4,
    "ttm_revenue": 42603.0,
@@ -847,35 +847,47 @@
   "promise_ledger": [
    {
     "ref": "g1.3",
-    "promise": "Maintain average net debt to EBITDA of 2.5x",
+    "promise": "Maintain average net debt to EBITDA policy of 2.5x",
     "made_in": "Q2 FY26",
-    "delivered": "Sep 2026 net debt 65,998 cr vs EBITDA 6,807 cr → ~9.7x; repeat in g3.2 also missed",
-    "verdict": "missed",
-    "checked_against": "Sep 2026 net debt/EBITDA",
+    "delivered": "Reported net debt to EBITDA at 1.8x in Q3 FY26 and 1.9x in Q1 FY27, beating target ceiling.",
+    "verdict": "delivered",
+    "checked_against": "Q3 FY26 and Q1 FY27 leverage claims",
     "quote": "Our approach to leverage, we have said that we would like to actually have a policy of average net debt to EBITDA of 2.5x.",
     "page": 8,
     "verified": true,
     "url": "https://www.adaniports.com/-/media/Project/Ports/Investor/Transcripts/Transcript-InvestecQ2--H1-FY26--Updated.pdf"
    },
    {
-    "ref": "g4.1",
-    "promise": "Capex guidance slightly ahead of guidance",
-    "made_in": "Q1 FY27",
-    "delivered": "Capex amount not disclosed in reported data",
-    "verdict": "too_early",
-    "checked_against": "none",
-    "quote": "It is actually slightly ahead of the guidance at this point.",
-    "page": 13,
+    "ref": "g3.3",
+    "promise": "Grow revenue at CAGR of 18% to 19% over next 5 years",
+    "made_in": "Q4 FY26",
+    "delivered": "FY26 revenue rose 27.1%; Q1 FY27 revenue grew 18.6% YoY and Q2 FY27 grew 23.7% YoY.",
+    "verdict": "delivered",
+    "checked_against": "Mar 2026, Jun 2026, and Sep 2026 reported revenue",
+    "quote": "So with that story in mind, we keep the target of growing at CAGR of 18% to 19%.",
+    "page": 25,
     "verified": true,
-    "url": "https://www.adaniports.com/-/media/project/ports/investor/transcripts/transcript.pdf"
+    "url": "https://www.adaniports.com/-/media/project/ports/investor/transcripts/apsez-q4fy26-earnings-conference-call_transcript.pdf"
+   },
+   {
+    "ref": "g1.5",
+    "promise": "Domestic port EBITDA margins to remain in 75% to 77% range",
+    "made_in": "Q2 FY26",
+    "delivered": "Management reported domestic port margin at 74% in Q1 FY27, slightly below the 75-77% target.",
+    "verdict": "partly",
+    "checked_against": "Q1 FY27 domestic port EBITDA margin claim",
+    "quote": "we expect that to be somewhere in the region of 75% to 77% whenever we are able to, over a long period of time",
+    "page": 15,
+    "verified": true,
+    "url": "https://www.adaniports.com/-/media/Project/Ports/Investor/Transcripts/Transcript-InvestecQ2--H1-FY26--Updated.pdf"
    },
    {
     "ref": "g2.1",
-    "promise": "FY29 revenue INR 65,500 cr and EBITDA INR 36,500 cr",
+    "promise": "Reach FY29 target of INR 65,500 crores revenue and INR 36,500 crores EBITDA",
     "made_in": "Q3 FY26",
-    "delivered": "FY26 revenue INR 38,736 cr and EBITDA INR 22,868 cr; target beyond current horizon",
+    "delivered": "FY26 revenue reached ₹38,736 crore and EBITDA reached ₹22,868 crore; 5-year target remains ongoing.",
     "verdict": "too_early",
-    "checked_against": "FY26 revenue and EBITDA",
+    "checked_against": "Mar 2026 reported revenue and EBITDA",
     "quote": "our end of 5-year plan, where we said we will be doing INR65,500 crores of revenue and INR36,500 crores of EBITDA.",
     "page": 3,
     "verified": true,
@@ -883,37 +895,41 @@
    }
   ],
   "credibility": {
-   "score": null,
-   "line": "Only one promise can be checked against reported numbers so far — too few to score."
+   "score": 8,
+   "line": "Management consistently delivers top-line growth and maintains leverage well below its 2.5x net debt ceiling."
   },
   "narrative_vs_numbers": [
    {
+    "agree": true,
+    "point": "Management claimed strong growth in FY26; reported revenue grew 27.1% to ₹38,736 crore and EBITDA reached ₹22,868 crore."
+   },
+   {
     "agree": false,
-    "point": "Management touted low leverage (1.8x) but reported net debt/EBITDA ~9.7x."
+    "point": "Despite record operating cash of ₹20,356 crore in FY26, free cash flow dropped 45% to ₹5,074 crore due to heavy capex."
    },
    {
     "agree": true,
-    "point": "FY26 revenue grew 27% vs claimed 25% growth."
+    "point": "Leverage claims hold up as reported D/E ratio improved to 0.65 in Sep 2026 from 0.83 in Mar 2025."
    },
    {
-    "agree": true,
-    "point": "FY26 EBITDA grew 24% vs claimed 20% growth."
+    "agree": false,
+    "point": "Domestic port margins of 74% in Q1 FY27 slightly lagged the targeted 75% to 77% long-term range."
    }
   ],
   "bull": [
-   "Revenue up 27% YoY to INR 38,736 cr shows strong top‑line momentum.",
-   "EBITDA up 24% YoY to INR 22,868 cr confirms operating leverage.",
-   "Operating cash flow rose to INR 20,356 cr, supporting cash conversion."
+   "FY26 revenue surged 27.1% to ₹38,736 crore with EBITDA growing 24.1% to ₹22,868 crore.",
+   "Operating cash flow hit ₹20,356 crore in FY26, supporting a 5-year cash conversion ratio of 177%.",
+   "Debt to equity ratio lowered to 0.65 in Sep 2026 from 0.83 in Mar 2025."
   ],
   "bear": [
-   "Net debt/EBITDA at ~9.7x far exceeds 2.5x policy, indicating high leverage.",
-   "PAT growth 15.6% falls short of the 16% claim, hinting margin pressure.",
-   "Debt‑to‑equity ratio rose to 0.65, higher than prior years, raising risk."
+   "Free cash flow fell 45% in FY26 to ₹5,074 crore from ₹9,228 crore in FY25.",
+   "Total borrowings increased to ₹65,998 crore in Sep 2026 from ₹51,621 crore in Mar 2025.",
+   "Domestic port margins came in at 74% in Q1 FY27, missing the 75%-77% target band."
   ],
   "watch": [
-   "Quarterly net debt and EBITDA to see if leverage improves.",
-   "Capex spend trends for the 5‑year plan.",
-   "Domestic port volume trends toward 1 bn mt target."
+   "Free cash flow generation relative to accelerating capex outlay.",
+   "Domestic port EBITDA margin recovery back to 75%-77% range.",
+   "Leverage metrics as borrowings reached ₹65,998 crore in Sep 2026."
   ]
  },
  "ledger_ok": true,
@@ -923,7 +939,7 @@
    "in": 14056,
    "out": 1359,
    "secs": 27.6,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -931,7 +947,7 @@
    "in": 15210,
    "out": 809,
    "secs": 4.7,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -939,7 +955,7 @@
    "in": 20236,
    "out": 851,
    "secs": 4.3,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -947,7 +963,7 @@
    "in": 18078,
    "out": 659,
    "secs": 26.4,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -955,30 +971,30 @@
    "in": 12447,
    "out": 243,
    "secs": 2.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 3246,
-   "out": 1488,
-   "secs": 4.5,
+   "model": "gemini-3.6-flash",
+   "in": 3608,
+   "out": 5004,
+   "secs": 33.5,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 83273,
-  "tokens_out": 5409,
+  "fresh_calls": 1,
+  "tokens_in": 83635,
+  "tokens_out": 8925,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 78.7
+  "secs": 34.7
  }
 }

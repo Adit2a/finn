@@ -2,12 +2,12 @@
  "symbol": "POWERGRID",
  "name": "Power Grid Corporation of India Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:38:21",
- "latest_call": "Aug 2026",
+ "generated_at": "2026-11-13T23:09:53",
+ "latest_call": "Nov 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 243446.0,
-   "pe": 15.0,
+   "market_cap_cr": 240045.0,
+   "pe": 14.8,
    "roce": 9.1,
    "roe": 15.3,
    "ttm_revenue": 47374.0,
@@ -391,12 +391,12 @@
   },
   {
    "kind": "transcript",
-   "label": "Q4 FY26 call",
+   "label": "Q4 FY26 (Apr) call",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=31b888a3-6061-40e7-aae7-2e0cd1588361.pdf"
   },
   {
    "kind": "transcript",
-   "label": "Q4 FY26 call",
+   "label": "Q4 FY26 (May) call",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4fe8a91b-00ea-4603-96d7-ff9e6c48add9.pdf"
   },
   {
@@ -535,7 +535,7 @@
   },
   {
    "n": 2,
-   "quarter": "Q4 FY26",
+   "quarter": "Q4 FY26 (Apr)",
    "date": "Apr 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=31b888a3-6061-40e7-aae7-2e0cd1588361.pdf",
    "pages": 15,
@@ -543,7 +543,7 @@
    "guidance": [
     {
      "metric": "capex",
-     "promise": "FY27 Capex of Rs 45,000 crore",
+     "promise": "FY27 Capex will be Rs 45,000 crore",
      "horizon": "FY27",
      "low": 45000,
      "high": 45000,
@@ -556,12 +556,12 @@
     },
     {
      "metric": "capex",
-     "promise": "FY28 Capex commitment with Government of India of Rs 37,000 crore",
-     "horizon": "FY28",
+     "promise": "Next financial year Capex committed to Government of India to be Rs 37,000 crore",
+     "horizon": "Next financial year",
      "low": 37000,
      "high": 37000,
      "unit": "cr",
-     "quote": "next year, we are already committed with Government of India to be Rs. 37,000 crore.",
+     "quote": "So next year, we are already committed with Government of India to be Rs. 37,000 crore. Definitely, it is going to be more than Rs. 37,000 crore.",
      "page": 6,
      "speaker": "Dr. R.K. Tyagi - Chairman & MD",
      "verified": true,
@@ -569,12 +569,12 @@
     },
     {
      "metric": "other",
-     "promise": "FY27 capitalization of Rs 30,000 crore",
+     "promise": "FY27 Capitalization will be Rs 30,000 crore",
      "horizon": "FY27",
      "low": 30000,
      "high": 30000,
      "unit": "cr",
-     "quote": "next year, Rs. 30,000 crore, then in FY28 it is going to be Rs. 35,000 crore.",
+     "quote": "Similarly capitalisation. This year, Rs. 25,000 crore next year, Rs. 30,000 crore",
      "page": 6,
      "speaker": "Dr. R.K. Tyagi - Chairman & MD",
      "verified": true,
@@ -582,7 +582,7 @@
     },
     {
      "metric": "other",
-     "promise": "FY28 capitalization of Rs 35,000 crore",
+     "promise": "FY28 Capitalization will be Rs 35,000 crore",
      "horizon": "FY28",
      "low": 35000,
      "high": 35000,
@@ -592,53 +592,66 @@
      "speaker": "Dr. R.K. Tyagi - Chairman & MD",
      "verified": true,
      "id": "g2.4"
+    },
+    {
+     "metric": "other",
+     "promise": "Projected capitalization will be about Rs 65,000 crore in next 2 years",
+     "horizon": "Next 2 years",
+     "low": 65000,
+     "high": 65000,
+     "unit": "cr",
+     "quote": "So projected capitalization will be somewhere about Rs. 65,000 crore in next 2 years.",
+     "page": 6,
+     "speaker": "Dr. R.K. Tyagi - Chairman & MD",
+     "verified": true,
+     "id": "g2.5"
     }
    ],
    "claims": [
     {
-     "claim": "Achieved Capex of Rs 35,000+ crore for financial year 25-26",
-     "quote": "today, we are now announcing that our Capex guideline will be Rs. 35,000 plus crore, and already we have achieved Rs. 35,000 crore.",
+     "claim": "Achieved Capex of Rs 35,000 plus crore for FY26",
+     "quote": "Today, we are now announcing that our Capex guideline will be Rs. 35,000 plus crore, and already we have achieved Rs. 35,000 crore.",
      "page": 5,
      "verified": true
     },
     {
-     "claim": "Achieved capitalization of Rs 22,749 crore for the financial year",
+     "claim": "Achieved capitalization of Rs 22,749 crore this financial year",
      "quote": "we have already achieved Rs. 22,749 crore with a commissioning of Khetri Narela with a commissioning of Bhadla III Sikar II line",
      "page": 5,
      "verified": true
     },
     {
-     "claim": "Achieved financial year transmission availability of 99.84%",
-     "quote": "This financial year, we are having availability of 99.84%. Trippings per line, 0.25 trippings per line",
+     "claim": "Achieved transmission system availability of 99.84% this financial year",
+     "quote": "This financial year, we are having availability of 99.84%.",
      "page": 5,
      "verified": true
     }
    ],
    "pushback": [
     {
-     "topic": "Inflationary pressure and TBCB project returns",
-     "quote": "So, how are we placed in such a scenario? For the current project, TBCB projects that we've won, and do you expect any hit to the estimated IRRs there?",
+     "topic": "Inflation and TBCB project execution costs",
+     "quote": "Just wanted to understand, given that we are in a very inflationary period, especially energy, and then there might be a lot of cascading impact on TBCB projects",
      "page": 7,
      "verified": true
     },
     {
-     "topic": "Execution delays and upcoming order capability",
+     "topic": "Execution delays and skilled manpower/equipment challenges",
      "quote": "Siddharth Gupta: But, sir, what about the execution abilities? In that context, will we be able… like, with the execution delays, if at all, any that from our end?",
      "page": 8,
      "verified": true
     },
     {
-     "topic": "Slowdown in project tendering and Rajasthan evacuation planning",
+     "topic": "Slowdown in project tendering during last year",
      "quote": "Prawin Visesh: So, this is Prawin from PPFAS. I just wanted, your take on… I mean, last year we had seen a slowdown in project, tendering, so I just wanted to understand…Hello?",
      "page": 12,
      "verified": true
     }
    ],
-   "tone": "Confident, optimistic, and transparent regarding growth visibility, execution capabilities, and future capital deployment."
+   "tone": "Confident and optimistic about long-term growth, execution capabilities, and financial outlook."
   },
   {
    "n": 3,
-   "quarter": "Q4 FY26",
+   "quarter": "Q4 FY26 (May)",
    "date": "May 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4fe8a91b-00ea-4603-96d7-ff9e6c48add9.pdf",
    "pages": 24,
@@ -646,78 +659,46 @@
    "guidance": [
     {
      "metric": "capex",
-     "promise": "FY27 CapEx initial guidance is 37000 crore",
+     "promise": "FY27 CapEx initial guidance of Rs 37,000 crore",
      "horizon": "FY27",
      "low": 37000,
      "high": 37000,
      "unit": "cr",
      "quote": "And the guidance of CapEx for FY27, the initial guidance I should say is ₹37,000 crore.",
      "page": 5,
-     "speaker": "Shri Burra Vamsi Rama Mohan",
+     "speaker": "Shri Burra Vamsi Rama Mohan – Chairman and Managing Director",
      "verified": true,
      "id": "g3.1"
     },
     {
      "metric": "capex",
-     "promise": "FY27 capitalization initial guidance up to 30000 crore",
-     "horizon": "FY27",
-     "low": null,
-     "high": 30000,
-     "unit": "cr",
-     "quote": "The guidance for FY27 is up to ₹30,000 crore initially.",
-     "page": 5,
-     "speaker": "Shri Burra Vamsi Rama Mohan",
-     "verified": true,
-     "id": "g3.2"
-    },
-    {
-     "metric": "capex",
-     "promise": "FY28 CapEx initial guidance beyond 40000 crore in 40000-45000 crore range",
+     "promise": "FY28 initial CapEx guidance will be beyond Rs 40,000 crore",
      "horizon": "FY28",
      "low": 40000,
      "high": 45000,
      "unit": "cr",
      "quote": "F28, that would be naturally going beyond ₹40,000 crore, the initial guidance. Again, as I am saying it will be beyond ₹40,000 crore. In the ₹40,000-45,000 crore range, it will be standing there.",
      "page": 11,
-     "speaker": "Shri Burra Vamsi Rama Mohan",
+     "speaker": "Shri Burra Vamsi Rama Mohan – Chairman and Managing Director",
      "verified": true,
-     "id": "g3.3"
-    },
-    {
-     "metric": "capex",
-     "promise": "Next year capitalization moving up to 35000 crore",
-     "horizon": "FY28",
-     "low": null,
-     "high": 35000,
-     "unit": "cr",
-     "quote": "and then next year it should be moving up to ₹35,000 crore.",
-     "page": 11,
-     "speaker": "Shri Burra Vamsi Rama Mohan",
-     "verified": true,
-     "id": "g3.4"
+     "id": "g3.2"
     }
    ],
    "claims": [
     {
-     "claim": "CapEx guidance exceeded reaching close to 40000 crore in FY26",
-     "quote": "the CapEx which had a guidance of initially about ₹28,000 crores in the initial phase, has been subsequently up to ₹35,000 crore, and eventually we could deliver close to ₹40,000 crore.",
+     "claim": "Delivered close to Rs 40,000 crore CapEx in the financial year",
+     "quote": "eventually we could deliver close to ₹40,000 crore.",
      "page": 5,
      "verified": true
     },
     {
-     "claim": "System availability exceeded at more than 99.75%",
-     "quote": "At more than 99.75%, we are way above the mark and continuously deriving the full availability incentive.",
-     "page": 6,
-     "verified": true
-    },
-    {
-     "claim": "Consolidated profit after tax increased by 3% to 15928 crore",
+     "claim": "Consolidated PAT stands at Rs 15,928 crores, a 3% increase",
      "quote": "The profit after tax stands at about ₹15,928 crores which is a 3% increase, all this on the consolidated basis.",
      "page": 9,
      "verified": true
     },
     {
-     "claim": "Gross fixed assets breached 3 lakh crore standing at 320334 crore",
+     "claim": "Gross fixed assets breached Rs 3 lakh crore standing at Rs 3,20,334 crore",
      "quote": "The gross fixed assets, as I have stated that it has breached the ₹3 lakh crore and it stands at ₹3,20,334 crore.",
      "page": 9,
      "verified": true
@@ -725,25 +706,25 @@
    ],
    "pushback": [
     {
-     "topic": "EBITDA decline and accounting method",
-     "quote": "My first question is can you please explain the reason for EBITDA decline in Q4 FY26? Is it due to older assets completing 12 years of life? And can you also please shed some light on the accounting for the new transmission system?",
+     "topic": "EBITDA decline and accounting methods",
+     "quote": "can you please explain the reason for EBITDA decline in Q4 FY26? Is it due to older assets completing 12 years of life? And can you also please shed some light on the accounting for the new transmission system?",
      "page": 10,
      "verified": true
     },
     {
-     "topic": "TBCB equity IRR and cost inflation",
-     "quote": "Do we still believe we can meet that threshold of equity IRRs on these projects given the rise in rates, given the rise in all these costs and our inability to pass them through?",
-     "page": 19,
+     "topic": "BESS strategy and Section 62 role",
+     "quote": "My first question is if you can shed some light on your BESS strategy. You talked about Section 62 also in play here. How do you intend to grow this piece of the portfolio?",
+     "page": 12,
      "verified": true
     },
     {
-     "topic": "CapEx and capitalization phasing",
-     "quote": "Will it be very back-ended, 2H heavy in terms of CapEx and capitalization phasing?",
-     "page": 20,
+     "topic": "TBCB equity IRR sustainability amid rising costs",
+     "quote": "So, earlier, we were guiding on about 11 to 13% equity IRRs at least some time back on these projects. Do we still believe we can meet that threshold of equity IRRs on these projects given the rise in rates, given the rise in all these costs and our inability to pass them through?",
+     "page": 19,
      "verified": true
     }
    ],
-   "tone": "Confident, optimistic, and transparent regarding growth opportunities and operational performance."
+   "tone": "Confident and optimistic regarding transmission sector opportunities, robust execution pace, and financial growth."
   },
   {
    "n": 4,
@@ -875,35 +856,35 @@
    {
     "ref": "g1.1",
     "promise": "FY26 CapEx to exceed Rs 32,000 crores by March 2026",
-    "made_in": "Q3 FY26 call",
-    "delivered": "Management claimed CapEx exceeded reaching close to 40000 crore in FY26.",
+    "made_in": "Q3 FY26",
+    "delivered": "Achieved CapEx of over Rs 35,000 crore in FY26 as confirmed in Q4 FY26 calls.",
     "verdict": "delivered",
-    "checked_against": "Q4 FY26 call statement",
+    "checked_against": "Management call disclosures for FY26 CapEx",
     "quote": "we have target to exceed ₹32,000 crores CapEx this year by March 2026.",
     "page": 5,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5a617224-9433-457b-81bd-a52fe07a67c0.pdf"
    },
    {
-    "ref": "g1.2",
-    "promise": "FY27 CapEx to be Rs 37,000 crores",
-    "made_in": "Q3 FY26 call",
-    "delivered": "Management revised FY27 CapEx guidance to Rs. 45,000 crore on Q4 FY26 call (g2.1).",
+    "ref": "g2.1",
+    "promise": "FY27 Capex will be Rs 45,000 crore",
+    "made_in": "Q4 FY26",
+    "delivered": "Walked back in Q4 FY26 (May) call to an initial guidance of Rs 37,000 crore.",
     "verdict": "walked_back",
-    "checked_against": "Q4 FY26 call guidance",
-    "quote": "for FY27, CapEx will be ₹37,000 crores.",
-    "page": 11,
+    "checked_against": "Q4 FY26 (May) call CapEx guidance statement",
+    "quote": "So for next financial year, it will be Rs. 45,000 crore Capex.",
+    "page": 6,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5a617224-9433-457b-81bd-a52fe07a67c0.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=31b888a3-6061-40e7-aae7-2e0cd1588361.pdf"
    },
    {
-    "ref": "g1.5",
-    "promise": "FY28 capitalization to be Rs 35,000 crores",
-    "made_in": "Q3 FY26 call",
-    "delivered": "Guidance reiterated at Rs. 35,000 crore in Q4 FY26 (g2.4, g3.4), deadline not yet reached.",
+    "ref": "g1.4",
+    "promise": "FY27 capitalization to be Rs 30,000 crores",
+    "made_in": "Q3 FY26",
+    "delivered": "Reiterated in Q1 FY27 call; full year FY27 capitalization result pending.",
     "verdict": "too_early",
-    "checked_against": "Q4 FY26 call guidance",
-    "quote": "and FY28, it will be ₹35,000 crores.",
+    "checked_against": "FY27 capitalization target",
+    "quote": "Capitalization, FY27, will be ₹30,000 crores",
     "page": 11,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5a617224-9433-457b-81bd-a52fe07a67c0.pdf"
@@ -911,36 +892,35 @@
   ],
   "credibility": {
    "score": 6,
-   "line": "Management frequently revises CapEx targets across consecutive calls, while maintaining capitalization guidance."
+   "line": "Management delivers on immediate capex commitments but repeatedly alters medium-term CapEx guidance across consecutive quarters."
   },
   "narrative_vs_numbers": [
    {
-    "agree": true,
-    "point": "Consolidated PAT increased to 15,928 crore for FY26 matching management's reported profit increase."
+    "agree": false,
+    "point": "Mar 2026 EBITDA margin plunged to 45.0% from 86.0% in Dec 2025 despite reported annual PAT growing 3%."
    },
    {
     "agree": false,
-    "point": "EBITDA dropped sharply to 5,303 crore in Mar 2026 (45% EBITDA margin) despite high historical cash conversions."
+    "point": "Free cash flow plummeted from Rs 12,111 crore in Mar 2025 to Rs 3,687 crore in Mar 2026 under heavy CapEx."
    },
    {
     "agree": true,
-    "point": "Gross fixed assets breached 3 lakh crore standing at 320,334 crore for FY26, confirming asset growth claims."
+    "point": "Gross fixed assets breached Rs 3.25 lakh crore in Q1 FY27 as total borrowings expanded to Rs 151,269 crore by Sep 2026."
    }
   ],
   "bull": [
-   "Consolidated PAT increased by 3% to 15,928 crore for the year ending Mar 2026.",
-   "Strong 5y cash conversion of 2.25, with Mar 2026 operating cash flow at 40,935 crore.",
-   "Gross fixed assets stand high at over Rs. 3.25 lakh crore in Q1 FY27."
+   "FY26 PAT reached Rs 15,928 crore while CapEx exceeded target at Rs 35,000+ crore.",
+   "Strong 5-year operating cash conversion standing at 225% of total reported net profit.",
+   "Transmission system availability maintained consistently at a high 99.8% level through Q1 FY27."
   ],
   "bear": [
-   "Operating margin down 1500 bps over 3 years.",
-   "Mar 2026 quarterly EBITDA collapsed to 5,303 crore with EBITDA% falling to 45%.",
-   "Borrowings increased to 151,269 crore as of Sep 2026 with D/E at 1.42."
+   "Operating margin dropped 1500 bps over 3 years down to 70.0% in FY26.",
+   "Free cash flow collapsed by 69.5% to Rs 3,687 crore in FY26.",
+   "Total borrowings surged to Rs 151,269 crore as of September 2026."
   ],
   "watch": [
-   "FY27 capitalization guidance of Rs. 30,000 crore achievement status.",
-   "Borrowings trajectory against Sep 2026 level of 151,269 crore.",
-   "EBITDA margin recovery from Mar 2026 lows."
+   "Progress towards FY27 capitalization guidance of Rs 30,000 crore.",
+   "EBITDA margin recovery from the Mar 2026 low of 45.0%."
   ]
  },
  "ledger_ok": true,
@@ -950,23 +930,23 @@
    "in": 16652,
    "out": 1193,
    "secs": 5.3,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
    "model": "gemini-3.5-flash-lite",
-   "in": 14071,
-   "out": 1076,
-   "secs": 40.1,
-   "cached": false,
+   "in": 14074,
+   "out": 1215,
+   "secs": 4.2,
+   "cached": true,
    "fallback": false
   },
   {
    "model": "gemini-3.5-flash-lite",
-   "in": 17752,
-   "out": 1136,
-   "secs": 12.6,
-   "cached": false,
+   "in": 17755,
+   "out": 852,
+   "secs": 4.3,
+   "cached": true,
    "fallback": false
   },
   {
@@ -974,7 +954,7 @@
    "in": 17033,
    "out": 684,
    "secs": 3.3,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -982,29 +962,30 @@
    "in": 13326,
    "out": 269,
    "secs": 11.2,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
-   "in": 3696,
-   "out": 1081,
-   "secs": 4.9,
+   "model": "gemini-3.6-flash",
+   "in": 3693,
+   "out": 2613,
+   "secs": 18.0,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 82530,
-  "tokens_out": 5439,
+  "fresh_calls": 1,
+  "tokens_in": 82533,
+  "tokens_out": 6826,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 83.4
+  "secs": 20.8
  }
 }
