@@ -2,12 +2,12 @@
  "symbol": "TATACONSUM",
  "name": "Tata Consumer Products Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:43:40",
+ "generated_at": "2026-11-14T21:32:04",
  "latest_call": "Oct 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 107016.0,
-   "pe": 62.2,
+   "market_cap_cr": 106788.0,
+   "pe": 62.1,
    "roce": 9.24,
    "roe": 7.35,
    "ttm_revenue": 21556.0,
@@ -904,9 +904,9 @@
   "promise_ledger": [
    {
     "ref": "g1.1",
-    "promise": "Exit Q4 FY26 with EBITDA margin in the ballpark of 14.5% to 15%.",
-    "made_in": "Q3 FY26 call",
-    "delivered": "Reported March 2026 (Q4 FY26) EBITDA margin was 15.0%, meeting the target range.",
+    "promise": "Exit Q4 FY26 with EBITDA margin around 14.5% to 15%",
+    "made_in": "Q3 FY26",
+    "delivered": "Mar 2026 (Q4 FY26) reported EBITDA margin reached 15.0% with EBITDA of ₹792 cr.",
     "verdict": "delivered",
     "checked_against": "Mar 2026 EBITDA%",
     "quote": "Overall, like I said, when we exit Q4, we should be in the ballpark of 14.5%-15% EBITDA margin.",
@@ -916,73 +916,72 @@
    },
    {
     "ref": "g2.1",
-    "promise": "Full-year EBITDA margin expansion of 50 to 75 basis points for FY27.",
-    "made_in": "Q4 FY26 call",
-    "delivered": "Full-year EBITDA margin for Mar 2026 was 14.0%, unchanged from Mar 2025 at 14.0%; full year FY27 is still open.",
+    "promise": "Full-year FY27 EBITDA margin expansion of 50 to 75 bps",
+    "made_in": "Q4 FY26",
+    "delivered": "FY27 full-year results pending; Jun 2026 and Sep 2026 reported EBITDA margin stayed flat at 14.0%.",
     "verdict": "too_early",
-    "checked_against": "Mar 2026 Year EBITDA%",
+    "checked_against": "FY27 EBITDA%",
     "quote": "50 to 75 for the full year will happen.",
     "page": 7,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=24ae2b55-3aae-4ebe-89f5-5b29323ade98.pdf"
    },
    {
-    "ref": "g3.4",
-    "promise": "Salt business to grow at mid-to-high single digits of 5% to 7%.",
-    "made_in": "Q1 FY27 call",
-    "delivered": "Management claimed salt revenue grew 15% with volume up 9% in Q2 FY27, exceeding the 5% to 7% growth range.",
-    "verdict": "delivered",
-    "checked_against": "Q2 FY27 management claim and reported salt volume/revenue",
-    "quote": "So, Vivek, we’ve always said mid-to-high single digits is the growth, so I would say 5% to 7% is a good number to target.",
-    "page": 8,
+    "ref": "g4.2",
+    "promise": "Deliver 25% to 30% growth for Capital Foods and Organic India",
+    "made_in": "Q2 FY27",
+    "delivered": "Segment-level revenue is not separately itemized in reported consolidated tables.",
+    "verdict": "too_early",
+    "checked_against": "Segment revenue reports",
+    "quote": "overall I would continue to expect 25% to 30% growth that we had guided for Capital Foods and Organic India going forward.",
+    "page": 9,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fb223b3a-8749-4b33-aef9-2c3975d91e1a.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=beab15bc-4778-4541-9a17-881f245481dd.pdf"
    },
    {
-    "ref": "g4.1",
-    "promise": "Reach 100% of salespeople operating with AI by December.",
-    "made_in": "Q2 FY27 call",
-    "delivered": "December deadline has not been reached yet as of the Sep 2026 reported quarter.",
+    "ref": "g4.5",
+    "promise": "Hit 17% plus EBITDA margin in the next 3 years",
+    "made_in": "Q2 FY27",
+    "delivered": "Target timeline is 3 years; Sep 2026 EBITDA margin stands at 14.0% and EBIT margin at 10.9%.",
     "verdict": "too_early",
-    "checked_against": "Sep 2026 quarter-end date",
-    "quote": "with an objective by December to reach 100% of our salespeople operating.",
-    "page": 4,
+    "checked_against": "Sep 2026 EBITDA%",
+    "quote": "in the next 3 years or so, we should be in that ballpark, right? So that's number one. And the reason for that is it's not that this thing. We've done the math to commit to or guide to that number.",
+    "page": 15,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=beab15bc-4778-4541-9a17-881f245481dd.pdf"
    }
   ],
   "credibility": {
-   "score": 7,
-   "line": "Management delivered on Q4 EBITDA margin goals and salt targets, though full-year expansion targets remain pending."
+   "score": null,
+   "line": "Only one promise can be checked against reported numbers so far — too few to score."
   },
   "narrative_vs_numbers": [
    {
     "agree": true,
-    "point": "Consolidated revenue grew to Rs 5,661 crores in Sep 2026, up 14.0% YoY, matching the reported 14% top-line growth claim."
+    "point": "Revenue expanded 14.0% YoY in Sep 2026 to ₹5661.0 cr, aligning with management claims of double-digit top-line growth."
    },
    {
     "agree": false,
-    "point": "Profit is lagging sales with a 3-year profit growth of 5.4% versus 13.8% sales growth despite rising revenue."
+    "point": "3-year profit CAGR of 5.4% trails 3-year revenue CAGR of 13.8%, contradicting management's margin expansion narrative."
    },
    {
     "agree": true,
-    "point": "Reported March 2026 EBITDA margin reached 15.0%, confirming management's stated exit Q4 target of 14.5% to 15%."
+    "point": "Operating cash flow increased to ₹2422.0 cr in Mar 2026, maintaining strong cash conversion with OCF/PAT at 1.57."
    }
   ],
   "bull": [
-   "Operating cash flow reached Rs 2,422 crores in Mar 2026, with a strong 5-year cash conversion of 1.47x profit.",
-   "Revenue scaled to Rs 20,290 crores for Mar 2026, up from Rs 17,618 crores in Mar 2025.",
-   "Debt-to-equity ratio remains low at 0.11 as of Sep 2026 with total borrowings at Rs 2,504 crores."
+   "Mar 2026 revenue grew 17.9% YoY to ₹20290.0 cr for full year with ₹2422.0 cr operating cash flow.",
+   "Mar 2026 Q4 EBITDA margin hit 15.0%, delivering on Q3 guidance of 14.5%-15.0%.",
+   "5-year average cash conversion is robust at 1.47 with D/E ratio low at 0.11 as of Sep 2026."
   ],
   "bear": [
-   "Profit lags sales over 3 years at 5.4% growth versus 13.8% sales growth, indicating margin pressure.",
-   "ROCE stands at 9.24% and ROE at 7.35%, reflecting modest capital returns.",
-   "Borrowings increased to Rs 2,820 crores in Mar 2026 from Rs 2,393 crores in Mar 2025."
+   "Profit lagging sales over 3 years (5.4% vs 13.8%), indicating persistent margin compression.",
+   "ROCE stands low at 9.24% and ROE at 7.35% for the period.",
+   "EBITDA margin remained flat at 14.0% in Jun 2026 and Sep 2026, delaying FY27 expansion targets."
   ],
   "watch": [
-   "December AI rollout target for 100% of salespeople.",
-   "Full-year FY27 EBITDA margin expansion of 50 to 75 bps.",
-   "Growth business contribution sustaining above 38% of India business."
+   "EBITDA margin in H2 FY27 relative to the 50-75 bps full-year expansion target.",
+   "Salt and tea volume growth vs raw material inflation discussed in Q2 FY27 analyst calls."
   ]
  },
  "ledger_ok": true,
@@ -992,7 +991,7 @@
    "in": 14177,
    "out": 1510,
    "secs": 8.2,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1000,7 +999,7 @@
    "in": 14270,
    "out": 498,
    "secs": 2.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1008,7 +1007,7 @@
    "in": 12887,
    "out": 1056,
    "secs": 4.2,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1016,7 +1015,7 @@
    "in": 14205,
    "out": 1223,
    "secs": 6.3,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1024,29 +1023,30 @@
    "in": 9163,
    "out": 276,
    "secs": 7.9,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
+   "model": "gemini-3.6-flash",
    "in": 3869,
-   "out": 1027,
-   "secs": 14.7,
+   "out": 4564,
+   "secs": 31.0,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
+  "fresh_calls": 1,
   "tokens_in": 68571,
-  "tokens_out": 5590,
+  "tokens_out": 9127,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 71.9
+  "secs": 32.2
  }
 }

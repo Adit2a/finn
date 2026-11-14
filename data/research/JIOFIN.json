@@ -2,12 +2,12 @@
  "symbol": "JIOFIN",
  "name": "Jio Financial Services Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:26:58",
+ "generated_at": "2026-11-14T21:29:42",
  "latest_call": "Oct 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 158032.0,
-   "pe": 92.3,
+   "market_cap_cr": 155909.0,
+   "pe": 91.1,
    "roce": 1.86,
    "roe": 1.19,
    "ttm_revenue": 5623.0,
@@ -586,36 +586,12 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g1.1",
-    "promise": "Expand repository by integrating more digital-first, third-party products over the next few quarters.",
-    "made_in": "Q3 FY26",
-    "delivered": "Unique user base grew from 20 million in Q3 FY26 to 23 million in Q4 FY26.",
-    "verdict": "delivered",
-    "checked_against": "Unique user base claims",
-    "quote": "Over the next few quarters, we will continue to expand this repository by integrating more digital-first, third-party products.",
-    "page": 5,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d7e4dcc-8aed-46e8-aa65-15d3eb5e94ee.pdf"
-   },
-   {
-    "ref": "g1.2",
-    "promise": "Launch the Sector Rotation Fund shortly and apply for Specialized Investment Fund.",
-    "made_in": "Q3 FY26",
-    "delivered": "JioBlackRock AMC reached Rs. 22,746 crore closing AUM across funds by Q2 FY27.",
-    "verdict": "delivered",
-    "checked_against": "JioBlackRock AMC AUM claims",
-    "quote": "In terms of the pipeline of new products, we will be launching the Sector Rotation Fund shortly and we have filed an application with SEBI for a Specialized Investment Fund.",
-    "page": 11,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d7e4dcc-8aed-46e8-aa65-15d3eb5e94ee.pdf"
-   },
-   {
     "ref": "g3.1",
-    "promise": "Beta launch of securities broking platform in Q2 FY27.",
+    "promise": "Beta launch of securities broking platform in Q2 FY27",
     "made_in": "Q1 FY27",
-    "delivered": "Management reported execution of pipeline initiatives, but specific broking platform launch metrics are pending.",
+    "delivered": "Q2 FY27 has passed; launch status was not reported in Q2 FY27 financials or management claims.",
     "verdict": "too_early",
-    "checked_against": "Q2 FY27 management commentary",
+    "checked_against": "Q2 FY27 management claims",
     "quote": "we are now well-positioned for the beta launch of our Securities Broking platform in Q2 FY27.",
     "page": 12,
     "verified": true,
@@ -623,49 +599,77 @@
    },
    {
     "ref": "g4.1",
-    "promise": "Launch the BlackRock Advantage World Equity Fund during current quarter from GIFT City.",
+    "promise": "Launch BlackRock Advantage World Equity Fund during Q2 FY27",
     "made_in": "Q2 FY27",
-    "delivered": "JioBlackRock AMC AUM reached Rs. 22,746 crore in Q2 FY27, up 57% YoY.",
-    "verdict": "delivered",
-    "checked_against": "Q2 FY27 JioBlackRock AMC AUM claim",
+    "delivered": "Planned for current quarter Q2 FY27; confirmation pending in next disclosures.",
+    "verdict": "too_early",
+    "checked_against": "Q2 FY27 earnings release",
     "quote": "The fund planned for launch during the current quarter, opens up global investment pipelines for Indian investors.",
     "page": 14,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ce63e3-07d3-4b0b-988b-53f339356094.pdf"
+   },
+   {
+    "ref": "g1.2",
+    "promise": "Launch Sector Rotation Fund shortly",
+    "made_in": "Q3 FY26",
+    "delivered": "No launch confirmation reported in subsequent management claims up to Q2 FY27.",
+    "verdict": "too_early",
+    "checked_against": "Q2 FY27 management claims",
+    "quote": "In terms of the pipeline of new products, we will be launching the Sector Rotation Fund shortly and we have filed an application with SEBI for a Specialized Investment Fund.",
+    "page": 11,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d7e4dcc-8aed-46e8-aa65-15d3eb5e94ee.pdf"
+   },
+   {
+    "ref": "g3.2",
+    "promise": "Roll out a personal CFO for every Indian",
+    "made_in": "Q1 FY27",
+    "delivered": "Product rollout remains pending with no metrics provided in Q2 FY27 disclosures.",
+    "verdict": "too_early",
+    "checked_against": "Q2 FY27 management claims",
+    "quote": "I am happy to share that in the near future we are rolling out a personal CFO for every Indian.",
+    "page": 13,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c18cc26c-af73-4c98-bb2f-500c896112ce.pdf"
    }
   ],
   "credibility": {
-   "score": 6,
-   "line": "Management delivers on product launch timelines and AUM growth, but cash flows remain deeply negative."
+   "score": null,
+   "line": "None of these promises can be checked against reported numbers yet — no score."
   },
   "narrative_vs_numbers": [
    {
+    "agree": false,
+    "point": "Management highlighted strong operational growth, but Q2 FY27 PAT fell 51.1% YoY to ₹340.0 crore."
+   },
+   {
+    "agree": false,
+    "point": "Despite expanding credit AUM, operating cash flow deteriorated to -₹15,439.0 crore in FY26."
+   },
+   {
+    "agree": false,
+    "point": "Management claims strong income growth, but annual EBITDA margin contracted from 88.0% in FY23 to 66.0% in FY26."
+   },
+   {
     "agree": true,
-    "point": "Jio Credit AUM surged to Rs. 37,320 crore by Q2 FY27, matching aggressive growth claims."
-   },
-   {
-    "agree": false,
-    "point": "PAT dropped 51.1% YoY to Rs. 340 crore in Sep 2026 despite revenue growing 73.2%."
-   },
-   {
-    "agree": false,
-    "point": "Operating cash flow for Mar 2026 was -Rs. 15,439 crore despite reported revenue of Rs. 3,521 crore."
+    "point": "Q2 FY27 revenue grew 73.2% YoY to ₹1,699.0 crore, matching management's income expansion claim."
    }
   ],
   "bull": [
-   "Jio Credit Gross AUM reached Rs. 37,320 crore in Q2 FY27 with 154% YoY growth.",
-   "JioBlackRock AMC Closing AUM scaled to Rs. 22,746 crore as of Sep 2026.",
-   "Consolidated Shareholders Equity stood strong at Rs. 1,29,595 crore as of Sep 2026."
+   "Q2 FY27 revenue reached ₹1,699.0 crore, up 73.2% YoY.",
+   "Jio Credit Gross AUM grew 154% YoY to ₹37,320 crore in Q2 FY27.",
+   "Total equity stood strong at ₹129,595.0 crore as of September 2026."
   ],
   "bear": [
-   "Free cash flow deteriorated to -Rs. 15,439 crore for the year ended Mar 2026.",
-   "Borrowings spiked to Rs. 41,325 crore by Sep 2026 from zero in Mar 2024.",
-   "EBITDA margin compressed from 88% in Mar 2023 to 63% in Sep 2026."
+   "Q2 FY27 PAT declined 51.1% YoY to ₹340.0 crore.",
+   "Operating cash flow was severely negative at -₹15,439.0 crore in FY26.",
+   "Borrowings jumped to ₹41,325.0 crore in Sep 2026, raising D/E to 0.32."
   ],
   "watch": [
-   "Operating cash flow conversion trajectory",
-   "Borrowings growth and D/E ratio of 0.32",
-   "Securities broking platform beta launch metrics"
+   "Beta launch status of securities broking platform.",
+   "PAT recovery after 51.1% YoY fall in Q2 FY27.",
+   "Operating cash flow conversion improvements."
   ]
  },
  "ledger_ok": true,
@@ -675,7 +679,7 @@
    "in": 8543,
    "out": 646,
    "secs": 3.1,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -683,7 +687,7 @@
    "in": 12443,
    "out": 406,
    "secs": 2.5,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -691,7 +695,7 @@
    "in": 9552,
    "out": 622,
    "secs": 2.9,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -699,7 +703,7 @@
    "in": 11386,
    "out": 535,
    "secs": 4.6,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -707,29 +711,30 @@
    "in": 11208,
    "out": 119,
    "secs": 3.1,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
+   "model": "gemini-3.6-flash",
    "in": 2738,
-   "out": 917,
-   "secs": 4.8,
+   "out": 3115,
+   "secs": 23.9,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
+  "fresh_calls": 1,
   "tokens_in": 55870,
-  "tokens_out": 3245,
+  "tokens_out": 5443,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 24.4
+  "secs": 28.5
  }
 }

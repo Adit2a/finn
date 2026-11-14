@@ -2,32 +2,22 @@
  "symbol": "TMPV",
  "name": "Tata Motors Passenger Vehicles Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:46:21",
+ "generated_at": "2026-11-14T21:32:44",
  "latest_call": "Aug 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 108759.0,
-   "pe": 109.0,
+   "market_cap_cr": 105849.0,
+   "pe": 22.3,
    "roce": 2.73,
    "roe": 75.7,
-   "ttm_revenue": 343703.0,
-   "ttm_pat": 79502.0,
-   "margin_latest_q": 6.0,
-   "de": 0.71,
+   "ttm_revenue": 368274.0,
+   "ttm_pat": -2197.0,
+   "margin_latest_q": 5.0,
+   "de": 0.84,
    "is_financial": false,
    "margin_label": "Operating margin"
   },
   "quarters": [
-   {
-    "q": "Sep 2024",
-    "revenue": 83656.0,
-    "rev_yoy": -20.4,
-    "op_profit": 9914.0,
-    "margin": 12.0,
-    "ebit_margin": 5.3,
-    "pat": 3521.0,
-    "pat_yoy": -8.1
-   },
    {
     "q": "Dec 2024",
     "revenue": 94472.0,
@@ -97,6 +87,16 @@
     "ebit_margin": 1.4,
     "pat": 859.0,
     "pat_yoy": -78.5
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 96920.0,
+    "rev_yoy": 34.0,
+    "op_profit": 4866.0,
+    "margin": 5.0,
+    "ebit_margin": -0.1,
+    "pat": -5451.0,
+    "pat_yoy": -107.1
    }
   ],
   "years": [
@@ -159,12 +159,6 @@
   },
   "balance_sheet": [
    {
-    "y": "Mar 2021",
-    "debt": 142131.0,
-    "equity": 55247.0,
-    "de": 2.57
-   },
-   {
     "y": "Mar 2022",
     "debt": 146449.0,
     "equity": 44561.0,
@@ -193,6 +187,12 @@
     "debt": 79109.0,
     "equity": 112068.0,
     "de": 0.71
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 88772.0,
+    "equity": 105126.0,
+    "de": 0.84
    }
   ],
   "working_capital": {
@@ -384,6 +384,10 @@
    {
     "tone": "good",
     "text": "Cash conversion strong: 5y operating cash = 145% of profit"
+   },
+   {
+    "tone": "good",
+    "text": "Revenue growth accelerating (-26% → 7% → 9% → 34%)"
    }
   ]
  },
@@ -881,11 +885,11 @@
   "promise_ledger": [
    {
     "ref": "g1.1",
-    "promise": "FY26 EBIT to be in the range of 0% to 2% positive",
-    "made_in": "Q2 FY26 call",
-    "delivered": "Reported company-level EBIT% for Mar 2026 was 5.8% for the quarter and negative for the full year 2026 based on EBITDA of 18719.0 crore on revenue of 335582.0 crore.",
-    "verdict": "missed",
-    "checked_against": "Mar 2026 EBIT% and EBITDA",
+    "promise": "FY26 EBIT to be in range of 0% to 2% positive",
+    "made_in": "Q2 FY26",
+    "delivered": "EBIT% fell to -8.7% in Sep 2025 and -5.8% in Dec 2025 before rebounding to 5.8% in Mar 2026.",
+    "verdict": "partly",
+    "checked_against": "Sep 2025, Dec 2025, and Mar 2026 EBIT%",
     "quote": "For the full year, we expect EBIT to be in the range of 0% to 2% positive, and free cash flow to be in a range of negative GBP 2.2 billion to negative GBP 2.5 billion.",
     "page": 5,
     "verified": true,
@@ -893,35 +897,47 @@
    },
    {
     "ref": "g1.2",
-    "promise": "FY26 free cash flow in a range of negative GBP 2.2 billion to negative GBP 2.5 billion",
-    "made_in": "Q2 FY26 call",
-    "delivered": "Reported free cash flow for the year ended Mar 2026 was negative 23195.0 crore rupees (GBP values not reported in financials).",
-    "verdict": "missed",
-    "checked_against": "Mar 2026 free cash flow",
+    "promise": "FY26 free cash flow in range of -GBP 2.2B to -GBP 2.5B",
+    "made_in": "Q2 FY26",
+    "delivered": "Full-year FY26 reported company free cash flow reached negative Rs 23,195 Cr; GBP segment breakdown not in primary financials.",
+    "verdict": "too_early",
+    "checked_against": "Mar 2026 Free cash flow",
     "quote": "For the full year, we expect EBIT to be in the range of 0% to 2% positive, and free cash flow to be in a range of negative GBP 2.2 billion to negative GBP 2.5 billion.",
     "page": 5,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e6684a03-5a4d-4c7a-8da0-d5b2c52ec7d1.pdf"
    },
    {
-    "ref": "g3.1",
-    "promise": "Deliver GBP1.7 billion of savings over two years to bring breakeven volume down towards 300,000 units",
-    "made_in": "Q4 FY26 call",
-    "delivered": "Still open with a two-year horizon; Q4 FY26 JLR wholesales were 308,000 units.",
+    "ref": "g2.3",
+    "promise": "Capex guidance GBP 3.6 billion to GBP 3.7 billion for FY26",
+    "made_in": "Q3 FY26",
+    "delivered": "Reported OCF of Rs 13,041 Cr and FCF of -Rs 23,195 Cr imply total Capex of Rs 36,236 Cr; GBP unverified.",
     "verdict": "too_early",
-    "checked_against": "Q4 FY26 JLR wholesales",
-    "quote": "Together, we're targeting GBP1.7 billion of savings over two years to bring our breakeven volume back down towards 300,000 units a year.",
-    "page": 5,
+    "checked_against": "Mar 2026 Operating cash flow and Free cash flow",
+    "quote": "Capex guidance, I think, will be GBP 3.6 billion, GBP 3.7 billion from what I can see today.",
+    "page": 9,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4d386d7-de53-4409-8e90-187e08cb4a91.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7907e958-7953-4b49-b831-aab03d6e2746.pdf"
+   },
+   {
+    "ref": "g4.1",
+    "promise": "Targeting 12,000 cars this year on the EV space for FY27",
+    "made_in": "Q1 FY27",
+    "delivered": "Management reported over 34,000 EV units delivered in Q1 FY27 alone, exceeding the 12,000 target.",
+    "verdict": "delivered",
+    "checked_against": "Q1 FY27 reported EV unit sales",
+    "quote": "and therefore, as far as FY 27 is concerned, basis the production start that is planned, I think we are tentatively penciling about 12,000 cars this year on the EV space.",
+    "page": 14,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6f83a2dd-6bd9-4455-9fc6-4659b5ded6f8.pdf"
    },
    {
     "ref": "g4.2",
     "promise": "Setting a goal of 10% revenue growth per annum",
-    "made_in": "Q1 FY27 call",
-    "delivered": "Reported Jun 2026 revenue was 95799.0 crore, representing a 9.3% YoY growth, falling short of the 10% annual goal.",
-    "verdict": "missed",
-    "checked_against": "Jun 2026 Rev YoY%",
+    "made_in": "Q1 FY27",
+    "delivered": "Revenue grew 9.3% YoY in Jun 2026 and 34.0% YoY in Sep 2026. Full year FY27 results pending.",
+    "verdict": "too_early",
+    "checked_against": "Jun 2026 and Sep 2026 Revenue YoY%",
     "quote": "So we are setting a goal of 10% revenue growth per annum and focusing on the US market for a significant part of that.",
     "page": 4,
     "verified": true,
@@ -929,37 +945,40 @@
    }
   ],
   "credibility": {
-   "score": 3,
-   "line": "Management missed major FY26 guidance targets for EBIT and free cash flow and missed the Q1 FY27 revenue growth goal."
+   "score": 6,
+   "line": "Operational recovery shows strength, but cash flow volatility and severe EBIT swings in FY26 weaken guidance reliability."
   },
   "narrative_vs_numbers": [
    {
     "agree": false,
-    "point": "Management claimed consolidated revenue reached ~Rs. 105,000 Cr in Q4 FY26, whereas reported revenue was 105447.0 crore."
+    "point": "Management claimed Rs 1,700 Cr FCF in Q4 FY26, but full-year FY26 FCF collapsed to negative Rs 23,195 Cr."
+   },
+   {
+    "agree": true,
+    "point": "Q4 FY26 revenue claim of ~Rs 105,000 Cr aligns with reported Rs 105,447 Cr (7.2% YoY growth)."
+   },
+   {
+    "agree": true,
+    "point": "Q1 FY27 India business growth narrative matches reported revenue of Rs 95,799 Cr (+9.3% YoY) and strong EV delivery."
    },
    {
     "agree": false,
-    "point": "Management guided for positive FY26 EBIT of 0% to 2%, but reported Mar 2026 full-year EBITDA was 18719.0 crore (6.0%)."
-   },
-   {
-    "agree": false,
-    "point": "Management claimed JLR revenue of GBP 6 billion in Q1 FY27, while reported company revenue was 95799.0 crore rupees."
+    "point": "Q1 FY27 reported PAT dropped 78.5% YoY to Rs 859 Cr despite management highlighting 2.4% EBIT margin."
    }
   ],
   "bull": [
-   "Operating cash flow was 13041.0 crore for the year ended Mar 2026.",
-   "Reported Jun 2026 revenue grew 9.3% year-on-year to 95799.0 crore.",
-   "Debt-to-equity improved to 0.71 as of Mar 2026 compared to 1.26 in Mar 2024."
+   "Revenue growth accelerated sharply to 34.0% YoY in Sep 2026, reaching Rs 96,920 Cr.",
+   "Strong 5-year historical cash conversion with 5y operating cash equal to 145% of net profit.",
+   "Q1 FY27 EV volumes surpassed 34,000 units, comfortably beating the initial full-year 12,000 unit target."
   ],
   "bear": [
-   "Free cash flow for the year ended Mar 2026 was negative 23195.0 crore.",
-   "Operating margin decreased by 300 bps over 3 years.",
-   "EBIT% dropped to 1.4% in Jun 2026 compared to 3.8% in Jun 2025."
+   "Free cash flow swung to negative Rs 23,195 Cr in FY26 from positive Rs 26,034 Cr in FY25.",
+   "Borrowings rose to Rs 88,772 Cr in Sep 2026, expanding the D/E ratio to 0.84.",
+   "Sep 2026 quarter recorded a net loss of Rs 5,451 Cr and a negative EBIT margin of -0.1%."
   ],
   "watch": [
-   "Next quarter EBIT margin",
-   "Free cash flow generation",
-   "Debt levels"
+   "Sep 2026 net loss of Rs 5,451 Cr turning back positive in Q3 FY27.",
+   "Free cash flow recovery toward positive territory from -Rs 23,195 Cr in FY26."
   ]
  },
  "ledger_ok": true,
@@ -969,7 +988,7 @@
    "in": 14733,
    "out": 889,
    "secs": 5.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -977,7 +996,7 @@
    "in": 13591,
    "out": 1134,
    "secs": 10.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -985,7 +1004,7 @@
    "in": 12749,
    "out": 1029,
    "secs": 4.2,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -993,7 +1012,7 @@
    "in": 12758,
    "out": 1293,
    "secs": 5.3,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1001,29 +1020,30 @@
    "in": 11792,
    "out": 315,
    "secs": 2.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
-   "in": 3928,
-   "out": 1010,
-   "secs": 3.7,
+   "model": "gemini-3.6-flash",
+   "in": 3951,
+   "out": 3549,
+   "secs": 29.2,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 69551,
-  "tokens_out": 5670,
+  "fresh_calls": 1,
+  "tokens_in": 69574,
+  "tokens_out": 8209,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 39.0
+  "secs": 30.3
  }
 }

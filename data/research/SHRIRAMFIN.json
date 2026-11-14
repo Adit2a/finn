@@ -2,12 +2,12 @@
  "symbol": "SHRIRAMFIN",
  "name": "Shriram Finance Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:42:28",
+ "generated_at": "2026-11-14T21:31:31",
  "latest_call": "Oct 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 226179.0,
-   "pe": 17.8,
+   "market_cap_cr": 228249.0,
+   "pe": 18.0,
    "roce": 11.5,
    "roe": 16.4,
    "ttm_revenue": 51877.0,
@@ -758,36 +758,60 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g1.1",
-    "promise": "Grow at around 18% to 20% compared to previous 16-17%",
-    "made_in": "Q3 FY26",
-    "delivered": "Reported Q4 FY26 revenue growth of 9.2% and AUM of 3,02,273.75 crores; Q2 FY27 AUM grew 16.96% year-on-year to 3,29,021.72 crores, missing 18-20%",
-    "verdict": "missed",
-    "checked_against": "Q4 FY26 revenue YoY 9.2%, Q2 FY27 AUM growth 16.96%",
-    "quote": "We have been growing around 16%-17%. We would like to grow another 3%-4% more, that is anywhere between 18%-20%.",
-    "page": 3,
+    "ref": "g2.1",
+    "promise": "AUM growth budgeted at 18% for FY27",
+    "made_in": "Q4 FY26",
+    "delivered": "Management walked back FY27 guidance to 15%-17% on Q2 FY27 call citing a cautious stance.",
+    "verdict": "walked_back",
+    "checked_against": "Q2 FY27 management call guidance update",
+    "quote": "Yes. We have projected and budgeted 18%, and we'll grow at 18%.",
+    "page": 7,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=81dc8e22-7094-4f30-9fda-5ec2ddceb5d9.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=278e04d1-97db-4692-a20f-b118741c8b9c.pdf"
    },
    {
     "ref": "g3.1",
     "promise": "Grow assets more than 15% in next quarter",
     "made_in": "Q1 FY27",
-    "delivered": "Reported Q1 FY27 AUM grew 15.26% year-on-year to INR313,798.39 crores",
+    "delivered": "Delivered as Q2 FY27 AUM grew 16.96% year-on-year to INR3,29,021.72 crores.",
     "verdict": "delivered",
-    "checked_against": "Q1 FY27 AUM YoY 15.26%",
+    "checked_against": "Q2 FY27 reported AUM growth of 16.96%",
     "quote": "we are confident that we'll be able to grow more than 15% at least for next quarter.",
     "page": 6,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=498dc529-b121-4ea2-a2c5-46f9937b9706.pdf"
    },
    {
-    "ref": "g4.5",
-    "promise": "Grow gold loan portfolio to double in next 3 years from 2.5% to 5%",
-    "made_in": "Q2 FY27",
-    "delivered": "Target set for the next 3 years, therefore too early to confirm full delivery",
+    "ref": "g2.2",
+    "promise": "Net interest margin budgeted at 8.5% for next year",
+    "made_in": "Q4 FY26",
+    "delivered": "NIM reached 9.52% in Q2 FY27, exceeding the 8.5% budget.",
+    "verdict": "delivered",
+    "checked_against": "Q2 FY27 reported NIM of 9.52%",
+    "quote": "Interest margin, we have budgeted 8.5 only.",
+    "page": 12,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=278e04d1-97db-4692-a20f-b118741c8b9c.pdf"
+   },
+   {
+    "ref": "g1.2",
+    "promise": "Achieve 100 basis point advantage on borrowing cost in 2 years",
+    "made_in": "Q3 FY26",
+    "delivered": "Pending; target horizon spans two years following US$4.4 billion MUFG capital infusion.",
     "verdict": "too_early",
-    "checked_against": "Q2 FY27 gold loan percentage",
+    "checked_against": "Borrowing cost trajectory over next two years",
+    "quote": "overall we believe the 100 basis point advantage will get over the next two years on our borrowing cost.",
+    "page": 4,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=81dc8e22-7094-4f30-9fda-5ec2ddceb5d9.pdf"
+   },
+   {
+    "ref": "g4.5",
+    "promise": "Double gold loan book from 2.5% to 5% in 3 years",
+    "made_in": "Q2 FY27",
+    "delivered": "Pending; target horizon is three years.",
+    "verdict": "too_early",
+    "checked_against": "Gold loan portfolio composition over next 3 years",
     "quote": "target for gold financing is to grow the book double in next 3 years from around 2.5% to around 5% of the book.",
     "page": 16,
     "verified": true,
@@ -796,36 +820,36 @@
   ],
   "credibility": {
    "score": 6,
-   "line": "Management frequently adjusts growth targets and missed initial 18-20% growth goals before lowering expectations to 15-17%."
+   "line": "Management achieved NIM and quarterly growth targets but walked back full-year AUM growth guidance from 18% to 15-17%."
   },
   "narrative_vs_numbers": [
    {
     "agree": false,
-    "point": "Management guided for 18%-20% growth in Q3 FY26 (g1.1), but Q4 FY26 revenue growth slowed down to 9.2%."
-   },
-   {
-    "agree": true,
-    "point": "PAT growth remained strong, with Q2 FY27 PAT growing 59.37% year-on-year to INR3,677.03 crores alongside 16.96% AUM growth."
+    "point": "Management originally guided 18% FY27 AUM growth but reduced target to 15-17% in Q2 FY27 despite 16.96% Q2 growth."
    },
    {
     "agree": false,
-    "point": "Operating cash flow remains heavily negative at -13,281.0 crores in Mar 2026 despite rising reported net profit."
+    "point": "PAT grew 59.2% YoY to INR3,684 crore in Sep 2026, but FY26 operating cash flow was -INR13,281 crore."
+   },
+   {
+    "agree": true,
+    "point": "MUFG stake purchase expanded equity to INR111,435 crore by Sep 2026, reducing D/E ratio to 2.12."
    }
   ],
   "bull": [
-   "PAT grew 59.37% year-on-year to INR3,677.03 crores in Q2 FY27.",
-   "AUM reached 3,29,021.72 crores in Q2 FY27, representing a 16.96% year-on-year increase.",
-   "Equity expanded to 1,11,435.0 crores as of Sep 2026, lowering D/E to 2.12."
+   "Q2 FY27 PAT grew 59.2% year-on-year to INR3,684 crore.",
+   "D/E leverage improved from 3.8 in Mar 2026 to 2.12 in Sep 2026 after MUFG equity infusion.",
+   "Q2 FY27 NIM reached 9.52%, outperforming medium-term target of 9.0%."
   ],
   "bear": [
-   "Operating cash flow remains profoundly negative at -13,281.0 crores for Mar 2026.",
-   "Management walked back its 18% AUM growth budget in Q2 FY27 to a lower 15%-17% range.",
-   "Revenue growth decelerated to 9.2% in Mar 2026 compared to 20.8% in Mar 2025."
+   "Full-year FY27 AUM growth guidance was lowered from 18% to 15%-17% in Q2 FY27.",
+   "5-year cash conversion sits at -3.2, with Mar 2026 operating cash flow at -INR13,281 crore.",
+   "Analysts repeatedly raised concerns over deteriorating asset quality in Stage 2 and Stage 3 loans."
   ],
   "watch": [
-   "Whether AUM growth stays within the revised 15% to 17% annual guidance.",
-   "Trajectory of negative operating cash flow relative to reported profits.",
-   "Stage 2 and Stage 3 asset quality trends."
+   "Full-year FY27 AUM growth relative to revised 15%-17% range.",
+   "Credit cost behavior against 2.0% guidance.",
+   "Stage 2 and Stage 3 asset quality in gold and vehicle loans."
   ]
  },
  "ledger_ok": true,
@@ -835,7 +859,7 @@
    "in": 10840,
    "out": 1175,
    "secs": 4.2,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -843,7 +867,7 @@
    "in": 13441,
    "out": 964,
    "secs": 11.4,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -851,7 +875,7 @@
    "in": 12788,
    "out": 1051,
    "secs": 4.2,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -859,7 +883,7 @@
    "in": 14174,
    "out": 1276,
    "secs": 4.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -867,29 +891,30 @@
    "in": 12757,
    "out": 127,
    "secs": 2.7,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
+   "model": "gemini-3.6-flash",
    "in": 3745,
-   "out": 1237,
-   "secs": 12.3,
+   "out": 2652,
+   "secs": 24.0,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
+  "fresh_calls": 1,
   "tokens_in": 67745,
-  "tokens_out": 5830,
+  "tokens_out": 7245,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 45.4
+  "secs": 25.0
  }
 }
