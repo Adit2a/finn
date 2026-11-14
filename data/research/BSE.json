@@ -2,12 +2,12 @@
  "symbol": "BSE",
  "name": "BSE Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:18:36",
- "latest_call": "Aug 2026",
+ "generated_at": "2026-11-14T21:27:18",
+ "latest_call": "Nov 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 154996.0,
-   "pe": 50.3,
+   "market_cap_cr": 160613.0,
+   "pe": 52.1,
    "roce": 60.0,
    "roe": 46.0,
    "ttm_revenue": 5806.0,
@@ -753,11 +753,11 @@
   "promise_ledger": [
    {
     "ref": "g1.1",
-    "promise": "Add another 70 to 90 racks by close of FY26",
+    "promise": "Add 70 to 90 racks by close of FY26",
     "made_in": "Q2 FY26",
-    "delivered": "No rack count disclosed; cannot confirm fulfillment",
-    "verdict": "too_early",
-    "checked_against": "none",
+    "delivered": "Management confirmed on Q1 FY27 call that 500 total racks are in place; rack counts are not broken out in reported financials.",
+    "verdict": "delivered",
+    "checked_against": "Q1 FY27 call management commentary",
     "quote": "We are expecting another 70 to 90 racks to come within the close of this financial year and which also will be allocated by us.",
     "page": 16,
     "verified": true,
@@ -765,11 +765,11 @@
    },
    {
     "ref": "g2.1",
-    "promise": "Allocate 80 more racks soon, reaching ~500 racks",
+    "promise": "Allocate 80 more racks soon to reach around 500 racks",
     "made_in": "Q3 FY26",
-    "delivered": "Rack numbers not reported; status unknown",
-    "verdict": "too_early",
-    "checked_against": "none",
+    "delivered": "Q1 FY27 call confirmed 500 racks are now in place; non-financial metric not reported in financial tables.",
+    "verdict": "delivered",
+    "checked_against": "Q1 FY27 call management commentary",
     "quote": "At this point of time, we are planning to allocate 80 more racks which is in the offing soon, which way and how will depend upon multiple factors. With that we will be having around 500 racks in place.",
     "page": 13,
     "verified": true,
@@ -777,11 +777,11 @@
    },
    {
     "ref": "g4.2",
-    "promise": "Touch double‑digit cash‑market share by start of 2027",
+    "promise": "Touch double-digit cash market share by beginning of CY2027",
     "made_in": "Q1 FY27",
-    "delivered": "Market‑share data not provided; outcome pending",
+    "delivered": "Target deadline is early CY2027; current reported financials run through Sep 2026.",
     "verdict": "too_early",
-    "checked_against": "none",
+    "checked_against": "CY2027 cash market share data",
     "quote": "maybe by the beginning of the calendar year 2027, we should have touched at least a very meaningfully double-digit market share in cash market.",
     "page": 14,
     "verified": true,
@@ -789,37 +789,37 @@
    }
   ],
   "credibility": {
-   "score": null,
-   "line": "None of these promises can be checked against reported numbers yet — no score."
+   "score": 8,
+   "line": "Management delivers on co-lo capacity expansions, though operational segment counts are verified only via earnings calls."
   },
   "narrative_vs_numbers": [
    {
-    "agree": false,
-    "point": "Mgmt claimed record Q2 FY26 revenue of Rs 1,139 cr, but reported Q2 FY26 revenue was Rs 1,068 cr."
+    "agree": true,
+    "point": "Management claimed full-year FY26 PAT reached Rs 2,497 crores, closely matching reported Mar 2026 annual PAT of Rs 2,487.0 crores."
    },
    {
     "agree": false,
-    "point": "Mgmt said FY26 full‑year revenue Rs 5,148 cr; reported FY26 revenue was Rs 5,124 cr, slightly below."
+    "point": "Management claimed Q1 FY27 revenue reached Rs 1,707 crores, whereas reported Jun 2026 revenue was Rs 1,566.0 crores."
    },
    {
     "agree": true,
-    "point": "Operating EBITDA margin rose to ~68% in FY26, matching the claim of higher margins."
+    "point": "Management claimed operating EBITDA margins expanded to 64% in FY26; reported Mar 2026 EBITDA margin was 68.0%."
    }
   ],
   "bull": [
-   "FY26 EBITDA margin of 68% shows strong operating leverage.",
-   "PAT grew 61% YoY to Rs 2,487 cr in FY26, confirming profit acceleration.",
-   "Debt‑free balance sheet (D/E 0) supports financial flexibility."
+   "Annual revenue surged from Rs 3,212.0 crores in Mar 2025 to Rs 5,124.0 crores in Mar 2026.",
+   "EBITDA margin expanded to 68.0% in Mar 2026, supported by 3,400 bps operating margin expansion over 3 years.",
+   "Free cash flow reached Rs 2,589.0 crores in Mar 2026 with zero borrowings across all reported periods."
   ],
   "bear": [
-   "Revenue missed stated record levels in Q2 FY26 (1,068 cr vs 1,139 cr claim).",
-   "Full‑year FY26 revenue fell short of claimed Rs 5,148 cr (actual 5,124 cr).",
-   "Lack of disclosed colocation rack numbers prevents verification of key promises."
+   "Quarterly revenue fell 8.5% sequentially from Rs 1,566.0 crores in Jun 2026 to Rs 1,433.0 crores in Sep 2026.",
+   "Net profit declined 7.4% quarter-on-quarter from Rs 873.0 crores in Jun 2026 to Rs 808.0 crores in Sep 2026.",
+   "Operating cash flow dropped from Rs 2,643.0 crores in Mar 2024 to Rs 414.0 crores in Mar 2025."
   ],
   "watch": [
-   "Q2 FY27 rack deployment vs promised targets.",
-   "Cash‑market share progress toward double‑digit goal.",
-   "Revenue growth trend in upcoming quarters versus guidance."
+   "Quarterly revenue recovery from Sep 2026 level of Rs 1,433.0 crores.",
+   "Cash market share progress toward double-digit target by calendar year 2027.",
+   "Co-location capacity utilization relative to the 500 installed racks."
   ]
  },
  "ledger_ok": true,
@@ -829,7 +829,7 @@
    "in": 10739,
    "out": 678,
    "secs": 12.3,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -837,7 +837,7 @@
    "in": 10560,
    "out": 686,
    "secs": 4.6,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -845,7 +845,7 @@
    "in": 11923,
    "out": 705,
    "secs": 3.3,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -853,7 +853,7 @@
    "in": 9245,
    "out": 972,
    "secs": 4.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -861,30 +861,30 @@
    "in": 10329,
    "out": 315,
    "secs": 2.9,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 2869,
-   "out": 956,
-   "secs": 3.5,
+   "model": "gemini-3.6-flash",
+   "in": 3149,
+   "out": 4147,
+   "secs": 30.9,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 55665,
-  "tokens_out": 4312,
+  "fresh_calls": 1,
+  "tokens_in": 55945,
+  "tokens_out": 7503,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 36.9
+  "secs": 33.6
  }
 }

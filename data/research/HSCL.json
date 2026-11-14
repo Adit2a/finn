@@ -2,12 +2,12 @@
  "symbol": "HSCL",
  "name": "Himadri Speciality Chemical Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T22:28:57",
+ "generated_at": "2026-11-14T21:28:30",
  "latest_call": "Oct 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 29068.0,
-   "pe": 34.0,
+   "market_cap_cr": 28241.0,
+   "pe": 33.0,
    "roce": 22.1,
    "roe": 17.8,
    "ttm_revenue": 5595.0,
@@ -980,86 +980,102 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g1.3",
-    "promise": "Spend INR1,125 crores for Phase 1 cathode capacity",
-    "made_in": "Q3 FY26",
-    "delivered": "Capex guidance for FY27 is INR2,000 crores total, split INR1,000 crores each year, so Phase 1 spend not yet observable",
+    "ref": "g2.5",
+    "promise": "Commission anthraquinone and carbazole project in Q2 FY27",
+    "made_in": "Q4 FY26",
+    "delivered": "Pushed to Q4 FY27 in Q2 FY27 call (g4.8); missed initial Q2 FY27 target timeline.",
+    "verdict": "walked_back",
+    "checked_against": "Q2 FY27 management call commentary",
+    "quote": "anthraquinone and carbazole project is progressing as planned and expected to commission in Q2 FY27",
+    "page": 7,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d692690-5309-49f1-9328-33ae32723066.pdf"
+   },
+   {
+    "ref": "g3.1",
+    "promise": "Spend INR 1,000 Crores capex in FY27",
+    "made_in": "Q1 FY27",
+    "delivered": "Management lowered guidance to INR 800-900 Crores in Q2 FY27 call (g4.2).",
+    "verdict": "walked_back",
+    "checked_against": "Q2 FY27 capex guidance update",
+    "quote": "Out of this, we expect around INR1,000 Crores of capex happening this year and INR1,000 Crores next year.",
+    "page": 18,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aba2c1e9-bf26-4569-afee-2e8b196215cb.pdf"
+   },
+   {
+    "ref": "g2.1",
+    "promise": "Double PAT to INR 1,100 plus crores in FY28",
+    "made_in": "Q4 FY26",
+    "delivered": "FY26 PAT was ₹755 cr and H1 FY27 PAT crossed ₹450 cr; horizon is FY28.",
     "verdict": "too_early",
-    "checked_against": "FY27 total capex guidance",
-    "quote": "INR1,125 crores.",
-    "page": 16,
-    "verified": false,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1448ca83-4f42-4c4c-92fc-6ecb61d0192b.pdf"
+    "checked_against": "Reported annual PAT ₹755 cr and H1 FY27 cumulative PAT",
+    "quote": "We have committed to double this PAT in next three years in FY28 to INR 1,100 plus crores.",
+    "page": 11,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d692690-5309-49f1-9328-33ae32723066.pdf"
    },
    {
     "ref": "g2.2",
-    "promise": "Commission 2,000 mt LFP cathode capacity by Q3 FY27",
+    "promise": "Commission initial 2,000 MT LFP cathode capacity by Q3 FY27",
     "made_in": "Q4 FY26",
-    "delivered": "No capacity data reported for Q3 FY27; PAT rose to INR231 crores but LFP volume not disclosed",
+    "delivered": "Reaffirmed in Q1 FY27 (g3.3) and Q2 FY27 (g4.6); pending Q3 FY27 milestone.",
     "verdict": "too_early",
-    "checked_against": "Q3 FY27 PAT",
+    "checked_against": "Q3 FY27 project execution status",
     "quote": "As part of this phased execution, the first milestone capacity of 2,000 metric tons is targeted for commissioning by Q3 FY27.",
     "page": 4,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d692690-5309-49f1-9328-33ae32723066.pdf"
    },
    {
-    "ref": "g4.2",
-    "promise": "Total capex spend INR800‑900 crores in FY27",
-    "made_in": "Q2 FY27",
-    "delivered": "Borrowings increased to INR1,160 crores, implying capex likely within range but not directly reported",
+    "ref": "g3.6",
+    "promise": "Achieve EBITDA breakeven in Birla Tyres in FY27",
+    "made_in": "Q1 FY27",
+    "delivered": "Pending full year results; analysts questioned margin moderation in Q2 FY27 call.",
     "verdict": "too_early",
-    "checked_against": "FY27 borrowings",
-    "quote": "And we expect in this year to be around INR 800 crores to INR 900 crores of spend in total.",
-    "page": 8,
+    "checked_against": "FY27 Birla Tyres segment breakeven status",
+    "quote": "We reach EBITDA breakeven in this financial year only. We will be cash positive.",
+    "page": 19,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a3c36537-38f2-4ff1-aff7-a71cbd5cda43.pdf"
-   },
-   {
-    "ref": "g2.1",
-    "promise": "Double PAT to INR1,100 crores by FY28",
-    "made_in": "Q4 FY26",
-    "delivered": "FY26 PAT reported INR755 crores; FY27 PAT not yet available, target still pending",
-    "verdict": "too_early",
-    "checked_against": "FY26 PAT",
-    "quote": "We have committed to double this PAT in next three years in FY28 to INR 1,100 plus crores.",
-    "page": 11,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d692690-5309-49f1-9328-33ae32723066.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aba2c1e9-bf26-4569-afee-2e8b196215cb.pdf"
    }
   ],
   "credibility": {
-   "score": null,
-   "line": "None of these promises can be checked against reported numbers yet — no score."
+   "score": 6,
+   "line": "Operational growth is strong, but management pushes back project timelines and experiences cash flow conversion drag."
   },
   "narrative_vs_numbers": [
    {
-    "agree": false,
-    "point": "Management touts double‑digit PAT growth but reported PAT only rose 27% YoY in FY26"
+    "agree": true,
+    "point": "Revenue growth accelerated to 57.9% YoY in Sep 2026 reaching ₹1,691 cr, supporting management expansion claims."
    },
    {
     "agree": false,
-    "point": "Capex commitments exceed disclosed spending; borrowings rose but free cash flow turned negative"
+    "point": "Management reported record FY26 PAT of ₹755 cr, but FCF turned negative to -₹63 cr due to high capex."
+   },
+   {
+    "agree": false,
+    "point": "Borrowings increased from ₹605 cr in Mar 2024 to ₹1,160 cr in Sep 2026, raising D/E from 0.08 to 0.23."
    },
    {
     "agree": true,
-    "point": "Revenue acceleration is evident: YoY growth jumped to 57.9% in Sep 2026"
+    "point": "EBITDA margins expanded from 10.0% in Mar 2023 to 19.0% in Sep 2026, keeping long-term profitability strong."
    }
   ],
   "bull": [
-   "Revenue YoY 57.9% in Sep 2026 shows strong top‑line momentum",
-   "EBITDA grew to INR315 crores in Sep 2026, confirming operating leverage",
-   "Borrowings remain modest at D/E 0.23, indicating capacity to fund capex"
+   "Revenue YoY growth surged from 3.8% in Dec 2025 to 57.9% in Sep 2026 reaching ₹1,691 cr.",
+   "EBITDA margins expanded 1,100 bps over three years to 19.0% in Sep 2026.",
+   "PAT grew 31.2% YoY to ₹231 cr in Sep 2026, building on FY26 PAT of ₹755 cr."
   ],
   "bear": [
-   "PAT only 31% YoY in Sep 2026, far below the INR1,100 crore FY28 target",
-   "Free cash flow turned negative in FY26, raising cash‑flow concerns",
-   "EBITDA per ton guidance (20‑24k) not substantiated by disclosed margins"
+   "Free cash flow fell to -₹63 cr in FY26 while OCF/PAT ratio deteriorated to 0.51.",
+   "Total borrowings nearly doubled from ₹605 cr in FY24 to ₹1,160 cr in Sep 2026.",
+   "Anthraquinone and carbazole project completion was delayed from Q2 FY27 to Q4 FY27."
   ],
   "watch": [
-   "FY27 full‑year PAT vs FY28 target",
-   "Actual capex spend versus INR2,000 crores plan",
-   "Commissioning of LFP and CNT facilities"
+   "Commissioning of 2,000 MT LFP cathode facility in Q3 FY27.",
+   "Birla Tyres EBITDA breakeven trajectory in FY27.",
+   "FCF recovery and debt levels following ₹800-900 cr FY27 capex."
   ]
  },
  "ledger_ok": true,
@@ -1105,26 +1121,26 @@
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 3880,
-   "out": 1719,
-   "secs": 4.7,
+   "model": "gemini-3.6-flash",
+   "in": 4260,
+   "out": 4056,
+   "secs": 25.3,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
   "fresh_calls": 1,
-  "tokens_in": 72026,
-  "tokens_out": 6949,
+  "tokens_in": 72406,
+  "tokens_out": 9286,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 6.0
+  "secs": 29.8
  }
 }

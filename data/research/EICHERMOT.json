@@ -2,32 +2,22 @@
  "symbol": "EICHERMOT",
  "name": "Eicher Motors Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:21:10",
+ "generated_at": "2026-11-14T21:27:59",
  "latest_call": "Aug 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 210132.0,
-   "pe": 36.1,
+   "market_cap_cr": 210009.0,
+   "pe": 34.9,
    "roce": 30.5,
    "roe": 24.0,
-   "ttm_revenue": 24998.0,
-   "ttm_pat": 5773.0,
+   "ttm_revenue": 26248.0,
+   "ttm_pat": 5976.0,
    "margin_latest_q": 24.0,
    "de": 0.02,
    "is_financial": false,
    "margin_label": "Operating margin"
   },
   "quarters": [
-   {
-    "q": "Sep 2024",
-    "revenue": 4263.0,
-    "rev_yoy": 3.6,
-    "op_profit": 1088.0,
-    "margin": 26.0,
-    "ebit_margin": 21.3,
-    "pat": 1100.0,
-    "pat_yoy": 8.3
-   },
    {
     "q": "Dec 2024",
     "revenue": 4973.0,
@@ -97,6 +87,16 @@
     "ebit_margin": 19.8,
     "pat": 1463.0,
     "pat_yoy": 21.4
+   },
+   {
+    "q": "Sep 2026",
+    "revenue": 7422.0,
+    "rev_yoy": 20.3,
+    "op_profit": 1760.0,
+    "margin": 24.0,
+    "ebit_margin": 20.2,
+    "pat": 1573.0,
+    "pat_yoy": 14.9
    }
   ],
   "years": [
@@ -159,12 +159,6 @@
   },
   "balance_sheet": [
    {
-    "y": "Mar 2021",
-    "debt": 219.0,
-    "equity": 11438.0,
-    "de": 0.02
-   },
-   {
     "y": "Mar 2022",
     "debt": 108.0,
     "equity": 12608.0,
@@ -192,6 +186,12 @@
     "y": "Mar 2026",
     "debt": 514.0,
     "equity": 25100.0,
+    "de": 0.02
+   },
+   {
+    "y": "Sep 2026",
+    "debt": 515.0,
+    "equity": 25941.0,
     "de": 0.02
    }
   ],
@@ -771,35 +771,23 @@
   "promise_ledger": [
    {
     "ref": "g2.1",
-    "promise": "Invest INR 958 crores over 2 years for Cheyyar capacity expansion to 2 million units",
+    "promise": "Invest INR 958 crores over 2 years for Cheyyar capacity expansion to 2 million units by FY27-28",
     "made_in": "Q3 FY26",
-    "delivered": "No capex or capacity data in reported figures; deadline FY27‑28 not yet reached",
+    "delivered": "Target deadline is FY27-28; brownfield capacity expansion remains underway",
     "verdict": "too_early",
-    "checked_against": "none",
+    "checked_against": "Cheyyar capacity expansion deadline FY27-28",
     "quote": "For this expansion, we will invest an estimate of almost INR 958 crores over a period of 2 years, reaching the target capacity by FY 27-28.",
     "page": 6,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2034466e-1012-40d2-a451-f65112a87379.pdf"
    },
    {
-    "ref": "g2.2",
-    "promise": "Scale Royal Enfield capacity to 20 lakh units per year by FY27‑28",
-    "made_in": "Q3 FY26",
-    "delivered": "Capacity not disclosed in reported numbers; deadline FY27‑28 still future",
-    "verdict": "too_early",
-    "checked_against": "none",
-    "quote": "taking our annual production capacity to 20 lakh units per year from the current 1.4 million to meet the rapidly expanding existing and the projected future demand.",
-    "page": 5,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2034466e-1012-40d2-a451-f65112a87379.pdf"
-   },
-   {
     "ref": "g3.1",
-    "promise": "Set up JV with Volvo for vehicle financing up to INR 750 crores",
+    "promise": "Set up new joint venture with Volvo for vehicle financing up to INR750 crores",
     "made_in": "Q4 FY26",
-    "delivered": "No JV or financing commitment disclosed in reported figures; deadline unspecified",
+    "delivered": "Proposed JV investment of up to INR750 crores pending execution",
     "verdict": "too_early",
-    "checked_against": "none",
+    "checked_against": "Volvo Financial Services India JV",
     "quote": "Our investment in this will be up to INR750 crores for the 50% stake in this Volvo Financial Services India.",
     "page": 4,
     "verified": true,
@@ -807,13 +795,25 @@
    },
    {
     "ref": "g4.1",
-    "promise": "Board approved INR 1,225 crores for Phase 1 greenfield expansion at Tada by FY30",
+    "promise": "Board approved investment of INR1,225 crores for Phase 1 greenfield expansion at Tada by FY30",
     "made_in": "Q1 FY27",
-    "delivered": "Investment amount not reflected in reported cash‑flow or capex data; FY30 horizon pending",
+    "delivered": "INR1,225 crore investment approved for additional 4.5 lakh capacity targeted by FY30",
     "verdict": "too_early",
-    "checked_against": "none",
+    "checked_against": "Tada greenfield expansion FY30",
     "quote": "Today, the Board has approved an investment of INR1,225 crores for the Phase 1 of the greenfield expansion at Tada, which at full utilization can produce an additional 4.5 lakh motorcycles per year. The above capacity addition is expected to be completed during financial year 20-30.",
     "page": 4,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8c3a03ae-07e5-4e5b-8caf-193354910410.pdf"
+   },
+   {
+    "ref": "g4.3",
+    "promise": "Reach total capacity of 2.45 million by FY30",
+    "made_in": "Q1 FY27",
+    "delivered": "Target horizon 2029-30 for total overall capacity of 2.45 million across brownfield and greenfield",
+    "verdict": "too_early",
+    "checked_against": "Total production capacity target FY30",
+    "quote": "Going forward, Andhra Pradesh, that's what today the Board has cleared about INR1,225 crores, and that will take us to the overall capacity of 2.45 million, but that will happen by 2029-30.",
+    "page": 7,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8c3a03ae-07e5-4e5b-8caf-193354910410.pdf"
    }
@@ -824,32 +824,36 @@
   },
   "narrative_vs_numbers": [
    {
-    "agree": false,
-    "point": "Mgmt touts record Q2 FY26 revenue of INR 6,172 crores, which matches reported Sep 2025 revenue but offers no growth context."
-   },
-   {
-    "agree": false,
-    "point": "Claims of 23% Q3 revenue growth to INR 6,114 crores contrast with reported Dec 2025 revenue of INR 6,114 crores (flat YoY)."
+    "agree": true,
+    "point": "Q2 FY26 claim of highest consolidated revenue of INR 6,172 crores matches reported Sep 2025 revenue."
    },
    {
     "agree": true,
-    "point": "EBITDA margins reported around 24‑25% align with mgmt’s emphasis on margin expansion."
+    "point": "Q3 FY26 reported revenue of INR 6,114 crores and EBITDA of INR 1,557 crores match management claims exactly."
+   },
+   {
+    "agree": true,
+    "point": "Q1 FY27 best Q1 revenue claim of INR 6,632 crores matches reported Jun 2026 numbers with 31.5% YoY growth."
+   },
+   {
+    "agree": true,
+    "point": "EML achieved record quarterly revenue of INR 7,422 crores in Sep 2026 with 20.3% YoY growth."
    }
   ],
   "bull": [
-   "Revenue rose to INR 6,632 crores in Jun 2026, a 31.5% YoY jump.",
-   "EBITDA reached INR 1,591 crores in Jun 2026, supporting margin narrative.",
-   "Operating cash flow grew to INR 4,805 crores in Mar 2026, showing strong cash conversion."
+   "Revenue grew 31.5% in Jun 2026 to INR 6,632 crores and reached INR 7,422 crores in Sep 2026.",
+   "Operating cash flow reached INR 4,805 crores in Mar 2026 with practically no debt (D/E 0.02).",
+   "Planned investment of INR 1,225 crores at Tada expands overall capacity to 2.45 million by FY30."
   ],
   "bear": [
-   "EBIT margin slipped to 19.8% in Jun 2026, below the 22% target implied by mgmt.",
-   "PAT growth slowed to 21.4% YoY in Jun 2026, indicating profit pressure.",
-   "Debt‑to‑equity remains low but borrowing rose to INR 514 crores, hinting at financing needs."
+   "EBITDA margin remained rangebound at 24-25% from Dec 2024 through Sep 2026 despite substantial revenue expansion.",
+   "OCF/PAT cash conversion dropped from 1.26 in Mar 2021 to 0.87 in Mar 2026.",
+   "Major capital expenditure commitments exceed INR 1,975 crores across Cheyyar and Tada facility expansions."
   ],
   "watch": [
-   "Capex spend versus promised INR 958 crore Cheyyar investment.",
-   "Actual production capacity versus 2 million unit target.",
-   "Progress on Volvo financing JV funding commitment."
+   "EBITDA margin performance in Q3 FY27 following festive season inventory build-up.",
+   "Progress on INR 958 crore Cheyyar expansion toward 2 million units capacity.",
+   "Execution status of INR 750 crore Volvo vehicle financing joint venture."
   ]
  },
  "ledger_ok": true,
@@ -859,7 +863,7 @@
    "in": 14694,
    "out": 537,
    "secs": 3.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -867,7 +871,7 @@
    "in": 15531,
    "out": 978,
    "secs": 13.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -875,7 +879,7 @@
    "in": 15374,
    "out": 1025,
    "secs": 3.7,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -883,7 +887,7 @@
    "in": 15322,
    "out": 1215,
    "secs": 28.3,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -891,30 +895,30 @@
    "in": 11166,
    "out": 152,
    "secs": 2.2,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 3156,
-   "out": 1118,
-   "secs": 3.1,
+   "model": "gemini-3.6-flash",
+   "in": 3486,
+   "out": 2755,
+   "secs": 18.7,
    "cached": false,
    "fallback": false
   }
  ],
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 75243,
-  "tokens_out": 5025,
+  "fresh_calls": 1,
+  "tokens_in": 75573,
+  "tokens_out": 6662,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 57.8
+  "secs": 20.7
  }
 }

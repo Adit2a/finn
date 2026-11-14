@@ -2,12 +2,12 @@
  "symbol": "APOLLOHOSP",
  "name": "Apollo Hospitals Enterprise Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:11:24",
- "latest_call": "Aug 2026",
+ "generated_at": "2026-11-14T21:24:57",
+ "latest_call": "Nov 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 121225.0,
-   "pe": 53.6,
+   "market_cap_cr": 122591.0,
+   "pe": 54.2,
    "roce": 17.4,
    "roe": 21.5,
    "ttm_revenue": 27630.0,
@@ -397,9 +397,14 @@
  },
  "sources": [
   {
-   "kind": "annual_report",
-   "label": "Annual Report 2025 (outlook)",
-   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/330724b4-fb72-4577-beb0-598b4672f77a.pdf"
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-11/transcript-of-apollo-hospitals---q2-fy26-earnings-call---7-november-2025....pdf"
+  },
+  {
+   "kind": "transcript",
+   "label": "Q3 FY26 call",
+   "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2026-02/transcript-of-ahel-q3fy26-concall_11feb2026.pdf"
   },
   {
    "kind": "annual_report",
@@ -410,56 +415,234 @@
  "calls": [
   {
    "n": 1,
-   "quarter": "AR 2025",
-   "date": "2025",
-   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/330724b4-fb72-4577-beb0-598b4672f77a.pdf",
-   "pages": 296,
+   "quarter": "Q2 FY26",
+   "date": "Nov 2025",
+   "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-11/transcript-of-apollo-hospitals---q2-fy26-earnings-call---7-november-2025....pdf",
+   "pages": 16,
    "scanned": false,
-   "source": "annual_report",
    "guidance": [
     {
-     "metric": "capex",
-     "promise": "Approved capacity expansion for 3600+ beds over the next 5 years",
-     "horizon": "next 5 years",
-     "low": 3600,
-     "high": null,
-     "unit": "units",
-     "quote": "Approved Capacity Expansion for 3,600+ Beds Over the Next 5 Years",
-     "page": 32,
-     "speaker": null,
+     "metric": "profit",
+     "promise": "Next year EBITDA losses from new hospitals should be around 150 crore",
+     "horizon": "next year",
+     "low": 150,
+     "high": 150,
+     "unit": "cr",
+     "quote": "We continue to believe that next year, overall EBITDA losses from these hospitals should be around the INR 150 crore number",
+     "page": 5,
+     "speaker": "A. Krishnan",
      "verified": true,
      "id": "g1.1"
     },
     {
-     "metric": "other",
-     "promise": "Expand presence in locations such as Hyderabad, Bangalore, Sonarpur, Pune, Gurgaon, Chennai and Varanasi in the next 3 years",
-     "horizon": "next 3 years",
-     "low": null,
-     "high": null,
-     "unit": null,
-     "quote": "In the next three years, Apollo Hospitals plan to expand its presence in locations such as Hyderabad, Bangalore, Sonarpur, Pune, Gurgaon, Chennai and Varanasi.",
-     "page": 112,
-     "speaker": null,
+     "metric": "margin",
+     "promise": "Achieve 7 percent EBITDA margin by Q4 FY27 with 25000 crore revenue run rate",
+     "horizon": "Q4 FY27",
+     "low": 7,
+     "high": 7,
+     "unit": "%",
+     "quote": "overall 7%, which I think you are referring to the guidance of Q4 FY27, wherein we are suggesting about INR 25,000 crore of revenue run rate, with a 7% EBITDA. I think we are hopeful that we should be able to hit that mark.",
+     "page": 7,
+     "speaker": "Sanjiv Gupta",
      "verified": true,
      "id": "g1.2"
     },
     {
-     "metric": "other",
-     "promise": "Aim for 25% of total energy and 25% of electricity demands from renewable resources by FY25",
-     "horizon": "FY25",
-     "low": 25,
-     "high": 25,
+     "metric": "revenue growth",
+     "promise": "Get back into 30 percent organic growth in hospitals",
+     "horizon": "coming quarters",
+     "low": 30,
+     "high": 30,
      "unit": "%",
-     "quote": "aiming for 25% of total energy and 25% of electricity demands to be supplied by renewable resources by FY25.",
-     "page": 264,
-     "speaker": null,
+     "quote": "Yes. I think we are quite confident that we will get back into 30%.",
+     "page": 3,
+     "speaker": "Suneeta Reddy",
      "verified": true,
      "id": "g1.3"
+    },
+    {
+     "metric": "revenue growth",
+     "promise": "Existing beds 13 percent growth and 5 percent from new beds over next 36 months",
+     "horizon": "next 36 months",
+     "low": 13,
+     "high": 18,
+     "unit": "%",
+     "quote": "This should result in 13% growth in the existing beds and an additional 5% coming from new beds in the next 36 months.",
+     "page": 8,
+     "speaker": "Suneeta Reddy",
+     "verified": true,
+     "id": "g1.4"
+    },
+    {
+     "metric": "margin",
+     "promise": "Take established hospital margins higher by 500 basis points internally",
+     "horizon": "next one or two years",
+     "low": 500,
+     "high": 500,
+     "unit": "bps",
+     "quote": "clearly there is because there is here for growth. We are working on the clinical program. And clearly, we would, the internal target is to take it higher by 500 basis points.",
+     "page": 15,
+     "speaker": "A. Krishnan",
+     "verified": true,
+     "id": "g1.5"
     }
    ],
-   "claims": [],
-   "pushback": [],
-   "tone": "Confident and focused on expanding healthcare infrastructure, digital adoption, and preventive care."
+   "claims": [
+    {
+     "claim": "Consolidated revenue reached 6304 crore, registering 13 percent year-on-year growth",
+     "quote": "Consolidated revenue was at INR 6,304 crore, a 13% year-on-year growth.",
+     "page": 1,
+     "verified": true
+    },
+    {
+     "claim": "Healthcare services EBITDA was 781 crore with 24.6 percent margin",
+     "quote": "Within this, the Healthcare Services EBITDA was at INR 781 crore, registering a growth of 8% year-on-year and Healthcare Services margin remained robust at 24.6%.",
+     "page": 1,
+     "verified": true
+    },
+    {
+     "claim": "Apollo HealthCo reported 17 percent revenue growth to 2661 crore",
+     "quote": "Moving ahead, Apollo HealthCo reported revenues of INR 2,661 crore marking a 17% year-on-year growth.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated H1 PAT stood at 910 crore, up by 33 percent",
+     "quote": "PAT stood at INR 910 crore, up by 33%. This is a strong half year performance",
+     "page": 3,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Organic hospital growth and insurance pricing",
+     "quote": "My first question is how to think about organic growth for hospitals. Keeping in light two points; - first is that the Bangladesh impact incrementally will go away, so that will be 1% positive. Secondly, there is lows of news on insurance pricing that hospitals are planning to keep steady for next year. So, keeping both these, could you comment on this and then guide on organic hospital growth for next year?",
+     "page": 3,
+     "verified": true
+    },
+    {
+     "topic": "New hospital expansion costs and EBITDA margin impact",
+     "quote": "My first question is again on hospitals. So, between now and end of FY27, as you indicated, six hospitals coming up. So, I understand '26 Pune will be key addition and the majority will be coming in '27. So, if you can comment a bit on the impact on EBITDA margin trajectory due to the new costs coming up?",
+     "page": 5,
+     "verified": true
+    },
+    {
+     "topic": "Hospital utilization decline and ALOS limits",
+     "quote": "I know you mentioned about the seasonality and the reason why the utilization fell from 73% overall to 69%, and I get it. But I am just trying to look from a forward path perspective, right. ALOS has been consistently declining. This is obviously as we are able to be more efficient in terms of our processes and stuff. But is there a theoretical lower limit where we reach on ALOS?",
+     "page": 9,
+     "verified": true
+    }
+   ],
+   "tone": "Confident and optimistic about robust growth, integration benefits, and disciplined expansion plans."
+  },
+  {
+   "n": 2,
+   "quarter": "Q3 FY26",
+   "date": "Feb 2026",
+   "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2026-02/transcript-of-ahel-q3fy26-concall_11feb2026.pdf",
+   "pages": 18,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "profit",
+     "promise": "Digital business cash EBITDA breakeven pushed out by a quarter to Q1 FY27",
+     "horizon": "Q1 FY27",
+     "low": null,
+     "high": null,
+     "unit": null,
+     "quote": "forecast about our ability to close it in Q4, given this insurance story, which has sort of pushed us back by around INR17-odd crore... we will be able to close this loop in Q1 of FY '27.",
+     "page": 6,
+     "speaker": "Madhivanan B.",
+     "verified": true,
+     "id": "g2.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Achieve at least 100 basis points margin expansion in the existing business next year",
+     "horizon": "next year",
+     "low": 100,
+     "high": null,
+     "unit": "bps",
+     "quote": "At least 100 basis points is the margin expansion, which is possible in the existing business next year.",
+     "page": 14,
+     "speaker": "A. Krishnan",
+     "verified": true,
+     "id": "g2.2"
+    },
+    {
+     "metric": "revenue",
+     "promise": "Achieve a run rate of INR 25,000 crore in combined revenues with 7% EBITDA for the combined entity",
+     "horizon": "medium-term",
+     "low": 25000,
+     "high": 25000,
+     "unit": "cr",
+     "quote": "achieve a run rate of INR 25,000 crore in combined revenues with 7% EBITDA.",
+     "page": 3,
+     "speaker": "Suneeta Reddy",
+     "verified": true,
+     "id": "g2.3"
+    },
+    {
+     "metric": "volume",
+     "promise": "Operationalize approximately 1,500 additional operating beds with about half in upcoming fiscal year and balance in early FY28",
+     "horizon": "early FY28",
+     "low": 1500,
+     "high": 1500,
+     "unit": "units",
+     "quote": "These facilities, along with the ramp-up in our recently commissioned Pune hospital, will approximately add 1,500 additional operating beds... We expect to operationalize roughly half of this capacity in the upcoming fiscal year with the balance coming online early FY '28.",
+     "page": 3,
+     "speaker": "Suneeta Reddy",
+     "verified": true,
+     "id": "g2.4"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "Consolidated revenue grew by 17% year-on-year to INR 6,477 crore in Q3 FY26.",
+     "quote": "On a consolidated basis, revenue grew by 17% year-on-year to INR 6,477 crore.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated PAT grew by 35% year-on-year to INR 502 crore in Q3 FY26.",
+     "quote": "we reported a consolidated PAT of INR502 crore in Q3 FY '26, a growth of 35% year-on-year.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Apollo 24/7 added 2 million new users and serves over 46 million users.",
+     "quote": "Apollo 24/7 added 2 million new users during the quarter and now serves over 46 million users.",
+     "page": 2,
+     "verified": true
+    },
+    {
+     "claim": "Consolidated EBITDA for Q3 FY26 was INR 965 crore, up 27% year-on-year.",
+     "quote": "Consolidated EBITDA for the quarter was at INR 965 crore, registering a robust growth of 27% year-on-year.",
+     "page": 2,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "Digital business GMV drop and revenue moderation",
+     "quote": "And secondly, just on the GMV of the Digital business. We have seen a sequential drop in GMV. And in fact, our revenue to GMV ratio also went up. Could you share your thoughts on that?",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "topic": "New hospital ramp-up costs and headwind impact",
+     "quote": "Could you -- last time we discussed about INR150 crore cost headwind coming out of this ramp-up. Any updated thoughts on that?",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "topic": "Doctor retention and talent poaching risks",
+     "quote": "And very recently, we have seen one of the star oncologists in Delhi has been poached by one of your peers. Just trying to understand how you are tackling this issue.",
+     "page": 14,
+     "verified": true
+    }
+   ],
+   "tone": "Confident, optimistic, and transparent regarding operational expansions and digital path to breakeven."
   }
  ],
  "business": {
@@ -523,80 +706,104 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g1.1",
-    "promise": "Approved capacity expansion for 3600+ beds over the next 5 years",
-    "made_in": "AR 2025 call",
-    "delivered": "Deadline extends to 2030; no reported bed count to verify yet",
-    "verdict": "too_early",
-    "checked_against": "none",
-    "quote": "Approved Capacity Expansion for 3,600+ Beds Over the Next 5 Years",
-    "page": 32,
+    "ref": "g1.2",
+    "promise": "Achieve 7% EBITDA margin with INR 25,000 crore revenue run rate by Q4 FY27",
+    "made_in": "Q2 FY26",
+    "delivered": "FY26 revenue already hit ₹25,228 crore with 15.0% EBITDA margin, achieving the revenue milestone ahead of Q4 FY27.",
+    "verdict": "delivered",
+    "checked_against": "Mar 2026 annual revenue and EBITDA margin",
+    "quote": "overall 7%, which I think you are referring to the guidance of Q4 FY27, wherein we are suggesting about INR 25,000 crore of revenue run rate, with a 7% EBITDA. I think we are hopeful that we should be able to hit that mark.",
+    "page": 7,
     "verified": true,
-    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/330724b4-fb72-4577-beb0-598b4672f77a.pdf"
+    "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-11/transcript-of-apollo-hospitals---q2-fy26-earnings-call---7-november-2025....pdf"
    },
    {
-    "ref": "g1.2",
-    "promise": "Expand presence in Hyderabad, Bangalore, Sonarpur, Pune, Gurgaon, Chennai and Varanasi in the next 3 years",
-    "made_in": "AR 2025 call",
-    "delivered": "3‑year horizon runs to 2028; location rollout not disclosed in numbers",
-    "verdict": "too_early",
-    "checked_against": "none",
-    "quote": "In the next three years, Apollo Hospitals plan to expand its presence in locations such as Hyderabad, Bangalore, Sonarpur, Pune, Gurgaon, Chennai and Varanasi.",
-    "page": 112,
+    "ref": "g2.1",
+    "promise": "Digital business cash EBITDA breakeven pushed back by a quarter to Q1 FY27",
+    "made_in": "Q3 FY26",
+    "delivered": "Management delayed breakeven target from Q4 FY26 to Q1 FY27; segment metrics are not shown in company statements.",
+    "verdict": "walked_back",
+    "checked_against": "Q3 FY26 management commentary",
+    "quote": "forecast about our ability to close it in Q4, given this insurance story, which has sort of pushed us back by around INR17-odd crore... we will be able to close this loop in Q1 of FY '27.",
+    "page": 6,
     "verified": true,
-    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/330724b4-fb72-4577-beb0-598b4672f77a.pdf"
+    "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2026-02/transcript-of-ahel-q3fy26-concall_11feb2026.pdf"
+   },
+   {
+    "ref": "g2.2",
+    "promise": "Achieve at least 100 basis points margin expansion in existing business next year",
+    "made_in": "Q3 FY26",
+    "delivered": "Consolidated EBITDA margin expanded 100 bps from 15.0% in FY26 to 16.0% in Jun 2026 and Sep 2026.",
+    "verdict": "delivered",
+    "checked_against": "Jun 2026 and Sep 2026 EBITDA margin of 16.0%",
+    "quote": "At least 100 basis points is the margin expansion, which is possible in the existing business next year.",
+    "page": 14,
+    "verified": true,
+    "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2026-02/transcript-of-ahel-q3fy26-concall_11feb2026.pdf"
    },
    {
     "ref": "g1.3",
-    "promise": "Achieve 25% of total energy and electricity demand from renewable resources by FY25",
-    "made_in": "AR 2025 call",
-    "delivered": "FY25 ended Mar 2025; renewable share not reported, cannot confirm",
-    "verdict": "too_early",
-    "checked_against": "none",
-    "quote": "aiming for 25% of total energy and 25% of electricity demands to be supplied by renewable resources by FY25.",
-    "page": 264,
+    "promise": "Get back into 30 percent organic growth in hospitals in coming quarters",
+    "made_in": "Q2 FY26",
+    "delivered": "Consolidated revenue growth accelerated to 23.0% in Sep 2026; pure organic hospital growth is unsegmented in company figures.",
+    "verdict": "partly",
+    "checked_against": "Sep 2026 YoY revenue growth",
+    "quote": "Yes. I think we are quite confident that we will get back into 30%.",
+    "page": 3,
     "verified": true,
-    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/330724b4-fb72-4577-beb0-598b4672f77a.pdf"
+    "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-11/transcript-of-apollo-hospitals---q2-fy26-earnings-call---7-november-2025....pdf"
    }
   ],
   "credibility": {
-   "score": null,
-   "line": "None of these promises can be checked against reported numbers yet — no score."
+   "score": 7,
+   "line": "Management achieved revenue targets ahead of schedule and expanded margins, despite delaying digital breakeven by one quarter."
   },
   "narrative_vs_numbers": [
    {
     "agree": true,
-    "point": "Revenue accelerated to 23% YoY in Q2 FY27, matching the narrative of rapid growth."
+    "point": "Management claimed revenue growth momentum; reported YoY revenue growth accelerated from 10.7% in Sep 2025 to 23.0% in Sep 2026."
+   },
+   {
+    "agree": true,
+    "point": "Management claimed 35% PAT growth in Q3 FY26; reported PAT for Dec 2025 reached ₹516 crore, growing 36.1% YoY."
    },
    {
     "agree": false,
-    "point": "Operating cash conversion remains modest (OCF/PAT ~1.4x) despite profit growth."
+    "point": "Analysts flagged expansion costs and utilization limits; reported EBITDA margin nevertheless improved from 15.0% to 16.0% by Sep 2026."
    }
   ],
   "bull": [
-   "Revenue rose 23% YoY to ₹7,615 cr in Sep 2026.",
-   "EBITDA margin increased to 16% in Q2 FY27.",
-   "PAT grew 33.6% YoY to ₹660 cr in Sep 2026."
+   "Revenue growth accelerated for four consecutive quarters, reaching 23.0% YoY in Sep 2026.",
+   "FY26 annual revenue reached ₹25,228 crore, achieving the ₹25,000 crore run-rate target ahead of Q4 FY27.",
+   "Operating leverage yielded 33.4% 3-year profit compounding while EBITDA margin reached 16.0% in Sep 2026."
   ],
   "bear": [
-   "Free cash flow lagged operating cash flow (₹925 cr vs ₹2,856 cr in FY26).",
-   "Borrowings rose to ₹8,493 cr, D/E at 0.9.",
-   "Operating cash conversion ratio fell to 1.43x, indicating cash pressure."
+   "Total borrowings expanded significantly from ₹5,333 crore in Mar 2024 to ₹8,149 crore in Sep 2026.",
+   "Working capital cycle stretched by 26 days over 2 years, shifting cash cycle from -23 to 3 days.",
+   "Digital business breakeven target was deferred to Q1 FY27 due to an unexpected ₹17 crore insurance impact."
   ],
   "watch": [
-   "Actual bed count versus 3,600‑bed target.",
-   "Renewable energy share by FY25.",
-   "Progress on new hospital locations."
+   "EBITDA margin retention at 16.0% in Q3 FY27.",
+   "Progress on debt reduction from ₹8,149 crore.",
+   "Sustainability of YoY revenue growth above 20%."
   ]
  },
  "ledger_ok": true,
  "usage": [
   {
    "model": "gemini-3.5-flash-lite",
-   "in": 16397,
-   "out": 566,
-   "secs": 26.1,
-   "cached": false,
+   "in": 13257,
+   "out": 1364,
+   "secs": 12.4,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
+   "in": 14177,
+   "out": 1157,
+   "secs": 11.3,
+   "cached": true,
    "fallback": false
   },
   {
@@ -604,31 +811,30 @@
    "in": 14009,
    "out": 352,
    "secs": 3.1,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "openai/gpt-oss-120b",
-   "in": 2098,
-   "out": 873,
-   "secs": 2.7,
+   "model": "gemini-3.6-flash",
+   "in": 3163,
+   "out": 4964,
+   "secs": 75.6,
    "cached": false,
    "fallback": false
   }
  ],
- "promise_source": "annual_report",
- "ledger_model": "openai/gpt-oss-120b",
+ "ledger_model": "gemini-3.6-flash",
  "ledger_fallback": false,
  "cost": {
-  "calls": 3,
-  "fresh_calls": 3,
-  "tokens_in": 32504,
-  "tokens_out": 1791,
+  "calls": 4,
+  "fresh_calls": 1,
+  "tokens_in": 44606,
+  "tokens_out": 7837,
   "models": [
    "gemini-3.5-flash-lite",
-   "openai/gpt-oss-120b"
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 74.6
+  "secs": 95.6
  }
 }

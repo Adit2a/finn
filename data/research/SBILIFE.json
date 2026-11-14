@@ -2,18 +2,18 @@
  "symbol": "SBILIFE",
  "name": "SBI Life Insurance Company Ltd",
  "basis": "standalone",
- "generated_at": "2026-11-08T21:40:37",
+ "generated_at": "2026-11-14T21:30:52",
  "latest_call": "Nov 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 176428.0,
-   "pe": 66.4,
+   "market_cap_cr": 179600.0,
+   "pe": 67.6,
    "roce": 15.0,
    "roe": 13.7,
    "ttm_revenue": 121160.0,
    "ttm_pat": 2656.0,
    "margin_latest_q": 2.3,
-   "de": -0.0,
+   "de": 0.0,
    "is_financial": false,
    "margin_label": "Operating margin"
   },
@@ -160,66 +160,66 @@
   "balance_sheet": [
    {
     "y": "Mar 2022",
-    "debt": -0.0,
+    "debt": 0.0,
     "equity": 11622.0,
-    "de": -0.0
+    "de": 0.0
    },
    {
     "y": "Mar 2023",
-    "debt": -0.0,
+    "debt": 0.0,
     "equity": 13018.0,
-    "de": -0.0
+    "de": 0.0
    },
    {
     "y": "Mar 2024",
-    "debt": -0.0,
+    "debt": 0.0,
     "equity": 14908.0,
-    "de": -0.0
+    "de": 0.0
    },
    {
     "y": "Mar 2025",
-    "debt": -0.0,
+    "debt": 0.0,
     "equity": 16985.0,
-    "de": -0.0
+    "de": 0.0
    },
    {
     "y": "Mar 2026",
-    "debt": -0.0,
+    "debt": 0.0,
     "equity": 19086.0,
-    "de": -0.0
+    "de": 0.0
    },
    {
     "y": "Sep 2026",
-    "debt": -0.0,
+    "debt": 0.0,
     "equity": 20539.0,
-    "de": -0.0
+    "de": 0.0
    }
   ],
   "working_capital": {
    "Debtor Days": [
     [
      "Mar 2021",
-     -0.0
+     0.0
     ],
     [
      "Mar 2022",
-     -0.0
+     0.0
     ],
     [
      "Mar 2023",
-     -0.0
+     0.0
     ],
     [
      "Mar 2024",
-     -0.0
+     0.0
     ],
     [
      "Mar 2025",
-     -0.0
+     0.0
     ],
     [
      "Mar 2026",
-     -0.0
+     0.0
     ]
    ],
    "Inventory Days": [
@@ -277,27 +277,27 @@
    "Cash Conversion Cycle": [
     [
      "Mar 2021",
-     -0.0
+     0.0
     ],
     [
      "Mar 2022",
-     -0.0
+     0.0
     ],
     [
      "Mar 2023",
-     -0.0
+     0.0
     ],
     [
      "Mar 2024",
-     -0.0
+     0.0
     ],
     [
      "Mar 2025",
-     -0.0
+     0.0
     ],
     [
      "Mar 2026",
-     -0.0
+     0.0
     ]
    ],
    "Working Capital Days": [
@@ -379,11 +379,16 @@
    },
    {
     "tone": "good",
-    "text": "Practically debt-free (D/E -0.0)"
+    "text": "Practically debt-free (D/E 0.0)"
    }
   ]
  },
  "sources": [
+  {
+   "kind": "transcript",
+   "label": "Q2 FY26 call",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6c6b6ab9-6b51-4805-8d12-fe8f337282d4.pdf"
+  },
   {
    "kind": "transcript",
    "label": "Q3 FY26 call",
@@ -400,11 +405,6 @@
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d066f482-f5e7-4274-8d43-deefa3beceab.pdf"
   },
   {
-   "kind": "transcript",
-   "label": "Q2 FY27 call",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f6141ef-1b01-4623-91f3-a0accb6aec40.pdf"
-  },
-  {
    "kind": "annual_report",
    "label": "Annual Report 2026",
    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/14b49afc-218e-4be7-8bce-e5fb86f2a632.pdf"
@@ -413,6 +413,90 @@
  "calls": [
   {
    "n": 1,
+   "quarter": "Q2 FY26",
+   "date": "Oct 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6c6b6ab9-6b51-4805-8d12-fe8f337282d4.pdf",
+   "pages": 17,
+   "scanned": false,
+   "guidance": [
+    {
+     "metric": "volume",
+     "promise": "Expect total protection share to increase to above 10% of APE",
+     "horizon": "H1 growth / ongoing",
+     "low": 10,
+     "high": null,
+     "unit": "%",
+     "quote": "The company expects to increase its protection share to above 10% of APE, and it is in line with our H1 growth.",
+     "page": 7,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g1.1"
+    },
+    {
+     "metric": "margin",
+     "promise": "Full year VoNB margin guidance remains in the range of 26% to 28%",
+     "horizon": "FY26",
+     "low": 26,
+     "high": 28,
+     "unit": "%",
+     "quote": "So, our guidance for the margin remains what we had given earlier in the range of 26% to 28%.",
+     "page": 11,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g1.2"
+    },
+    {
+     "metric": "volume",
+     "promise": "Full year individual APE growth guidance around 13% to 14% for FY26",
+     "horizon": "FY26",
+     "low": 13,
+     "high": 14,
+     "unit": "%",
+     "quote": "APE growth, as we have mentioned, it will be in the around 13% to 14%. And we are talking about individual APE for the overall for FY '26.",
+     "page": 13,
+     "speaker": "Management",
+     "verified": true,
+     "id": "g1.3"
+    }
+   ],
+   "claims": [
+    {
+     "claim": "New business premium stands at INR 183.5 billion with a 17% growth",
+     "quote": "New business premium stands at INR 183.5 billion with a 17% growth and private market share of 22.2%.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Profit after tax grew by 4% at INR 10.89 billion",
+     "quote": "Profit after tax grew by 4% at INR 10.89 billion as compared to the corresponding period last year.",
+     "page": 4,
+     "verified": true
+    },
+    {
+     "claim": "Value of new business stands at INR 27.5 billion with a 14% growth",
+     "quote": "Value of new business stands at INR 27.5 billion with a growth of 14%. VoNB margin stands at 27.8%",
+     "page": 4,
+     "verified": true
+    }
+   ],
+   "pushback": [
+    {
+     "topic": "GST Impact on Margins",
+     "quote": "Just a clarification. So you said you expect individual protection to be more than 10% of individual APE. Can you give some timeline as to when do you expect this to happen?",
+     "page": 8,
+     "verified": true
+    },
+    {
+     "topic": "Channel Growth Slowdown",
+     "quote": "So any colour you want to give why these channels are still struggling when we can expect this growth to come back in December?",
+     "page": 11,
+     "verified": true
+    }
+   ],
+   "tone": "Optimistic and confident in navigating regulatory changes and meeting annual guidance targets."
+  },
+  {
+   "n": 2,
    "quarter": "Q3 FY26",
    "date": "Feb 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70cf3e58-47e2-4f46-a934-6e024af5ef53.pdf",
@@ -430,7 +514,7 @@
      "page": 8,
      "speaker": "Management",
      "verified": true,
-     "id": "g1.1"
+     "id": "g2.1"
     },
     {
      "metric": "volume",
@@ -443,7 +527,7 @@
      "page": 11,
      "speaker": "Management",
      "verified": true,
-     "id": "g1.2"
+     "id": "g2.2"
     }
    ],
    "claims": [
@@ -495,7 +579,7 @@
    "tone": "Confident and transparent, addressing regulatory impacts while reiterating annual guidance."
   },
   {
-   "n": 2,
+   "n": 3,
    "quarter": "Q4 FY26",
    "date": "Apr 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f50bc473-267d-4994-8843-16a9e3c51c51.pdf",
@@ -513,7 +597,7 @@
      "page": 13,
      "speaker": "Management",
      "verified": true,
-     "id": "g2.1"
+     "id": "g3.1"
     },
     {
      "metric": "revenue growth",
@@ -526,7 +610,7 @@
      "page": 8,
      "speaker": "Management",
      "verified": true,
-     "id": "g2.2"
+     "id": "g3.2"
     },
     {
      "metric": "other",
@@ -539,7 +623,7 @@
      "page": 4,
      "speaker": "Amit Jhingran",
      "verified": true,
-     "id": "g2.3"
+     "id": "g3.3"
     },
     {
      "metric": "other",
@@ -552,7 +636,7 @@
      "page": 17,
      "speaker": "Management",
      "verified": true,
-     "id": "g2.4"
+     "id": "g3.4"
     }
    ],
    "claims": [
@@ -604,7 +688,7 @@
    "tone": "Confident, transparent, and focused on sustainable growth and product mix balancing."
   },
   {
-   "n": 3,
+   "n": 4,
    "quarter": "Q1 FY27",
    "date": "Jul 2026",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d066f482-f5e7-4274-8d43-deefa3beceab.pdf",
@@ -622,7 +706,7 @@
      "page": 7,
      "speaker": "Management",
      "verified": true,
-     "id": "g3.1"
+     "id": "g4.1"
     },
     {
      "metric": "volume",
@@ -635,7 +719,7 @@
      "page": 7,
      "speaker": "Management",
      "verified": true,
-     "id": "g3.2"
+     "id": "g4.2"
     },
     {
      "metric": "margin",
@@ -648,7 +732,7 @@
      "page": 8,
      "speaker": "Management",
      "verified": true,
-     "id": "g3.3"
+     "id": "g4.3"
     }
    ],
    "claims": [
@@ -698,115 +782,6 @@
     }
    ],
    "tone": "Confident and optimistic regarding sustainable growth, margin recovery, and strong distribution performance."
-  },
-  {
-   "n": 4,
-   "quarter": "Q2 FY27",
-   "date": "Nov 2026",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f6141ef-1b01-4623-91f3-a0accb6aec40.pdf",
-   "pages": 21,
-   "scanned": false,
-   "guidance": [
-    {
-     "metric": "other",
-     "promise": "Close the financial year with 14% to 15% individual rated premium growth",
-     "horizon": "FY27",
-     "low": 14,
-     "high": 15,
-     "unit": "%",
-     "quote": "for the financial year, we will be closing with 14% to 15% as we had guided for.",
-     "page": 8,
-     "speaker": "Management",
-     "verified": true,
-     "id": "g4.1"
-    },
-    {
-     "metric": "margin",
-     "promise": "Maintain VNB margin in the 26% to 28% range",
-     "horizon": "FY27",
-     "low": 26,
-     "high": 28,
-     "unit": "%",
-     "quote": "So we will stick to our guidance of 26% to 28%...",
-     "page": 11,
-     "speaker": "Management",
-     "verified": true,
-     "id": "g4.2"
-    },
-    {
-     "metric": "other",
-     "promise": "Launch deferred annuity product soon in third quarter",
-     "horizon": "Q3 FY27",
-     "low": null,
-     "high": null,
-     "unit": null,
-     "quote": "So we will be launching soon this deferred annuity...",
-     "page": 12,
-     "speaker": "Management",
-     "verified": true,
-     "id": "g4.3"
-    },
-    {
-     "metric": "other",
-     "promise": "Finalize IFRS transition options and adopt by June 30, 2027",
-     "horizon": "FY27",
-     "low": null,
-     "high": null,
-     "unit": null,
-     "quote": "And once we go towards the end of this financial year, by the end of March, we will finalize and then move towards the June 30, 2027 for the adoption.",
-     "page": 12,
-     "speaker": "Management",
-     "verified": true,
-     "id": "g4.4"
-    }
-   ],
-   "claims": [
-    {
-     "claim": "New business premium grew 10% to INR202.6 billion with 20% private market share.",
-     "quote": "New business premium stands at INR202.6 billion with a growth of 10% and private market share of 20%.",
-     "page": 4,
-     "verified": true
-    },
-    {
-     "claim": "Profit after tax grew 17% year-on-year to INR12.7 billion for H1 FY27.",
-     "quote": "Profit after tax stood at INR12.7 billion, registering a strong growth of 17% over the corresponding period last year.",
-     "page": 4,
-     "verified": true
-    },
-    {
-     "claim": "Value of new business grew 19% to INR32.7 billion with a margin of 27.9%.",
-     "quote": "Value of new business stands at INR32.7 billion with a growth of 19%. VoNB margin stands at 27.9%.",
-     "page": 4,
-     "verified": true
-    },
-    {
-     "claim": "Assets under management stand at INR5.3 trillion with 9% growth.",
-     "quote": "Our assets under management stand at INR5.3 trillion with a growth of 9% over the corresponding period last year.",
-     "page": 4,
-     "verified": true
-    }
-   ],
-   "pushback": [
-    {
-     "topic": "Individual rated premium growth rate and sustainability",
-     "quote": "Now are you sort of satisfied with this growth or do you see certain things missing, I mean growth is not properly firing.",
-     "page": 8,
-     "verified": true
-    },
-    {
-     "topic": "Impact of yield curve movement on Q2 margin",
-     "quote": "And this strong margin performance and 29% plus margin that we're seeing in this quarter, how much of that is because of higher yield curve?",
-     "page": 16,
-     "verified": true
-    },
-    {
-     "topic": "IFRS transition details and CSM release methodology",
-     "quote": "So if I can ask like which transition approach will you use for the in-force book? Will it be like full retrospective for these cohorts or fair value of modified retrospective for the older ones?",
-     "page": 12,
-     "verified": true
-    }
-   ],
-   "tone": "Confident, reassuring, and constructive regarding long-term growth and regulatory changes."
   }
  ],
  "business": {
@@ -862,83 +837,104 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g1.2",
-    "promise": "Achieve overall APE growth guidance of 13% to 14% for FY26",
-    "made_in": "Q3 FY26 call",
-    "delivered": "Management claimed delivered APE of INR242.7 billion registering 13% growth for FY26.",
+    "ref": "g1.3",
+    "promise": "Full year individual APE growth guidance around 13% to 14% for FY26",
+    "made_in": "Q2 FY26",
+    "delivered": "Management reported FY26 APE of INR 242.7 billion with 13% growth, meeting the lower end of guidance.",
     "verdict": "delivered",
-    "checked_against": "Company claims on Q4 FY26 call",
-    "quote": "As far as growth is concerned, for the entire year, we had given a guidance of 13%-14%. And we continue to stick to that for the entire financial year also.",
+    "checked_against": "Q4 FY26 management claim of 13% APE growth",
+    "quote": "APE growth, as we have mentioned, it will be in the around 13% to 14%. And we are talking about individual APE for the overall for FY '26.",
+    "page": 13,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6c6b6ab9-6b51-4805-8d12-fe8f337282d4.pdf"
+   },
+   {
+    "ref": "g1.2",
+    "promise": "Full year VoNB margin guidance remains in the range of 26% to 28%",
+    "made_in": "Q2 FY26",
+    "delivered": "Achieved FY26 VoNB margin within band; Q1 FY27 reported 26.2% margin on INR 14.1 billion VoNB.",
+    "verdict": "delivered",
+    "checked_against": "Q1 FY27 management claim of 26.2% VNB margin",
+    "quote": "So, our guidance for the margin remains what we had given earlier in the range of 26% to 28%.",
     "page": 11,
     "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70cf3e58-47e2-4f46-a934-6e024af5ef53.pdf"
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6c6b6ab9-6b51-4805-8d12-fe8f337282d4.pdf"
    },
    {
-    "ref": "g3.1",
-    "promise": "Maintain VoNB margin in the 26% to 28% range for FY27",
-    "made_in": "Q1 FY27 call",
-    "delivered": "Reported Q1 FY27 VNB margin at 26.2% and Q2 FY27 margin at 27.9%, staying within the 26% to 28% range.",
-    "verdict": "delivered",
-    "checked_against": "Q1 and Q2 FY27 reported VNB margins",
-    "quote": "The margin guidance was 26% to 28%, and we are within the range, although at the lower end of that.",
-    "page": 7,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d066f482-f5e7-4274-8d43-deefa3beceab.pdf"
-   },
-   {
-    "ref": "g2.4",
-    "promise": "Launch deferred annuity product by June",
-    "made_in": "Q4 FY26 call",
-    "delivered": "Targeted for Q1 FY27 launch by June 2026; later Q2 FY27 call noted launching soon in third quarter.",
-    "verdict": "partly",
-    "checked_against": "Q2 FY27 call update",
+    "ref": "g3.4",
+    "promise": "Launch deferred annuity product in this quarter or next",
+    "made_in": "Q4 FY26",
+    "delivered": "Targeted go-live by June 2026; no launch confirmation provided in Q1 FY27 call text.",
+    "verdict": "too_early",
+    "checked_against": "Q1 FY27 management commentary",
     "quote": "So our endeavor is to launch this deferred annuity product in this quarter itself. So we are aiming to go live by June, we should launch the deferred annuity.",
     "page": 17,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f50bc473-267d-4994-8843-16a9e3c51c51.pdf"
+   },
+   {
+    "ref": "g3.3",
+    "promise": "Seek regulatory forbearance for Ind AS adoption from April 1, 2027",
+    "made_in": "Q4 FY26",
+    "delivered": "Implementation target date of April 1, 2027 remains in the future.",
+    "verdict": "too_early",
+    "checked_against": "Implementation target date April 1, 2027",
+    "quote": "proposes to seek regulatory forbearance for an adoption from April 1, 2027, with comprehensive preparatory measures already initiated.",
+    "page": 4,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f50bc473-267d-4994-8843-16a9e3c51c51.pdf"
    }
   ],
   "credibility": {
    "score": 8,
-   "line": "Management consistently meets its guidance ranges for growth and VNB margins, supported by reported operational metrics."
+   "line": "Management consistently delivers at the lower end of its 13%-14% APE and 26%-28% margin targets."
   },
   "narrative_vs_numbers": [
    {
-    "agree": true,
-    "point": "Management claimed 17% PAT growth for H1 FY27 to INR12.7 billion, supported by reported Q2 FY27 PAT of INR549 crore and Q1 FY27 PAT of INR725 crore."
+    "agree": false,
+    "point": "Q4 FY26 reported revenue fell 82.4% YoY to ₹4,071 crore despite management claiming 13% annual APE growth."
    },
    {
     "agree": true,
-    "point": "Annual PAT grew from INR2413 crore in FY25 to INR2470 crore in FY26, aligning with reported profit growth claims."
+    "point": "PAT growth narrative matches financials, with Q1 FY27 reported PAT of ₹725 crore growing 22.1% YoY."
    },
    {
     "agree": true,
-    "point": "Equity increased steadily from INR16985 crore in March 2025 to INR19086 crore in March 2026 and INR20539 crore by Sep 2026."
+    "point": "Cash flow claims align with financials, showing strong Mar 2026 OCF of ₹34,523 crore and 13.98 OCF/PAT."
    }
   ],
   "bull": [
-   "PAT grew 17% year-on-year to INR12.7 billion for H1 FY27.",
-   "Equity base expanded to INR20539 crore as of Sep 2026 from INR16985 crore in March 2025.",
-   "Company remains practically debt-free with a debt-to-equity ratio of -0.0."
+   "Zero debt maintained on balance sheet from Mar 2022 through Sep 2026.",
+   "Met FY26 APE growth target at 13% while holding VoNB margin in 26%-28% range.",
+   "Strong 5-year operating cash conversion ratio of 13.96x PAT with ₹34,523 crore OCF in Mar 2026."
   ],
   "bear": [
-   "Quarterly revenue shows extreme volatility, dropping 82.4% YoY in Mar 2026.",
-   "EBITDA margins remain depressed below 3%, hitting negative figures in Mar 2025 and Mar 2026.",
-   "Operating cash flow conversion and financial volatility do not match the steady insurance metric claims."
+   "Quarterly revenue exhibits extreme volatility, contracting 82.4% YoY in Mar 2026.",
+   "EBITDA margin crashed to negative 26.0% in Mar 2026 with ₹1,046 crore loss.",
+   "VoNB margin sits at lower end of guidance at 26.2% in Q1 FY27."
   ],
   "watch": [
-   "Deferred annuity product launch status in Q3 FY27",
-   "IFRS transition progress toward June 30, 2027 adoption"
+   "Margin expansion toward upper 28% range in coming FY27 quarters.",
+   "Full year FY27 Individual Rated Premium growth against 14%-15% target.",
+   "Quarterly EBITDA margin stability following Mar 2026 operating loss."
   ]
  },
  "ledger_ok": true,
  "usage": [
   {
    "model": "gemini-3.5-flash-lite",
+   "in": 12835,
+   "out": 783,
+   "secs": 3.7,
+   "cached": true,
+   "fallback": false
+  },
+  {
+   "model": "gemini-3.5-flash-lite",
    "in": 14761,
    "out": 812,
    "secs": 13.4,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -946,7 +942,7 @@
    "in": 17253,
    "out": 1005,
    "secs": 4.0,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -954,15 +950,7 @@
    "in": 11008,
    "out": 968,
    "secs": 6.4,
-   "cached": false,
-   "fallback": false
-  },
-  {
-   "model": "gemini-3.5-flash-lite",
-   "in": 12774,
-   "out": 1019,
-   "secs": 4.4,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -970,29 +958,30 @@
    "in": 14256,
    "out": 317,
    "secs": 2.8,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
-   "in": 3600,
-   "out": 966,
-   "secs": 3.9,
+   "model": "gemini-3.6-flash",
+   "in": 3501,
+   "out": 4154,
+   "secs": 29.6,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
-  "tokens_in": 73652,
-  "tokens_out": 5087,
+  "fresh_calls": 1,
+  "tokens_in": 73614,
+  "tokens_out": 8039,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 41.1
+  "secs": 31.4
  }
 }

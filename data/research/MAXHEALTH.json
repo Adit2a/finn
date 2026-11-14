@@ -2,12 +2,12 @@
  "symbol": "MAXHEALTH",
  "name": "Max Healthcare Institute Ltd",
  "basis": "consolidated",
- "generated_at": "2026-11-08T21:34:20",
- "latest_call": "Aug 2026",
+ "generated_at": "2026-11-14T21:30:15",
+ "latest_call": "Nov 2026",
  "numbers": {
   "snapshot": {
-   "market_cap_cr": 90130.0,
-   "pe": 63.4,
+   "market_cap_cr": 92184.0,
+   "pe": 64.9,
    "roce": 14.7,
    "roe": 14.7,
    "ttm_revenue": 9146.0,
@@ -1058,98 +1058,86 @@
  "ledger": {
   "promise_ledger": [
    {
-    "ref": "g1.1",
-    "promise": "Deploy around INR 1100 crore network capex in H2 FY26",
+    "ref": "g1.3",
+    "promise": "Increase Max Lucknow capacity to 550 beds by end of FY26",
     "made_in": "Q2 FY26",
-    "delivered": "Reported FY26 full year free cash flow was INR 165 crore, while borrowings rose to INR 3,478 crore.",
-    "verdict": "missed",
-    "checked_against": "FY26 borrowings of INR 3,478 crore and free cash flow of INR 165 crore",
-    "quote": "A bit higher probably. Hopefully around INR 1,100 crore.",
-    "page": 20,
+    "delivered": "Walked back in Q3 FY26 call to around 500 beds by end of FY26.",
+    "verdict": "walked_back",
+    "checked_against": "Management commentary in Q3 FY26 call",
+    "quote": "we expect this to increase to 550 beds by end of this financial year.",
+    "page": 5,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7a905df4-c8df-4945-8494-e060944ce284.pdf"
    },
    {
-    "ref": "g2.4",
-    "promise": "Increase Max Lucknow capacity to around 500 beds by end of FY26",
+    "ref": "g1.5",
+    "promise": "Complete 397 beds Patparganj project by FY28",
+    "made_in": "Q2 FY26",
+    "delivered": "Pushed back to FY29 commissioning in Q4 FY26 call for 400 beds.",
+    "verdict": "walked_back",
+    "checked_against": "Management commentary in Q4 FY26 call",
+    "quote": "The project is expected to be completed by FY '28.",
+    "page": 5,
+    "verified": true,
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7a905df4-c8df-4945-8494-e060944ce284.pdf"
+   },
+   {
+    "ref": "g2.5",
+    "promise": "Commission first phase of Sector-56 Gurgaon project by end of H1 FY27",
     "made_in": "Q3 FY26",
-    "delivered": "Management later stated on Q1 FY27 call that the facility has 468 beds with 100 more planned.",
-    "verdict": "missed",
-    "checked_against": "Q1 FY27 call statement regarding 468-bed capacity",
-    "quote": "The current capacity of the hospital stands at 413 beds, and we expect this to increase to around 500 beds by the end of this financial year.",
+    "delivered": "Delayed in Q1 FY27 call to phased commissioning by end of year.",
+    "verdict": "walked_back",
+    "checked_against": "Management commentary in Q1 FY27 call",
+    "quote": "We now expect to commission the first phase by end of H1 FY '27.",
     "page": 5,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b765c0b2-67cc-4aea-91e7-7bffcbeff79b.pdf"
    },
    {
     "ref": "g2.8",
-    "promise": "Hit 8,000 operational beds by FY28",
+    "promise": "Reach 8,000 operational beds by FY28",
     "made_in": "Q3 FY26",
-    "delivered": "Target horizon is FY28; currently unquantified in the latest reported numbers.",
+    "delivered": "Target deadline is FY28; network capacity expansion projects are currently ongoing.",
     "verdict": "too_early",
-    "checked_against": "FY28 timeline horizon",
+    "checked_against": "FY28 operational bed capacity targets",
     "quote": "and by FY '28, we should be hitting 8,000.",
     "page": 23,
     "verified": true,
     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b765c0b2-67cc-4aea-91e7-7bffcbeff79b.pdf"
-   },
-   {
-    "ref": "g3.1",
-    "promise": "Invest INR 1,400 crore for a 700-bed greenfield hospital at Shaheed Path, Lucknow",
-    "made_in": "Q4 FY26",
-    "delivered": "Board approval reported in Q4 FY26; project horizon spans the next 3 years.",
-    "verdict": "too_early",
-    "checked_against": "Q4 FY26 Board approval disclosure",
-    "quote": "the Board has approved an investment of INR 1,400 crore for the construction of a 700-bed greenfield hospital at Shaheed Path, Lucknow.",
-    "page": 3,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=32d9c73a-07ea-42f8-bffa-14ed214222b7.pdf"
-   },
-   {
-    "ref": "g4.2",
-    "promise": "Turn around Max Bhubaneswar over the next 12 months",
-    "made_in": "Q1 FY27",
-    "delivered": "Acquisition completed in Q4 FY26; 12-month turnaround horizon extends into FY28.",
-    "verdict": "too_early",
-    "checked_against": "Q1 FY27 call guidance horizon",
-    "quote": "Going forward, our focus is on integrating operations, renovating infrastructure, upgrading technology, and enhancing clinical programs to turn around the hospital over the next 12 months.",
-    "page": 3,
-    "verified": true,
-    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=922086cc-1e96-40b8-966b-547204ed8364.pdf"
    }
   ],
   "credibility": {
    "score": 5,
-   "line": "Management delivers steady revenue growth, but capex targets and bed rollout schedules face repeated delays."
+   "line": "Management frequently shifts hospital commissioning timelines and bed targets across quarterly calls."
   },
   "narrative_vs_numbers": [
    {
-    "agree": true,
-    "point": "Revenue growth accelerated from 11% to 20% YoY, matching management's narrative of consecutive growth quarters."
+    "agree": false,
+    "point": "PAT fell 15.7% YoY in Sep 2026 despite revenue growing 20.3% to ₹2,569 crore."
    },
    {
     "agree": false,
-    "point": "Borrowings surged 2.9x from INR 1,299 crore in Mar 2024 to INR 3,795 crore in Sep 2026."
+    "point": "Free cash flow plunged from ₹500 crore in FY25 to ₹165 crore in FY26 under heavy capex."
    },
    {
     "agree": true,
-    "point": "Cash conversion remained robust, with 5-year operating cash flow at 116% of profit."
+    "point": "Borrowings grew nearly 3x from ₹1,299 crore in FY24 to ₹3,795 crore in Sep 2026."
    }
   ],
   "bull": [
-   "Revenue growth accelerated over four quarters from 10.7% in Dec 2025 to 20.3% in Sep 2026.",
-   "Annual PAT reached INR 1,442 crore in FY26, up from INR 1,076 crore in FY25.",
-   "Operating cash flow reached INR 1,633 crore in FY26, supporting a 1.13 OCF/PAT ratio."
+   "Revenue YoY growth accelerated to 20.3% in Sep 2026, reaching ₹2,569 crore.",
+   "Operating cash flow expanded to ₹1,633 crore in FY26 with strong 5-year cash conversion of 1.16x.",
+   "FY26 EBITDA grew to ₹2,243 crore maintaining a healthy 27.0% margin."
   ],
   "bear": [
-   "Borrowings increased significantly to INR 3,795 crore by Sep 2026 compared to INR 1,299 crore in Mar 2024.",
-   "Profit growth lagged sales over 3 years (9.3% vs 22.4%), indicating ongoing margin pressure.",
-   "Cash cycle stretched by 39 days over 2 years, moving from -149 to -110 days."
+   "PAT contracted by 15.7% YoY in Sep 2026 to ₹414 crore due to cost pressure.",
+   "Total debt expanded significantly to ₹3,795 crore by Sep 2026, driving D/E to 0.33.",
+   "FCF dropped to ₹165 crore in FY26 despite operating cash flow of ₹1,633 crore."
   ],
   "watch": [
-   "Debt levels and borrowing trends against INR 3,795 crore reported in Sep 2026.",
-   "Execution progress on greenfield projects in Gurgaon, Lucknow, and Pune.",
-   "Operating EBITDA and EBIT margins against reported Q2 FY27 figures."
+   "Gurgaon Sector 56 phased commissioning timeline progress.",
+   "Sep 2026 PAT margin recovery sustainability.",
+   "Borrowing levels and capex cash drain."
   ]
  },
  "ledger_ok": true,
@@ -1159,7 +1147,7 @@
    "in": 14085,
    "out": 1212,
    "secs": 4.2,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1167,7 +1155,7 @@
    "in": 14613,
    "out": 1560,
    "secs": 9.7,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1175,7 +1163,7 @@
    "in": 13342,
    "out": 1384,
    "secs": 11.2,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1183,7 +1171,7 @@
    "in": 12649,
    "out": 1548,
    "secs": 4.6,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
@@ -1191,29 +1179,30 @@
    "in": 12760,
    "out": 177,
    "secs": 33.2,
-   "cached": false,
+   "cached": true,
    "fallback": false
   },
   {
-   "model": "gemini-3.5-flash-lite",
+   "model": "gemini-3.6-flash",
    "in": 4608,
-   "out": 1073,
-   "secs": 24.2,
+   "out": 3993,
+   "secs": 26.6,
    "cached": false,
-   "fallback": true
+   "fallback": false
   }
  ],
- "ledger_model": "gemini-3.5-flash-lite",
- "ledger_fallback": true,
+ "ledger_model": "gemini-3.6-flash",
+ "ledger_fallback": false,
  "cost": {
   "calls": 6,
-  "fresh_calls": 6,
+  "fresh_calls": 1,
   "tokens_in": 72057,
-  "tokens_out": 6954,
+  "tokens_out": 9874,
   "models": [
-   "gemini-3.5-flash-lite"
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
   ],
   "usd": 0.0,
-  "secs": 92.9
+  "secs": 27.9
  }
 }
