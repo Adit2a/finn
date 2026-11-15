@@ -1,18 +1,13 @@
 {
- "generated_at": "2026-11-14T00:03:18",
+ "generated_at": "2026-11-15T16:16:29",
  "window_days": 30,
  "holdings": [
   {
    "symbol": "RELIANCE",
    "name": "Reliance Industries",
    "sector": "Conglomerate",
-   "mcap_cr": 1820564.0,
+   "mcap_cr": 1812954.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 1321.3,
-     "v": 7610709
-    },
     {
      "d": "2026-07-07",
      "c": 1308.4,
@@ -457,6 +452,11 @@
      "d": "2026-11-12",
      "c": 1339.7,
      "v": 13807921
+    },
+    {
+     "d": "2026-11-13",
+     "c": 1339.7,
+     "v": 13756247
     }
    ]
   },
@@ -464,13 +464,8 @@
    "symbol": "HDFCBANK",
    "name": "HDFC Bank",
    "sector": "Bank",
-   "mcap_cr": 1241454.0,
+   "mcap_cr": 1240766.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 829.85,
-     "v": 63203327
-    },
     {
      "d": "2026-07-07",
      "c": 829.3,
@@ -915,6 +910,11 @@
      "d": "2026-11-12",
      "c": 812.3,
      "v": 38292509
+    },
+    {
+     "d": "2026-11-13",
+     "c": 804.0,
+     "v": 23442886
     }
    ]
   },
@@ -922,13 +922,8 @@
    "symbol": "BAJFINANCE",
    "name": "Bajaj Finance",
    "sector": "NBFC",
-   "mcap_cr": 698131.0,
+   "mcap_cr": 695439.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 1029.1,
-     "v": 4819952
-    },
     {
      "d": "2026-07-07",
      "c": 1042.5,
@@ -1373,6 +1368,11 @@
      "d": "2026-11-12",
      "c": 1115.0,
      "v": 11872744
+    },
+    {
+     "d": "2026-11-13",
+     "c": 1117.0,
+     "v": 11898219
     }
    ]
   },
@@ -1380,13 +1380,8 @@
    "symbol": "TCS",
    "name": "TCS",
    "sector": "IT services",
-   "mcap_cr": 876040.0,
+   "mcap_cr": 871055.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 2057.6,
-     "v": 2567386
-    },
     {
      "d": "2026-07-07",
      "c": 2096.1,
@@ -1831,6 +1826,11 @@
      "d": "2026-11-12",
      "c": 2442.4,
      "v": 2138619
+    },
+    {
+     "d": "2026-11-13",
+     "c": 2407.5,
+     "v": 3344738
     }
    ]
   },
@@ -1838,13 +1838,8 @@
    "symbol": "PERSISTENT",
    "name": "Persistent Systems",
    "sector": "IT services",
-   "mcap_cr": 99583.0,
+   "mcap_cr": 99550.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 4715.8,
-     "v": 642181
-    },
     {
      "d": "2026-07-07",
      "c": 4884.8,
@@ -2289,6 +2284,11 @@
      "d": "2026-11-12",
      "c": 6030.0,
      "v": 392129
+    },
+    {
+     "d": "2026-11-13",
+     "c": 6003.0,
+     "v": 346539
     }
    ]
   },
@@ -2296,13 +2296,8 @@
    "symbol": "SUNPHARMA",
    "name": "Sun Pharma",
    "sector": "Pharma",
-   "mcap_cr": 450645.0,
+   "mcap_cr": 451075.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 1912.8,
-     "v": 1213635
-    },
     {
      "d": "2026-07-07",
      "c": 1903.4,
@@ -2747,6 +2742,11 @@
      "d": "2026-11-12",
      "c": 1885.0,
      "v": 2464003
+    },
+    {
+     "d": "2026-11-13",
+     "c": 1880.0,
+     "v": 2037762
     }
    ]
   },
@@ -2754,13 +2754,8 @@
    "symbol": "DIXON",
    "name": "Dixon Technologies",
    "sector": "Electronics mfg",
-   "mcap_cr": 78286.0,
+   "mcap_cr": 78334.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 13304.0,
-     "v": 1287795
-    },
     {
      "d": "2026-07-07",
      "c": 13242.0,
@@ -3205,6 +3200,11 @@
      "d": "2026-11-12",
      "c": 12992.0,
      "v": 296032
+    },
+    {
+     "d": "2026-11-13",
+     "c": 12798.0,
+     "v": 196350
     }
    ]
   },
@@ -3212,13 +3212,8 @@
    "symbol": "TITAN",
    "name": "Titan",
    "sector": "Consumer",
-   "mcap_cr": 432090.0,
+   "mcap_cr": 430124.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 4484.4,
-     "v": 589165
-    },
     {
      "d": "2026-07-07",
      "c": 4604.2,
@@ -3663,6 +3658,11 @@
      "d": "2026-11-12",
      "c": 4921.9,
      "v": 732932
+    },
+    {
+     "d": "2026-11-13",
+     "c": 4844.9,
+     "v": 624040
     }
    ]
   },
@@ -3670,13 +3670,8 @@
    "symbol": "ASIANPAINT",
    "name": "Asian Paints",
    "sector": "Consumer",
-   "mcap_cr": 245612.0,
+   "mcap_cr": 244595.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 2754.9,
-     "v": 504943
-    },
     {
      "d": "2026-07-07",
      "c": 2731.4,
@@ -4121,6 +4116,11 @@
      "d": "2026-11-12",
      "c": 2536.5,
      "v": 817076
+    },
+    {
+     "d": "2026-11-13",
+     "c": 2550.0,
+     "v": 613905
     }
    ]
   },
@@ -4128,13 +4128,8 @@
    "symbol": "MARUTI",
    "name": "Maruti Suzuki",
    "sector": "Auto",
-   "mcap_cr": 406097.0,
+   "mcap_cr": 404133.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 14456.0,
-     "v": 214686
-    },
     {
      "d": "2026-07-07",
      "c": 14538.0,
@@ -4579,6 +4574,11 @@
      "d": "2026-11-12",
      "c": 13024.0,
      "v": 720496
+    },
+    {
+     "d": "2026-11-13",
+     "c": 12854.0,
+     "v": 492029
     }
    ]
   },
@@ -4586,13 +4586,8 @@
    "symbol": "LT",
    "name": "Larsen & Toubro",
    "sector": "Infra / EPC",
-   "mcap_cr": 569741.0,
+   "mcap_cr": 570152.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 4041.0,
-     "v": 1252054
-    },
     {
      "d": "2026-07-07",
      "c": 3991.9,
@@ -5037,6 +5032,11 @@
      "d": "2026-11-12",
      "c": 4159.2,
      "v": 2448016
+    },
+    {
+     "d": "2026-11-13",
+     "c": 4143.8,
+     "v": 1585695
     }
    ]
   },
@@ -5044,13 +5044,8 @@
    "symbol": "ETERNAL",
    "name": "Eternal (Zomato)",
    "sector": "Internet",
-   "mcap_cr": 351272.0,
+   "mcap_cr": 350935.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 283.4,
-     "v": 21282150
-    },
     {
      "d": "2026-07-07",
      "c": 289.4,
@@ -5495,6 +5490,11 @@
      "d": "2026-11-12",
      "c": 364.35,
      "v": 15688995
+    },
+    {
+     "d": "2026-11-13",
+     "c": 363.65,
+     "v": 14093772
     }
    ]
   },
@@ -5502,13 +5502,8 @@
    "symbol": "TRENT",
    "name": "Trent",
    "sector": "Retail",
-   "mcap_cr": 167997.0,
+   "mcap_cr": 168779.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 3343.8,
-     "v": 800656
-    },
     {
      "d": "2026-07-07",
      "c": 2927.8,
@@ -5953,6 +5948,11 @@
      "d": "2026-11-12",
      "c": 3180.0,
      "v": 611416
+    },
+    {
+     "d": "2026-11-13",
+     "c": 3165.2,
+     "v": 585905
     }
    ]
   },
@@ -5960,13 +5960,8 @@
    "symbol": "POLYCAB",
    "name": "Polycab",
    "sector": "Cables",
-   "mcap_cr": 119384.0,
+   "mcap_cr": 119121.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 9584.0,
-     "v": 189331
-    },
     {
      "d": "2026-07-07",
      "c": 9401.0,
@@ -6411,6 +6406,11 @@
      "d": "2026-11-12",
      "c": 8080.5,
      "v": 541933
+    },
+    {
+     "d": "2026-11-13",
+     "c": 7904.0,
+     "v": 433490
     }
    ]
   },
@@ -6418,13 +6418,8 @@
    "symbol": "HAL",
    "name": "Hindustan Aeronautics",
    "sector": "Defence PSU",
-   "mcap_cr": 321893.0,
+   "mcap_cr": 321667.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 4440.6,
-     "v": 445462
-    },
     {
      "d": "2026-07-07",
      "c": 4400.3,
@@ -6869,6 +6864,11 @@
      "d": "2026-11-12",
      "c": 4843.4,
      "v": 2596682
+    },
+    {
+     "d": "2026-11-13",
+     "c": 4809.8,
+     "v": 900759
     }
    ]
   },
@@ -6876,13 +6876,8 @@
    "symbol": "DEEPAKNTR",
    "name": "Deepak Nitrite",
    "sector": "Chemicals",
-   "mcap_cr": 21744.0,
+   "mcap_cr": 21747.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 1602.2,
-     "v": 256779
-    },
     {
      "d": "2026-07-07",
      "c": 1613.1,
@@ -7327,6 +7322,11 @@
      "d": "2026-11-12",
      "c": 1625.2,
      "v": 223916
+    },
+    {
+     "d": "2026-11-13",
+     "c": 1594.4,
+     "v": 111383
     }
    ]
   },
@@ -7334,13 +7334,8 @@
    "symbol": "COALINDIA",
    "name": "Coal India",
    "sector": "Mining PSU",
-   "mcap_cr": 248605.0,
+   "mcap_cr": 248666.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 432.35,
-     "v": 5464728
-    },
     {
      "d": "2026-07-07",
      "c": 428.95,
@@ -7785,6 +7780,11 @@
      "d": "2026-11-12",
      "c": 404.3,
      "v": 5552779
+    },
+    {
+     "d": "2026-11-13",
+     "c": 403.5,
+     "v": 4674518
     }
    ]
   },
@@ -7794,11 +7794,6 @@
    "sector": "Utilities",
    "mcap_cr": 111198.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 377.55,
-     "v": 4121387
-    },
     {
      "d": "2026-07-07",
      "c": 377.2,
@@ -8243,6 +8238,11 @@
      "d": "2026-11-12",
      "c": 357.0,
      "v": 18307724
+    },
+    {
+     "d": "2026-11-13",
+     "c": 348.0,
+     "v": 10965923
     }
    ]
   },
@@ -8250,13 +8250,8 @@
    "symbol": "ZYDUSLIFE",
    "name": "Zydus Lifesciences",
    "sector": "",
-   "mcap_cr": 118742.0,
+   "mcap_cr": 118693.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 1147.9,
-     "v": 2050194
-    },
     {
      "d": "2026-07-07",
      "c": 1153.0,
@@ -8701,6 +8696,11 @@
      "d": "2026-11-12",
      "c": 1206.0,
      "v": 1978474
+    },
+    {
+     "d": "2026-11-13",
+     "c": 1189.9,
+     "v": 805146
     }
    ]
   },
@@ -8708,13 +8708,8 @@
    "symbol": "HSCL",
    "name": "Himadri Speciality Chemical",
    "sector": "",
-   "mcap_cr": 28239.0,
+   "mcap_cr": 28241.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 684.15,
-     "v": 14017070
-    },
     {
      "d": "2026-07-07",
      "c": 643.55,
@@ -9159,6 +9154,11 @@
      "d": "2026-11-12",
      "c": 562.55,
      "v": 1228356
+    },
+    {
+     "d": "2026-11-13",
+     "c": 559.7,
+     "v": 1073191
     }
    ]
   },
@@ -9166,13 +9166,8 @@
    "symbol": "ZEEMEDIA",
    "name": "Zee Media Corporation",
    "sector": "",
-   "mcap_cr": 480.0,
+   "mcap_cr": 482.0,
    "series": [
-    {
-     "d": "2026-07-06",
-     "c": 8.3,
-     "v": 626408
-    },
     {
      "d": "2026-07-07",
      "c": 8.41,
@@ -9617,11 +9612,85 @@
      "d": "2026-11-12",
      "c": 7.21,
      "v": 348998
+    },
+    {
+     "d": "2026-11-13",
+     "c": 7.36,
+     "v": 697207
     }
    ]
   }
  ],
  "events": [
+  {
+   "id": "106861173",
+   "symbol": "ZEEMEDIA",
+   "company": "Zee Media Corporation Limited",
+   "category": "results",
+   "headline": "Q2 FY27: revenue +2% YoY, PAT -65% YoY",
+   "why": null,
+   "score": 99,
+   "reasons": [
+    "PAT -65% YoY"
+   ],
+   "pdf": "https://nsearchives.nseindia.in/corporate/RSZMCL_14112026193126_ZMCLResults14112026.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Outcome of Board Meeting",
+   "ts": "2026-11-14T19:40:10",
+   "related": [],
+   "results": {
+    "symbol": "ZEEMEDIA",
+    "quarter": "Q2 FY27",
+    "quarter_end": "2026-09-30",
+    "basis": "Consolidated",
+    "kind": "corporate",
+    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1758643_14112026075132_WEB.xml",
+    "derived": [],
+    "metrics": [
+     {
+      "key": "revenue",
+      "label": "Revenue",
+      "value": 181.44,
+      "qoq": -4.9,
+      "yoy": 1.5,
+      "prev_q": 190.85,
+      "prev_y": 178.72
+     },
+     {
+      "key": "ebitda",
+      "label": "EBITDA",
+      "value": 5.54,
+      "qoq": -69.1,
+      "yoy": -69.8,
+      "prev_q": 17.92,
+      "prev_y": 18.34
+     },
+     {
+      "key": "pbt",
+      "label": "PBT",
+      "value": -31.31,
+      "qoq": -136.3,
+      "yoy": -135.6,
+      "prev_q": -13.25,
+      "prev_y": -13.29
+     },
+     {
+      "key": "pat",
+      "label": "PAT",
+      "value": -25.59,
+      "qoq": -111.1,
+      "yoy": -64.8,
+      "prev_q": -12.12,
+      "prev_y": -15.53
+     }
+    ],
+    "ebitda_margin": 3.1,
+    "ebitda_margin_bps_yoy": -721
+   },
+   "tier": "act",
+   "label": "Results"
+  },
   {
    "id": "106847532",
    "symbol": "TITAN",
@@ -9633,7 +9702,7 @@
    "reasons": [
     "PAT +114% YoY"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_05112026165028_SEoutcomeQ227.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_05112026165028_SEoutcomeQ227.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -9643,7 +9712,7 @@
      "id": "106847693",
      "headline": "Investor Presentation",
      "subject": "Investor Presentation",
-     "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_05112026171559_SEinvestorpreQ227.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_05112026171559_SEinvestorpreQ227.pdf",
      "ts": "2026-11-05T17:16:16",
      "category": "results"
     },
@@ -9651,7 +9720,7 @@
      "id": "106848795",
      "headline": "Analyst Call Recording",
      "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_05112026203327_SEaudiocallQ227.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_05112026203327_SEaudiocallQ227.pdf",
      "ts": "2026-11-05T20:33:40",
      "category": "earnings_call"
     }
@@ -9662,7 +9731,7 @@
     "quarter_end": "2026-09-30",
     "basis": "Consolidated",
     "kind": "corporate",
-    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1754035_05112026071123_WEB.xml",
+    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1754035_05112026071123_WEB.xml",
     "derived": [],
     "metrics": [
      {
@@ -9719,7 +9788,7 @@
    "reasons": [
     "PAT +235% YoY"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/DEEPAKNTR_29102026183918_NSE-29-10-2026-bm-ufr.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/DEEPAKNTR_29102026183918_NSE-29-10-2026-bm-ufr.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -9729,7 +9798,7 @@
      "id": "106837186",
      "headline": "Link of Recording",
      "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/DEEPAKNTR_30102026184526_NSE-CONCALL-AUDIO_RECORDING-882024.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/DEEPAKNTR_30102026184526_NSE-CONCALL-AUDIO_RECORDING-882024.pdf",
      "ts": "2026-10-30T18:46:15",
      "category": "earnings_call"
     }
@@ -9740,7 +9809,7 @@
     "quarter_end": "2026-09-30",
     "basis": "Consolidated",
     "kind": "corporate",
-    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1749364_29102026080541_WEB.xml",
+    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1749364_29102026080541_WEB.xml",
     "derived": [],
     "metrics": [
      {
@@ -9797,7 +9866,7 @@
    "reasons": [
     "PAT +54% YoY"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/COALINDIA_29102026181236_Result.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_29102026181236_Result.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -9807,7 +9876,7 @@
      "id": "106835008",
      "headline": "Investor Presentation made by Company on the Unaudited Financial Results of Coal India Limited (Standalone & Consolidated) for the 2nd Quarter and half year ended 30th Sep 26",
      "subject": "General Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/COALINDIA_29102026183725_Presentation.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_29102026183725_Presentation.pdf",
      "ts": "2026-10-29T18:37:33",
      "category": "results"
     },
@@ -9815,7 +9884,7 @@
      "id": "106836353",
      "headline": "Revised Investor Presentation made by Company on the Unaudited Financial Results of Coal India Limited (Standalone & Consolidated) for the 2nd Quarter and half year ended 30th Sep 26",
      "subject": "General Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/COALINDIA_30102026145533_revised_presentation.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_30102026145533_revised_presentation.pdf",
      "ts": "2026-10-30T14:56:00",
      "category": "results"
     }
@@ -9826,7 +9895,7 @@
     "quarter_end": "2026-09-30",
     "basis": "Consolidated",
     "kind": "corporate",
-    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1749146_29102026062347_WEB.xml",
+    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1749146_29102026062347_WEB.xml",
     "derived": [
      "Q2 FY27"
     ],
@@ -9885,7 +9954,7 @@
    "reasons": [
     "PAT -45% YoY"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_30102026160547_Outcome30102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/DIXON_30102026160547_Outcome30102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -9895,7 +9964,7 @@
      "id": "106836561",
      "headline": "Investor Presentation",
      "subject": "Investor Presentation",
-     "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_30102026161836_OutcomewithPPT30102026.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/DIXON_30102026161836_OutcomewithPPT30102026.pdf",
      "ts": "2026-10-30T16:19:57",
      "category": "results"
     },
@@ -9903,7 +9972,7 @@
      "id": "106837485",
      "headline": "Link of Recording",
      "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_30102026203021_ConferenceCallRecordingIntimation30102026.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/DIXON_30102026203021_ConferenceCallRecordingIntimation30102026.pdf",
      "ts": "2026-10-30T20:32:52",
      "category": "earnings_call"
     }
@@ -9914,7 +9983,7 @@
     "quarter_end": "2026-09-30",
     "basis": "Consolidated",
     "kind": "corporate",
-    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1750473_30102026082202_WEB.xml",
+    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750473_30102026082202_WEB.xml",
     "derived": [],
     "metrics": [
      {
@@ -9961,100 +10030,6 @@
    "label": "Results"
   },
   {
-   "id": "106818441",
-   "symbol": "POLYCAB",
-   "company": "Polycab India Limited",
-   "category": "results",
-   "headline": "Q2 FY27: revenue +53% YoY, PAT +43% YoY",
-   "why": null,
-   "score": 94,
-   "reasons": [
-    "PAT +43% YoY"
-   ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_15102026125737_OutcomeofBoardMeeting.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Outcome of Board Meeting",
-   "ts": "2026-10-15T20:50:13",
-   "related": [
-    {
-     "id": "106818635",
-     "headline": "Unaudited Interim Condensed (Standalone and Consolidated) Financial Statements for the quarter ended September 30, 2026",
-     "subject": "General Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_15102026153319_UnauditedInterimCondensed15102026.pdf",
-     "ts": "2026-10-15T15:33:36",
-     "category": "results"
-    },
-    {
-     "id": "106818494",
-     "headline": "Earnings Presentation on Unaudited Financial Results for the quarter and half year ended September 30, 2026",
-     "subject": "General Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf",
-     "ts": "2026-10-15T13:52:19",
-     "category": "results"
-    },
-    {
-     "id": "106819278",
-     "headline": "Link of Recording",
-     "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_15102026204957_Audio_Recording_of_Earnings_Call.pdf",
-     "ts": "2026-10-15T20:50:13",
-     "category": "earnings_call"
-    }
-   ],
-   "results": {
-    "symbol": "POLYCAB",
-    "quarter": "Q2 FY27",
-    "quarter_end": "2026-09-30",
-    "basis": "Consolidated",
-    "kind": "corporate",
-    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1738868_15102026035523_WEB.xml",
-    "derived": [],
-    "metrics": [
-     {
-      "key": "revenue",
-      "label": "Revenue",
-      "value": 9898.9,
-      "qoq": 20.6,
-      "yoy": 52.8,
-      "prev_q": 8209.73,
-      "prev_y": 6477.21
-     },
-     {
-      "key": "ebitda",
-      "label": "EBITDA",
-      "value": 1510.87,
-      "qoq": 21.7,
-      "yoy": 41.7,
-      "prev_q": 1241.11,
-      "prev_y": 1066.18
-     },
-     {
-      "key": "pbt",
-      "label": "PBT",
-      "value": 1306.22,
-      "qoq": 23.4,
-      "yoy": 41.8,
-      "prev_q": 1058.22,
-      "prev_y": 921.0
-     },
-     {
-      "key": "pat",
-      "label": "PAT",
-      "value": 990.0,
-      "qoq": 24.3,
-      "yoy": 42.9,
-      "prev_q": 796.65,
-      "prev_y": 692.96
-     }
-    ],
-    "ebitda_margin": 15.3,
-    "ebitda_margin_bps_yoy": -120
-   },
-   "tier": "act",
-   "label": "Results"
-  },
-  {
    "id": "106837394",
    "symbol": "RELIANCE",
    "company": "Reliance Industries Limited",
@@ -10065,7 +10040,7 @@
    "reasons": [
     "PAT +34% YoY"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_30102026193935_SE_30102026_Results.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/kavinavora_30102026193935_SE_30102026_Results.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -10075,7 +10050,7 @@
      "id": "106837395",
      "headline": "In continuation of our letter dated October 27, 2026, we wish to inform you that the Board of Directors of the Company, at its meeting held today, has, inter alia:1. approved the unaudited Financial Results (Consolidated and Standalone) for the quarter and half year ended September 30, 2026; and2. passed an enabling resolution authorising the issuance of listed, secured / unsecured, redeemable non-convertible debentures up to Rs. 15,000 crore, in one or more tranches, on private placement basis",
      "subject": "Outcome of Board Meeting",
-     "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_30102026193952_SE_30102026_Results.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/kavinavora_30102026193952_SE_30102026_Results.pdf",
      "ts": "2026-10-30T19:40:11",
      "category": "results"
     },
@@ -10083,7 +10058,7 @@
      "id": "106837406",
      "headline": "Reports highest ever quarterly revenue at ₹362,268 crore and PAT of ₹29,550 crore for Q2 FY27",
      "subject": "Press Release",
-     "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_30102026194315_SE_30102026_MR.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/kavinavora_30102026194315_SE_30102026_MR.pdf",
      "ts": "2026-10-30T19:43:24",
      "category": "results"
     },
@@ -10091,7 +10066,7 @@
      "id": "106837413",
      "headline": "Investor Presentation",
      "subject": "Investor Presentation",
-     "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_30102026194557_SE_30102026_IP.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/kavinavora_30102026194557_SE_30102026_IP.pdf",
      "ts": "2026-10-30T19:47:12",
      "category": "results"
     },
@@ -10099,7 +10074,7 @@
      "id": "106838897",
      "headline": "Transcript of the discussion on the Unaudited Financial Results (Consolidated and Standalone) of the Company for the quarter and half year ended September 30, 2026, at the analyst meet held on October 30, 2026, is attached and also available on the website of the Company",
      "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_01112026230907_SE_01112026.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/kavinavora_01112026230907_SE_01112026.pdf",
      "ts": "2026-11-01T23:09:22",
      "category": "earnings_call"
     },
@@ -10107,7 +10082,7 @@
      "id": "106838338",
      "headline": "Audio recording of the discussion on the Unaudited Financial Results (Consolidated and Standalone) of the Company for the quarter and half year ended September 30, 2026, at the analyst meet held on October 30, 2026, is available on the website of the Company",
      "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_31102026173331_SE_31102026_AR.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/kavinavora_31102026173331_SE_31102026_AR.pdf",
      "ts": "2026-10-31T17:34:03",
      "category": "earnings_call"
     }
@@ -10118,7 +10093,7 @@
     "quarter_end": "2026-09-30",
     "basis": "Consolidated",
     "kind": "corporate",
-    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1750537_30102026093254_WEB.xml",
+    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750537_30102026093254_WEB.xml",
     "derived": [],
     "metrics": [
      {
@@ -10175,7 +10150,7 @@
    "reasons": [
     "PAT -36% YoY"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_30102026141321_BMOutcomeFinancialoct26signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/SUNSEC_30102026141321_BMOutcomeFinancialoct26signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -10185,7 +10160,7 @@
      "id": "106837454",
      "headline": "Link of Recording",
      "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/SUNPHARMA456_30102026201207_IntimationSE20261030_Q2FY27_Call_Recording_Signed.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/SUNPHARMA456_30102026201207_IntimationSE20261030_Q2FY27_Call_Recording_Signed.pdf",
      "ts": "2026-10-30T20:13:58",
      "category": "earnings_call"
     }
@@ -10196,7 +10171,7 @@
     "quarter_end": "2026-09-30",
     "basis": "Consolidated",
     "kind": "corporate",
-    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1750394_30102026073426_WEB.xml",
+    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750394_30102026073426_WEB.xml",
     "derived": [],
     "metrics": [
      {
@@ -10253,7 +10228,7 @@
    "reasons": [
     "₹4,265 cr ≈ 4.3% of market cap"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_21102026192219_PersistentSEOutcomeQIPissueopeningOct212026V3signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_21102026192219_PersistentSEOutcomeQIPissueopeningOct212026V3signed.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Issue of Securities",
@@ -10273,7 +10248,7 @@
    "reasons": [
     "PAT +33% YoY"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/VPTPCL_11112026172001_outcome_final.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/VPTPCL_11112026172001_outcome_final.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -10283,7 +10258,7 @@
      "id": "106855404",
      "headline": "Investor Presentation",
      "subject": "Investor Presentation",
-     "pdf": "https://nsearchives.nseindia.com/corporate/VPTPCL_11112026173256_Analyst_Presentation_Q2_FY27.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/VPTPCL_11112026173256_Analyst_Presentation_Q2_FY27.pdf",
      "ts": "2026-11-11T17:33:14",
      "category": "results"
     },
@@ -10291,7 +10266,7 @@
      "id": "106855738",
      "headline": "Link of Recording",
      "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/VPTPCL_11112026203424_Analyst_Call.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/VPTPCL_11112026203424_Analyst_Call.pdf",
      "ts": "2026-11-11T20:35:57",
      "category": "earnings_call"
     }
@@ -10302,7 +10277,7 @@
     "quarter_end": "2026-09-30",
     "basis": "Consolidated",
     "kind": "corporate",
-    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1756234_11112026070341_WEB.xml",
+    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1756234_11112026070341_WEB.xml",
     "derived": [],
     "metrics": [
      {
@@ -10359,7 +10334,7 @@
    "reasons": [
     "PAT +31% YoY"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HSCL_16102026181850_OutcomeofBM16102026_Result30092026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_16102026181850_OutcomeofBM16102026_Result30092026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -10369,7 +10344,7 @@
      "id": "106821312",
      "headline": "Investor Presentation",
      "subject": "Investor Presentation",
-     "pdf": "https://nsearchives.nseindia.com/corporate/HSCL_17102026190250_InvestorpresentationQ2FY27Stockex17102026.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_17102026190250_InvestorpresentationQ2FY27Stockex17102026.pdf",
      "ts": "2026-10-17T19:05:01",
      "category": "results"
     }
@@ -10380,7 +10355,7 @@
     "quarter_end": "2026-09-30",
     "basis": "Consolidated",
     "kind": "corporate",
-    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1740410_16102026072536_WEB.xml",
+    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1740410_16102026072536_WEB.xml",
     "derived": [],
     "metrics": [
      {
@@ -10437,7 +10412,7 @@
    "reasons": [
     "PAT +27% YoY"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_27102026171156_LTSep2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_27102026171156_LTSep2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -10447,7 +10422,7 @@
      "id": "106831153",
      "headline": "Link of Recording",
      "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/PAM_27102026221257_Intimation27102026.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/PAM_27102026221257_Intimation27102026.pdf",
      "ts": "2026-10-27T22:13:16",
      "category": "earnings_call"
     }
@@ -10458,7 +10433,7 @@
     "quarter_end": "2026-09-30",
     "basis": "Consolidated",
     "kind": "corporate",
-    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1747229_27102026081332_WEB.xml",
+    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1747229_27102026081332_WEB.xml",
     "derived": [],
     "metrics": [
      {
@@ -10515,7 +10490,7 @@
    "reasons": [
     "PAT +29% YoY"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_19102026172017_BMOutcome_19102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_19102026172017_BMOutcome_19102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -10525,7 +10500,7 @@
      "id": "106822137",
      "headline": "Investor Presentation",
      "subject": "Investor Presentation",
-     "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_19102026172612_SEIntimation_InvestorPPT_19102026.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_19102026172612_SEIntimation_InvestorPPT_19102026.pdf",
      "ts": "2026-10-19T17:26:39",
      "category": "results"
     },
@@ -10533,7 +10508,7 @@
      "id": "106822444",
      "headline": "Link of Recording",
      "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_19102026205822_Outcome_of_investor_call_-_Q2FY27.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_19102026205822_Outcome_of_investor_call_-_Q2FY27.pdf",
      "ts": "2026-10-19T21:00:04",
      "category": "earnings_call"
     }
@@ -10544,7 +10519,7 @@
     "quarter_end": "2026-09-30",
     "basis": "Consolidated",
     "kind": "lender",
-    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1742040_19102026075918_WEB.xml",
+    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1742040_19102026075918_WEB.xml",
     "derived": [],
     "metrics": [
      {
@@ -10591,26 +10566,6 @@
    "label": "Results"
   },
   {
-   "id": "106819161",
-   "symbol": "MARUTI",
-   "company": "Maruti Suzuki India Limited",
-   "category": "litigation",
-   "headline": "Maruti Suzuki receives ITAT order for eight years with positive tax impact of Rs. 130,000 million",
-   "why": "Positive tax impact of Rs. 130,000 million and reduction of contingent liability by Rs. 63,000 million.",
-   "score": 89,
-   "reasons": [
-    "₹13,000 cr ≈ 3.2% of market cap"
-   ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/MARUTI_15102026191103_Intimation_15102026.pdf",
-   "people": [],
-   "read_by": "gemini-3.5-flash-lite",
-   "subject": "Action(s) taken or orders passed",
-   "ts": "2026-10-15T19:13:00",
-   "related": [],
-   "tier": "act",
-   "label": "Legal / regulatory"
-  },
-  {
    "id": "106854012",
    "symbol": "MARUTI",
    "company": "Maruti Suzuki India Limited",
@@ -10621,7 +10576,7 @@
    "reasons": [
     "PAT -26% YoY"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/MARUTIASHISH_10112026115416_STxIntimation_SMCResults_FirstHalfYr_10Nov2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTIASHISH_10112026115416_STxIntimation_SMCResults_FirstHalfYr_10Nov2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -10633,7 +10588,7 @@
     "quarter_end": "2026-09-30",
     "basis": "Consolidated",
     "kind": "corporate",
-    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1747193_27102026073131_WEB.xml",
+    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1747193_27102026073131_WEB.xml",
     "derived": [],
     "metrics": [
      {
@@ -10690,7 +10645,7 @@
    "reasons": [
     "PAT -25% YoY"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_04112026121711_OutcomeofBM.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_04112026121711_OutcomeofBM.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -10700,7 +10655,7 @@
      "id": "106843792",
      "headline": "Zydus Lifesciences Q2 FY27 revenue rises 29.2% to Rs. 79,096 mn, net profit down 26.6%",
      "subject": "Press Release",
-     "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_04112026123914_PressRelease.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_04112026123914_PressRelease.pdf",
      "ts": "2026-11-04T12:39:35",
      "category": "results"
     },
@@ -10708,7 +10663,7 @@
      "id": "106843780",
      "headline": "Investor Presentation",
      "subject": "Investor Presentation",
-     "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_04112026123450_Investorpresentation.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_04112026123450_Investorpresentation.pdf",
      "ts": "2026-11-04T12:35:20",
      "category": "results"
     },
@@ -10716,7 +10671,7 @@
      "id": "106845477",
      "headline": "Link of Recording",
      "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_04112026191430_AudioLink.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_04112026191430_AudioLink.pdf",
      "ts": "2026-11-04T19:15:19",
      "category": "earnings_call"
     }
@@ -10727,7 +10682,7 @@
     "quarter_end": "2026-09-30",
     "basis": "Consolidated",
     "kind": "corporate",
-    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1753077_04112026073431_WEB.xml",
+    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1753077_04112026073431_WEB.xml",
     "derived": [],
     "metrics": [
      {
@@ -10784,7 +10739,7 @@
    "reasons": [
     "PAT -26% YoY"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/MARUTI_27102026152412_QuickResults_27Oct2026_signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTI_27102026152412_QuickResults_27Oct2026_signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -10794,7 +10749,7 @@
      "id": "106830231",
      "headline": "Investor Presentation",
      "subject": "Investor Presentation",
-     "pdf": "https://nsearchives.nseindia.com/corporate/MARUTI_27102026154352_STxIntimation_InvestorPresentation_27Oct2026.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/MARUTI_27102026154352_STxIntimation_InvestorPresentation_27Oct2026.pdf",
      "ts": "2026-10-27T15:44:33",
      "category": "results"
     },
@@ -10802,7 +10757,7 @@
      "id": "106831073",
      "headline": "Audio Recording of the investors' call held on 27th October 2026",
      "subject": "General Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/MARUTIASHISH_27102026202705_SubmissionofAudioRecordings.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/MARUTIASHISH_27102026202705_SubmissionofAudioRecordings.pdf",
      "ts": "2026-10-27T20:30:49",
      "category": "earnings_call"
     }
@@ -10813,7 +10768,7 @@
     "quarter_end": "2026-09-30",
     "basis": "Consolidated",
     "kind": "corporate",
-    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1747193_27102026073131_WEB.xml",
+    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1747193_27102026073131_WEB.xml",
     "derived": [],
     "metrics": [
      {
@@ -10870,7 +10825,7 @@
    "reasons": [
     "top-level role"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK_27102026080232_SEIntimation_appt_of_AB.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK_27102026080232_SEIntimation_appt_of_AB.pdf",
    "people": [
     {
      "name": "Anup Bagchi",
@@ -10907,7 +10862,7 @@
    "why": null,
    "score": 85,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HAL_12112026132915_IntegratedFinancial_30092026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HAL_12112026132915_IntegratedFinancial_30092026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -10919,7 +10874,7 @@
     "quarter_end": "2026-09-30",
     "basis": "Consolidated",
     "kind": "corporate",
-    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1756516_12112026033817_WEB.xml",
+    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1756516_12112026033817_WEB.xml",
     "derived": [],
     "metrics": [
      {
@@ -10976,7 +10931,7 @@
    "reasons": [
     "₹11,871 cr ≈ 10.7% of market cap"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/VPTPCL_11112026174200_Reg_30_Capacity_Addition_Shirwata.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/VPTPCL_11112026174200_Reg_30_Capacity_Addition_Shirwata.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Capacity addition",
@@ -10994,7 +10949,7 @@
    "why": null,
    "score": 82,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_29102026140213_OutcomeofBM29102026signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_29102026140213_OutcomeofBM29102026signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -11004,7 +10959,7 @@
      "id": "106834096",
      "headline": "The Board of Directors at its meeting held today i.e., 29th October 2026, has, inter alia, approved the audited standalone and unaudited consolidated financial results of the Company for the quarter and half year ended 30th September 2026 and payment of interim dividend of Rs. 5.75 (Rupees five and paise seventy-five only) per equity share of the face value of Re. 1 each for the financial year ending 31st March 2027",
      "subject": "Outcome of Board Meeting",
-     "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_29102026140936_OutcomeofBM29102026signed.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_29102026140936_OutcomeofBM29102026signed.pdf",
      "ts": "2026-10-29T14:10:22",
      "category": "results"
     },
@@ -11012,7 +10967,7 @@
      "id": "106834553",
      "headline": "Investor Presentation",
      "subject": "Investor Presentation",
-     "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_29102026164544_SEIntimation_Investor_Presentation_Q2FY26-27pdfsigned.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_29102026164544_SEIntimation_Investor_Presentation_Q2FY26-27pdfsigned.pdf",
      "ts": "2026-10-29T16:45:56",
      "category": "results"
     },
@@ -11020,7 +10975,7 @@
      "id": "106835385",
      "headline": "Link of Recording",
      "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_29102026211830_SE_intimation__Audio_Recording_Q2FY26-27signed.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_29102026211830_SE_intimation__Audio_Recording_Q2FY26-27signed.pdf",
      "ts": "2026-10-29T21:18:39",
      "category": "earnings_call"
     }
@@ -11031,7 +10986,7 @@
     "quarter_end": "2026-09-30",
     "basis": "Consolidated",
     "kind": "corporate",
-    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1749465_29102026092521_WEB.xml",
+    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1749465_29102026092521_WEB.xml",
     "derived": [],
     "metrics": [
      {
@@ -11086,7 +11041,7 @@
    "why": null,
    "score": 82,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK_17102026135520_OutcomeofBMResults_17oct2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK_17102026135520_OutcomeofBMResults_17oct2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -11096,7 +11051,7 @@
      "id": "106821374",
      "headline": "Link of Recording",
      "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK_17102026220738_SEintimation-RECORDING-17oct2026.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK_17102026220738_SEintimation-RECORDING-17oct2026.pdf",
      "ts": "2026-10-17T22:09:24",
      "category": "earnings_call"
     }
@@ -11107,7 +11062,7 @@
     "quarter_end": "2026-09-30",
     "basis": "Consolidated",
     "kind": "bank",
-    "source": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_BANKING_1740913_17102026054812_WEB.xml",
+    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1740913_17102026054812_WEB.xml",
     "derived": [],
     "metrics": [
      {
@@ -11164,7 +11119,7 @@
    "reasons": [
     "top-level role"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/KSTPCL_11112026190124_MD_APPT_-_Reg_30.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/KSTPCL_11112026190124_MD_APPT_-_Reg_30.pdf",
    "people": [
     {
      "name": "Sanjay Banga",
@@ -11194,7 +11149,7 @@
    "reasons": [
     "top-level role"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_06112026220150_SE_intimation_-_Appointment_of_ID.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_06112026220150_SE_intimation_-_Appointment_of_ID.pdf",
    "people": [
     {
      "name": "Mr. Leo Puri",
@@ -11223,7 +11178,7 @@
      "id": "106851770",
      "headline": "Shareholders approve appointment of Mr. Leo Puri as Independent Director and future Chairman.",
      "subject": "Appointment",
-     "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_06112026220521_SE_intimation_-_Appointment_of_ID.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_06112026220521_SE_intimation_-_Appointment_of_ID.pdf",
      "ts": "2026-11-06T22:06:58",
      "category": "management_change"
     }
@@ -11242,7 +11197,7 @@
    "reasons": [
     "top-level role"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_29102026163122_AppointmentofDirector.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TRENT_29102026163122_AppointmentofDirector.pdf",
    "people": [
     {
      "name": "Noel N. Tata",
@@ -11289,7 +11244,7 @@
      "id": "106834503",
      "headline": "Noel N. Tata to retire as Chairman; Bahram Vakil appointed as Chairman with new board additions",
      "subject": "Appointment",
-     "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_29102026163044_AppointmentofDirector.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/TRENT_29102026163044_AppointmentofDirector.pdf",
      "ts": "2026-10-29T16:32:13",
      "category": "management_change"
     },
@@ -11297,7 +11252,7 @@
      "id": "106834504",
      "headline": "Noel N. Tata to retire as Chairman; Bahram Vakil appointed as Chairman",
      "subject": "Change in Director(s)",
-     "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_29102026163102_AppointmentofDirector.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/TRENT_29102026163102_AppointmentofDirector.pdf",
      "ts": "2026-10-29T16:32:13",
      "category": "management_change"
     },
@@ -11305,40 +11260,13 @@
      "id": "106834506",
      "headline": "Noel N. Tata to retire as Chairman; Bahram Vakil appointed as Chairman",
      "subject": "Appointment",
-     "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_29102026163140_AppointmentofDirector.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/TRENT_29102026163140_AppointmentofDirector.pdf",
      "ts": "2026-10-29T16:32:13",
      "category": "management_change"
     }
    ],
    "tier": "act",
    "label": "Management"
-  },
-  {
-   "id": "106817804",
-   "symbol": "RELIANCE",
-   "company": "Reliance Industries Limited",
-   "category": "fund_raise",
-   "headline": "Jio Platforms Limited sets IPO price band at ₹1,065 to ₹1,119 per share",
-   "why": "Subsidiary Jio Platforms Limited sets its IPO price band and bid lot.",
-   "score": 76,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_14102026201111_RIL_SE_14102026_.pdf",
-   "people": [],
-   "read_by": "gemini-3.5-flash-lite",
-   "subject": "General Updates",
-   "ts": "2026-10-14T20:12:49",
-   "related": [
-    {
-     "id": "106817653",
-     "headline": "Jio Platforms Limited files Red Herring Prospectus for initial public offer",
-     "subject": "General Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_14102026183404_RIL_SE14102026.pdf",
-     "ts": "2026-10-14T18:35:12",
-     "category": "fund_raise"
-    }
-   ],
-   "tier": "act",
-   "label": "Fund raise"
   },
   {
    "id": "106831536",
@@ -11349,7 +11277,7 @@
    "why": "Prevents potential index delisting of Polycab stock pending NCLAT order pronouncement.",
    "score": 74,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_28102026102430_StockExchangeintimation27102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/POLYCAB_28102026102430_StockExchangeintimation27102026.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Corporate Insolvency Resolution Process",
@@ -11359,7 +11287,7 @@
      "id": "106836029",
      "headline": "The order passed by NCLAT setting aside the order of NCLT Ahmedabad bench dated October 07, 2026",
      "subject": "Corporate Insolvency Resolution Process",
-     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_30102026121954_SECIRP30102026.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/POLYCAB_30102026121954_SECIRP30102026.pdf",
      "ts": "2026-10-30T12:20:09",
      "category": "litigation"
     }
@@ -11378,7 +11306,7 @@
    "reasons": [
     "top-level role"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_30102026160939_Outcome30102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/DIXON_30102026160939_Outcome30102026.pdf",
    "people": [
     {
      "name": "Mr. Prithvi Vachani",
@@ -11406,7 +11334,7 @@
    "why": "The company has opened a qualified institutions placement with a floor price of 992.25 per equity share.",
    "score": 72,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_11112026171309_SEintimationopeningofissue.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_11112026171309_SEintimationopeningofissue.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "General Updates",
@@ -11416,7 +11344,7 @@
      "id": "106854062",
      "headline": "Allotment of 5,74,25,740 securities pursuant to Preferential Issue at its meeting held on November 10, 2026",
      "subject": "Allotment of Securities",
-     "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_10112026125828_BFL_Reg_30__Allotment_of_warrants_Final_1.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_10112026125828_BFL_Reg_30__Allotment_of_warrants_Final_1.pdf",
      "ts": "2026-11-10T12:58:49",
      "category": "fund_raise"
     }
@@ -11433,7 +11361,7 @@
    "why": null,
    "score": 72,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/AB_31102026130022_SEIntimation_ExtensionofBTAVyoma_31102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/AB_31102026130022_SEIntimation_ExtensionofBTAVyoma_31102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -11451,7 +11379,7 @@
    "why": null,
    "score": 72,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_29102026084603_SE_29102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/kavinavora_29102026084603_SE_29102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Other Restructuring",
@@ -11469,7 +11397,7 @@
    "why": "Subsidiary Jio Platforms Limited finalized its IPO issue price at 1,119 per equity share.",
    "score": 72,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PVIVINMA_24102026214355_RIL_SE_241026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PVIVINMA_24102026214355_RIL_SE_241026.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "General Updates",
@@ -11487,7 +11415,7 @@
    "why": null,
    "score": 72,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_23102026194710_Reg30DivestmentofstepdownsubsidiaryofNahar.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TRENT_23102026194710_Reg30DivestmentofstepdownsubsidiaryofNahar.pdf",
    "people": [],
    "read_by": null,
    "subject": "Sale or disposal",
@@ -11505,7 +11433,7 @@
    "why": null,
    "score": 70,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_26102026232529_PersistentSEOutcomeAllotmentofsharesOct262026IIFLSigned.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_26102026232529_PersistentSEOutcomeAllotmentofsharesOct262026IIFLSigned.pdf",
    "people": [],
    "read_by": null,
    "subject": "Allotment of Securities",
@@ -11523,21 +11451,12 @@
    "why": "The appellate tribunal heard and reserved its order on the corporate insolvency resolution process matter.",
    "score": 70,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_16102026093958_CIRP15102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/POLYCAB_16102026093958_CIRP15102026.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Corporate Insolvency Resolution Process",
    "ts": "2026-10-16T09:40:15",
-   "related": [
-    {
-     "id": "106816873",
-     "headline": "Hon''ble NCLAT has granted the request for early listing and the appeal is now scheduled to be held on October 15, 2026",
-     "subject": "Corporate Insolvency Resolution Process",
-     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_14102026112211_SEintimation14102026.pdf",
-     "ts": "2026-10-14T11:22:27",
-     "category": "litigation"
-    }
-   ],
+   "related": [],
    "tier": "act",
    "label": "Legal / regulatory"
   },
@@ -11552,7 +11471,7 @@
    "reasons": [
     "top-level role"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_05112026185140_SENNTata.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_05112026185140_SENNTata.pdf",
    "people": [
     {
      "name": "Noel N. Tata",
@@ -11582,7 +11501,7 @@
    "reasons": [
     "₹131 cr, small vs size (0.04% of m-cap)"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/ZOMATO_21102026153325_OutcomeSIGNED.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/ZOMATO_21102026153325_OutcomeSIGNED.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Sale or disposal",
@@ -11602,7 +11521,7 @@
    "reasons": [
     "top-level role"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK3_12112026173223_SE_Intimation-_VSR.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK3_12112026173223_SE_Intimation-_VSR.pdf",
    "people": [
     {
      "name": "V. Srinivasa Rangan",
@@ -11622,7 +11541,7 @@
      "id": "106858944",
      "headline": "V. Srinivasa Rangan re-appointed as Executive Director of HDFC Bank for 1 year",
      "subject": "Change in Director(s)",
-     "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK3_13112026163422_SE_Intimation-_VSR.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK3_13112026163422_SE_Intimation-_VSR.pdf",
      "ts": "2026-11-13T16:35:23",
      "category": "management_change"
     }
@@ -11641,7 +11560,7 @@
    "reasons": [
     "departure"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_ROID_100856_KMP_Doc.zip",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TRENT_ROID_100856_KMP_Doc.zip",
    "people": [
     {
      "name": "Harish Bhat",
@@ -11661,7 +11580,7 @@
      "id": "106821444",
      "headline": "Harish Bhat resigns as Non-Executive Non-Independent Director effective 17th October 2026",
      "subject": "Resignation",
-     "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_18102026184315_Intimation_of_Resignation_of_NED.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/TRENT_18102026184315_Intimation_of_Resignation_of_NED.pdf",
      "ts": "2026-10-18T18:47:05",
      "category": "management_change"
     }
@@ -11681,7 +11600,7 @@
     "routine debt issuance",
     "₹9,000 cr ≈ 9.0% of market cap"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_16102026105516_PersistentSystemsStExchangeOutcomeOctober162026Signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_16102026105516_PersistentSystemsStExchangeOutcomeOctober162026Signed.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Issue of Securities",
@@ -11701,7 +11620,7 @@
    "reasons": [
     "departure"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_31102026192646_SEIntimation_changesinSeniorManagement.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_31102026192646_SEIntimation_changesinSeniorManagement.pdf",
    "people": [
     {
      "name": "Dr. Amrut Naik",
@@ -11738,7 +11657,7 @@
    "why": null,
    "score": 55,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HAL_13112026141735_ChangeInMngt_13112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HAL_13112026141735_ChangeInMngt_13112026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Change in Management",
@@ -11746,24 +11665,6 @@
    "related": [],
    "tier": "glance",
    "label": "Management"
-  },
-  {
-   "id": "106818480",
-   "symbol": "TCS",
-   "company": "Tata Consultancy Services Limited",
-   "category": "M&A",
-   "headline": "Completed acquisition of 100% partnership interest in BBY Services India LLP",
-   "why": "BBY Services India LLP has become a wholly owned subsidiary of the company.",
-   "score": 55,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_15102026133009_SEInt15102026.pdf",
-   "people": [],
-   "read_by": "gemini-3.5-flash-lite",
-   "subject": "General Updates",
-   "ts": "2026-10-15T13:30:23",
-   "related": [],
-   "tier": "glance",
-   "label": "M&A"
   },
   {
    "id": "106822208",
@@ -11774,7 +11675,7 @@
    "why": "Dilution of equity shares to the employee welfare trust under the stock option scheme.",
    "score": 54,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_19102026175355_Issue_of_Securities_19102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_19102026175355_Issue_of_Securities_19102026.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Issue of Securities",
@@ -11792,7 +11693,7 @@
    "why": "Departure of a key executive responsible for the bank's SME business after 27 years of service.",
    "score": 49,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK3_31102026221631_SE_INTIMATION-_Sanjay_Dsouza.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK3_31102026221631_SE_INTIMATION-_Sanjay_Dsouza.pdf",
    "people": [
     {
      "name": "Sanjay D’Souza",
@@ -11820,7 +11721,7 @@
    "why": "New Director (Operations) appointed for a five-year term, and CMD ceases additional charge.",
    "score": 49,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HAL_28102026180358_changeinmanagement_Dops_Signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HAL_28102026180358_changeinmanagement_Dops_Signed.pdf",
    "people": [
     {
      "name": "Shri P B Rangarao",
@@ -11859,7 +11760,7 @@
    "reasons": [
     "order win, value undisclosed"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_19102026101805_PressRelease19102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_19102026101805_PressRelease19102026.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Bagging/Receiving of orders/contracts",
@@ -11877,7 +11778,7 @@
    "why": "Changes in senior management personnel, specifically the Chief Compliance Officer, impact regulatory compliance oversight.",
    "score": 47,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK3_06112026152141_SE_Intimation-Srivatsan.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK3_06112026152141_SE_Intimation-Srivatsan.pdf",
    "people": [
     {
      "name": "V. N. Srivatsan",
@@ -11905,7 +11806,7 @@
    "why": "Saroglitazar achieved 39.1% (4 mg) and 32.4% (2 mg) resolution of steatohepatitis compared to 13.7% for placebo.",
    "score": 45,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_06112026190130_PressRelease06112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_06112026190130_PressRelease06112026.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Press Release",
@@ -11925,7 +11826,7 @@
    "reasons": [
     "order win, value undisclosed"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_21102026094637_PressRelease21102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_21102026094637_PressRelease21102026.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Bagging/Receiving of orders/contracts",
@@ -11943,7 +11844,7 @@
    "why": "Elevated NCCN guideline status improves clinician preference, payer coverage, and patient access for UNLOXCYT.",
    "score": 45,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_20102026173321_SE_Intimation_of_Press_Release_on_NCCN_Gudelines_Update.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/SUNSEC_20102026173321_SE_Intimation_of_Press_Release_on_NCCN_Gudelines_Update.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Press Release",
@@ -11963,7 +11864,7 @@
    "reasons": [
     "order win, value undisclosed"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_09112026103717_PressRelease09112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_09112026103717_PressRelease09112026.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Bagging/Receiving of orders/contracts",
@@ -11983,7 +11884,7 @@
    "reasons": [
     "order win, value undisclosed"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_02112026101835_PressRelease02112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_02112026101835_PressRelease02112026.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Bagging/Receiving of orders/contracts",
@@ -12001,7 +11902,7 @@
    "why": "Organizational restructuring alters the reporting of Senior Management Personnel.",
    "score": 41,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HSCL_30102026234958_RevisionoflistofSeniorManagementPersonnel.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_30102026234958_RevisionoflistofSeniorManagementPersonnel.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Change in Management",
@@ -12019,7 +11920,7 @@
    "why": "Long-term data from a major study shows durable responses and manageable safety for UNLOXCYT in advanced cutaneous squamous cell carcinoma.",
    "score": 41,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_23102026180028_SE_Intimation_of_Press_Release_-_ESMO.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/SUNSEC_23102026180028_SE_Intimation_of_Press_Release_-_ESMO.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Press Release",
@@ -12039,7 +11940,7 @@
    "reasons": [
     "transcript: feeds research"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_11112026143915_SEearningcalltranscriptsQ2.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_11112026143915_SEearningcalltranscriptsQ2.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -12059,7 +11960,7 @@
    "reasons": [
     "transcript: feeds research"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_07112026151831_IntimationofPostResultsEarningsCallTranscript04112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_07112026151831_IntimationofPostResultsEarningsCallTranscript04112026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -12079,7 +11980,7 @@
    "reasons": [
     "transcript: feeds research"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_05112026163605_EarningCallTranscriptQ2Intimation.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/DIXON_05112026163605_EarningCallTranscriptQ2Intimation.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -12099,7 +12000,7 @@
    "reasons": [
     "transcript: feeds research"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNPHARMA456_04112026191520_IntimationSE20261104EarningsCallTranscriptQ2FY27_Signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/SUNPHARMA456_04112026191520_IntimationSE20261104EarningsCallTranscriptQ2FY27_Signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -12119,7 +12020,7 @@
    "reasons": [
     "transcript: feeds research"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/DEEPAKNTR_04112026111452_NSE-concall_transcript.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/DEEPAKNTR_04112026111452_NSE-concall_transcript.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -12139,7 +12040,7 @@
    "reasons": [
     "transcript: feeds research"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_03112026182217_Stock_exchange_intimation_Transcript_Q2FY26.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_03112026182217_Stock_exchange_intimation_Transcript_Q2FY26.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -12159,7 +12060,7 @@
    "reasons": [
     "transcript: feeds research"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/MARUTIASHISH_02112026210459_Transcript_27Oct026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTIASHISH_02112026210459_Transcript_27Oct026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -12179,7 +12080,7 @@
    "reasons": [
     "transcript: feeds research"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_02112026175603_TranscriptSep2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_02112026175603_TranscriptSep2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -12199,7 +12100,7 @@
    "reasons": [
     "supporting results document"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_29102026161637_InvestorPresentationQ2FY27.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TRENT_29102026161637_InvestorPresentationQ2FY27.pdf",
    "people": [],
    "read_by": null,
    "subject": "Investor Presentation",
@@ -12219,7 +12120,7 @@
    "reasons": [
     "transcript: feeds research"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HSCL_28102026182544_HSCLTranscriptQ2FY27.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_28102026182544_HSCLTranscriptQ2FY27.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -12239,7 +12140,7 @@
    "reasons": [
     "transcript: feeds research"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/ZOMATO_27102026165119_Transcript_of_the_earnings_conference_call_September_2026signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/ZOMATO_27102026165119_Transcript_of_the_earnings_conference_call_September_2026signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -12259,7 +12160,7 @@
    "reasons": [
     "transcript: feeds research"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK_23102026224657_SEintimationTranscriptofearningscall17oct2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK_23102026224657_SEintimationTranscriptofearningscall17oct2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -12279,7 +12180,7 @@
    "reasons": [
     "transcript: feeds research"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_23102026204328_PSLTranscriptSubmissionOctober2026Sd.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_23102026204328_PSLTranscriptSubmissionOctober2026Sd.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -12299,7 +12200,7 @@
    "reasons": [
     "transcript: feeds research"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_23102026145254_BFL_Investor_Call_outcome_Transcript_for_filing.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_23102026145254_BFL_Investor_Call_outcome_Transcript_for_filing.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -12319,7 +12220,7 @@
    "reasons": [
     "reaffirmation"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_22102026230112_PSLCreditRatingIntimationICRA22102026Sd.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_22102026230112_PSLCreditRatingIntimationICRA22102026Sd.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Credit Rating",
@@ -12339,51 +12240,11 @@
    "reasons": [
     "transcript: feeds research"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_19102026163912_Intimation_of_Earnings_Call_Transcript.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/POLYCAB_19102026163912_Intimation_of_Earnings_Call_Transcript.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
    "ts": "2026-10-19T16:39:28",
-   "related": [],
-   "tier": "glance",
-   "label": "Earnings call"
-  },
-  {
-   "id": "106818679",
-   "symbol": "PERSISTENT",
-   "company": "Persistent Systems Limited",
-   "category": "results",
-   "headline": "Investor Presentation",
-   "why": null,
-   "score": 40,
-   "reasons": [
-    "supporting results document"
-   ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_15102026160546_PSLFactSheetQ2FY27160Sd.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Investor Presentation",
-   "ts": "2026-10-15T16:06:03",
-   "related": [],
-   "tier": "glance",
-   "label": "Results"
-  },
-  {
-   "id": "106817267",
-   "symbol": "TCS",
-   "company": "Tata Consultancy Services Limited",
-   "category": "earnings_call",
-   "headline": "Transcript",
-   "why": null,
-   "score": 40,
-   "reasons": [
-    "transcript: feeds research"
-   ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_14102026155941_SEInt14102026_signed.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "ts": "2026-10-14T16:00:08",
    "related": [],
    "tier": "glance",
    "label": "Earnings call"
@@ -12397,7 +12258,7 @@
    "why": null,
    "score": 37,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_19102026175648_Change_in_SMT_Prashant_Verma_CISO_signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_19102026175648_Change_in_SMT_Prashant_Verma_CISO_signed.pdf",
    "people": [
     {
      "name": "Prashant Verma",
@@ -12417,6 +12278,36 @@
    "label": "Management"
   },
   {
+   "id": "106861174",
+   "symbol": "ZEEMEDIA",
+   "company": "Zee Media Corporation Limited",
+   "category": "management_change",
+   "headline": "Appointed Rajiv Goel as Non-Executive Independent Director for five years",
+   "why": "Rajiv Goel joins the board with over 31 years of experience in corporate finance and capital markets.",
+   "score": 36,
+   "reasons": [
+    "board seat, not management"
+   ],
+   "pdf": "https://nsearchives.nseindia.in/corporate/RSZMCL_14112026193328_ZMCLotherthenResults.pdf",
+   "people": [
+    {
+     "name": "Rajiv Goel",
+     "role": "Non-Executive Independent Director",
+     "change": "appointed",
+     "effective": "2026-11-14",
+     "background": "Chartered Accountant and Science graduate with over 31 years of experience in corporate finance, capital markets, treasury, M&A, ESG, and regulatory affairs. Previously Senior Vice President at DLF Ltd. and independent financial consultant.",
+     "previous": "Senior Vice President at DLF Ltd.",
+     "reason": null
+    }
+   ],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Appointment",
+   "ts": "2026-11-14T19:40:10",
+   "related": [],
+   "tier": "glance",
+   "label": "Management"
+  },
+  {
    "id": "106834102",
    "symbol": "ASIANPAINT",
    "company": "Asian Paints Limited",
@@ -12425,7 +12316,7 @@
    "why": "Interim dividend declaration provides direct cash return to shareholders.",
    "score": 36,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_29102026141409_OutcomeofBM29102026signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_29102026141409_OutcomeofBM29102026signed.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Press Release",
@@ -12443,7 +12334,7 @@
    "why": null,
    "score": 34,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/COALINDIA_29102026185152_Sh_Comm.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_29102026185152_Sh_Comm.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -12461,7 +12352,7 @@
    "why": null,
    "score": 34,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/COALINDIA_29102026181749_Dividend.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_29102026181749_Dividend.pdf",
    "people": [],
    "read_by": null,
    "subject": "Record Date",
@@ -12479,7 +12370,7 @@
    "why": null,
    "score": 34,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_29102026141215_OutcomeofBM29102026signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_29102026141215_OutcomeofBM29102026signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Updates",
@@ -12497,7 +12388,7 @@
    "why": null,
    "score": 34,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_29102026140642_OutcomeofBM29102026signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_29102026140642_OutcomeofBM29102026signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Dividend",
@@ -12505,6 +12396,42 @@
    "related": [],
    "tier": "glance",
    "label": "Dividend"
+  },
+  {
+   "id": "106861175",
+   "symbol": "ZEEMEDIA",
+   "company": "Zee Media Corporation Limited",
+   "category": "press_release",
+   "headline": "A earning release dated November 14, 2026, titled \"Earning Release\" for the quarter & half year ended September 30, 2026",
+   "why": null,
+   "score": 32,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.in/corporate/RSZMCL_14112026193539_ZMCLEarningRelease.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Press Release",
+   "ts": "2026-11-14T19:40:10",
+   "related": [],
+   "tier": "routine",
+   "label": "Press release"
+  },
+  {
+   "id": "106860307",
+   "symbol": "ZYDUSLIFE",
+   "company": "Zydus Lifesciences Limited",
+   "category": "press_release",
+   "headline": "A press release dated November 14, 2026, titled \"Closure of USFDA inspection at Zydus  LiqMeds, UK",
+   "why": null,
+   "score": 32,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_14112026112753_PressRelease14112026.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Press Release",
+   "ts": "2026-11-14T11:28:07",
+   "related": [],
+   "tier": "routine",
+   "label": "Press release"
   },
   {
    "id": "106855421",
@@ -12515,7 +12442,7 @@
    "why": null,
    "score": 32,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/VPTPCL_11112026173937_Press_Release.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/VPTPCL_11112026173937_Press_Release.pdf",
    "people": [],
    "read_by": null,
    "subject": "Press Release",
@@ -12533,7 +12460,7 @@
    "why": null,
    "score": 32,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/KSTPCL_05112026103413_PR.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/KSTPCL_05112026103413_PR.pdf",
    "people": [],
    "read_by": null,
    "subject": "Press Release",
@@ -12551,7 +12478,7 @@
    "why": null,
    "score": 32,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_04112026104913_PR_04Nov26_signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_04112026104913_PR_04Nov26_signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Updates",
@@ -12571,7 +12498,7 @@
    "reasons": [
     "order win, value undisclosed"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_04112026100317_Reply_to_SEs_-_Rumour_Verification02112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/SUNSEC_04112026100317_Reply_to_SEs_-_Rumour_Verification02112026.pdf",
    "people": [],
    "read_by": null,
    "subject": "News Verification",
@@ -12609,7 +12536,7 @@
    "why": null,
    "score": 32,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/COALINDIA_01112026160030_pressnov.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_01112026160030_pressnov.pdf",
    "people": [],
    "read_by": null,
    "subject": "Press Release",
@@ -12627,7 +12554,7 @@
    "why": null,
    "score": 32,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/MARUTIASHISH_01112026133641_StxIntimation_Sales_Oct2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTIASHISH_01112026133641_StxIntimation_Sales_Oct2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Press Release",
@@ -12645,7 +12572,7 @@
    "why": null,
    "score": 32,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_30102026080437_SE_Intimation_of_Press_Release_ILUMYA_PsA_Approval.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/SUNSEC_30102026080437_SE_Intimation_of_Press_Release_ILUMYA_PsA_Approval.pdf",
    "people": [],
    "read_by": null,
    "subject": "Press Release",
@@ -12663,7 +12590,7 @@
    "why": null,
    "score": 32,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_29102026162053_PressReleaseOct2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TRENT_29102026162053_PressReleaseOct2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Press Release",
@@ -12681,7 +12608,7 @@
    "why": null,
    "score": 32,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/MARUTI_29102026104658_StxIntimation_EVExports.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTI_29102026104658_StxIntimation_EVExports.pdf",
    "people": [],
    "read_by": null,
    "subject": "Press Release",
@@ -12699,7 +12626,7 @@
    "why": null,
    "score": 32,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/MARUTI_27102026153704_STxIntimation_PR_27Oct2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTI_27102026153704_STxIntimation_PR_27Oct2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Press Release",
@@ -12717,7 +12644,7 @@
    "why": null,
    "score": 32,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/COALINDIA_27102026124649_Press_Release_as_on_271026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_27102026124649_Press_Release_as_on_271026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Press Release",
@@ -12735,7 +12662,7 @@
    "why": null,
    "score": 32,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/KSTPCL_27102026121922_PressRelease27102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/KSTPCL_27102026121922_PressRelease27102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Press Release",
@@ -12755,7 +12682,7 @@
    "reasons": [
     "order win, value undisclosed"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_27102026101631_PressRelease27102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_27102026101631_PressRelease27102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Bagging/Receiving of orders/contracts",
@@ -12773,7 +12700,7 @@
    "why": null,
    "score": 32,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/MARUTI_24102026102410_STxIntimation_VictorisAURUM_24Oct2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTI_24102026102410_STxIntimation_VictorisAURUM_24Oct2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Press Release",
@@ -12793,7 +12720,7 @@
    "reasons": [
     "reaffirmation"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_21102026205156_PSLIntimationofCreditRatingNCDsd.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_21102026205156_PSLIntimationofCreditRatingNCDsd.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Credit Rating",
@@ -12811,7 +12738,7 @@
    "why": null,
    "score": 32,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_21102026182006_PressRelease211020261.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_21102026182006_PressRelease211020261.pdf",
    "people": [],
    "read_by": null,
    "subject": "Press Release",
@@ -12829,7 +12756,7 @@
    "why": null,
    "score": 32,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_21102026110803_PressRelease21102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_21102026110803_PressRelease21102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Press Release",
@@ -12847,7 +12774,7 @@
    "why": null,
    "score": 32,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_19102026112258_PR_19Oct26_signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_19102026112258_PR_19Oct26_signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Updates",
@@ -12865,119 +12792,11 @@
    "why": null,
    "score": 32,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HSCL_17102026190443_PressReleaseQ2FY27Stockex17102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_17102026190443_PressReleaseQ2FY27Stockex17102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Press Release",
    "ts": "2026-10-17T19:05:01",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
-   "id": "106818693",
-   "symbol": "PERSISTENT",
-   "company": "Persistent Systems Limited",
-   "category": "press_release",
-   "headline": "A press release dated October 15, 2026, titled \"Press Release regarding financial results for the quarter and half year ended September 30, 2026",
-   "why": null,
-   "score": 32,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_15102026161221_SEIntimationpressrelease15102026Sd.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Press Release",
-   "ts": "2026-10-15T16:12:31",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
-   "id": "106818462",
-   "symbol": "POLYCAB",
-   "company": "Polycab India Limited",
-   "category": "press_release",
-   "headline": "A press release dated October 15, 2026, titled \"Financial results for the quarter ended 30th September 2026",
-   "why": null,
-   "score": 32,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_15102026130834_PressRelease.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Press Release",
-   "ts": "2026-10-15T13:08:53",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
-   "id": "106818321",
-   "symbol": "ZYDUSLIFE",
-   "company": "Zydus Lifesciences Limited",
-   "category": "press_release",
-   "headline": "A press release dated October 15, 2026, titled \"Zydus Sunshine Lifesciences signs agreement with Board of Investment, Sri Lanka to establish a pharmaceutical manufacturing facility in Sri Lanka",
-   "why": null,
-   "score": 32,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_15102026113006_PressRelease15102026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Press Release",
-   "ts": "2026-10-15T11:30:32",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
-   "id": "106818319",
-   "symbol": "TCS",
-   "company": "Tata Consultancy Services Limited",
-   "category": "press_release",
-   "headline": "Press Release - TCS launches Industrial Intelligence Foundry to accelerate AI-led autonomy and engineering",
-   "why": null,
-   "score": 32,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_15102026112020_PR_15Oct26_signed.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Updates",
-   "ts": "2026-10-15T11:30:07",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
-   "id": "106816882",
-   "symbol": "TCS",
-   "company": "Tata Consultancy Services Limited",
-   "category": "press_release",
-   "headline": "Press Release -MyState Limited selects TCS BaNCSTM to transform core banking operations",
-   "why": null,
-   "score": 32,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_14102026112025_PR_14Oct26_signed.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Updates",
-   "ts": "2026-10-14T11:30:06",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
-   "id": "106816754",
-   "symbol": "TATAPOWER",
-   "company": "Tata Power Company Limited",
-   "category": "press_release",
-   "headline": "A press release dated October 14, 2026, titled \"Tata Power Advances 2.8 GW+ Data Centre Opportunity Pipeline Across 18 Leading Blue Chip Data Centre Players, Supporting India's AI and Digital Growth",
-   "why": null,
-   "score": 32,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/KSTPCL_14102026095845_Press_Relase_14102026_signed.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Press Release",
-   "ts": "2026-10-14T09:58:57",
    "related": [],
    "tier": "routine",
    "label": "Press release"
@@ -12991,7 +12810,7 @@
    "why": null,
    "score": 30,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_27102026191700_SE_27102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/kavinavora_27102026191700_SE_27102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13001,7 +12820,7 @@
      "id": "106831152",
      "headline": "Trading in equity shares of Jio Platforms Limited (JPL) will commence from October 28, 2026.Further, a meeting of board of directors of JPL is scheduled to be held on Friday, October 30, 2026, inter alia, to consider and approve the standalone and consolidated unaudited financial results of JPL for the quarter and half year ended September 30, 2026",
      "subject": "General Updates",
-     "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_27102026220855_RIL_SELETTER_271026.pdf",
+     "pdf": "https://nsearchives.nseindia.in/corporate/kavinavora_27102026220855_RIL_SELETTER_271026.pdf",
      "ts": "2026-10-27T22:11:29",
      "category": "results"
     }
@@ -13018,7 +12837,7 @@
    "why": null,
    "score": 30,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HSCL_22102026215045_EarningsrecordingQ2FY27.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_22102026215045_EarningsrecordingQ2FY27.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13038,7 +12857,7 @@
    "reasons": [
     "reaffirmation"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PVIVINMA_21102026204310_SE_ICRA.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PVIVINMA_21102026204310_SE_ICRA.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Credit Rating",
@@ -13056,7 +12875,7 @@
    "why": "Discussions covered commercial partnerships in conventional and new energy, data centres, and digital infrastructure.",
    "score": 27,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_21102026224413_SE_21102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/kavinavora_21102026224413_SE_21102026.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Updates",
@@ -13076,7 +12895,7 @@
    "reasons": [
     "reaffirmation"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HAL_11112026153259_WithdrawalOfRating_11112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HAL_11112026153259_WithdrawalOfRating_11112026.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Credit Rating- Others",
@@ -13096,7 +12915,7 @@
    "reasons": [
     "new subsidiary set up (housekeeping)"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_28102026134838_SEIntimation_-_Canada_Incorporation.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_28102026134838_SEIntimation_-_Canada_Incorporation.pdf",
    "people": [],
    "read_by": null,
    "subject": "Acquisition",
@@ -13116,7 +12935,7 @@
    "reasons": [
     "reaffirmation"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PVIVINMA_04112026204646_SE_RIL_041126.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PVIVINMA_04112026204646_SE_RIL_041126.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Credit Rating",
@@ -13134,7 +12953,7 @@
    "why": "Addresses media reports regarding production halts at the Assam facility and recent share price movements.",
    "score": 18,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_02112026205719_Reply_to_SEs_-_Rumour_Verification02112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/SUNSEC_02112026205719_Reply_to_SEs_-_Rumour_Verification02112026.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Rumour Verification - Regulation 30(11)",
@@ -13152,7 +12971,7 @@
    "why": null,
    "score": 14,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK_06112026222722_SEIntimation_PBResults_06112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK_06112026222722_SEIntimation_PBResults_06112026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Shareholders meeting",
@@ -13170,7 +12989,7 @@
    "why": null,
    "score": 14,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_06112026214436_SE_intimation_Result_of_Postal_ballot.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_06112026214436_SE_intimation_Result_of_Postal_ballot.pdf",
    "people": [],
    "read_by": null,
    "subject": "Shareholders meeting",
@@ -13188,7 +13007,7 @@
    "why": null,
    "score": 14,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_04112026152849_SEintimationsScrutinizersReportSignedForUpload.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_04112026152849_SEintimationsScrutinizersReportSignedForUpload.pdf",
    "people": [],
    "read_by": null,
    "subject": "Shareholders meeting",
@@ -13206,7 +13025,7 @@
    "why": null,
    "score": 14,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_02112026193032_BFLEGMProceedings.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_02112026193032_BFLEGMProceedings.pdf",
    "people": [],
    "read_by": null,
    "subject": "Shareholders meeting",
@@ -13224,7 +13043,7 @@
    "why": null,
    "score": 14,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HSCL_28102026141358_StockExoutcome_Postal_Ballot.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_28102026141358_StockExoutcome_Postal_Ballot.pdf",
    "people": [],
    "read_by": null,
    "subject": "Shareholders meeting",
@@ -13242,7 +13061,7 @@
    "why": null,
    "score": 14,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK3_21102026115151_SEIntimationPostalBallotNoticeOct2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK3_21102026115151_SEIntimationPostalBallotNoticeOct2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Shareholders meeting",
@@ -13263,7 +13082,7 @@
     "new subsidiary set up (housekeeping)",
     "₹0 cr, small vs size (<0.01% of m-cap)"
    ],
-   "pdf": "https://nsearchives.nseindia.com/corporate/MARUTI_27102026131704_Letter_to_Exchange.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTI_27102026131704_Letter_to_Exchange.pdf",
    "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Acquisition",
@@ -13271,24 +13090,6 @@
    "related": [],
    "tier": "routine",
    "label": "M&A"
-  },
-  {
-   "id": "106817628",
-   "symbol": "DIXON",
-   "company": "Dixon Technologies (India) Limited",
-   "category": "unclassified",
-   "headline": "Crisil assigns ESG Rating of Crisil ESG 61 and Core ESG rating of Crisil Core ESG 67",
-   "why": "Independent ESG ratings assess sustainability and governance performance without company engagement.",
-   "score": 10,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_14102026182232_ESGRatingDisclousureCrisil14102026.pdf",
-   "people": [],
-   "read_by": "gemini-3.5-flash-lite",
-   "subject": "General Updates",
-   "ts": "2026-10-14T18:25:23",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
   },
   {
    "id": "106859406",
@@ -13299,7 +13100,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_13112026182446_SE_13112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/kavinavora_13112026182446_SE_13112026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13317,7 +13118,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_12112026202324_SE_12112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/kavinavora_12112026202324_SE_12112026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13335,7 +13136,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_12112026152942_SEintimation_12_Nov_26.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_12112026152942_SEintimation_12_Nov_26.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13353,7 +13154,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK3_12112026142725_Analystmeetintimation12112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK3_12112026142725_Analystmeetintimation12112026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13371,7 +13172,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/MARUTIASHISH_12112026115520_Investor_Meeting_17_18_19Nov2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTIASHISH_12112026115520_Investor_Meeting_17_18_19Nov2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13389,7 +13190,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/VPTPCL_11112026095652_Letter_to_SE_Analyst_Meet.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/VPTPCL_11112026095652_Letter_to_SE_Analyst_Meet.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13407,7 +13208,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_09112026175712_SEINTIMATIONANALYSTMEETSNOV2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_09112026175712_SEINTIMATIONANALYSTMEETSNOV2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13425,7 +13226,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_09112026171125_SEIntimation_signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_09112026171125_SEIntimation_signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13443,7 +13244,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_09112026145809_SEintimation_9_Nov_26.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_09112026145809_SEintimation_9_Nov_26.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13461,7 +13262,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_09112026125235_Investor_Analyst_Meeting_09112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TRENT_09112026125235_Investor_Analyst_Meeting_09112026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13479,7 +13280,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_06112026220329_Intimationtostockexchange.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/POLYCAB_06112026220329_Intimationtostockexchange.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -13497,7 +13298,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_06112026191022_Pre_CLSA_SE_06112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/kavinavora_06112026191022_Pre_CLSA_SE_06112026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13515,7 +13316,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_06112026153645_AnalystMeetIntimation06112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_06112026153645_AnalystMeetIntimation06112026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13533,7 +13334,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_06112026103411_Investor_Analyst_Meeting_06112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TRENT_06112026103411_Investor_Analyst_Meeting_06112026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13551,7 +13352,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_05112026192606_Investorconference05112026_1.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_05112026192606_Investorconference05112026_1.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13569,7 +13370,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_05112026191417_Investorconference05112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_05112026191417_Investorconference05112026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13587,7 +13388,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNPHARMA456_05112026155401_IntimationSE20261105_for_Analyst_and_Investor_meeting_Signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/SUNPHARMA456_05112026155401_IntimationSE20261105_for_Analyst_and_Investor_meeting_Signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13605,7 +13406,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_03112026112356_InvestorMeetOutcome031102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/DIXON_03112026112356_InvestorMeetOutcome031102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13623,7 +13424,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/KSTPCL_02112026171009_Analyst_Call_Q2FY27.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/KSTPCL_02112026171009_Analyst_Call_Q2FY27.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13641,7 +13442,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_28102026174326_Intimationtostockexchange.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/POLYCAB_28102026174326_Intimationtostockexchange.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -13659,7 +13460,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_27102026190410_Intimationtostockexchange.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/POLYCAB_27102026190410_Intimationtostockexchange.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -13677,7 +13478,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_27102026183653_AnalystPresentationSep2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_27102026183653_AnalystPresentationSep2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Updates",
@@ -13695,7 +13496,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/KSTPCL_27102026150011_Letter_to_SE_Analyst_Meet_27102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/KSTPCL_27102026150011_Letter_to_SE_Analyst_Meet_27102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13713,7 +13514,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_26102026192457_BSENSE_Intimation_Investor_meet.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_26102026192457_BSENSE_Intimation_Investor_meet.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13731,7 +13532,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_24102026112911_InvestorCall24102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_24102026112911_InvestorCall24102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13749,7 +13550,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_23102026195704_SEQ2FY27EarningCall.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_23102026195704_SEQ2FY27EarningCall.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13767,7 +13568,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_23102026181003_Q2ResultsConferenceCallIntimation30102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/DIXON_23102026181003_Q2ResultsConferenceCallIntimation30102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13785,7 +13586,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_23102026143418_Intimationtostockexchange.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/POLYCAB_23102026143418_Intimationtostockexchange.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -13803,7 +13604,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/MARUTIASHISH_21102026153744_STxIntimation_EarningsCall_27Oct2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTIASHISH_21102026153744_STxIntimation_EarningsCall_27Oct2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13821,7 +13622,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_19102026162313_Intimationtostockexchange.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/POLYCAB_19102026162313_Intimationtostockexchange.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -13839,7 +13640,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK_17102026151509_SE_Intimation_earningcall_presentation17oct2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK_17102026151509_SE_Intimation_earningcall_presentation17oct2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13857,7 +13658,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HSCL_16102026195743_StockEx_Concall22102026_HSCL.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_16102026195743_StockEx_Concall22102026_HSCL.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13875,7 +13676,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_16102026170806_Intimation16102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_16102026170806_Intimation16102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13893,7 +13694,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_16102026162737_SE16102026_signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_16102026162737_SE16102026_signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13911,7 +13712,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_16102026160340_SE_Analyst_Meet.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_16102026160340_SE_Analyst_Meet.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13929,7 +13730,7 @@
    "why": null,
    "score": 8,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_16102026160355_SE_Analyst_Meet.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_16102026160355_SE_Analyst_Meet.pdf",
    "people": [],
    "read_by": null,
    "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
@@ -13939,40 +13740,40 @@
    "label": "Investor meet"
   },
   {
-   "id": "106819301",
-   "symbol": "PERSISTENT",
-   "company": "Persistent Systems Limited",
-   "category": "investor_meetings",
-   "headline": "Presentation",
+   "id": "106861176",
+   "symbol": "ZEEMEDIA",
+   "company": "Zee Media Corporation Limited",
+   "category": "unclassified",
+   "headline": "Monitoring Agency Report for the quarter ended September 30, 2026",
    "why": null,
-   "score": 8,
+   "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_15102026211842_PSLOutcomeofInvestorAnalystCallOctober152026Sd.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/RSZMCL_14112026193719_ZMCLMonitoringReport.pdf",
    "people": [],
    "read_by": null,
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "ts": "2026-10-15T21:19:19",
+   "subject": "Monitoring Agency Report",
+   "ts": "2026-11-14T19:40:10",
    "related": [],
    "tier": "routine",
-   "label": "Investor meet"
+   "label": "Routine"
   },
   {
-   "id": "106819024",
-   "symbol": "SUNPHARMA",
-   "company": "Sun Pharmaceutical Industries Limited",
-   "category": "investor_meetings",
-   "headline": "Schedule of meet",
+   "id": "106860227",
+   "symbol": "COALINDIA",
+   "company": "Coal India Limited",
+   "category": "unclassified",
+   "headline": "Filing of RHP of Mahanadi Coalfields Limited (MCL), a wholly owned Subsidiary of CIL, with SEBI",
    "why": null,
-   "score": 8,
+   "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNPHARMA456_15102026181814_IntimationSE20261015_Q2FY27_Earnings_Call_Signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_14112026072625_rhp.pdf",
    "people": [],
    "read_by": null,
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "ts": "2026-10-15T18:18:52",
+   "subject": "General Updates",
+   "ts": "2026-11-14T07:26:40",
    "related": [],
    "tier": "routine",
-   "label": "Investor meet"
+   "label": "Routine"
   },
   {
    "id": "106858223",
@@ -13983,7 +13784,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_13112026112141_Reg_30_-_Dematerialisation_letter_to_shareholders.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TRENT_13112026112141_Reg_30_-_Dematerialisation_letter_to_shareholders.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -14001,7 +13802,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_12112026184505_SECPRedemption12112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_12112026184505_SECPRedemption12112026.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -14019,7 +13820,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/VPTPCL_12112026143001_new3.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/VPTPCL_12112026143001_new3.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -14037,7 +13838,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_12112026071146_SriLankaJVclosing.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_12112026071146_SriLankaJVclosing.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -14055,7 +13856,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/VPTPCL_11112026192204_Regulation_30_KMP.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/VPTPCL_11112026192204_Regulation_30_KMP.pdf",
    "people": [],
    "read_by": null,
    "subject": "Updates",
@@ -14073,7 +13874,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/VPTPCL_11112026134527_ESOP_Grant_SE_letter_1126.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/VPTPCL_11112026134527_ESOP_Grant_SE_letter_1126.pdf",
    "people": [],
    "read_by": null,
    "subject": "ESOP/ESOS/ESPS",
@@ -14091,7 +13892,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_10112026121523_BFL_Reg_30_Outcome_PricingofPIpostVRFinal.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_10112026121523_BFL_Reg_30_Outcome_PricingofPIpostVRFinal.pdf",
    "people": [],
    "read_by": null,
    "subject": "Committee Meeting Updates",
@@ -14109,7 +13910,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_09112026150627_SECPRedemption09112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_09112026150627_SECPRedemption09112026.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -14127,7 +13928,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/VPTPCL_07112026184018_reg_30_07-11-2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/VPTPCL_07112026184018_reg_30_07-11-2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -14145,7 +13946,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_07112026162848_Half_yearly_communication_Signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_07112026162848_Half_yearly_communication_Signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -14163,7 +13964,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HSCL_07112026131338_OutcomeofBM07112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_07112026131338_OutcomeofBM07112026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -14181,7 +13982,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_06112026165556_SEnewspaperadresultQ2-combined.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_06112026165556_SEnewspaperadresultQ2-combined.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -14199,7 +14000,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_05112026233015_PersistentSEOutcomeAllotmentofCPsNovember52026signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_05112026233015_PersistentSEOutcomeAllotmentofCPsNovember52026signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -14217,7 +14018,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_05112026183608_SEappoinmentofstatutoryauditor.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_05112026183608_SEappoinmentofstatutoryauditor.pdf",
    "people": [],
    "read_by": null,
    "subject": "Change in Auditors",
@@ -14235,7 +14036,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_05112026182331_SECPRedemption05112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_05112026182331_SECPRedemption05112026.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -14253,7 +14054,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_05112026180204_SECPQ2.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_05112026180204_SECPQ2.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -14271,7 +14072,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_05112026171618_Reg30ESOPAllotmentNov.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/DIXON_05112026171618_Reg30ESOPAllotmentNov.pdf",
    "people": [],
    "read_by": null,
    "subject": "Allotment of Securities",
@@ -14289,7 +14090,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_05112026120755_NewspaperPublication.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_05112026120755_NewspaperPublication.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -14307,7 +14108,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_04112026185041_Intimation04112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_04112026185041_Intimation04112026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Updates",
@@ -14325,7 +14126,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_04112026150907_PersistentSEOutcomeAllotmentofNCDsNovember42026Signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_04112026150907_PersistentSEOutcomeAllotmentofNCDsNovember42026Signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Allotment of Securities",
@@ -14343,7 +14144,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_04112026150426_PersistentSEOutcomeAllotmentofNCDsNovember42026Signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_04112026150426_PersistentSEOutcomeAllotmentofNCDsNovember42026Signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Committee Meeting Updates",
@@ -14361,7 +14162,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_04112026150149_Newspaperadvertisement04112026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_04112026150149_Newspaperadvertisement04112026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -14379,7 +14180,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_04112026123245_SEIntimationStatutoryAuditors.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_04112026123245_SEIntimationStatutoryAuditors.pdf",
    "people": [],
    "read_by": null,
    "subject": "Change in Auditors",
@@ -14397,7 +14198,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_04112026122736_SEIntimationStatutoryAuditors.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_04112026122736_SEIntimationStatutoryAuditors.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -14415,7 +14216,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_03112026185113_SEInt3112026_signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_03112026185113_SEInt3112026_signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -14433,7 +14234,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_03112026172946_Regulation30DisclosureRTAAddress.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/DIXON_03112026172946_Regulation30DisclosureRTAAddress.pdf",
    "people": [],
    "read_by": null,
    "subject": "Updates",
@@ -14451,7 +14252,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HAL_03112026165816_HATSOFFtransfer_signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HAL_03112026165816_HATSOFFtransfer_signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Updates",
@@ -14469,7 +14270,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_03112026160106_IntimationtoStockexchange.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/POLYCAB_03112026160106_IntimationtoStockexchange.pdf",
    "people": [],
    "read_by": null,
    "subject": "ESOP/ESOS/ESPS",
@@ -14487,7 +14288,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HSCL_02112026183807_HSCLNewspaperforLossofCertificates.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_02112026183807_HSCLNewspaperforLossofCertificates.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -14505,7 +14306,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_02112026132637_Q2FY27_Financial_Results_-_Newspaper_Publication.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TRENT_02112026132637_Q2FY27_Financial_Results_-_Newspaper_Publication.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -14523,7 +14324,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_02112026124012_Zydus_SBL_API_BTA_closing.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_02112026124012_Zydus_SBL_API_BTA_closing.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -14541,7 +14342,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/COALINDIA_02112026120108_SECL.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_02112026120108_SECL.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -14559,7 +14360,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/COALINDIA_02112026114828_NP0211.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_02112026114828_NP0211.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -14577,7 +14378,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/MARUTIASHISH_01112026143647_STxIntimation_Prod_Oct2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTIASHISH_01112026143647_STxIntimation_Prod_Oct2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -14595,7 +14396,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/COALINDIA_01112026130821_auctionoct.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_01112026130821_auctionoct.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -14613,7 +14414,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/COALINDIA_01112026115045_Productionoct.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_01112026115045_Productionoct.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -14631,7 +14432,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_31102026201341_SEIntimationforVR_-_31_October_2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/SUNSEC_31102026201341_SEIntimationforVR_-_31_October_2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -14649,7 +14450,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_31102026192630_NewspaperAdvertisement31101026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/DIXON_31102026192630_NewspaperAdvertisement31101026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -14667,7 +14468,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_31102026173121_SEIntimationforFinancialResultsNewspaperadvertisement.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/SUNSEC_31102026173121_SEIntimationforFinancialResultsNewspaperadvertisement.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -14685,7 +14486,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_30102026151827_BMOutcome30102026_Conclusion.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/SUNSEC_30102026151827_BMOutcome30102026_Conclusion.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -14703,7 +14504,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_30102026145301_REG30_Allotment_intimation.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_30102026145301_REG30_Allotment_intimation.pdf",
    "people": [],
    "read_by": null,
    "subject": "Allotment of Securities",
@@ -14721,7 +14522,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_30102026132831_Newspaperadvertisement30102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_30102026132831_Newspaperadvertisement30102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -14739,7 +14540,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK_30102026132409_SELetterESOP30102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK_30102026132409_SELetterESOP30102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "ESOP/ESOS/ESPS",
@@ -14757,7 +14558,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/COALINDIA_30102026122406_NP_Q2.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_30102026122406_NP_Q2.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -14775,7 +14576,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/DEEPAKNTR_29102026221311_DNL_-_Q2_FY27_Results_Presentation_V2.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/DEEPAKNTR_29102026221311_DNL_-_Q2_FY27_Results_Presentation_V2.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -14793,7 +14594,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_29102026160446_DraftOutcomeofBM.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TRENT_29102026160446_DraftOutcomeofBM.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -14811,7 +14612,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_28102026194657_NewspaperAdvtSep2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_28102026194657_NewspaperAdvtSep2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -14829,7 +14630,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HSCL_28102026185223_Alteration_of_Memorandum_of_Association.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_28102026185223_Alteration_of_Memorandum_of_Association.pdf",
    "people": [],
    "read_by": null,
    "subject": "Amendment to AOA/MOA",
@@ -14847,7 +14648,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_28102026172546_SEnewspaperadlossofshares.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_28102026172546_SEnewspaperadlossofshares.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -14865,7 +14666,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/MARUTI_28102026103729_STxIntimation_NP_27Oct2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTI_28102026103729_STxIntimation_NP_27Oct2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -14883,7 +14684,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_27102026184209_IntimationtoStockExchange.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/POLYCAB_27102026184209_IntimationtoStockExchange.pdf",
    "people": [],
    "read_by": null,
    "subject": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
@@ -14901,7 +14702,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/KSTPCL_27102026164026_Newspaper-Loss_of_Share_certificate.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/KSTPCL_27102026164026_Newspaper-Loss_of_Share_certificate.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -14919,7 +14720,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PAM_27102026132854_ESOPAllotment27102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_27102026132854_ESOPAllotment27102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Allotment of Securities",
@@ -14937,7 +14738,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/COALINDIA_27102026125915_NP_271026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_27102026125915_NP_271026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -14955,7 +14756,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/COALINDIA_27102026125541_NP_271026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_27102026125541_NP_271026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -14973,7 +14774,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_26102026232129_PersistentSEOutcomeAllotmentofsharesOct262026IIFLSigned.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_26102026232129_PersistentSEOutcomeAllotmentofsharesOct262026IIFLSigned.pdf",
    "people": [],
    "read_by": null,
    "subject": "Committee Meeting Updates",
@@ -14991,7 +14792,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_26102026192958_PersistentSEOutcomeQIPissueclosingOct262026signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_26102026192958_PersistentSEOutcomeQIPissueclosingOct262026signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Committee Meeting Updates",
@@ -15009,7 +14810,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_26102026122925_SE_Intimation_of_allotment_of_NCDs_26_Oct_2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/SUNSEC_26102026122925_SE_Intimation_of_allotment_of_NCDs_26_Oct_2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Allotment of Securities",
@@ -15027,7 +14828,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK_24102026222634_SE_Intimation_grant_of_ESOPs.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK_24102026222634_SE_Intimation_grant_of_ESOPs.pdf",
    "people": [],
    "read_by": null,
    "subject": "ESOP/ESOS/ESPS",
@@ -15045,7 +14846,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_23102026163319_Reg30Reminderlettertoshareholder2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TRENT_23102026163319_Reg30Reminderlettertoshareholder2026.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -15063,7 +14864,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK_22102026135701_SELetterESOP22102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK_22102026135701_SELetterESOP22102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "ESOP/ESOS/ESPS",
@@ -15081,7 +14882,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HAL_22102026131032_GeneralUpdates22102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HAL_22102026131032_GeneralUpdates22102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Updates",
@@ -15099,7 +14900,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK3_22102026115451_PB_adv_22102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK3_22102026115451_PB_adv_22102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -15117,7 +14918,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_21102026195926_PersistentUpdateonSEOutcomeQIPissueopeningOct212026signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_21102026195926_PersistentUpdateonSEOutcomeQIPissueopeningOct212026signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Committee Meeting Updates",
@@ -15135,7 +14936,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_21102026191632_PersistentSEOutcomeQIPissueopeningOct212026V3signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_21102026191632_PersistentSEOutcomeQIPissueopeningOct212026V3signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Committee Meeting Updates",
@@ -15153,7 +14954,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_21102026184143_Regulation30GuaranteeQuanta21102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/DIXON_21102026184143_Regulation30GuaranteeQuanta21102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Updates",
@@ -15171,7 +14972,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/ZOMATO_21102026173358_SignedMALletter.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/ZOMATO_21102026173358_SignedMALletter.pdf",
    "people": [],
    "read_by": null,
    "subject": "Monitoring Agency Report",
@@ -15189,7 +14990,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/ZOMATO_21102026152512_SHLsigned.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/ZOMATO_21102026152512_SHLsigned.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -15207,7 +15008,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/ZOMATO_21102026152051_OutcomeSIGNED.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/ZOMATO_21102026152051_OutcomeSIGNED.pdf",
    "people": [],
    "read_by": null,
    "subject": "Outcome of Board Meeting",
@@ -15225,7 +15026,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_21102026122914_REG30_Allotment_intimation.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_21102026122914_REG30_Allotment_intimation.pdf",
    "people": [],
    "read_by": null,
    "subject": "Allotment of Securities",
@@ -15243,7 +15044,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_19102026161128_SECPRedemption16102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_19102026161128_SECPRedemption16102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -15261,7 +15062,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_19102026105951_Reg30Noticeofrelodgementoftransferrequestsofphysicalshares.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/TRENT_19102026105951_Reg30Noticeofrelodgementoftransferrequestsofphysicalshares.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -15279,7 +15080,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PVIVINMA_17102026193113_RIL_SE_171026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PVIVINMA_17102026193113_RIL_SE_171026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Updates",
@@ -15297,7 +15098,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HSCL_17102026190721_Newspaperpublicationresult17102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_17102026190721_Newspaperpublicationresult17102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -15315,7 +15116,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK_17102026161248_Stockexchangeintimation_LV_KB.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK_17102026161248_Stockexchangeintimation_LV_KB.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -15333,7 +15134,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/DEEPAKNTR_16102026225230_NSE-CONCALL-16-10-2026-FINAL.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/DEEPAKNTR_16102026225230_NSE-CONCALL-16-10-2026-FINAL.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -15351,7 +15152,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_16102026223342_PSLIntimationoftheNewspaper_clippingsigned.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_16102026223342_PSLIntimationoftheNewspaper_clippingsigned.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -15369,7 +15170,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_16102026205736_RILSELetter_16102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/kavinavora_16102026205736_RILSELetter_16102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Copy of Newspaper Publication",
@@ -15387,7 +15188,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HSCL_16102026191141_Monitoringagencyreport16102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_16102026191141_Monitoringagencyreport16102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "Monitoring Agency Report",
@@ -15405,7 +15206,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HSCL_16102026190149_OutcomeofBM16102026_Result30092026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_16102026190149_OutcomeofBM16102026_Result30092026.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -15423,7 +15224,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/Cadilahc_16102026165747_SEIntimationESGRating16102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_16102026165747_SEIntimationESGRating16102026.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
@@ -15441,7 +15242,7 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK_16102026162906_SEintimatiomReg74_530Sep2025.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK_16102026162906_SEintimatiomReg74_530Sep2025.pdf",
    "people": [],
    "read_by": null,
    "subject": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
@@ -15459,119 +15260,11 @@
    "why": null,
    "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_16102026104432_PersistentSystemsStExchangeOutcomeOctober162026Signed.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_16102026104432_PersistentSystemsStExchangeOutcomeOctober162026Signed.pdf",
    "people": [],
    "read_by": null,
    "subject": "Committee Meeting Updates",
    "ts": "2026-10-16T10:44:49",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106819391",
-   "symbol": "ASIANPAINT",
-   "company": "Asian Paints Limited",
-   "category": "unclassified",
-   "headline": "Please find enclosed herewith the Certificate received from MUFG Intime India Private Limited (formerly Link Intime India Private Limited), Company s Registrar and Share Transfer Agent for the quarter ended 30th September 2026 certifying compliance with Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_15102026225755_Regulation74DPRegulations30092026signed.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-   "ts": "2026-10-15T22:59:03",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106819001",
-   "symbol": "RELIANCE",
-   "company": "Reliance Industries Limited",
-   "category": "unclassified",
-   "headline": "Newspaper clippings   Special Window for transfer and dematerialisation (demat) of physical sharesThe newspaper clippings of the advertisement on the captioned subject published today i.e., October 15, 2026 in the newspapers viz. The Indian Express (English), Financial Express (English), Loksatta (Marathi) and Jansatta (Hindi) are enclosed for information and records",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PVIVINMA_15102026180155_RILSpecialWindowAdvt.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Copy of Newspaper Publication",
-   "ts": "2026-10-15T18:06:36",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106818788",
-   "symbol": "PERSISTENT",
-   "company": "Persistent Systems Limited",
-   "category": "unclassified",
-   "headline": "General Updates",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_15102026165133_PSLSubmissionofFinancialsSeptember2026signed.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "General Updates",
-   "ts": "2026-10-15T16:51:43",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106818661",
-   "symbol": "PERSISTENT",
-   "company": "Persistent Systems Limited",
-   "category": "unclassified",
-   "headline": "Outcome of the Board Meeting",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_15102026155331_PSLBMOutcomeOctober152026159signed.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Outcome of Board Meeting",
-   "ts": "2026-10-15T15:56:36",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106817794",
-   "symbol": "PERSISTENT",
-   "company": "Persistent Systems Limited",
-   "category": "unclassified",
-   "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_14102026200315_PSLCertificateRegulation74ofSEBIDPReg2018Sd.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-   "ts": "2026-10-14T20:03:57",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106817485",
-   "symbol": "SUNPHARMA",
-   "company": "Sun Pharmaceutical Industries Limited",
-   "category": "unclassified",
-   "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_14102026173741_SEintimationfor74signed.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-   "ts": "2026-10-14T17:38:55",
    "related": [],
    "tier": "routine",
    "label": "Routine"
@@ -15584,7 +15277,7 @@
    "kind": "investor_meetings",
    "title": "Investor meeting",
    "detail": "Please note that the Company executives will be participating in the Institutional Investors' Meeting - CLSA India Forum, scheduled to be held on November 16, 2",
-   "source": "https://nsearchives.nseindia.com/corporate/kavinavora_06112026191022_Pre_CLSA_SE_06112026.pdf"
+   "source": "https://nsearchives.nseindia.in/corporate/kavinavora_06112026191022_Pre_CLSA_SE_06112026.pdf"
   },
   {
    "symbol": "RELIANCE",
@@ -15592,7 +15285,7 @@
    "kind": "investor_meetings",
    "title": "Investor meeting",
    "detail": "Please note that the Company executives will be participating in the Institutional Investors' Meeting - JM Financial India Conference, scheduled to be held on N",
-   "source": "https://nsearchives.nseindia.com/corporate/kavinavora_12112026202324_SE_12112026.pdf"
+   "source": "https://nsearchives.nseindia.in/corporate/kavinavora_12112026202324_SE_12112026.pdf"
   },
   {
    "symbol": "ASIANPAINT",
@@ -15600,7 +15293,7 @@
    "kind": "investor_meetings",
    "title": "Investor meeting",
    "detail": "The Company will be participating in the analyst/institutional investor conferences/meetings on 18th and 19th November 2026 as per enclosed schedule.",
-   "source": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_09112026175712_SEINTIMATIONANALYSTMEETSNOV2026.pdf"
+   "source": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_09112026175712_SEINTIMATIONANALYSTMEETSNOV2026.pdf"
   }
  ],
  "default_portfolio": [
@@ -15641,11 +15334,11 @@
  "llm": {
   "calls": 1,
   "cached": 0,
-  "in": 2119,
-  "out": 207,
+  "in": 1783,
+  "out": 210,
   "models": [
    "gemini-3.5-flash-lite"
   ],
-  "remembered": 50
+  "remembered": 46
  }
 }
