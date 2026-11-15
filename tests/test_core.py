@@ -175,3 +175,29 @@ def test_each_alert_is_sent_once(monkeypatch):
     assert "AAA" in text and "BBB" not in text and "revenue +10%" in text
     assert set(ids) == {"px-AAA-2026-10-06", "e1"}
     assert notify.digest(feed, ["AAA"], {}, set(ids)) == (None, [])
+
+
+def test_the_sent_memory_stores_a_hash_never_the_telegram_id(monkeypatch, tmp_path):
+    # data/notified.json is committed to a public repository
+    feed = {"generated_at": "2026-10-06T17:00:00", "rules": RULES, "upcoming": [],
+            "holdings": [{"symbol": "AAA", "series": series([100, 100, 100, 100, 100, 106])}], "events": []}
+    store = tmp_path / "notified.json"
+    # an older file that still uses the raw id as its key must be migrated, and its history respected
+    store.write_text('{"123456789": ["px-AAA-2026-10-06"]}')
+    monkeypatch.setattr(notify, "SENT", store)
+    monkeypatch.setattr(notify, "STORE", tmp_path / "none.enc")
+    monkeypatch.setenv("TELEGRAM_BOT_TOKEN", "x:token")
+    monkeypatch.setenv("TELEGRAM_CHAT_ID", "123456789")
+    monkeypatch.setenv("FINN_PUBLIC_URL", "")
+    sent = []
+    monkeypatch.setattr(notify, "send", lambda chat, text: sent.append(chat) or {"ok": True})
+
+    assert notify.run(feed) == "nothing new to send"          # already sent before the migration
+    assert "123456789" not in store.read_text()
+    assert notify.sent_key(123456789) in store.read_text()
+
+    feed["holdings"][0]["series"] = series([100, 100, 100, 100, 100, 106, 112])   # a new day, a new alert
+    assert notify.run(feed).startswith("sent 1 message")
+    assert sent == [123456789]                                 # Telegram still gets the real id
+    assert "123456789" not in store.read_text()
+    assert notify.run(feed) == "nothing new to send"           # and each alert is still sent once

@@ -235,15 +235,31 @@ def test(feed: dict, code: str) -> dict:
     return send(s["chat_id"], text or "<b>FINN</b>\nYou're connected. Nothing in your portfolio crossed your rules last session.")
 
 
+def sent_key(chat_id) -> str:
+    """Key of one recipient in the 'already sent' memory. data/notified.json is committed to a public
+    repository, so it holds a one-way hash of the Telegram id, never the id itself."""
+    return "c" + hashlib.sha256(f"finn-sent:{chat_id}".encode()).hexdigest()[:20]
+
+
+def migrate_sent(sent: dict) -> dict:
+    """Turn any raw Telegram id used as a key (older files) into its hash, merging duplicates."""
+    out: dict = {}
+    for k, v in sent.items():
+        nk = sent_key(k) if str(k).lstrip("-").isdigit() else k
+        out[nk] = (out.get(nk, []) + list(v))[-1500:]
+    return out
+
+
 def run(feed: dict) -> str:
     if not configured():
         return "telegram not configured"
     sent_all = json.loads(SENT.read_text()) if SENT.exists() else {}
     if isinstance(sent_all, list):  # older single-recipient format
         sent_all = {OWNER_CHAT() or "owner": sent_all}
+    sent_all = migrate_sent(sent_all)
     n_msgs = n_alerts = 0
     for r in _recipients(feed):
-        key = str(r["chat_id"])
+        key = sent_key(r["chat_id"])
         text, ids = digest(feed, r["symbols"], r["rules"], set(sent_all.get(key, [])))
         if not text:
             continue
