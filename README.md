@@ -75,7 +75,7 @@ Every call is cached by content and the token cost is shown on each dossier. Tot
 
 ### Grounding rules on the pull side
 - Inputs are only the company's transcripts, annual report and reported financials. Prompts forbid outside knowledge.
-- The model never does arithmetic: "delivered" values come from the reported-numbers block.
+- Numbers on results cards, charts and flags never come from a model. In the ledger, "delivered" values are taken from the reported-numbers block; a verdict can contain a figure the model derived from it (capex as cash from operations minus free cash flow, say).
 - Every ledger row must cite an extracted promise id; rows that don't are dropped.
 - Every quote is string-matched back to the transcript and shown as ✓ verified or ⚠ not matched.
 - Margins are compared like for like: FINN computes EBIT% (after depreciation) as well as EBITDA%, because IT companies' "operating margin" guidance means EBIT. Constant-currency and USD guidance are never checked against ₹ revenue.
