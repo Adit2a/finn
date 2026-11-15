@@ -5,6 +5,9 @@ name: Daily refresh
 on:
   schedule:
     - cron: "15 11 * * 1-5"   # 16:45 IST, Monday-Friday
+    # 08:00 IST every day: picks up a closing price Yahoo published late, and filings made at
+    # night or over the weekend. Alerts are de-duplicated, so a second run never repeats one.
+    - cron: "30 2 * * *"
   workflow_dispatch:
 
 permissions:
