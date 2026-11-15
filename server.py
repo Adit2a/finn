@@ -93,7 +93,8 @@ def research_cached(symbol: str):
     p = DATA / "research" / f"{_sym(symbol)}.json"
     if not p.exists():
         raise HTTPException(404, "not researched yet")
-    return FileResponse(p, media_type="application/json")
+    # verdicts are re-settled on every read: a 'too early' promise turns due as new quarters are reported
+    return JSONResponse(research.settle_verdicts(json.loads(p.read_text(encoding="utf-8"))))
 
 
 _research_locks: dict[str, threading.Lock] = defaultdict(threading.Lock)

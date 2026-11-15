@@ -210,6 +210,85 @@ def _numbers_block(an: dict) -> str:
     return "\n".join(lines)
 
 
+MONTHS = {m: i for i, m in enumerate(
+    ("jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"), 1)}
+MONTH_RE = r"\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\b"
+
+
+def _ym(label: str | None) -> tuple[int, int] | None:
+    """'Sep 2026' / 'Jan 2026' -> (2026, 9)."""
+    m = re.search(MONTH_RE + r"\W*(\d{4})", (label or "").lower())
+    return (int(m.group(2)), MONTHS[m.group(1)]) if m else None
+
+
+def _add(ym: tuple[int, int], months: int) -> tuple[int, int]:
+    n = ym[0] * 12 + ym[1] - 1 + months
+    return n // 12, n % 12 + 1
+
+
+def _quarter_end(ym: tuple[int, int]) -> tuple[int, int]:
+    return ym[0], (ym[1] + 2) // 3 * 3
+
+
+def due_by(horizon: str | None, call: tuple[int, int] | None) -> tuple[int, int] | None:
+    """The month by which a promise falls due, or None when the horizon is open-ended
+    ('medium term', 'next few quarters'). Indian fiscal years: FY27 ends Mar 2027."""
+    h = (horizon or "").lower().replace("–", "-")
+    yy = lambda s: 2000 + int(s[-2:])  # noqa: E731
+    if m := re.findall(r"q([1-4])(?:\s*(?:or|to|-|/)\s*q([1-4]))?\s*fy\s*'?(\d{2,4})", h):
+        q1, q2, y = m[-1]
+        q = q2 or q1  # 'Q3 or Q4 FY27' falls due with the later quarter
+        return {"1": (yy(y) - 1, 6), "2": (yy(y) - 1, 9), "3": (yy(y) - 1, 12), "4": (yy(y), 3)}[q]
+    if m := re.findall(r"h([12])\s*fy\s*'?(\d{2,4})", h):
+        half, y = m[-1]
+        return (yy(y) - 1, 9) if half == "1" else (yy(y), 3)
+    if m := re.search(r"fy\s*'?(\d{2,4})(?:\s*-\s*(\d{2,4}))?", h):
+        return yy(m.group(2) or m.group(1)), 3
+    if m := re.search(r"(?:end of )?(?:calendar(?: year)?|cy)\s*'?(\d{2,4})", h):
+        return (yy(m.group(1)), 12) if not re.search(r"beginning|start|early", h) else None
+    if call is None:
+        return None
+    if re.search(r"\b(this|current) (financial |fiscal )?year\b|\bthis fiscal\b", h):
+        return (call[0] + (call[1] > 3), 3)
+    if re.search(r"\bthis quarter\b", h):
+        return _quarter_end(call)
+    if re.search(r"\bnext quarter\b", h):
+        return _add(_quarter_end(call), 3)
+    if m := re.search(r"next (\d+|two|three|couple of) (week|month|quarter|year)s?", h):
+        n = {"two": 2, "three": 3, "couple of": 2}.get(m.group(1)) or int(m.group(1))
+        unit = m.group(2)
+        if unit == "quarter":
+            return _add(_quarter_end(call), 3 * n)
+        return _add(call, {"week": -(-n // 4), "month": n, "year": 12 * n}[unit])
+    if m := re.fullmatch(r"(?:by |end of |by end of |by the end of )?" + MONTH_RE + r"\.?", h.strip()):
+        month = MONTHS[m.group(1)]
+        return (call[0] + (month < call[1]), month)
+    return None
+
+
+def settle_verdicts(d: dict) -> dict:
+    """A 'too early' verdict is only honest while the deadline lies beyond the latest reported quarter.
+    Once the figures for that period are out and still don't show the promise, say so instead."""
+    rows = (d.get("ledger") or {}).get("promise_ledger") or []
+    quarters = (d.get("numbers") or {}).get("quarters") or []
+    latest = _ym(quarters[-1]["q"]) if quarters else None
+    if not rows or not latest:
+        return d
+    guidance = {g["id"]: (c, g) for c in d.get("calls") or [] for g in c.get("guidance") or []}
+    for r in rows:
+        if r.get("verdict") not in ("too_early", "unverified"):
+            continue
+        c, g = guidance.get(r.get("ref"), ({}, {}))
+        due = due_by(g.get("horizon"), _ym(c.get("date")))
+        if due and due <= latest:
+            r["verdict"] = "unverified"
+            r["due"] = dt.date(due[0], due[1], 1).strftime("%b %Y")
+        elif r.get("verdict") == "unverified":
+            r["verdict"] = "too_early"
+            r.pop("due", None)
+    return d
+
+
 def run(symbol: str, max_calls: int = 4, force: bool = False):
     """Generator of progress events; final event has type 'done' with the dossier."""
     symbol = symbol.upper().strip()
@@ -227,7 +306,7 @@ def run(symbol: str, max_calls: int = 4, force: bool = False):
         if fresh and not upgradable and old.get("latest_call") == latest_call and \
                 (old.get("ledger_ok") or not llm.available()):
             yield {"type": "step", "text": "Using cached dossier (no new filings since last run)"}
-            yield {"type": "done", "dossier": old}
+            yield {"type": "done", "dossier": settle_verdicts(old)}
             return
 
     yield {"type": "step", "text": f"Read reported financials ({co['basis']}): "
@@ -437,6 +516,7 @@ def run(symbol: str, max_calls: int = 4, force: bool = False):
             else:
                 yield {"type": "warn", "text": f"Synthesis failed: {e}"}
 
+    settle_verdicts(dossier)
     _save(path, dossier, t0)
     yield {"type": "done", "dossier": dossier}
 

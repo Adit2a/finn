@@ -10,6 +10,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from finn import notify  # noqa: E402
 from finn.pull import numbers as N  # noqa: E402
+from finn.pull import research as R  # noqa: E402
 from finn.push import classify as C  # noqa: E402
 from finn.sources import nse  # noqa: E402
 
@@ -201,3 +202,30 @@ def test_the_sent_memory_stores_a_hash_never_the_telegram_id(monkeypatch, tmp_pa
     assert sent == [123456789]                                 # Telegram still gets the real id
     assert "123456789" not in store.read_text()
     assert notify.run(feed) == "nothing new to send"           # and each alert is still sent once
+
+
+# ------------------------------------------------------------------ promise ledger deadlines
+
+def test_promise_deadlines_follow_the_indian_fiscal_year():
+    jan26 = (2026, 1)
+    assert R.due_by("Q2 FY27", jan26) == (2026, 9)
+    assert R.due_by("Q3 or Q4 FY27", jan26) == (2027, 3)          # the later of the two
+    assert R.due_by("FY 2025-26", None) == (2026, 3)
+    assert R.due_by("FY27-28", None) == (2028, 3)
+    assert R.due_by("March", jan26) == (2026, 3)                   # the next March after the call
+    assert R.due_by("this year", jan26) == (2026, 3)
+    assert R.due_by("this year", (2026, 7)) == (2027, 3)
+    assert R.due_by("next 6 weeks", (2026, 7)) == (2026, 9)
+    assert R.due_by("medium term", jan26) is None                  # open-ended: never forced due
+    assert R.due_by("next few quarters", jan26) is None
+
+
+def test_too_early_turns_into_cant_check_once_the_period_is_reported():
+    d = {"numbers": {"quarters": [{"q": "Jun 2026"}, {"q": "Sep 2026"}]},
+         "calls": [{"date": "Jan 2026", "guidance": [{"id": "g1.1", "horizon": "March"},
+                                                    {"id": "g1.2", "horizon": "FY27"}]}],
+         "ledger": {"promise_ledger": [{"ref": "g1.1", "verdict": "too_early"},
+                                       {"ref": "g1.2", "verdict": "too_early"}]}}
+    rows = R.settle_verdicts(d)["ledger"]["promise_ledger"]
+    assert (rows[0]["verdict"], rows[0]["due"]) == ("unverified", "Mar 2026")
+    assert rows[1]["verdict"] == "too_early"                       # FY27 results are not out yet

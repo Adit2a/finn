@@ -436,7 +436,7 @@ function Card({ e, asOf, leaving, onDone, onMute, isDone }) {
   return html`<article class="card ${leaving ? 'leaving' : ''}" ...${sw.handlers} style=${swipeStyle(sw.dx, isDone ? 'opacity:.5;' : '')}>
     <div class="meta"><span class="sym">${e.symbol}</span>
       <span class="cat"><span class="dot" style="background:${catColor(e.category)}"></span>${CAT_LABEL[e.category]}</span>
-      <span class="when">${ago(e.ts, asOf)}</span><${Controls} onMute=${onMute} onDone=${onDone}/></div>
+      <span class="when">${ago(e.ts, Date.now())}</span><${Controls} onMute=${onMute} onDone=${onDone}/></div>
     <div class="headline">${e.headline}</div>
     ${e.move && html`<${MoveLine} a=${e.move}/>`}
     ${e.why && (!e.people?.length || /\d/.test(e.why)) && html`<div class="why">${e.why}</div>`}
@@ -523,7 +523,7 @@ function Row({ e, asOf, onDone, onMute }) {
       <span class="dot" style="background:${catColor(e.category)}"></span>
       <span class="sym">${e.symbol}</span>
       <span class="t"><span class="tt">${title}</span><small>${sub}</small></span>
-      <span class="w">${ago(e.ts, asOf)}</span>
+      <span class="w">${ago(e.ts, Date.now())}</span>
     </button>
     ${open && html`<div class="expand">
       ${e.why && !factual(e) && html`<div class="why" style="margin:0 0 8px">${e.why}</div>`}
@@ -889,8 +889,8 @@ const tallyLine = r => {
   return bits.map((b, i) => html`${i ? ' · ' : ''}${b}`);
 };
 
-const VERDICT = { delivered: 'Delivered', partly: 'Partly', missed: 'Missed', walked_back: 'Walked back', too_early: 'Too early' };
-const VCOLOR = { delivered: 'var(--up)', partly: 'var(--warn)', missed: 'var(--down)', walked_back: 'var(--down)', too_early: 'var(--faint)' };
+const VERDICT = { delivered: 'Delivered', partly: 'Partly', missed: 'Missed', walked_back: 'Walked back', unverified: "Can't check", too_early: 'Too early' };
+const VCOLOR = { delivered: 'var(--up)', partly: 'var(--warn)', missed: 'var(--down)', walked_back: 'var(--down)', unverified: 'var(--muted)', too_early: 'var(--faint)' };
 
 function Dossier({ d, agent }) {
   const n = d.numbers, s = n.snapshot, L = d.ledger;
@@ -963,7 +963,7 @@ function Dossier({ d, agent }) {
 
       <div class="side">
         <section class="sec">
-          <div class="sec-h"><h2>The numbers</h2><span class="count">reported · ₹ crore</span></div>
+          <div class="sec-h"><h2>The numbers</h2><span class="count">screener.in tables · ₹ crore</span></div>
           <div class="charts num">
             <div class="chart"><div class="t">Quarterly revenue</div><div class="v">${inr(lastQ.revenue)} <small class=${tone(lastQ.rev_yoy)}>${pct(lastQ.rev_yoy, 0)} YoY</small></div>
               <${Bars} values=${qs.map(x => x.revenue)}/><div class="ax"><span>${qs[0]?.q}</span><span>${lastQ.q}</span></div></div>
@@ -983,6 +983,7 @@ function Dossier({ d, agent }) {
               <${Line} values=${ccc.map(x => x[1])} color="var(--warn)"/><div class="ax"><span>${ccc[0][0]}</span><span>${ccc.at(-1)[0]}</span></div></div>`}
           </div>
           ${n.flags.length > 0 && html`<div class="panel" style="margin-top:10px"><ul class="flags">${n.flags.slice(0, 3).map(f => html`<li class=${f.tone}>${f.text}</li>`)}</ul></div>`}
+          <p class="faint" style="font-size:12px;margin-top:8px">Revenue here is screener.in's standardised sales figure. Results cards in the Brief use revenue from operations as filed with NSE, so the two can differ slightly.</p>
         </section>
 
         ${d.business?.segments?.length > 0 && html`<section class="sec folds">
@@ -1035,7 +1036,7 @@ function LedgerRow({ r }) {
   return html`<button class="lrow ${open ? 'open' : ''}" onClick=${() => setOpen(!open)} aria-expanded=${open}>
     <span class="bar" style="background:${VCOLOR[r.verdict] || 'var(--faint)'}"></span>
     <span>
-      <span class="vd" style="color:${VCOLOR[r.verdict] || 'var(--faint)'}">${VERDICT[r.verdict] || r.verdict}<span class="when">promised ${r.made_in}</span></span>
+      <span class="vd" style="color:${VCOLOR[r.verdict] || 'var(--faint)'}">${VERDICT[r.verdict] || r.verdict}<span class="when">promised ${r.made_in}${r.due ? ` · due ${r.due}` : ''}</span></span>
       <div class="p">${r.promise}</div>
       <div class="d">${r.delivered}</div>
       ${open && html`<div>
