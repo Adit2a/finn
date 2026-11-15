@@ -320,9 +320,9 @@ function Brief({ feed, asOf, rules, flash, focus, pf, sample }) {
 
   return html`
     <header class="head">
-      <div class="eyebrow">${fmtDay(Date.now())}${lastClose ? html` · data to the ${fmtDate(lastClose)} close` : ''}</div>
       <h1>${greeting}</h1>
-      <p class="sub">${sym ? html`Showing <b>${sym}</b> only · <a href="#brief" onClick=${() => setSym(null)}>Show everything</a>` : summary}</p>
+      <p class="sub">${sym ? html`Showing <b>${sym}</b> only. <a href="#brief" onClick=${() => setSym(null)}>Show everything</a>` : summary}</p>
+      <p class="asof">${fmtDay(Date.now())}${lastClose ? `. Data to the ${fmtDate(lastClose)} close.` : ''}</p>
     </header>
     <div class="tabs-wrap"><div class="tabs" role="tablist">${WINDOWS.map(w => html`
       <button role="tab" aria-selected=${win === w.k} class=${win === w.k ? 'on' : ''} title=${w.title || ''} onClick=${() => pickWin(w.k)}>${w.label}</button>`)}</div></div>
@@ -361,7 +361,7 @@ function Brief({ feed, asOf, rules, flash, focus, pf, sample }) {
             <span style="flex:1">Routine filings</span>
             <span class="faint">${filedOpen ? 'Hide' : 'Show'}</span></button>
           ${filedOpen && html`<div class="chips">${Object.entries(rGroups).sort((a, b) => b[1].length - a[1].length).map(([c, l]) => html`
-            <button class=${openRoutine === c ? 'on' : ''} onClick=${() => setOpenRoutine(openRoutine === c ? null : c)}>${CAT_LABEL[c] || c} · ${l.length}</button>`)}</div>`}
+            <button class=${openRoutine === c ? 'on' : ''} onClick=${() => setOpenRoutine(openRoutine === c ? null : c)}>${CAT_LABEL[c] || c} (${l.length})</button>`)}</div>`}
           ${filedOpen && openRoutine && rGroups[openRoutine]?.map(e => html`<${Row} key=${e.id} e=${e} asOf=${asOf} onDone=${() => clear(e.id)}/>`)}
         </div></section>`}
 
@@ -385,7 +385,7 @@ function Pulse({ feed, sym, setSym, compact }) {
     <div class="panel-h"><h3>Portfolio</h3>
       ${sym ? html`<button onClick=${() => setSym(null)}>Clear filter</button>` : compact && html`<button onClick=${() => setAll(!all)}>${all ? 'Top movers' : 'View all'}</button>`}</div>
     <div class="pulse-row"><span class="pulse-big num ${tone(avg)}">${pct(avg, 2)}</span>
-      <span class="faint">${last ? `${fmtDate(last)} close` : ''} · ${ups} up, ${valid.length - ups} down</span></div>
+      <span class="faint">${last ? `${fmtDate(last)} close: ` : ''}${ups} up, ${valid.length - ups} down</span></div>
     <div class="heat">${shown.map(h => html`
       <button class=${sym === h.symbol ? 'on' : ''} style=${heatStyle(h.chg)} title=${`${h.name}: ${pct(h.chg, 2)} — tap to focus the brief`}
         onClick=${() => setSym(sym === h.symbol ? null : h.symbol)}>
@@ -442,10 +442,10 @@ function Card({ e, asOf, leaving, onDone, onMute, isDone }) {
     ${e.why && (!e.people?.length || /\d/.test(e.why)) && html`<div class="why">${e.why}</div>`}
     ${e.results && html`<${Results} r=${e.results}/>`}
     ${e.people?.length > 0 && html`<div class="people">${e.people.slice(0, 3).map(p => html`<${Person} p=${p} company=${e.company}/>`)}</div>`}
-    ${e.reasons?.length > 0 && !e.results && (!e.people?.length || /\d/.test(e.reasons.join(' '))) && html`<div class="because">${e.reasons.join(' · ')}</div>`}
+    ${e.reasons?.length > 0 && !e.results && (!e.people?.length || /\d/.test(e.reasons.join(' '))) && html`<div class="because">${e.reasons.join('; ')}</div>`}
     <div class="links">
       ${research && html`<a class="primary" href="#research/${e.symbol}">See promise ledger</a>`}
-      ${e.pdf && html`<a href=${e.pdf} target="_blank" rel="noopener">Read filing ↗</a>`}
+      ${e.pdf && html`<a href=${e.pdf} target="_blank" rel="noopener">Read filing</a>`}
       ${e.related?.length > 0 && html`<button class="quiet" onClick=${() => setRel(!rel)}>${rel ? 'Hide' : `+${e.related.length}`} related</button>`}
     </div>
     ${rel && html`<div style="margin-top:8px">${e.related.map(r => html`<a href=${r.pdf} target="_blank" rel="noopener" class="row" style="padding:8px 0;font-size:13px">
@@ -456,11 +456,11 @@ function Card({ e, asOf, leaving, onDone, onMute, isDone }) {
 function Results({ r }) {
   return html`<div>
     <div class="stats num">${r.metrics.map(m => html`<div class="stat">
-      <div class="k">${m.label.replace(' (n.m. for lenders)', '')} · YoY</div>
+      <div class="k">${m.label.replace(' (n.m. for lenders)', '')} YoY</div>
       <div class="y ${tone(m.yoy)}">${m.value == null ? 'n.m.' : pct(m.yoy, 0)}</div>
-      <div class="q">${m.value == null ? 'not meaningful' : html`₹${inr(m.value)} cr · QoQ <span class=${tone(m.qoq)}>${pct(m.qoq, 0)}</span>`}</div>
+      <div class="q">${m.value == null ? 'not meaningful' : html`₹${inr(m.value)} cr, QoQ <span class=${tone(m.qoq)}>${pct(m.qoq, 0)}</span>`}</div>
     </div>`)}</div>
-    <div class="fine">${r.quarter} · ${r.basis}${r.ebitda_margin != null ? html` · EBITDA margin ${r.ebitda_margin}%${r.ebitda_margin_bps_yoy != null ? html` <span class=${tone(r.ebitda_margin_bps_yoy)}>(${r.ebitda_margin_bps_yoy > 0 ? '+' : ''}${r.ebitda_margin_bps_yoy} bps)</span>` : ''}` : ''} · <a href=${r.source} target="_blank" rel="noopener" title=${r.derived?.length ? 'Quarter derived from year-to-date figures in the filing' : 'Read from the company’s XBRL filing'}>Source</a></div>
+    <div class="fine">${r.quarter}, ${r.basis}${r.ebitda_margin != null ? html`. EBITDA margin ${r.ebitda_margin}%${r.ebitda_margin_bps_yoy != null ? html` <span class=${tone(r.ebitda_margin_bps_yoy)}>(${r.ebitda_margin_bps_yoy > 0 ? '+' : ''}${r.ebitda_margin_bps_yoy} bps)</span>` : ''}` : ''}. <a href=${r.source} target="_blank" rel="noopener" title=${r.derived?.length ? 'Quarter derived from year-to-date figures in the filing' : 'Read from the company’s XBRL filing'}>Source</a></div>
   </div>`;
 }
 
@@ -474,15 +474,15 @@ function Person({ p, company }) {  // one line by default; tap for background, r
     <div class="avatar">${initials(p.name)}</div>
     <div style="flex:1;min-width:0">
       <div class="nm">${p.name}</div>
-      <div class="rl">${verb} ${p.role}${p.effective ? ` · ${fmtEff(p.effective)}` : ''}</div>
+      <div class="rl">${verb} ${p.role}${p.effective ? `, ${fmtEff(p.effective)}` : ''}</div>
       ${open && html`
         ${p.background && html`<div class="bg">${p.background}</div>`}
         ${p.previous && html`<div class="pv">Previously ${p.previous}</div>`}
         ${p.reason && html`<div class="pv">Reason given: ${p.reason}</div>`}
-        <div class="pv" onClick=${ev => ev.stopPropagation()}><a href="https://www.linkedin.com/search/results/people/?keywords=${q}" target="_blank" rel="noopener">LinkedIn ↗</a>
-          ${p.profile_source && html` · <a href=${p.profile_url} target="_blank" rel="noopener">${p.profile_source.replace(' (name match)', '')} ↗</a>`}</div>`}
+        <div class="pv" onClick=${ev => ev.stopPropagation()}><a href="https://www.linkedin.com/search/results/people/?keywords=${q}" target="_blank" rel="noopener">LinkedIn</a>
+          ${p.profile_source && html` <a href=${p.profile_url} target="_blank" rel="noopener">${p.profile_source.replace(' (name match)', '')}</a>`}</div>`}
     </div>
-    <span class="pchev" aria-hidden="true">${more && !open ? 'Profile ' : ''}›</span>
+    <span class="pchev" aria-hidden="true">${more && !open ? 'Profile' : '›'}</span>
   </div>`;
 }
 const fmtEff = s => /^\d{4}-\d{2}-\d{2}$/.test(s) ? fmtDate(s) : s;  // "2026-09-07" → "7 Sep 2026"
@@ -495,20 +495,20 @@ function PriceCard({ e, asOf, leaving, onDone, onMute }) {
       <span class="when">${fmtDate(e.ts)}</span><${Controls} onMute=${onMute} onDone=${onDone}/></div>
     <div class="move">
       <div><div class="big num ${tone(e.ret)}">${pct(e.ret)}</div>
-        <div class="sm num">${e.vHit ? `${e.mult.toFixed(1)}× normal volume` : 'normal volume'} · ₹${inr(e.close, 1)}</div></div>
+        <div class="sm num">${e.vHit ? `${e.mult.toFixed(1)}× normal volume` : 'normal volume'}, close ₹${inr(e.close, 1)}</div></div>
       <${Spark} data=${e.series.map(x => x.c)} w=${130} h=${46} dir=${e.ret}/>
     </div>
     <div class="trigger">${e.cause ? html`Likely trigger — <b>${CAT_LABEL[e.cause.category]}:</b> ${e.cause.headline}` : html`<b>No filing explains this.</b> Market-driven, or news not yet disclosed.`}</div>
     <div class="links">
       <a href="#research/${e.symbol}">Research ${e.symbol}</a>
-      ${e.cause?.pdf && html`<a href=${e.cause.pdf} target="_blank" rel="noopener">Read that filing ↗</a>`}
+      ${e.cause?.pdf && html`<a href=${e.cause.pdf} target="_blank" rel="noopener">Read that filing</a>`}
     </div>
   </article>`;
 }
 
 /* the market's reaction, shown on the card of the filing that explains it */
 const MoveLine = ({ a }) => html`<div class="moveline num">
-  <span class=${tone(a.ret)}>${pct(a.ret)}</span>${a.vHit ? html` on <b>${a.mult.toFixed(1)}×</b> normal volume` : ''}<span class="faint"> · ${fmtDate(a.ts)} close</span></div>`;
+  <span class=${tone(a.ret)}>${pct(a.ret)}</span>${a.vHit ? html` on <b>${a.mult.toFixed(1)}×</b> normal volume` : ''}<span class="faint">, ${fmtDate(a.ts)} close</span></div>`;
 
 // one-line subtitles in the list only when they add a fact the headline lacks (a figure), never a paraphrase
 const factual = e => e.why && /\d/.test(e.why) && e.category !== 'management_change';
@@ -517,7 +517,7 @@ function Row({ e, asOf, onDone, onMute }) {
   const [open, setOpen] = useState(false);
   const title = e.kind === 'price' ? `${pct(e.ret)} move${e.vHit ? ` on ${e.mult.toFixed(1)}× volume` : ''}` : e.headline;
   const sub = [e.kind === 'price' ? (e.cause ? 'Likely trigger: ' + CAT_LABEL[e.cause.category].toLowerCase() : 'No filing explains it') : CAT_LABEL[e.category],
-               e.move && `stock ${pct(e.move.ret)}`, factual(e) && e.why].filter(Boolean).join(' · ');
+               e.move && `stock ${pct(e.move.ret)}`, factual(e) && e.why].filter(Boolean).join('; ');
   return html`
     <button class="row" onClick=${() => setOpen(!open)} aria-expanded=${open}>
       <span class="dot" style="background:${catColor(e.category)}"></span>
@@ -531,10 +531,10 @@ function Row({ e, asOf, onDone, onMute }) {
       ${e.results && html`<${Results} r=${e.results}/>`}
       ${e.people?.length > 0 && html`<div class="people">${e.people.slice(0, 2).map(p => html`<${Person} p=${p} company=${e.company}/>`)}</div>`}
       ${e.kind === 'price' && html`<div class="trigger">${e.cause ? html`Likely trigger — ${e.cause.headline}` : 'No filing explains this move.'}</div>`}
-      ${e.reasons?.length > 0 && html`<div class="because">${e.reasons.join(' · ')}</div>`}
+      ${e.reasons?.length > 0 && html`<div class="because">${e.reasons.join('; ')}</div>`}
       <div class="links">
         ${['results', 'earnings_call'].includes(e.category) && html`<a href="#research/${e.symbol}">Promise ledger</a>`}
-        ${e.pdf && html`<a href=${e.pdf} target="_blank" rel="noopener">Read filing ↗</a>`}
+        ${e.pdf && html`<a href=${e.pdf} target="_blank" rel="noopener">Read filing</a>`}
         ${onMute && html`<button class="quiet" onClick=${onMute}>Show less like this</button>`}
         <button class="quiet" onClick=${onDone}>Mark done</button>
       </div>
@@ -589,9 +589,8 @@ function Portfolio({ feed, pf, setPf, flash, reload }) {
 
   return html`
     <header class="head">
-      <div class="eyebrow">Portfolio</div>
       <h1>${value ? money(value) : plural(pf.length, 'stock')}</h1>
-      <p class="sub">${value ? html`Today <b class=${tone(day)}>${day >= 0 ? '+' : ''}${money(day)}</b>${cost ? html` · Overall <b class=${tone(pnl)}>${pnl >= 0 ? '+' : ''}${money(pnl)} (${pct(pnl / cost * 100)})</b>` : ''}`
+      <p class="sub">${value ? html`Portfolio value. Today <b class=${tone(day)}>${day >= 0 ? '+' : ''}${money(day)}</b>${cost ? html`, overall <b class=${tone(pnl)}>${pnl >= 0 ? '+' : ''}${money(pnl)} (${pct(pnl / cost * 100)})</b>` : ''}`
         : 'Add quantities to see value and returns. Your list stays on this device.'}</p>
       <${SearchBox} cached=${new Set()} onPick=${add} action="Add" placeholder="Add a stock — name or symbol"/>
     </header>
@@ -737,9 +736,8 @@ function Alerts({ feed, asOf, rules, setRules, pf }) {
   const panel = html`<${RulesPanel} rules=${rules} setRules=${setRules} nPx=${px.length} nAnn=${ann.length} days=${new Set(px.map(a => a.ts.slice(0, 10))).size}/>`;
   return html`
     <header class="head">
-      <div class="eyebrow">Last 30 days</div>
       <h1>You decide what's unusual.</h1>
-      <p class="sub">FINN checks all ${feed.holdings.length} holdings after every close and flags anything that crosses a line you set. Move a slider and the list below updates instantly.</p>
+      <p class="sub">FINN checks all ${feed.holdings.length} holdings after every close and flags anything that crosses a line you set. Move a slider and the last 30 days below update instantly.</p>
     </header>
     <div class="cols">
       <div>
@@ -859,19 +857,18 @@ function Research({ sym, status, feed, onDone }) {
 
   return html`
     <header class="head">
-      <div class="eyebrow">Research</div>
-      ${!sym && html`<h1>Did they do what they said?</h1>
-        <p class="sub">FINN reads a company's last four earnings calls and its annual report, lists every promise management made, and checks each one against the reported numbers.</p>`}
+      ${!sym && html`<h1>Research</h1>
+        <p class="sub">Did management do what it said? FINN reads a company's last four earnings calls and its annual report, lists every promise management made, and checks each one against the reported numbers.</p>`}
       <${SearchBox} initial=${sym} cached=${cached} running=${running} onPick=${s => go(`research/${s}`)} autofocus=${!sym}/>
     </header>
     ${!sym && html`
       <section class="sec">
-        <div class="sec-h"><h2>Ready to read</h2><span class="count">${ready.length} companies · any other takes about a minute</span></div>
+        <div class="sec-h"><h2>Ready to read</h2><span class="count">${ready.length} companies; any other takes about a minute</span></div>
         <div class="ready-grid">${sortedReady.slice(0, allReady ? 999 : 6).map(r => html`
           <button class="rcard" onClick=${() => go(`research/${r.symbol}`)}>
             <${Ring} score=${r.score} size=${44} parts=${[[r.delivered, 'var(--up)'], [r.missed, 'var(--down)'], [Math.max(0, r.promises - r.delivered - r.missed), 'var(--faint)', true]]}/>
             <div style="min-width:0;flex:1"><div class="nm">${r.name || r.symbol}</div>
-              <div class="sy">${r.symbol}${holdingsReady.has(r.symbol) ? ' · Holding' : ''}</div>
+              <div class="sy">${r.symbol}${holdingsReady.has(r.symbol) ? ', holding' : ''}</div>
               <div class="tl">${r.promises ? tallyLine(r) : 'Financials only'}</div></div>
           </button>`)}</div>
         ${ready.length > 6 && html`<div style="text-align:center;padding:16px 0 0"><button class="btn" onClick=${() => setAllReady(!allReady)}>${allReady ? 'Show fewer' : `Show all ${ready.length}`}</button></div>`}
@@ -882,11 +879,11 @@ function Research({ sym, status, feed, onDone }) {
   `;
 }
 
-// "2 kept · 1 broken · 3 open", leaving out whatever is zero
+// "2 kept, 1 broken, 3 open", leaving out whatever is zero
 const tallyLine = r => {
   const open = Math.max(0, r.promises - r.delivered - r.missed);
   const bits = [r.delivered && html`<span class="up">${r.delivered} kept</span>`, r.missed && html`<span class="down">${r.missed} broken</span>`, open && html`<span>${open} still open</span>`].filter(Boolean);
-  return bits.map((b, i) => html`${i ? ' · ' : ''}${b}`);
+  return bits.map((b, i) => html`${i ? ', ' : ''}${b}`);
 };
 
 const VERDICT = { delivered: 'Delivered', partly: 'Partly', missed: 'Missed', walked_back: 'Walked back', unverified: "Can't check", too_early: 'Too early' };
@@ -905,8 +902,8 @@ function Dossier({ d, agent }) {
 
   return html`
     <div class="dhead">
-      <div class="eyebrow">${d.symbol} · NSE</div>
       <h1>${d.name}</h1>
+      <p class="asof">NSE: ${d.symbol}</p>
       ${d.business?.what_it_does && html`<p class="lede">${d.business.what_it_does}</p>`}
       <div class="kpis num">
         <div class="kpi"><div class="k">Market cap</div><div class="v">${s.market_cap_cr ? cr(s.market_cap_cr) : '—'}</div></div>
@@ -925,7 +922,7 @@ function Dossier({ d, agent }) {
           <div class="panel">${agent}<p class="faint" style="font-size:13px;margin-top:8px">First analysis of this company takes about a minute. Financials are ready below.</p></div></section>`}
 
         ${L && html`<section class="sec">
-          <div class="sec-h"><h2>In 30 seconds</h2><span class="count">${d.promise_source === 'annual_report' ? `${d.calls[0].quarter} outlook · no calls held` : `last ${plural(d.calls.length, 'call')}`}</span></div>
+          <div class="sec-h"><h2>In 30 seconds</h2><span class="count">${d.promise_source === 'annual_report' ? `${d.calls[0].quarter} outlook, no calls held` : `last ${plural(d.calls.length, 'call')}`}</span></div>
           <div class="panel verdict">
             <div class="cred">${L.credibility?.score != null && html`<${Ring} score=${L.credibility.score}/>`}<div class="line">${L.credibility?.line}</div></div>
             ${rows.length > 0 && html`<div class="tally">${order.filter(k => tally[k]).map(k => html`<span style="flex:${tally[k]};background:${VCOLOR[k]}"></span>`)}</div>
@@ -939,7 +936,7 @@ function Dossier({ d, agent }) {
         </section>`}
 
         ${rows.length > 0 && html`<section class="sec">
-          <div class="sec-h"><h2>Promise ledger</h2><span class="count">${plural(rows.length, 'promise')} · tap for the quote</span></div>
+          <div class="sec-h"><h2>Promise ledger</h2><span class="count">${plural(rows.length, 'promise')}, tap for the quote</span></div>
           <div class="panel ledger">${(allRows ? rows : rows.slice(0, 3)).map(r => html`<${LedgerRow} r=${r}/>`)}
             ${rows.length > 3 && html`<button class="more" onClick=${() => setAllRows(!allRows)}>${allRows ? 'Show fewer' : `Show all ${rows.length} promises`}</button>`}</div>
         </section>`}
@@ -963,7 +960,7 @@ function Dossier({ d, agent }) {
 
       <div class="side">
         <section class="sec">
-          <div class="sec-h"><h2>The numbers</h2><span class="count">screener.in tables · ₹ crore</span></div>
+          <div class="sec-h"><h2>The numbers</h2><span class="count">screener.in tables, ₹ crore</span></div>
           <div class="charts num">
             <div class="chart"><div class="t">Quarterly revenue</div><div class="v">${inr(lastQ.revenue)} <small class=${tone(lastQ.rev_yoy)}>${pct(lastQ.rev_yoy, 0)} YoY</small></div>
               <${Bars} values=${qs.map(x => x.revenue)}/><div class="ax"><span>${qs[0]?.q}</span><span>${lastQ.q}</span></div></div>
@@ -971,11 +968,11 @@ function Dossier({ d, agent }) {
               <${Line} values=${qs.map(x => x.margin)}/><div class="ax"><span>${qs[0]?.q}</span><span>${lastQ.q}</span></div></div>`
               : html`<div class="chart"><div class="t">Quarterly profit</div><div class="v">${inr(lastQ.pat)} <small class=${tone(lastQ.pat_yoy)}>${pct(lastQ.pat_yoy, 0)}</small></div>
               <${Bars} values=${qs.map(x => x.pat)} color="var(--up)"/><div class="ax"><span>${qs[0]?.q}</span><span>${lastQ.q}</span></div></div>`}
-            <div class="chart"><div class="t">Annual profit${n.trajectory.pat_cagr_3y != null ? ` · ${n.trajectory.pat_cagr_3y}% 3y CAGR` : ''}</div><div class="v">${inr(ys[ys.length - 1]?.pat)}</div>
+            <div class="chart"><div class="t">Annual profit${n.trajectory.pat_cagr_3y != null ? `, ${n.trajectory.pat_cagr_3y}% 3y CAGR` : ''}</div><div class="v">${inr(ys[ys.length - 1]?.pat)}</div>
               <${Bars} values=${ys.map(x => x.pat)} color="var(--up)"/><div class="ax"><span>${ys[0]?.y}</span><span>${ys[ys.length - 1]?.y}</span></div></div>
             ${!s.is_financial && n.cash.length > 0 ? html`<div class="chart"><div class="t">Cash vs profit</div><div class="v">${n.cash_conv_5y != null ? `${Math.round(n.cash_conv_5y * 100)}%` : '—'} <small class="faint">5y conversion</small></div>
               <${Bars} values=${n.cash.map(x => x.cfo)} pair=${n.cash.map(x => x.pat)}/><div class="ax"><span>■ cash</span><span class="faint">■ profit</span></div></div>`
-              : html`<div class="chart"><div class="t">Revenue · 5y CAGR</div><div class="v">${n.trajectory.rev_cagr_5y ?? '—'}%</div>
+              : html`<div class="chart"><div class="t">Revenue, 5y CAGR</div><div class="v">${n.trajectory.rev_cagr_5y ?? '—'}%</div>
               <${Bars} values=${ys.map(x => x.revenue)}/><div class="ax"><span>${ys[0]?.y}</span><span>${ys[ys.length - 1]?.y}</span></div></div>`}
             ${!s.is_financial && n.balance_sheet.length > 1 && html`<div class="chart"><div class="t">Debt / equity</div><div class="v">${s.de ?? '—'}</div>
               <${Line} values=${n.balance_sheet.map(x => x.de)} color="var(--warn)"/><div class="ax"><span>${n.balance_sheet[0].y}</span><span>${n.balance_sheet.at(-1).y}</span></div></div>`}
@@ -993,7 +990,7 @@ function Dossier({ d, agent }) {
             <ul class="seglist">${d.business.segments.map((x, i) => html`<li><span class="sw" style="background:${segCols[i % segCols.length]}"></span>
               <span><b>${x.name}</b>${x.what ? html` <span class="faint">${x.what}</span>` : ''}</span><span class="p num">${x.share_pct ? x.share_pct + '%' : ''}</span></li>`)}</ul>
             ${d.business.mix_note && html`<div class="fine">${d.business.mix_note}</div>`}
-            ${d.business.risks_mgmt_flags?.length > 0 && html`<div class="fine">Risks management names: ${d.business.risks_mgmt_flags.join(' · ')}</div>`}
+            ${d.business.risks_mgmt_flags?.length > 0 && html`<div class="fine">Risks management names: ${d.business.risks_mgmt_flags.join('; ')}</div>`}
           </div></details>
         </section>`}
 
@@ -1025,7 +1022,7 @@ function Sources({ d }) {
         <dt>Updated</dt><dd>${built}</dd>
         <dt>Method</dt><dd>Promises extracted from primary documents; every quote string-matched to its page; verdicts checked against reported figures.</dd>
         <dt>Models</dt><dd>${c.models.join(', ') || 'None — figures only'}${d.ledger_fallback ? ' (fallback; upgrades on the next run)' : ''}</dd>
-        <dt>Usage</dt><dd>${plural(c.calls, 'call')} · ${inr(c.tokens_in)} input tokens · free tier</dd>
+        <dt>Usage</dt><dd>${plural(c.calls, 'call')}, ${inr(c.tokens_in)} input tokens, free tier</dd>
       </dl></details>`}
     </div></details>
   </section>`;
@@ -1036,14 +1033,14 @@ function LedgerRow({ r }) {
   return html`<button class="lrow ${open ? 'open' : ''}" onClick=${() => setOpen(!open)} aria-expanded=${open}>
     <span class="bar" style="background:${VCOLOR[r.verdict] || 'var(--faint)'}"></span>
     <span>
-      <span class="vd" style="color:${VCOLOR[r.verdict] || 'var(--faint)'}">${VERDICT[r.verdict] || r.verdict}<span class="when">promised ${r.made_in}${r.due ? ` · due ${r.due}` : ''}</span></span>
+      <span class="vd" style="color:${VCOLOR[r.verdict] || 'var(--faint)'}">${VERDICT[r.verdict] || r.verdict}<span class="when">promised ${r.made_in}${r.due ? `, due ${r.due}` : ''}</span></span>
       <div class="p">${r.promise}</div>
       <div class="d">${r.delivered}</div>
       ${open && html`<div>
         ${r.quote && html`<blockquote>“${r.quote}”</blockquote>`}
         <div class="src">
-          ${r.verified === true ? html`<span class="ok">✓ quote found in the transcript</span>` : r.verified === false ? html`<span class="no">⚠ quote not matched word-for-word</span>` : html`<span>scanned transcript · read visually</span>`}
-          <a href="${r.url}#page=${r.page || 1}" target="_blank" rel="noopener" onClick=${e => e.stopPropagation()}>Open page ${r.page || ''} ↗</a>
+          ${r.verified === true ? html`<span class="ok">✓ quote found in the transcript</span>` : r.verified === false ? html`<span class="no">⚠ quote not matched word-for-word</span>` : html`<span>scanned transcript, read visually</span>`}
+          <a href="${r.url}#page=${r.page || 1}" target="_blank" rel="noopener" onClick=${e => e.stopPropagation()}>Open page ${r.page || ''}</a>
           ${r.checked_against && html`<span>checked against ${r.checked_against}</span>`}
         </div>
       </div>`}
@@ -1072,7 +1069,7 @@ function AskBox({ sym }) {
       </form>
       ${!a && !busy && html`<div class="qs">${['margin outlook', 'capex plans', 'debt', 'biggest risk', 'pricing'].map(x => html`<button onClick=${() => ask(`What did management say about ${x}?`)}>${x}</button>`)}</div>`}
       ${a && html`<div class="answer">${a.answer}</div>
-        ${a.cites?.length > 0 && html`<div class="cites">${a.cites.map(c => html`<a href="${c.url}#page=${c.page}" target="_blank" rel="noopener">${c.label} ↗</a>`)}</div>`}`}
+        ${a.cites?.length > 0 && html`<div class="cites">${a.cites.map(c => html`<a href="${c.url}#page=${c.page}" target="_blank" rel="noopener">${c.label}</a>`)}</div>`}`}
     </div>
   </section>`;
 }
