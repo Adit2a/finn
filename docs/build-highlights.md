@@ -1,6 +1,6 @@
 # FINN: AI build highlights
 
-I built FINN in one week (8 to 15 Nov 2026) in a single long Claude Code session in the desktop app. Claude Opus 5.5 did the main build, Fable 5.2 a final review and polish pass, and Sonnet 5.5 the wrap-up. The product itself runs on free-tier APIs (Gemini, Groq). About 75 messages passed between us, and these are a few of the moments that show how the work went. My own messages are quoted exactly, typos included.
+I built FINN in one week (8 to 15 Nov 2026) in one long Claude Code session in the desktop app, plus a shorter session of final checks on 15 Nov. Claude Opus 5.5 did the main build and the final checks, Fable 5.2 a review and polish pass, and Sonnet 5.5 the wrap-up. The product itself runs on free-tier APIs (Gemini, Groq). About 86 messages passed between us, and these are a few of the moments that show how the work went. My own messages are quoted exactly, typos included.
 
 ## How we worked
 I set the constraints and judged the result. Claude proposed, built, and checked its own work: it opened the running app at phone size, compared the figures on screen with the reported numbers, and re-checked the live site after every push. I pushed back whenever something looked or behaved wrong, and most of the changes below came from that.
@@ -39,6 +39,15 @@ Gemini Flash's free quota was about 10 to 20 calls a day, newer models were over
 - We ruled out a second Google account to multiply free quota, because Google's terms don't allow spreading requests across accounts to get around limits. Groq stayed the second free provider.
 
 ## 7. Reliability problems found by looking
-When I asked Claude to *"check my project and improve it as much as you can"*, it found that GitHub's scheduled keep-alive ran only a few times a day, so the free server kept falling asleep. The job had also been failing since the evening of 8 Nov on a script bug: a grep that matched "unchanged" as "changed". The server now pings itself, and the job is fixed. Claude also closed a quota leak (one analysis per company at a time), made the app re-add stocks the free host forgets, and added 22 offline tests that run on every change. They cover the XBRL arithmetic, filing rules, materiality scoring, alert thresholds and de-duplication, and promise deadlines.
+When I asked Claude to *"check my project and improve it as much as you can"*, it found that GitHub's scheduled keep-alive ran only a few times a day, so the free server kept falling asleep. The job had also been failing since the evening of 8 Nov on a script bug: a grep that matched "unchanged" as "changed". The server now pings itself, and the job is fixed. Claude also closed a quota leak (one analysis per company at a time), made the app re-add stocks the free host forgets, and added 20 offline tests that run on every change. They cover the XBRL arithmetic, filing rules, materiality scoring, and alert thresholds and de-duplication.
+
+## 8. Last checks on the live app
+On the last day I asked Claude to *"open the github repo and the site and check if any mismatch or error anywhere"*. It found four things a reviewer could hit. Reliance's ledger marked a plant promised for March 2026 as "too early" eight months after the deadline. The Brief and Research screens showed different revenue for the same quarter, because one reads XBRL and the other screener.in. A Friday filing read "7h ago" on Sunday. And the prices stopped at 12 Nov.
+
+The first fix went into code, not into the prompt: a promise whose deadline is covered by the latest reported quarter, but which the figures can't confirm, now reads "Can't check" with its due month. It is re-checked on every read, so the label stays right as new quarters come out, and two more tests cover the deadline rules (22 in all). It changed 13 promises across 12 companies. The revenue screens now name their sources.
+
+The stale prices I pushed on: *"but why 12 nov we are on 15 nov / i need the latest news right if 15 atleast till 14"*. The refresh ran only after weekday closes, GitHub started Friday's run 7½ hours late, and Yahoo still hadn't published that day's close. A daily 8:00 IST run now picks up late prices and weekend filings.
+
+Last, I added Hallmark, a design-linting skill, and had it audit the app. It reported 25 Floor failures. Claude checked each against the code and fixed them in place without changing the layout, leaving one that was a false positive (it read the desktop sidebar as a second sticky bar): small grey text raised from as low as 2.4:1 to at least 4.5:1, focus rings restored on inputs, labels in sentence case, and plain punctuation in place of dot-joined meta lines.
 
 Live at https://finn-dq90.onrender.com, code at https://github.com/Adit2a/finn.

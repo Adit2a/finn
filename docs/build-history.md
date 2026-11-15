@@ -1,6 +1,6 @@
 # FINN — AI build history
 
-The complete conversation in which FINN was designed, built, deployed and polished with **Claude Code** (desktop app; models used: Claude Opus 5.5, Fable 5.2 and Sonnet 5.5). Messages are verbatim; each tool action Claude took (running commands, editing files, checking the app in a browser) is condensed to one line. System notes and model reasoning are omitted, and anything resembling a key or email is masked. Where the conversation grew too long, the app replaced the earlier part with an automatic summary; those summaries are shown collapsed and labelled as such. The full machine-readable export is available on request.
+The complete conversation in which FINN was designed, built, deployed and polished with **Claude Code** (desktop app; models used: Claude Opus 5.5, Fable 5.2 and Sonnet 5.5), followed by a shorter second session of final checks on 15 Nov, from message 75. Messages are verbatim; each tool action Claude took (running commands, editing files, checking the app in a browser) is condensed to one line. System notes and model reasoning are omitted, and anything resembling a key or email is masked. Where the conversation grew too long, the app replaced the earlier part with an automatic summary; those summaries are shown collapsed and labelled as such. The full machine-readable export is available on request.
 
 
 ---
@@ -4538,3 +4538,222 @@ Yes, export it
 
 </details>
 
+
+
+---
+
+## Final checks before submitting (15 Nov, a second session)
+
+A later Claude Code session (Claude Opus 5.5), used to tighten the submission email and check the live app one last time. Messages marked "You" are verbatim. Claude's replies are trimmed where they repeat the email text in full, and marked *(trimmed)*. A slash command's long argument is shown by what it was.
+
+### You · 75
+
+`/humanizer`, with the draft submission email as its argument.
+
+<details><summary>1 action</summary>
+
+- `Skill` humanizer
+
+</details>
+
+**Claude:** *(trimmed)*
+
+Removed the slogan labels ("Model output is checked, not trusted", "Rules first, model last", "Dense, but in layers"), the "X rather than Y" contrasts and the en dash in "10–20%"; tied "no score unless it is earned" to the two-promise rule stated earlier. Every number, model name, link and claim kept. Returned the full rewritten email.
+
+---
+
+### You · 76
+
+Change these three
+
+1. "…and did not try to get around it." This one is urgent. It contradicts the build history you're attaching, which says a workaround for BSE was attempted, blocked, and dropped. A reviewer who reads both will see the mismatch. Use:
+"BSE's API sits behind bot protection. A workaround I tried was blocked, so I dropped it and used NSE's public endpoints."
+2. "FINN reads only two sources…" is slightly too strong. The ledger also checks promises against the company's reported financials, so it's not only two documents. Use:
+"For any NSE company, FINN works from the company's own documents: the last four earnings-call transcripts and the latest annual report, checked against its reported financials."
+3. "No number comes from a model" overclaims. Figures on results cards, charts and flags never do, but the ledger's one-line verdicts sometimes contain a figure the model worked out from reported ones; BEL's "₹981 crore capex" is one. Use:
+"No figure on a results card, chart or flag comes from a model. Those come from XBRL and the reported tables, and the model only reads and compares. In the ledger, every quote is string-matched against the source."
+
+**Claude:** *(trimmed)*
+
+All three changes made, quotes straightened. The new line about string-matched quotes repeated a bullet two items later, so that bullet was dropped. Returned the full email.
+
+---
+
+### You · 77
+
+`/humanizer` on `docs/build-highlights.md`.
+
+<details><summary>2 actions</summary>
+
+- `Skill` humanizer
+- `Write` docs/build-highlights.md
+
+</details>
+
+**Claude:** *(trimmed)*
+
+Rewrote all seven sections plus the intro and the closing line; quotes, numbers and dates unchanged. Flagged two mismatches with the email: the email said the tests cover materiality scoring and alert de-duplication, while the highlights said 19 tests of XBRL arithmetic and filing rules; and "I tried" against "we attempted" for the BSE workaround.
+
+---
+
+### You · 78
+
+check what the tests actually cover
+
+<details><summary>4 actions</summary>
+
+- `Bash` List test files and CI workflows
+- `Bash` Show test workflow and test function names
+- `Bash` Run the test suite
+- `Bash` Check recent test workflow runs on GitHub
+
+</details>
+
+**Claude:** *(trimmed)*
+
+20 offline tests: 4 for filing classification, 6 for materiality scoring, 6 for XBRL results arithmetic, 4 for alerts (thresholds, the session boundary, each alert sent once, the sent-alerts record storing a hash rather than the Telegram id). The email was right; the highlights were out of date (19 became 20 with the hash test added that morning). The last three CI runs had passed.
+
+---
+
+### You · 79
+
+Yes, update it
+
+**Claude:** Section 7 of the highlights now says 20 tests and names all four areas.
+
+---
+
+### You · 80
+
+commit the docs folder
+you can also open the github repo and the site and check if any mismatch or error anywhere
+
+<details><summary>8 actions</summary>
+
+- `Bash` Scan build history for secrets and personal data
+- `Bash` Commit the docs folder
+- `Read` WRITEUP.md, README.md
+- Opened the repo and the live app at phone size in the browser
+- `Bash` Recompute portfolio average and last price dates
+- `Bash` Read the 13 Nov refresh log for price issues
+- `Bash` Look up Reliance results EBITDA in the feed
+- Opened Reliance's research page and the Alerts screen
+
+</details>
+
+**Claude:** *(trimmed)*
+
+No keys or personal data in the docs; committed. The site loaded with no console errors, and Reliance's EBITDA on the results card is ₹62,409 cr as the email says. Problems a reviewer could notice:
+1. A past-due promise marked "too early": Reliance's Kurnool plant, promised for March 2026, eight months earlier.
+2. Reliance's revenue differs between screens: ₹3,32,861 cr on the Brief (XBRL) and ₹3,30,601 cr on Research (screener.in).
+3. Relative times counted from the last refresh, so a Friday filing read "7h ago" on Sunday.
+4. Prices stopped at 12 Nov: the Friday-night refresh ran before Yahoo had published 13 Nov.
+
+Plus two mismatches: the writeup called the attachment the "full conversation", and the email named only NSE as a source while the README also lists screener.in and Yahoo Finance.
+
+---
+
+### You · 81
+
+Fix and push
+
+<details><summary>7 actions</summary>
+
+- `Grep` / `Read` finn/pull/research.py, server.py, web/app.js
+- `Edit` finn/pull/research.py (deadline parser and verdict settling)
+- `Edit` server.py, web/app.js, WRITEUP.md
+- `Bash` List rows that become past-due under the new rule
+- `Bash` Add deadline tests and run the suite (one failure: "Q3 or Q4 FY27" took the earlier quarter; fixed)
+- `Bash` Commit the fixes and push to GitHub
+- Checked the live API and the research page after the deploy
+
+</details>
+
+**Claude:** *(trimmed)*
+
+"Too early" was doing two jobs: deadlines not yet reached, and promises the figures can't show. A promise whose deadline is covered by the latest reported quarter now reads "Can't check" with its due month, settled in code on every read, so stored ledgers stay right as quarters are reported. 13 rows across 12 companies changed (Reliance's Kurnool plant, COALINDIA's FY26 production, DIXON's Q2 FY27 volumes, two of TITAN's). The Research numbers now name screener.in and explain the revenue difference; times count from now; the writeup links both build histories; two new tests (22 in all). The refresh was not re-run, because it would send that run's Telegram alerts.
+
+---
+
+### You · 82
+
+but why 12 nov we are on 15 nov
+i need the latest news right if 15 atleast till 14
+
+<details><summary>4 actions</summary>
+
+- `Bash` Read the refresh workflow and script entry points
+- `Edit` .github/workflows/refresh.yml
+- `Bash` Push the schedule change and start a refresh now
+- `Bash` Wait for the refresh run and show its result
+
+</details>
+
+**Claude:** *(trimmed)*
+
+The refresh ran only on weekdays, once after the close. GitHub started Friday's run about 7½ hours late, Yahoo still hadn't published the 13 Nov close, and nothing ran at weekends. Added a daily 08:00 IST run (alerts are de-duplicated, so it never repeats one) and started a refresh. The site then showed the 13 Nov close (14 and 15 Nov are a weekend) and filings up to the evening of 14 Nov; one new alert went to Telegram.
+
+---
+
+### You · 83
+
+https://github.com/nutlope/hallmark
+also add this
+
+<details><summary>4 actions</summary>
+
+- Read the repository page
+- `Bash` Clone Hallmark into a scratch folder and inspect the skill
+- `Bash` Check the skill's scripts for outside network calls and process spawning
+- `Bash` Install the Hallmark skill into the Claude skills folder
+
+</details>
+
+**Claude:** Installed Hallmark, a design-linting skill, into the Claude skills folder by copying it from a clone rather than running its npm installer. Its only outside service is an image API it calls when asked.
+
+---
+
+### You · 84
+
+`/hallmark audit web/index.html`
+
+<details><summary>3 actions</summary>
+
+- `Read` Hallmark's audit and app-screen rules
+- `Bash` Run Hallmark's static linter on the app shell and stylesheet
+- `Bash` Check the flagged CSS rules against how the app uses them
+
+</details>
+
+**Claude:** *(trimmed)*
+
+25 FAIL and 151 REFLEX. After checking each against the code, 11 real Floor problems: small grey text at 2.4 to 3.7:1, inputs that lost their focus ring, disabled buttons that only faded, tracked-capital labels, small lines above page titles, dot-joined meta lines, arrows glued to link text, hard-coded colours, no `overflow-x: clip`, and a layout animation. Four findings were false positives (the sidebar's sticky, the dismiss animation, an unused heading rule, the stamp). Recommended a polish: fix those in place, layout and content unchanged.
+
+---
+
+### You · 85
+
+Yes, polish it
+
+<details><summary>6 actions</summary>
+
+- `Bash` Compute contrast for faint and Telegram colours
+- `Bash` Apply token, contrast, focus, label and motion fixes to the stylesheet
+- `Bash` Fold eyebrows and replace dot-joined meta and arrows in app.js
+- `Bash` Re-lint (25 FAIL to 1)
+- Checked the app locally and on the live site at phone size
+- `Bash` Run tests, commit the polish, and push
+
+</details>
+
+**Claude:** *(trimmed)*
+
+Live. Small grey text raised to 5.2:1 (4.5:1 in light mode); the Telegram button keeps its blue with dark text (7.6:1); every colour goes through a token; inputs keep the focus ring; labels in sentence case; the date line moved under the Brief summary and "NSE: RELIANCE" under the company name; commas and colons in place of middle dots; no arrows on links. One FAIL left, a false positive (the sidebar is only sticky on desktop and never stacks with the tabs). Off-grid spacing kept on purpose and recorded in the stylesheet.
+
+---
+
+### You · 86
+
+update the email with the new changes and the build history md too
+
+**Claude:** Added this session to the build history, a short section to the highlights, and an updated email.
