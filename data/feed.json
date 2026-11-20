@@ -1,23 +1,13 @@
 {
- "generated_at": "2026-11-20T01:00:21",
+ "generated_at": "2026-11-20T15:52:30",
  "window_days": 30,
  "holdings": [
   {
    "symbol": "RELIANCE",
    "name": "Reliance Industries",
    "sector": "Conglomerate",
-   "mcap_cr": 1862902.0,
+   "mcap_cr": 1860859.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 1307.8,
-     "v": 8412537
-    },
-    {
-     "d": "2026-07-13",
-     "c": 1296.9,
-     "v": 9488352
-    },
     {
      "d": "2026-07-14",
      "c": 1293.0,
@@ -457,6 +447,16 @@
      "d": "2026-11-18",
      "c": 1363.0,
      "v": 18228940
+    },
+    {
+     "d": "2026-11-19",
+     "c": 1375.6,
+     "v": 14486599
+    },
+    {
+     "d": "2026-11-20",
+     "c": 1377.5,
+     "v": 13166219
     }
    ]
   },
@@ -464,18 +464,8 @@
    "symbol": "HDFCBANK",
    "name": "HDFC Bank",
    "sector": "Bank",
-   "mcap_cr": 1269058.0,
+   "mcap_cr": 1304544.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 824.95,
-     "v": 23595785
-    },
-    {
-     "d": "2026-07-13",
-     "c": 817.95,
-     "v": 21741736
-    },
     {
      "d": "2026-07-14",
      "c": 809.4,
@@ -915,6 +905,16 @@
      "d": "2026-11-18",
      "c": 808.15,
      "v": 21579720
+    },
+    {
+     "d": "2026-11-19",
+     "c": 821.8,
+     "v": 24089874
+    },
+    {
+     "d": "2026-11-20",
+     "c": 846.0,
+     "v": 70096849
     }
    ]
   },
@@ -922,18 +922,8 @@
    "symbol": "BAJFINANCE",
    "name": "Bajaj Finance",
    "sector": "NBFC",
-   "mcap_cr": 693512.0,
+   "mcap_cr": 710091.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 1020.5,
-     "v": 7039305
-    },
-    {
-     "d": "2026-07-13",
-     "c": 1022.6,
-     "v": 4874070
-    },
     {
      "d": "2026-07-14",
      "c": 1006.6,
@@ -1373,6 +1363,16 @@
      "d": "2026-11-18",
      "c": 1093.85,
      "v": 9128701
+    },
+    {
+     "d": "2026-11-19",
+     "c": 1092.85,
+     "v": 7748148
+    },
+    {
+     "d": "2026-11-20",
+     "c": 1122.0,
+     "v": 9240694
     }
    ]
   },
@@ -1380,18 +1380,8 @@
    "symbol": "TCS",
    "name": "TCS",
    "sector": "IT services",
-   "mcap_cr": 847360.0,
+   "mcap_cr": 859296.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 2069.0,
-     "v": 6714551
-    },
-    {
-     "d": "2026-07-13",
-     "c": 2181.5,
-     "v": 12382622
-    },
     {
      "d": "2026-07-14",
      "c": 2200.6,
@@ -1831,6 +1821,16 @@
      "d": "2026-11-18",
      "c": 2379.5,
      "v": 1374716
+    },
+    {
+     "d": "2026-11-19",
+     "c": 2342.7,
+     "v": 2471096
+    },
+    {
+     "d": "2026-11-20",
+     "c": 2376.2,
+     "v": 2959814
     }
    ]
   },
@@ -1838,18 +1838,8 @@
    "symbol": "PERSISTENT",
    "name": "Persistent Systems",
    "sector": "IT services",
-   "mcap_cr": 97577.0,
+   "mcap_cr": 100993.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 5053.9,
-     "v": 1205108
-    },
-    {
-     "d": "2026-07-13",
-     "c": 5192.4,
-     "v": 1033379
-    },
     {
      "d": "2026-07-14",
      "c": 5129.1,
@@ -2289,6 +2279,16 @@
      "d": "2026-11-18",
      "c": 5857.0,
      "v": 266064
+    },
+    {
+     "d": "2026-11-19",
+     "c": 5880.0,
+     "v": 440032
+    },
+    {
+     "d": "2026-11-20",
+     "c": 6124.0,
+     "v": 1791121
     }
    ]
   },
@@ -2296,18 +2296,8 @@
    "symbol": "SUNPHARMA",
    "name": "Sun Pharma",
    "sector": "Pharma",
-   "mcap_cr": 455679.0,
+   "mcap_cr": 452299.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 1935.5,
-     "v": 1478172
-    },
-    {
-     "d": "2026-07-13",
-     "c": 1921.4,
-     "v": 1573176
-    },
     {
      "d": "2026-07-14",
      "c": 1942.6,
@@ -2747,6 +2737,16 @@
      "d": "2026-11-18",
      "c": 1871.5,
      "v": 1676013
+    },
+    {
+     "d": "2026-11-19",
+     "c": 1900.0,
+     "v": 1995293
+    },
+    {
+     "d": "2026-11-20",
+     "c": 1884.9,
+     "v": 1915583
     }
    ]
   },
@@ -2754,18 +2754,8 @@
    "symbol": "DIXON",
    "name": "Dixon Technologies",
    "sector": "Electronics mfg",
-   "mcap_cr": 79775.0,
+   "mcap_cr": 80060.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 13421.0,
-     "v": 1689462
-    },
-    {
-     "d": "2026-07-13",
-     "c": 13490.0,
-     "v": 609309
-    },
     {
      "d": "2026-07-14",
      "c": 13365.0,
@@ -3205,6 +3195,16 @@
      "d": "2026-11-18",
      "c": 12615.0,
      "v": 258061
+    },
+    {
+     "d": "2026-11-19",
+     "c": 13054.0,
+     "v": 319336
+    },
+    {
+     "d": "2026-11-20",
+     "c": 13120.0,
+     "v": 218852
     }
    ]
   },
@@ -3212,18 +3212,8 @@
    "symbol": "TITAN",
    "name": "Titan",
    "sector": "Consumer",
-   "mcap_cr": 416194.0,
+   "mcap_cr": 409269.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 4584.4,
-     "v": 652646
-    },
-    {
-     "d": "2026-07-13",
-     "c": 4601.5,
-     "v": 770367
-    },
     {
      "d": "2026-07-14",
      "c": 4573.7,
@@ -3663,6 +3653,16 @@
      "d": "2026-11-18",
      "c": 4648.1,
      "v": 1326172
+    },
+    {
+     "d": "2026-11-19",
+     "c": 4700.0,
+     "v": 1144865
+    },
+    {
+     "d": "2026-11-20",
+     "c": 4620.0,
+     "v": 1478789
     }
    ]
   },
@@ -3670,18 +3670,8 @@
    "symbol": "ASIANPAINT",
    "name": "Asian Paints",
    "sector": "Consumer",
-   "mcap_cr": 248623.0,
+   "mcap_cr": 249713.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 2677.8,
-     "v": 982095
-    },
-    {
-     "d": "2026-07-13",
-     "c": 2652.1,
-     "v": 1107802
-    },
     {
      "d": "2026-07-14",
      "c": 2641.0,
@@ -4121,6 +4111,16 @@
      "d": "2026-11-18",
      "c": 2580.3,
      "v": 742800
+    },
+    {
+     "d": "2026-11-19",
+     "c": 2595.0,
+     "v": 853564
+    },
+    {
+     "d": "2026-11-20",
+     "c": 2608.3,
+     "v": 469261
     }
    ]
   },
@@ -4128,18 +4128,8 @@
    "symbol": "MARUTI",
    "name": "Maruti Suzuki",
    "sector": "Auto",
-   "mcap_cr": 426927.0,
+   "mcap_cr": 439859.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 13854.0,
-     "v": 430154
-    },
-    {
-     "d": "2026-07-13",
-     "c": 13695.0,
-     "v": 458633
-    },
     {
      "d": "2026-07-14",
      "c": 13489.0,
@@ -4579,6 +4569,16 @@
      "d": "2026-11-18",
      "c": 12632.0,
      "v": 576843
+    },
+    {
+     "d": "2026-11-19",
+     "c": 13589.0,
+     "v": 1371819
+    },
+    {
+     "d": "2026-11-20",
+     "c": 14011.0,
+     "v": 1647972
     }
    ]
   },
@@ -4586,18 +4586,8 @@
    "symbol": "LT",
    "name": "Larsen & Toubro",
    "sector": "Infra / EPC",
-   "mcap_cr": 580375.0,
+   "mcap_cr": 578022.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 3945.8,
-     "v": 1283990
-    },
-    {
-     "d": "2026-07-13",
-     "c": 3928.5,
-     "v": 1744547
-    },
     {
      "d": "2026-07-14",
      "c": 3848.7,
@@ -5037,6 +5027,16 @@
      "d": "2026-11-18",
      "c": 4159.0,
      "v": 1148593
+    },
+    {
+     "d": "2026-11-19",
+     "c": 4211.0,
+     "v": 2071601
+    },
+    {
+     "d": "2026-11-20",
+     "c": 4209.1,
+     "v": 2154273
     }
    ]
   },
@@ -5044,18 +5044,8 @@
    "symbol": "ETERNAL",
    "name": "Eternal (Zomato)",
    "sector": "Internet",
-   "mcap_cr": 354314.0,
+   "mcap_cr": 351273.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 289.65,
-     "v": 24239849
-    },
-    {
-     "d": "2026-07-13",
-     "c": 285.2,
-     "v": 14808761
-    },
     {
      "d": "2026-07-14",
      "c": 286.15,
@@ -5495,6 +5485,16 @@
      "d": "2026-11-18",
      "c": 366.0,
      "v": 14567268
+    },
+    {
+     "d": "2026-11-19",
+     "c": 366.85,
+     "v": 31315542
+    },
+    {
+     "d": "2026-11-20",
+     "c": 364.0,
+     "v": 16447119
     }
    ]
   },
@@ -5502,18 +5502,8 @@
    "symbol": "TRENT",
    "name": "Trent",
    "sector": "Retail",
-   "mcap_cr": 172237.0,
+   "mcap_cr": 173420.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 2902.8,
-     "v": 1093622
-    },
-    {
-     "d": "2026-07-13",
-     "c": 2900.1,
-     "v": 1111293
-    },
     {
      "d": "2026-07-14",
      "c": 2869.1,
@@ -5953,6 +5943,16 @@
      "d": "2026-11-18",
      "c": 3190.0,
      "v": 1306465
+    },
+    {
+     "d": "2026-11-19",
+     "c": 3225.0,
+     "v": 757354
+    },
+    {
+     "d": "2026-11-20",
+     "c": 3256.1,
+     "v": 1252526
     }
    ]
   },
@@ -5960,18 +5960,8 @@
    "symbol": "POLYCAB",
    "name": "Polycab",
    "sector": "Cables",
-   "mcap_cr": 113773.0,
+   "mcap_cr": 114163.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 9210.5,
-     "v": 396730
-    },
-    {
-     "d": "2026-07-13",
-     "c": 9306.5,
-     "v": 378532
-    },
     {
      "d": "2026-07-14",
      "c": 9532.5,
@@ -6411,6 +6401,16 @@
      "d": "2026-11-18",
      "c": 7307.5,
      "v": 864380
+    },
+    {
+     "d": "2026-11-19",
+     "c": 7550.0,
+     "v": 1027023
+    },
+    {
+     "d": "2026-11-20",
+     "c": 7570.0,
+     "v": 639278
     }
    ]
   },
@@ -6418,18 +6418,8 @@
    "symbol": "HAL",
    "name": "Hindustan Aeronautics",
    "sector": "Defence PSU",
-   "mcap_cr": 317895.0,
+   "mcap_cr": 321948.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 4506.8,
-     "v": 1078390
-    },
-    {
-     "d": "2026-07-13",
-     "c": 4511.3,
-     "v": 569353
-    },
     {
      "d": "2026-07-14",
      "c": 4442.4,
@@ -6869,6 +6859,16 @@
      "d": "2026-11-18",
      "c": 4675.0,
      "v": 517433
+    },
+    {
+     "d": "2026-11-19",
+     "c": 4760.0,
+     "v": 576125
+    },
+    {
+     "d": "2026-11-20",
+     "c": 4809.0,
+     "v": 492718
     }
    ]
   },
@@ -6876,18 +6876,8 @@
    "symbol": "DEEPAKNTR",
    "name": "Deepak Nitrite",
    "sector": "Chemicals",
-   "mcap_cr": 21195.0,
+   "mcap_cr": 21055.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 1644.0,
-     "v": 153220
-    },
-    {
-     "d": "2026-07-13",
-     "c": 1667.2,
-     "v": 151399
-    },
     {
      "d": "2026-07-14",
      "c": 1669.3,
@@ -7327,6 +7317,16 @@
      "d": "2026-11-18",
      "c": 1562.9,
      "v": 278643
+    },
+    {
+     "d": "2026-11-19",
+     "c": 1552.3,
+     "v": 128817
+    },
+    {
+     "d": "2026-11-20",
+     "c": 1531.2,
+     "v": 232504
     }
    ]
   },
@@ -7334,18 +7334,8 @@
    "symbol": "COALINDIA",
    "name": "Coal India",
    "sector": "Mining PSU",
-   "mcap_cr": 240960.0,
+   "mcap_cr": 240346.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 429.3,
-     "v": 4872051
-    },
-    {
-     "d": "2026-07-13",
-     "c": 430.2,
-     "v": 5650932
-    },
     {
      "d": "2026-07-14",
      "c": 430.6,
@@ -7785,6 +7775,16 @@
      "d": "2026-11-18",
      "c": 388.0,
      "v": 5966688
+    },
+    {
+     "d": "2026-11-19",
+     "c": 391.5,
+     "v": 7228119
+    },
+    {
+     "d": "2026-11-20",
+     "c": 390.0,
+     "v": 9436814
     }
    ]
   },
@@ -7792,18 +7792,8 @@
    "symbol": "TATAPOWER",
    "name": "Tata Power",
    "sector": "Utilities",
-   "mcap_cr": 108609.0,
+   "mcap_cr": 108641.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 381.3,
-     "v": 3546184
-    },
-    {
-     "d": "2026-07-13",
-     "c": 377.85,
-     "v": 3204238
-    },
     {
      "d": "2026-07-14",
      "c": 377.7,
@@ -8243,6 +8233,16 @@
      "d": "2026-11-18",
      "c": 338.0,
      "v": 6915228
+    },
+    {
+     "d": "2026-11-19",
+     "c": 340.0,
+     "v": 18924224
+    },
+    {
+     "d": "2026-11-20",
+     "c": 339.7,
+     "v": 9563993
     }
    ]
   },
@@ -8250,18 +8250,8 @@
    "symbol": "ZYDUSLIFE",
    "name": "Zydus Lifesciences",
    "sector": "",
-   "mcap_cr": 120693.0,
+   "mcap_cr": 119207.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 1150.8,
-     "v": 824192
-    },
-    {
-     "d": "2026-07-13",
-     "c": 1131.3,
-     "v": 1514991
-    },
     {
      "d": "2026-07-14",
      "c": 1133.6,
@@ -8701,6 +8691,16 @@
      "d": "2026-11-18",
      "c": 1202.0,
      "v": 797059
+    },
+    {
+     "d": "2026-11-19",
+     "c": 1202.9,
+     "v": 713800
+    },
+    {
+     "d": "2026-11-20",
+     "c": 1200.0,
+     "v": 780361
     }
    ]
   },
@@ -8708,18 +8708,8 @@
    "symbol": "HSCL",
    "name": "Himadri Speciality Chemical",
    "sector": "",
-   "mcap_cr": 27971.0,
+   "mcap_cr": 28244.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 660.45,
-     "v": 2613472
-    },
-    {
-     "d": "2026-07-13",
-     "c": 663.1,
-     "v": 4418989
-    },
     {
      "d": "2026-07-14",
      "c": 671.4,
@@ -9159,6 +9149,16 @@
      "d": "2026-11-18",
      "c": 556.25,
      "v": 485321
+    },
+    {
+     "d": "2026-11-19",
+     "c": 554.25,
+     "v": 604224
+    },
+    {
+     "d": "2026-11-20",
+     "c": 561.25,
+     "v": 1257544
     }
    ]
   },
@@ -9168,16 +9168,6 @@
    "sector": "",
    "mcap_cr": 463.0,
    "series": [
-    {
-     "d": "2026-07-10",
-     "c": 8.26,
-     "v": 1010039
-    },
-    {
-     "d": "2026-07-13",
-     "c": 8.31,
-     "v": 601275
-    },
     {
      "d": "2026-07-14",
      "c": 8.25,
@@ -9617,6 +9607,16 @@
      "d": "2026-11-18",
      "c": 7.07,
      "v": 278888
+    },
+    {
+     "d": "2026-11-19",
+     "c": 7.05,
+     "v": 418863
+    },
+    {
+     "d": "2026-11-20",
+     "c": 7.02,
+     "v": 153162
     }
    ]
   }
@@ -10226,7 +10226,7 @@
    "why": "Company is raising up to USD 450 million (INR 42,646.10 million) through QIP.",
    "score": 91,
    "reasons": [
-    "₹4,265 cr ≈ 4.4% of market cap"
+    "₹4,265 cr ≈ 4.2% of market cap"
    ],
    "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_21102026192219_PersistentSEOutcomeQIPissueopeningOct212026V3signed.pdf",
    "people": [],
@@ -10785,7 +10785,7 @@
    "why": "The company raised capital through the issuance of 114,146,341 equity shares.",
    "score": 83,
    "reasons": [
-    "₹11,700 cr ≈ 1.7% of market cap"
+    "₹11,700 cr ≈ 1.6% of market cap"
    ],
    "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_16112026234915_BSENSE_Intimation_Issue_closing_pricing.pdf",
    "people": [],
@@ -11522,24 +11522,6 @@
    "read_by": "gemini-3.5-flash-lite",
    "subject": "Bagging/Receiving of orders/contracts",
    "ts": "2026-10-21T09:46:52",
-   "related": [],
-   "tier": "glance",
-   "label": "Press release"
-  },
-  {
-   "id": "106822793",
-   "symbol": "SUNPHARMA",
-   "company": "Sun Pharmaceutical Industries Limited",
-   "category": "press_release",
-   "headline": "UNLOXCYT receives Category 2A preferred designation in NCCN guidelines for laCSCC patients",
-   "why": "Elevated NCCN guideline status improves clinician preference, payer coverage, and patient access for UNLOXCYT.",
-   "score": 45,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/SUNSEC_20102026173321_SE_Intimation_of_Press_Release_on_NCCN_Gudelines_Update.pdf",
-   "people": [],
-   "read_by": "gemini-3.5-flash-lite",
-   "subject": "Press Release",
-   "ts": "2026-10-20T17:35:31",
    "related": [],
    "tier": "glance",
    "label": "Press release"
@@ -12775,6 +12757,42 @@
    "label": "M&A"
   },
   {
+   "id": "106867326",
+   "symbol": "MARUTI",
+   "company": "Maruti Suzuki India Limited",
+   "category": "investor_meetings",
+   "headline": "Schedule of meet",
+   "why": null,
+   "score": 8,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTIASHISH_20112026140538_STxIntimation_InvstCall_26Nov2026.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "ts": "2026-11-20T14:08:13",
+   "related": [],
+   "tier": "routine",
+   "label": "Investor meet"
+  },
+  {
+   "id": "106867205",
+   "symbol": "DIXON",
+   "company": "Dixon Technologies (India) Limited",
+   "category": "investor_meetings",
+   "headline": "Outcome of Analyst /Institutional Investor Meet",
+   "why": null,
+   "score": 8,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.in/corporate/DIXON_20112026121311_InvestorMeetOutcome20112026.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "ts": "2026-11-20T12:13:59",
+   "related": [],
+   "tier": "routine",
+   "label": "Investor meet"
+  },
+  {
    "id": "106866520",
    "symbol": "RELIANCE",
    "company": "Reliance Industries Limited",
@@ -13439,6 +13457,24 @@
    "related": [],
    "tier": "routine",
    "label": "Investor meet"
+  },
+  {
+   "id": "106867124",
+   "symbol": "ASIANPAINT",
+   "company": "Asian Paints Limited",
+   "category": "unclassified",
+   "headline": "Trading Plan pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+   "why": null,
+   "score": 4,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_20112026111957_Stock_Exchange_Intimation.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Trading Plan under PIT",
+   "ts": "2026-11-20T11:20:15",
+   "related": [],
+   "tier": "routine",
+   "label": "Routine"
   },
   {
    "id": "106866374",
@@ -14900,13 +14936,11 @@
   ]
  },
  "llm": {
-  "calls": 1,
+  "calls": 0,
   "cached": 0,
-  "in": 1241,
-  "out": 86,
-  "models": [
-   "gemini-3.5-flash-lite"
-  ],
+  "in": 0,
+  "out": 0,
+  "models": [],
   "remembered": 43
  }
 }
