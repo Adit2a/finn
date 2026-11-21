@@ -1,18 +1,13 @@
 {
- "generated_at": "2026-11-21T00:37:41",
+ "generated_at": "2026-11-21T15:37:34",
  "window_days": 30,
  "holdings": [
   {
    "symbol": "RELIANCE",
    "name": "Reliance Industries",
    "sector": "Conglomerate",
-   "mcap_cr": 1871726.0,
+   "mcap_cr": 1864107.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 1296.9,
-     "v": 9488352
-    },
     {
      "d": "2026-07-14",
      "c": 1293.0,
@@ -457,6 +452,11 @@
      "d": "2026-11-19",
      "c": 1375.6,
      "v": 14486599
+    },
+    {
+     "d": "2026-11-20",
+     "c": 1377.5,
+     "v": 13167730
     }
    ]
   },
@@ -464,13 +464,8 @@
    "symbol": "HDFCBANK",
    "name": "HDFC Bank",
    "sector": "Bank",
-   "mcap_cr": 1307770.0,
+   "mcap_cr": 1305701.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 817.95,
-     "v": 21741736
-    },
     {
      "d": "2026-07-14",
      "c": 809.4,
@@ -915,6 +910,11 @@
      "d": "2026-11-19",
      "c": 821.8,
      "v": 24089874
+    },
+    {
+     "d": "2026-11-20",
+     "c": 846.0,
+     "v": 70110384
     }
    ]
   },
@@ -922,13 +922,8 @@
    "symbol": "BAJFINANCE",
    "name": "Bajaj Finance",
    "sector": "NBFC",
-   "mcap_cr": 711262.0,
+   "mcap_cr": 711359.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 1022.6,
-     "v": 4874070
-    },
     {
      "d": "2026-07-14",
      "c": 1006.6,
@@ -1373,6 +1368,11 @@
      "d": "2026-11-19",
      "c": 1092.85,
      "v": 7748148
+    },
+    {
+     "d": "2026-11-20",
+     "c": 1122.0,
+     "v": 9240902
     }
    ]
   },
@@ -1380,13 +1380,8 @@
    "symbol": "TCS",
    "name": "TCS",
    "sector": "IT services",
-   "mcap_cr": 858301.0,
+   "mcap_cr": 859730.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 2181.5,
-     "v": 12382622
-    },
     {
      "d": "2026-07-14",
      "c": 2200.6,
@@ -1831,6 +1826,11 @@
      "d": "2026-11-19",
      "c": 2342.7,
      "v": 2471096
+    },
+    {
+     "d": "2026-11-20",
+     "c": 2376.2,
+     "v": 2960416
     }
    ]
   },
@@ -1838,13 +1838,8 @@
    "symbol": "PERSISTENT",
    "name": "Persistent Systems",
    "sector": "IT services",
-   "mcap_cr": 101942.0,
+   "mcap_cr": 101557.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 5192.4,
-     "v": 1033379
-    },
     {
      "d": "2026-07-14",
      "c": 5129.1,
@@ -2289,6 +2284,11 @@
      "d": "2026-11-19",
      "c": 5880.0,
      "v": 440032
+    },
+    {
+     "d": "2026-11-20",
+     "c": 6124.0,
+     "v": 1791480
     }
    ]
   },
@@ -2296,13 +2296,8 @@
    "symbol": "SUNPHARMA",
    "name": "Sun Pharma",
    "sector": "Pharma",
-   "mcap_cr": 451538.0,
+   "mcap_cr": 452251.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 1921.4,
-     "v": 1573176
-    },
     {
      "d": "2026-07-14",
      "c": 1942.6,
@@ -2747,6 +2742,11 @@
      "d": "2026-11-19",
      "c": 1900.0,
      "v": 1995293
+    },
+    {
+     "d": "2026-11-20",
+     "c": 1884.9,
+     "v": 1916054
     }
    ]
   },
@@ -2756,11 +2756,6 @@
    "sector": "Electronics mfg",
    "mcap_cr": 80305.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 13490.0,
-     "v": 609309
-    },
     {
      "d": "2026-07-14",
      "c": 13365.0,
@@ -3205,6 +3200,11 @@
      "d": "2026-11-19",
      "c": 13054.0,
      "v": 319336
+    },
+    {
+     "d": "2026-11-20",
+     "c": 13120.0,
+     "v": 218855
     }
    ]
   },
@@ -3212,13 +3212,8 @@
    "symbol": "TITAN",
    "name": "Titan",
    "sector": "Consumer",
-   "mcap_cr": 411032.0,
+   "mcap_cr": 410157.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 4601.5,
-     "v": 770367
-    },
     {
      "d": "2026-07-14",
      "c": 4573.7,
@@ -3663,6 +3658,11 @@
      "d": "2026-11-19",
      "c": 4700.0,
      "v": 1144865
+    },
+    {
+     "d": "2026-11-20",
+     "c": 4620.0,
+     "v": 1478945
     }
    ]
   },
@@ -3670,13 +3670,8 @@
    "symbol": "ASIANPAINT",
    "name": "Asian Paints",
    "sector": "Consumer",
-   "mcap_cr": 250303.0,
+   "mcap_cr": 250188.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 2652.1,
-     "v": 1107802
-    },
     {
      "d": "2026-07-14",
      "c": 2641.0,
@@ -4121,6 +4116,11 @@
      "d": "2026-11-19",
      "c": 2595.0,
      "v": 853564
+    },
+    {
+     "d": "2026-11-20",
+     "c": 2608.3,
+     "v": 469267
     }
    ]
   },
@@ -4128,13 +4128,8 @@
    "symbol": "MARUTI",
    "name": "Maruti Suzuki",
    "sector": "Auto",
-   "mcap_cr": 440186.0,
+   "mcap_cr": 440509.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 13695.0,
-     "v": 458633
-    },
     {
      "d": "2026-07-14",
      "c": 13489.0,
@@ -4579,6 +4574,11 @@
      "d": "2026-11-19",
      "c": 13589.0,
      "v": 1371819
+    },
+    {
+     "d": "2026-11-20",
+     "c": 14011.0,
+     "v": 1648162
     }
    ]
   },
@@ -4586,13 +4586,8 @@
    "symbol": "LT",
    "name": "Larsen & Toubro",
    "sector": "Infra / EPC",
-   "mcap_cr": 579963.0,
+   "mcap_cr": 579137.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 3928.5,
-     "v": 1744547
-    },
     {
      "d": "2026-07-14",
      "c": 3848.7,
@@ -5037,6 +5032,11 @@
      "d": "2026-11-19",
      "c": 4211.0,
      "v": 2071601
+    },
+    {
+     "d": "2026-11-20",
+     "c": 4209.1,
+     "v": 2154352
     }
    ]
   },
@@ -5044,13 +5044,8 @@
    "symbol": "ETERNAL",
    "name": "Eternal (Zomato)",
    "sector": "Internet",
-   "mcap_cr": 351129.0,
+   "mcap_cr": 351273.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 285.2,
-     "v": 14808761
-    },
     {
      "d": "2026-07-14",
      "c": 286.15,
@@ -5495,6 +5490,11 @@
      "d": "2026-11-19",
      "c": 366.85,
      "v": 31315542
+    },
+    {
+     "d": "2026-11-20",
+     "c": 364.0,
+     "v": 16447604
     }
    ]
   },
@@ -5502,13 +5502,8 @@
    "symbol": "TRENT",
    "name": "Trent",
    "sector": "Retail",
-   "mcap_cr": 173790.0,
+   "mcap_cr": 173626.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 2900.1,
-     "v": 1111293
-    },
     {
      "d": "2026-07-14",
      "c": 2869.1,
@@ -5953,6 +5948,11 @@
      "d": "2026-11-19",
      "c": 3225.0,
      "v": 757354
+    },
+    {
+     "d": "2026-11-20",
+     "c": 3256.1,
+     "v": 1252578
     }
    ]
   },
@@ -5960,13 +5960,8 @@
    "symbol": "POLYCAB",
    "name": "Polycab",
    "sector": "Cables",
-   "mcap_cr": 114209.0,
+   "mcap_cr": 114087.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 9306.5,
-     "v": 378532
-    },
     {
      "d": "2026-07-14",
      "c": 9532.5,
@@ -6411,6 +6406,11 @@
      "d": "2026-11-19",
      "c": 7550.0,
      "v": 1027023
+    },
+    {
+     "d": "2026-11-20",
+     "c": 7570.0,
+     "v": 639287
     }
    ]
   },
@@ -6418,13 +6418,8 @@
    "symbol": "HAL",
    "name": "Hindustan Aeronautics",
    "sector": "Defence PSU",
-   "mcap_cr": 321952.0,
+   "mcap_cr": 321614.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 4511.3,
-     "v": 569353
-    },
     {
      "d": "2026-07-14",
      "c": 4442.4,
@@ -6869,6 +6864,11 @@
      "d": "2026-11-19",
      "c": 4760.0,
      "v": 576125
+    },
+    {
+     "d": "2026-11-20",
+     "c": 4809.0,
+     "v": 492812
     }
    ]
   },
@@ -6876,13 +6876,8 @@
    "symbol": "DEEPAKNTR",
    "name": "Deepak Nitrite",
    "sector": "Chemicals",
-   "mcap_cr": 20860.0,
+   "mcap_cr": 20884.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 1667.2,
-     "v": 151399
-    },
     {
      "d": "2026-07-14",
      "c": 1669.3,
@@ -7327,6 +7322,11 @@
      "d": "2026-11-19",
      "c": 1552.3,
      "v": 128817
+    },
+    {
+     "d": "2026-11-20",
+     "c": 1531.2,
+     "v": 232572
     }
    ]
   },
@@ -7334,13 +7334,8 @@
    "symbol": "COALINDIA",
    "name": "Coal India",
    "sector": "Mining PSU",
-   "mcap_cr": 240040.0,
+   "mcap_cr": 240346.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 430.2,
-     "v": 5650932
-    },
     {
      "d": "2026-07-14",
      "c": 430.6,
@@ -7785,6 +7780,11 @@
      "d": "2026-11-19",
      "c": 391.5,
      "v": 7228119
+    },
+    {
+     "d": "2026-11-20",
+     "c": 390.0,
+     "v": 9442717
     }
    ]
   },
@@ -7794,11 +7794,6 @@
    "sector": "Utilities",
    "mcap_cr": 108546.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 377.85,
-     "v": 3204238
-    },
     {
      "d": "2026-07-14",
      "c": 377.7,
@@ -8243,6 +8238,11 @@
      "d": "2026-11-19",
      "c": 340.0,
      "v": 18924224
+    },
+    {
+     "d": "2026-11-20",
+     "c": 339.7,
+     "v": 9567088
     }
    ]
   },
@@ -8250,13 +8250,8 @@
    "symbol": "ZYDUSLIFE",
    "name": "Zydus Lifesciences",
    "sector": "",
-   "mcap_cr": 119990.0,
+   "mcap_cr": 119700.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 1131.3,
-     "v": 1514991
-    },
     {
      "d": "2026-07-14",
      "c": 1133.6,
@@ -8701,6 +8696,11 @@
      "d": "2026-11-19",
      "c": 1202.9,
      "v": 713800
+    },
+    {
+     "d": "2026-11-20",
+     "c": 1200.0,
+     "v": 780371
     }
    ]
   },
@@ -8708,13 +8708,8 @@
    "symbol": "HSCL",
    "name": "Himadri Speciality Chemical",
    "sector": "",
-   "mcap_cr": 28322.0,
+   "mcap_cr": 28319.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 663.1,
-     "v": 4418989
-    },
     {
      "d": "2026-07-14",
      "c": 671.4,
@@ -9159,6 +9154,11 @@
      "d": "2026-11-19",
      "c": 554.25,
      "v": 604224
+    },
+    {
+     "d": "2026-11-20",
+     "c": 561.25,
+     "v": 1257566
     }
    ]
   },
@@ -9166,13 +9166,8 @@
    "symbol": "ZEEMEDIA",
    "name": "Zee Media Corporation",
    "sector": "",
-   "mcap_cr": 461.0,
+   "mcap_cr": 460.0,
    "series": [
-    {
-     "d": "2026-07-13",
-     "c": 8.31,
-     "v": 601275
-    },
     {
      "d": "2026-07-14",
      "c": 8.25,
@@ -9617,6 +9612,11 @@
      "d": "2026-11-19",
      "c": 7.05,
      "v": 418863
+    },
+    {
+     "d": "2026-11-20",
+     "c": 7.02,
+     "v": 153162
     }
    ]
   }
@@ -10216,26 +10216,6 @@
    },
    "tier": "act",
    "label": "Results"
-  },
-  {
-   "id": "106823873",
-   "symbol": "PERSISTENT",
-   "company": "Persistent Systems Limited",
-   "category": "fund_raise",
-   "headline": "Persistent Systems approves opening of QIP issue with floor price of INR 5,550 per share",
-   "why": "Company is raising up to USD 450 million (INR 42,646.10 million) through QIP.",
-   "score": 91,
-   "reasons": [
-    "₹4,265 cr ≈ 4.2% of market cap"
-   ],
-   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_21102026192219_PersistentSEOutcomeQIPissueopeningOct212026V3signed.pdf",
-   "people": [],
-   "read_by": "gemini-3.5-flash-lite",
-   "subject": "Issue of Securities",
-   "ts": "2026-10-21T19:22:58",
-   "related": [],
-   "tier": "act",
-   "label": "Fund raise"
   },
   {
    "id": "106855371",
@@ -11280,26 +11260,6 @@
    "label": "Legal / regulatory"
   },
   {
-   "id": "106823393",
-   "symbol": "ETERNAL",
-   "company": "ETERNAL LIMITED",
-   "category": "M&A",
-   "headline": "Eternal Limited transfers Going-out India business to ZEPL for INR 130.76 crore via slump sale",
-   "why": "Restructures Going-out business into a single wholly owned subsidiary and swaps Adonmo stake for Mygate shares.",
-   "score": 66,
-   "reasons": [
-    "₹131 cr, small vs size (0.04% of m-cap)"
-   ],
-   "pdf": "https://nsearchives.nseindia.in/corporate/ZOMATO_21102026153325_OutcomeSIGNED.pdf",
-   "people": [],
-   "read_by": "gemini-3.5-flash-lite",
-   "subject": "Sale or disposal",
-   "ts": "2026-10-21T15:33:41",
-   "related": [],
-   "tier": "glance",
-   "label": "M&A"
-  },
-  {
    "id": "106857049",
    "symbol": "HDFCBANK",
    "company": "HDFC Bank Limited",
@@ -11507,24 +11467,41 @@
    "label": "Press release"
   },
   {
-   "id": "106822983",
-   "symbol": "LT",
-   "company": "Larsen & Toubro Limited",
-   "category": "press_release",
-   "headline": "L&T wins Large orders valued between ₹2,500 crore and ₹5,000 crore in New Delhi and Andhra Pradesh",
-   "why": "Securing Large public sector infrastructure contracts enhances order book visibility.",
-   "score": 45,
-   "reasons": [
-    "order win, value undisclosed"
+   "id": "106868123",
+   "symbol": "COALINDIA",
+   "company": "Coal India Limited",
+   "category": "management_change",
+   "headline": "Coal India appoints 2 executives as Senior Management Personnel",
+   "why": "Changes in senior management personnel due to promotions.",
+   "score": 41,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_21112026124901_CISM.pdf",
+   "people": [
+    {
+     "name": "Debabrata Ghosh",
+     "role": "Executive Director (Excavation)",
+     "change": "appointed",
+     "effective": "2026-11-21",
+     "background": "B.Tech in Mining Machinery from ISM, Dhanbad (1991). Over three decades of experience in Coal India Limited in HEMM operation, erection, commissioning, procurement, maintenance, and policy formulation.",
+     "previous": null,
+     "reason": null
+    },
+    {
+     "name": "Rajesh V Nair",
+     "role": "Executive Director (Human Resource)",
+     "change": "appointed",
+     "effective": "2026-11-21",
+     "background": "M.A. in Social Work with Specialization in Personnel Management & Industrial Relations from Madras University (1993). Over 32 years of service in Coal India Limited, from Welfare Officer (Trainee) to Unit Level Personnel Officer, Area Personnel Head, and CIL Corporate HQ roles.",
+     "previous": null,
+     "reason": null
+    }
    ],
-   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_21102026094637_PressRelease21102026.pdf",
-   "people": [],
    "read_by": "gemini-3.5-flash-lite",
-   "subject": "Bagging/Receiving of orders/contracts",
-   "ts": "2026-10-21T09:46:52",
+   "subject": "Change in Management",
+   "ts": "2026-11-21T12:49:13",
    "related": [],
    "tier": "glance",
-   "label": "Press release"
+   "label": "Management"
   },
   {
    "id": "106853097",
@@ -12373,62 +12350,6 @@
    "label": "Press release"
   },
   {
-   "id": "106823942",
-   "symbol": "PERSISTENT",
-   "company": "Persistent Systems Limited",
-   "category": "credit_rating",
-   "headline": "CRISIL assigns Crisil AA+ Rating Watch with Developing Implications to proposed Non-Convertible Debentures",
-   "why": "Credit rating assigned to proposed Non-Convertible Debentures.",
-   "score": 32,
-   "reasons": [
-    "reaffirmation"
-   ],
-   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_21102026205156_PSLIntimationofCreditRatingNCDsd.pdf",
-   "people": [],
-   "read_by": "gemini-3.5-flash-lite",
-   "subject": "Credit Rating",
-   "ts": "2026-10-21T20:52:10",
-   "related": [],
-   "tier": "routine",
-   "label": "Credit rating"
-  },
-  {
-   "id": "106823771",
-   "symbol": "ZYDUSLIFE",
-   "company": "Zydus Lifesciences Limited",
-   "category": "press_release",
-   "headline": "A press release dated October 21, 2026, titled \"Zylidac Bio and Prolific Machines Partner to Scale Prolific s Next-Generation Biologics Manufacturing Platform to GMP Production",
-   "why": null,
-   "score": 32,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_21102026182006_PressRelease211020261.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Press Release",
-   "ts": "2026-10-21T18:27:15",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
-   "id": "106823056",
-   "symbol": "ZYDUSLIFE",
-   "company": "Zydus Lifesciences Limited",
-   "category": "press_release",
-   "headline": "A press release dated October 21, 2026, titled \"Zydus receives USFDA approval for Estradiol and Levonorgestrel Transdermal System, eligible for 180-day CGT exclusivity",
-   "why": null,
-   "score": 32,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_21102026110803_PressRelease21102026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Press Release",
-   "ts": "2026-10-21T11:09:22",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
    "id": "106830931",
    "symbol": "RELIANCE",
    "company": "Reliance Industries Limited",
@@ -12472,44 +12393,6 @@
    "related": [],
    "tier": "routine",
    "label": "Earnings call"
-  },
-  {
-   "id": "106823937",
-   "symbol": "RELIANCE",
-   "company": "Reliance Industries Limited",
-   "category": "credit_rating",
-   "headline": "ICRA reaffirms [ICRA]AAA/Stable and [ICRA]A1+ ratings, assigns [ICRA]AAA/Stable for Rs. 50,000 crore bank loan",
-   "why": "Credit ratings reaffirmed and assigned for Rs. 72,000 crore total debt instruments.",
-   "score": 28,
-   "reasons": [
-    "reaffirmation"
-   ],
-   "pdf": "https://nsearchives.nseindia.in/corporate/PVIVINMA_21102026204310_SE_ICRA.pdf",
-   "people": [],
-   "read_by": "gemini-3.5-flash-lite",
-   "subject": "Credit Rating",
-   "ts": "2026-10-21T20:43:30",
-   "related": [],
-   "tier": "routine",
-   "label": "Credit rating"
-  },
-  {
-   "id": "106823997",
-   "symbol": "RELIANCE",
-   "company": "Reliance Industries Limited",
-   "category": "press_release",
-   "headline": "US Secretary of State Marco Rubio and US Ambassador Sergio Gor visited Jamnagar refinery",
-   "why": "Discussions covered commercial partnerships in conventional and new energy, data centres, and digital infrastructure.",
-   "score": 27,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/kavinavora_21102026224413_SE_21102026.pdf",
-   "people": [],
-   "read_by": "gemini-3.5-flash-lite",
-   "subject": "Updates",
-   "ts": "2026-10-21T22:44:39",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
   },
   {
    "id": "106862412",
@@ -12731,24 +12614,6 @@
    "read_by": null,
    "subject": "Shareholders meeting",
    "ts": "2026-10-28T14:14:27",
-   "related": [],
-   "tier": "routine",
-   "label": "AGM / EGM"
-  },
-  {
-   "id": "106823131",
-   "symbol": "HDFCBANK",
-   "company": "HDFC Bank Limited",
-   "category": "agm_egm",
-   "headline": "Notice of Postal Ballot",
-   "why": null,
-   "score": 14,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK3_21102026115151_SEIntimationPostalBallotNoticeOct2026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Shareholders meeting",
-   "ts": "2026-10-21T11:52:36",
    "related": [],
    "tier": "routine",
    "label": "AGM / EGM"
@@ -13531,22 +13396,40 @@
    "label": "Investor meet"
   },
   {
-   "id": "106823400",
-   "symbol": "MARUTI",
-   "company": "Maruti Suzuki India Limited",
-   "category": "investor_meetings",
-   "headline": "Schedule of meet",
+   "id": "106868192",
+   "symbol": "ZYDUSLIFE",
+   "company": "Zydus Lifesciences Limited",
+   "category": "unclassified",
+   "headline": "Copy of Newspaper Publication",
    "why": null,
-   "score": 8,
+   "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTIASHISH_21102026153744_STxIntimation_EarningsCall_27Oct2026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_21112026151948_Newspaperpublication_21112026.pdf",
    "people": [],
    "read_by": null,
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "ts": "2026-10-21T15:39:05",
+   "subject": "Copy of Newspaper Publication",
+   "ts": "2026-11-21T15:21:44",
    "related": [],
    "tier": "routine",
-   "label": "Investor meet"
+   "label": "Routine"
+  },
+  {
+   "id": "106868122",
+   "symbol": "SUNPHARMA",
+   "company": "Sun Pharmaceutical Industries Limited",
+   "category": "unclassified",
+   "headline": "Newspaper Advertisements about opening of Special Window for transfer of physical shares",
+   "why": null,
+   "score": 4,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.in/corporate/SUNSEC_21112026124625_SEIntimationSpecialWindow21112026_signed.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Copy of Newspaper Publication",
+   "ts": "2026-11-21T12:47:03",
+   "related": [],
+   "tier": "routine",
+   "label": "Routine"
   },
   {
    "id": "106867478",
@@ -14879,132 +14762,6 @@
    "related": [],
    "tier": "routine",
    "label": "Routine"
-  },
-  {
-   "id": "106823907",
-   "symbol": "PERSISTENT",
-   "company": "Persistent Systems Limited",
-   "category": "unclassified",
-   "headline": "Outcome of Committee Meeting held on October 21, 2026",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_21102026195926_PersistentUpdateonSEOutcomeQIPissueopeningOct212026signed.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Committee Meeting Updates",
-   "ts": "2026-10-21T19:59:41",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106823856",
-   "symbol": "PERSISTENT",
-   "company": "Persistent Systems Limited",
-   "category": "unclassified",
-   "headline": "Outcome of Committee Meeting held on October 21, 2026",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_21102026191632_PersistentSEOutcomeQIPissueopeningOct212026V3signed.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Committee Meeting Updates",
-   "ts": "2026-10-21T19:16:46",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106823800",
-   "symbol": "DIXON",
-   "company": "Dixon Technologies (India) Limited",
-   "category": "unclassified",
-   "headline": "Giving of guarantees or indemnity or becoming a surety for any third party",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/DIXON_21102026184143_Regulation30GuaranteeQuanta21102026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Updates",
-   "ts": "2026-10-21T18:41:55",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106823642",
-   "symbol": "ETERNAL",
-   "company": "ETERNAL LIMITED",
-   "category": "unclassified",
-   "headline": "Eternal Limited has filed with exchange monitoring agency report for quarter ended September 30, 2026",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/ZOMATO_21102026173358_SignedMALletter.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Monitoring Agency Report",
-   "ts": "2026-10-21T17:35:22",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106823380",
-   "symbol": "ETERNAL",
-   "company": "ETERNAL LIMITED",
-   "category": "unclassified",
-   "headline": "Eternal Limited has filed with exchange copy of shareholders letter dated October 21, 2026",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/ZOMATO_21102026152512_SHLsigned.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "General Updates",
-   "ts": "2026-10-21T15:25:20",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106823374",
-   "symbol": "ETERNAL",
-   "company": "ETERNAL LIMITED",
-   "category": "unclassified",
-   "headline": "Outcome of board meeting dated October 21, 2026",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/ZOMATO_21102026152051_OutcomeSIGNED.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Outcome of Board Meeting",
-   "ts": "2026-10-21T15:22:31",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106823197",
-   "symbol": "BAJFINANCE",
-   "company": "Bajaj Finance Limited",
-   "category": "unclassified",
-   "headline": "Allotment of 2,12,000 securities pursuant to Non Convertible Securities at its meeting held on October 21, 2026",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_21102026122914_REG30_Allotment_intimation.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Allotment of Securities",
-   "ts": "2026-10-21T12:29:52",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
   }
  ],
  "upcoming": [],
@@ -15044,11 +14801,13 @@
   ]
  },
  "llm": {
-  "calls": 0,
+  "calls": 1,
   "cached": 0,
-  "in": 0,
-  "out": 0,
-  "models": [],
-  "remembered": 43
+  "in": 1541,
+  "out": 318,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "remembered": 37
  }
 }

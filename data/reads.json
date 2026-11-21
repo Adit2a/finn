@@ -1092,5 +1092,34 @@
 "people": [],
 "model": "gemini-3.5-flash-lite",
 "ts": "2026-11-19T16:37:46"
+},
+"106868123": {
+"category": "management_change",
+"headline": "Coal India appoints 2 executives as Senior Management Personnel",
+"why": "Changes in senior management personnel due to promotions.",
+"materiality": 20,
+"amount_cr": null,
+"people": [
+{
+"name": "Debabrata Ghosh",
+"role": "Executive Director (Excavation)",
+"change": "appointed",
+"effective": "2026-11-21",
+"background": "B.Tech in Mining Machinery from ISM, Dhanbad (1991). Over three decades of experience in Coal India Limited in HEMM operation, erection, commissioning, procurement, maintenance, and policy formulation.",
+"previous": null,
+"reason": null
+},
+{
+"name": "Rajesh V Nair",
+"role": "Executive Director (Human Resource)",
+"change": "appointed",
+"effective": "2026-11-21",
+"background": "M.A. in Social Work with Specialization in Personnel Management & Industrial Relations from Madras University (1993). Over 32 years of service in Coal India Limited, from Welfare Officer (Trainee) to Unit Level Personnel Officer, Area Personnel Head, and CIL Corporate HQ roles.",
+"previous": null,
+"reason": null
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-21T12:49:13"
 }
 }
