@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T15:37:34",
+ "generated_at": "2026-11-22T15:40:05",
  "window_days": 30,
  "holdings": [
   {
@@ -11880,26 +11880,6 @@
    "label": "Earnings call"
   },
   {
-   "id": "106825617",
-   "symbol": "PERSISTENT",
-   "company": "Persistent Systems Limited",
-   "category": "credit_rating",
-   "headline": "ICRA assigns [ICRA]A1+ to commercial paper of ₹1,000 crore and [ICRA]AA+ to NCDs of ₹2,000 crore",
-   "why": "Credit ratings updated with rating watch for debt instruments.",
-   "score": 40,
-   "reasons": [
-    "reaffirmation"
-   ],
-   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_22102026230112_PSLCreditRatingIntimationICRA22102026Sd.pdf",
-   "people": [],
-   "read_by": "gemini-3.5-flash-lite",
-   "subject": "Credit Rating",
-   "ts": "2026-10-22T23:01:42",
-   "related": [],
-   "tier": "glance",
-   "label": "Credit rating"
-  },
-  {
    "id": "106861174",
    "symbol": "ZEEMEDIA",
    "company": "Zee Media Corporation Limited",
@@ -12375,24 +12355,6 @@
    ],
    "tier": "routine",
    "label": "Results"
-  },
-  {
-   "id": "106825510",
-   "symbol": "HSCL",
-   "company": "Himadri Speciality Chemical Limited",
-   "category": "earnings_call",
-   "headline": "Link of Recording",
-   "why": null,
-   "score": 30,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_22102026215045_EarningsrecordingQ2FY27.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "ts": "2026-10-22T21:51:05",
-   "related": [],
-   "tier": "routine",
-   "label": "Earnings call"
   },
   {
    "id": "106862412",
@@ -13394,6 +13356,42 @@
    "related": [],
    "tier": "routine",
    "label": "Investor meet"
+  },
+  {
+   "id": "106868345",
+   "symbol": "MARUTI",
+   "company": "Maruti Suzuki India Limited",
+   "category": "unclassified",
+   "headline": "Price increase",
+   "why": null,
+   "score": 4,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTIASHISH_22112026000413_StxIntimation_PriceIncrease_22Nov20267.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "General Updates",
+   "ts": "2026-11-22T00:08:35",
+   "related": [],
+   "tier": "routine",
+   "label": "Routine"
+  },
+  {
+   "id": "106868327",
+   "symbol": "DIXON",
+   "company": "Dixon Technologies (India) Limited",
+   "category": "unclassified",
+   "headline": "Update on Asset Purchase Agreement executed between Dixon Technologies (India) Limited and Vimal Plast (India) Private Limited",
+   "why": null,
+   "score": 4,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.in/corporate/DIXON_21112026203112_VimalClosingAnnouncement21112026.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Updates",
+   "ts": "2026-11-21T20:31:34",
+   "related": [],
+   "tier": "routine",
+   "label": "Routine"
   },
   {
    "id": "106868192",
@@ -14708,60 +14706,6 @@
    "related": [],
    "tier": "routine",
    "label": "Routine"
-  },
-  {
-   "id": "106824670",
-   "symbol": "HDFCBANK",
-   "company": "HDFC Bank Limited",
-   "category": "unclassified",
-   "headline": "Allotment of 9138522  Shares",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK_22102026135701_SELetterESOP22102026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "ESOP/ESOS/ESPS",
-   "ts": "2026-10-22T13:57:50",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106824618",
-   "symbol": "HAL",
-   "company": "Hindustan Aeronautics Limited",
-   "category": "unclassified",
-   "headline": "General updates",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/HAL_22102026131032_GeneralUpdates22102026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Updates",
-   "ts": "2026-10-22T13:10:54",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106824495",
-   "symbol": "HDFCBANK",
-   "company": "HDFC Bank Limited",
-   "category": "unclassified",
-   "headline": "Copy of Newspaper Publication",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK3_22102026115451_PB_adv_22102026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Copy of Newspaper Publication",
-   "ts": "2026-10-22T11:55:18",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
   }
  ],
  "upcoming": [],
@@ -14801,13 +14745,11 @@
   ]
  },
  "llm": {
-  "calls": 1,
+  "calls": 0,
   "cached": 0,
-  "in": 1541,
-  "out": 318,
-  "models": [
-   "gemini-3.5-flash-lite"
-  ],
+  "in": 0,
+  "out": 0,
+  "models": [],
   "remembered": 37
  }
 }
