@@ -1121,5 +1121,44 @@
 ],
 "model": "gemini-3.5-flash-lite",
 "ts": "2026-11-21T12:49:13"
+},
+"106868466": {
+"category": "press_release",
+"headline": "Secures Large order for deploying AI cluster with additional NVIDIA B300 GPUs in Chennai",
+"why": "Secures large order for AI infrastructure deployment, boosting technology business segment growth potential.",
+"materiality": 65,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-23T09:34:04"
+},
+"106868814": {
+"category": "management_change",
+"headline": "Coal India appoints Deepak Saxena and Binay Kumar Jha as Senior Management Personnel.",
+"why": "Changes in senior management personnel through promotion to Executive Directors level.",
+"materiality": 20,
+"amount_cr": null,
+"people": [
+{
+"name": "Shri Deepak Saxena",
+"role": "Executive Director (Co-ordination)",
+"change": "appointed",
+"effective": "2026-11-23",
+"background": "Graduated from Indian School of Mines (ISM), Dhanbad, in 1993. Started career with Coal India Limited in 1994 at Central Coalfields Limited (CCL), moved to Northern Coalfields Limited (NCL). Over 32-year career, acquired experience in operation, management, underground mining, and mega opencast mine management.",
+"previous": null,
+"reason": null
+},
+{
+"name": "Shri Binay Kumar Jha",
+"role": "Executive Director (Contracts)",
+"change": "appointed",
+"effective": "2026-11-23",
+"background": "Graduated in B.Sc. (Engg) Civil from RIT, Jamshedpur in 1988. Joined Coal India Ltd. in April 1990. Career spanning more than 36 years, working in various capacities in different subsidiaries of Coal India Limited.",
+"previous": null,
+"reason": null
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-23T14:56:01"
 }
 }
