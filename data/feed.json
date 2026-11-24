@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T04:10:25",
+ "generated_at": "2026-11-24T18:21:53",
  "window_days": 30,
  "holdings": [
   {
@@ -8,11 +8,6 @@
    "sector": "Conglomerate",
    "mcap_cr": 1828245.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 1293.0,
-     "v": 13511284
-    },
     {
      "d": "2026-07-15",
      "c": 1295.5,
@@ -457,6 +452,11 @@
      "d": "2026-11-20",
      "c": 1377.5,
      "v": 13167730
+    },
+    {
+     "d": "2026-11-23",
+     "c": 1351.0,
+     "v": 15392522
     }
    ]
   },
@@ -466,11 +466,6 @@
    "sector": "Bank",
    "mcap_cr": 1262178.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 809.4,
-     "v": 25605395
-    },
     {
      "d": "2026-07-15",
      "c": 815.45,
@@ -915,6 +910,11 @@
      "d": "2026-11-20",
      "c": 846.0,
      "v": 70110384
+    },
+    {
+     "d": "2026-11-23",
+     "c": 817.8,
+     "v": 55628667
     }
    ]
   },
@@ -924,11 +924,6 @@
    "sector": "NBFC",
    "mcap_cr": 694558.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 1006.6,
-     "v": 6458393
-    },
     {
      "d": "2026-07-15",
      "c": 1021.3,
@@ -1373,6 +1368,11 @@
      "d": "2026-11-20",
      "c": 1122.0,
      "v": 9240902
+    },
+    {
+     "d": "2026-11-23",
+     "c": 1095.5,
+     "v": 9622884
     }
    ]
   },
@@ -1382,11 +1382,6 @@
    "sector": "IT services",
    "mcap_cr": 890050.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 2200.6,
-     "v": 9546290
-    },
     {
      "d": "2026-07-15",
      "c": 2189.2,
@@ -1831,6 +1826,11 @@
      "d": "2026-11-20",
      "c": 2376.2,
      "v": 2960416
+    },
+    {
+     "d": "2026-11-23",
+     "c": 2460.0,
+     "v": 7386320
     }
    ]
   },
@@ -1840,11 +1840,6 @@
    "sector": "IT services",
    "mcap_cr": 104185.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 5129.1,
-     "v": 567112
-    },
     {
      "d": "2026-07-15",
      "c": 5075.8,
@@ -2289,6 +2284,11 @@
      "d": "2026-11-20",
      "c": 6124.0,
      "v": 1791480
+    },
+    {
+     "d": "2026-11-23",
+     "c": 6282.5,
+     "v": 1271394
     }
    ]
   },
@@ -2298,11 +2298,6 @@
    "sector": "Pharma",
    "mcap_cr": 446276.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 1942.6,
-     "v": 2822124
-    },
     {
      "d": "2026-07-15",
      "c": 1951.5,
@@ -2747,6 +2742,11 @@
      "d": "2026-11-20",
      "c": 1884.9,
      "v": 1916054
+    },
+    {
+     "d": "2026-11-23",
+     "c": 1860.0,
+     "v": 1580308
     }
    ]
   },
@@ -2756,11 +2756,6 @@
    "sector": "Electronics mfg",
    "mcap_cr": 81958.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 13365.0,
-     "v": 396507
-    },
     {
      "d": "2026-07-15",
      "c": 13651.0,
@@ -3205,6 +3200,11 @@
      "d": "2026-11-20",
      "c": 13120.0,
      "v": 218855
+    },
+    {
+     "d": "2026-11-23",
+     "c": 13390.0,
+     "v": 475555
     }
    ]
   },
@@ -3214,11 +3214,6 @@
    "sector": "Consumer",
    "mcap_cr": 415484.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 4573.7,
-     "v": 631158
-    },
     {
      "d": "2026-07-15",
      "c": 4579.4,
@@ -3663,6 +3658,11 @@
      "d": "2026-11-20",
      "c": 4620.0,
      "v": 1478945
+    },
+    {
+     "d": "2026-11-23",
+     "c": 4680.0,
+     "v": 1005916
     }
    ]
   },
@@ -3672,11 +3672,6 @@
    "sector": "Consumer",
    "mcap_cr": 247511.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 2641.0,
-     "v": 975301
-    },
     {
      "d": "2026-07-15",
      "c": 2670.0,
@@ -4121,6 +4116,11 @@
      "d": "2026-11-20",
      "c": 2608.3,
      "v": 469267
+    },
+    {
+     "d": "2026-11-23",
+     "c": 2580.4,
+     "v": 525311
     }
    ]
   },
@@ -4130,11 +4130,6 @@
    "sector": "Auto",
    "mcap_cr": 440478.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 13489.0,
-     "v": 368645
-    },
     {
      "d": "2026-07-15",
      "c": 13583.0,
@@ -4579,6 +4574,11 @@
      "d": "2026-11-20",
      "c": 14011.0,
      "v": 1648162
+    },
+    {
+     "d": "2026-11-23",
+     "c": 14010.0,
+     "v": 1251978
     }
    ]
   },
@@ -4588,11 +4588,6 @@
    "sector": "Infra / EPC",
    "mcap_cr": 564112.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 3848.7,
-     "v": 2409089
-    },
     {
      "d": "2026-07-15",
      "c": 3783.9,
@@ -5037,6 +5032,11 @@
      "d": "2026-11-20",
      "c": 4209.1,
      "v": 2154352
+    },
+    {
+     "d": "2026-11-23",
+     "c": 4099.9,
+     "v": 1259578
     }
    ]
   },
@@ -5046,11 +5046,6 @@
    "sector": "Internet",
    "mcap_cr": 349439.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 286.15,
-     "v": 42966836
-    },
     {
      "d": "2026-07-15",
      "c": 294.8,
@@ -5495,6 +5490,11 @@
      "d": "2026-11-20",
      "c": 364.0,
      "v": 16447604
+    },
+    {
+     "d": "2026-11-23",
+     "c": 362.1,
+     "v": 14775393
     }
    ]
   },
@@ -5504,11 +5504,6 @@
    "sector": "Retail",
    "mcap_cr": 171061.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 2869.1,
-     "v": 784332
-    },
     {
      "d": "2026-07-15",
      "c": 2867.7,
@@ -5953,6 +5948,11 @@
      "d": "2026-11-20",
      "c": 3256.1,
      "v": 1252578
+    },
+    {
+     "d": "2026-11-23",
+     "c": 3208.0,
+     "v": 436980
     }
    ]
   },
@@ -5962,11 +5962,6 @@
    "sector": "Cables",
    "mcap_cr": 111978.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 9532.5,
-     "v": 464552
-    },
     {
      "d": "2026-07-15",
      "c": 9324.5,
@@ -6411,6 +6406,11 @@
      "d": "2026-11-20",
      "c": 7570.0,
      "v": 639287
+    },
+    {
+     "d": "2026-11-23",
+     "c": 7430.0,
+     "v": 513154
     }
    ]
   },
@@ -6420,11 +6420,6 @@
    "sector": "Defence PSU",
    "mcap_cr": 319674.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 4442.4,
-     "v": 770894
-    },
     {
      "d": "2026-07-15",
      "c": 4420.5,
@@ -6869,6 +6864,11 @@
      "d": "2026-11-20",
      "c": 4809.0,
      "v": 492812
+    },
+    {
+     "d": "2026-11-23",
+     "c": 4780.0,
+     "v": 440368
     }
    ]
   },
@@ -6878,11 +6878,6 @@
    "sector": "Chemicals",
    "mcap_cr": 20744.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 1669.3,
-     "v": 314981
-    },
     {
      "d": "2026-07-15",
      "c": 1697.0,
@@ -7327,6 +7322,11 @@
      "d": "2026-11-20",
      "c": 1531.2,
      "v": 232572
+    },
+    {
+     "d": "2026-11-23",
+     "c": 1520.9,
+     "v": 104710
     }
    ]
   },
@@ -7336,11 +7336,6 @@
    "sector": "Mining PSU",
    "mcap_cr": 235416.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 430.6,
-     "v": 6155516
-    },
     {
      "d": "2026-07-15",
      "c": 427.55,
@@ -7785,6 +7780,11 @@
      "d": "2026-11-20",
      "c": 390.0,
      "v": 9442717
+    },
+    {
+     "d": "2026-11-23",
+     "c": 382.0,
+     "v": 8254111
     }
    ]
   },
@@ -7794,11 +7794,6 @@
    "sector": "Utilities",
    "mcap_cr": 104807.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 377.7,
-     "v": 3224890
-    },
     {
      "d": "2026-07-15",
      "c": 380.9,
@@ -8243,6 +8238,11 @@
      "d": "2026-11-20",
      "c": 339.7,
      "v": 9567088
+    },
+    {
+     "d": "2026-11-23",
+     "c": 328.0,
+     "v": 7595490
     }
    ]
   },
@@ -8252,11 +8252,6 @@
    "sector": "",
    "mcap_cr": 119651.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 1133.6,
-     "v": 1125219
-    },
     {
      "d": "2026-07-15",
      "c": 1156.9,
@@ -8701,6 +8696,11 @@
      "d": "2026-11-20",
      "c": 1200.0,
      "v": 780371
+    },
+    {
+     "d": "2026-11-23",
+     "c": 1199.5,
+     "v": 690350
     }
    ]
   },
@@ -8710,11 +8710,6 @@
    "sector": "",
    "mcap_cr": 27900.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 671.4,
-     "v": 5549481
-    },
     {
      "d": "2026-07-15",
      "c": 681.55,
@@ -9159,6 +9154,11 @@
      "d": "2026-11-20",
      "c": 561.25,
      "v": 1257566
+    },
+    {
+     "d": "2026-11-23",
+     "c": 552.95,
+     "v": 657335
     }
    ]
   },
@@ -9168,11 +9168,6 @@
    "sector": "",
    "mcap_cr": 456.0,
    "series": [
-    {
-     "d": "2026-07-14",
-     "c": 8.25,
-     "v": 628179
-    },
     {
      "d": "2026-07-15",
      "c": 8.12,
@@ -9617,6 +9612,11 @@
      "d": "2026-11-20",
      "c": 7.02,
      "v": 153162
+    },
+    {
+     "d": "2026-11-23",
+     "c": 6.95,
+     "v": 191136
     }
    ]
   }
@@ -11095,6 +11095,24 @@
    "label": "Management"
   },
   {
+   "id": "106869451",
+   "symbol": "COALINDIA",
+   "company": "Coal India Limited",
+   "category": "M&A",
+   "headline": "Disclosure under Regulation 30 of Securities and Exchange Board of India(Listing Obligations and Disclosure Requirements) Regulations, 2015 ( ListingRegulations )   Initial public o&#64256;ering ( IPO ) of equity shares of face value &#8377; 2 each( Equity Shares ) of Mahanadi Coalfield Limited, a subsidiary of Coal India Limited( Company )- Filing of Prospectus with RoC by MCL",
+   "why": null,
+   "score": 72,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_24112026070916_MCL-Prospectus.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "General Updates",
+   "ts": "2026-11-24T07:09:30",
+   "related": [],
+   "tier": "act",
+   "label": "M&A"
+  },
+  {
    "id": "106855359",
    "symbol": "BAJFINANCE",
    "company": "Bajaj Finance Limited",
@@ -11156,24 +11174,6 @@
    "related": [],
    "tier": "act",
    "label": "M&A"
-  },
-  {
-   "id": "106827783",
-   "symbol": "RELIANCE",
-   "company": "Reliance Industries Limited",
-   "category": "fund_raise",
-   "headline": "Jio Platforms Limited finalises IPO issue price at 1,119 per equity share",
-   "why": "Subsidiary Jio Platforms Limited finalized its IPO issue price at 1,119 per equity share.",
-   "score": 72,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/PVIVINMA_24102026214355_RIL_SE_241026.pdf",
-   "people": [],
-   "read_by": "gemini-3.5-flash-lite",
-   "subject": "General Updates",
-   "ts": "2026-10-24T21:48:04",
-   "related": [],
-   "tier": "act",
-   "label": "Fund raise"
   },
   {
    "id": "106829445",
@@ -11853,6 +11853,36 @@
    "label": "Earnings call"
   },
   {
+   "id": "106869612",
+   "symbol": "DIXON",
+   "company": "Dixon Technologies (India) Limited",
+   "category": "management_change",
+   "headline": "Appointed Ms. Aruna Jayanthi as Non-Executive and Independent Director",
+   "why": "Appointment of independent director to the board for a five-year term.",
+   "score": 36,
+   "reasons": [
+    "board seat, not management"
+   ],
+   "pdf": "https://nsearchives.nseindia.in/corporate/DIXON_24112026150148_Reg30DisclosureArunaJayanthi24112026.pdf",
+   "people": [
+    {
+     "name": "Aruna Jayanthi",
+     "role": "Non-Executive and Independent Director",
+     "change": "appointed",
+     "effective": "2026-11-24",
+     "background": "Holds a Master’s degree in Management Studies in Finance from Narsee Monjee Institute of Management Studies. Held global leadership positions at Capgemini including leading business in Canada and Latin America, CEO Capgemini India, CEO Business Services.",
+     "previous": "Led Capgemini’s business in Canada and Latin America",
+     "reason": null
+    }
+   ],
+   "read_by": "gemini-3.5-flash-lite",
+   "subject": "Appointment",
+   "ts": "2026-11-24T15:04:54",
+   "related": [],
+   "tier": "glance",
+   "label": "Management"
+  },
+  {
    "id": "106861174",
    "symbol": "ZEEMEDIA",
    "company": "Zee Media Corporation Limited",
@@ -12285,24 +12315,6 @@
    "label": "Press release"
   },
   {
-   "id": "106827323",
-   "symbol": "MARUTI",
-   "company": "Maruti Suzuki India Limited",
-   "category": "press_release",
-   "headline": "A press release dated October 24, 2026, titled \"Maruti Suzuki VICTORIS AURUM Edition Launched to Celebrate 1 Year of Record Sales Success",
-   "why": null,
-   "score": 32,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTI_24102026102410_STxIntimation_VictorisAURUM_24Oct2026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Press Release",
-   "ts": "2026-10-24T10:25:13",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
    "id": "106830931",
    "symbol": "RELIANCE",
    "company": "Reliance Industries Limited",
@@ -12593,6 +12605,60 @@
    "related": [],
    "tier": "routine",
    "label": "M&A"
+  },
+  {
+   "id": "106869755",
+   "symbol": "LT",
+   "company": "Larsen & Toubro Limited",
+   "category": "investor_meetings",
+   "headline": "Schedule of meet",
+   "why": null,
+   "score": 8,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_24112026173302_Intimation24112026.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "ts": "2026-11-24T17:33:26",
+   "related": [],
+   "tier": "routine",
+   "label": "Investor meet"
+  },
+  {
+   "id": "106869583",
+   "symbol": "ASIANPAINT",
+   "company": "Asian Paints Limited",
+   "category": "investor_meetings",
+   "headline": "This is to inform you that the management representatives would be meeting the members of the Promoter(s) & Promoter(s) Group on Friday, 27th November 2026, 4.00 pm (IST) onwards in Mumbai, to brief them on the performance of the Company for the quarter and half year ended 30th September 2026",
+   "why": null,
+   "score": 8,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_24112026142403_SEINTIMATIONPROMOTERMEETNOV2026signed.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "ts": "2026-11-24T14:24:16",
+   "related": [],
+   "tier": "routine",
+   "label": "Investor meet"
+  },
+  {
+   "id": "106869480",
+   "symbol": "POLYCAB",
+   "company": "Polycab India Limited",
+   "category": "investor_meetings",
+   "headline": "Analyst(s)/Investor(s) meet",
+   "why": null,
+   "score": 8,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.in/corporate/POLYCAB_24112026104607_Intimationtostockexchange.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "General Updates",
+   "ts": "2026-11-24T10:46:47",
+   "related": [],
+   "tier": "routine",
+   "label": "Investor meet"
   },
   {
    "id": "106869094",
@@ -13315,22 +13381,22 @@
    "label": "Investor meet"
   },
   {
-   "id": "106827365",
+   "id": "106869503",
    "symbol": "ZYDUSLIFE",
    "company": "Zydus Lifesciences Limited",
-   "category": "investor_meetings",
-   "headline": "Schedule of meet",
+   "category": "unclassified",
+   "headline": "General Updates",
    "why": null,
-   "score": 8,
+   "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_24102026112911_InvestorCall24102026.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/Cadilahc_24112026112754_IncorporationWOSAustralia.pdf",
    "people": [],
    "read_by": null,
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "ts": "2026-10-24T11:31:15",
+   "subject": "General Updates",
+   "ts": "2026-11-24T11:29:17",
    "related": [],
    "tier": "routine",
-   "label": "Investor meet"
+   "label": "Routine"
   },
   {
    "id": "106868408",
@@ -14663,24 +14729,6 @@
    "related": [],
    "tier": "routine",
    "label": "Routine"
-  },
-  {
-   "id": "106827787",
-   "symbol": "HDFCBANK",
-   "company": "HDFC Bank Limited",
-   "category": "unclassified",
-   "headline": "Grant of 1302379  Options",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK_24102026222634_SE_Intimation_grant_of_ESOPs.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "ESOP/ESOS/ESPS",
-   "ts": "2026-10-24T22:27:22",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
   }
  ],
  "upcoming": [
@@ -14689,8 +14737,8 @@
    "date": "2026-11-27",
    "kind": "investor_meetings",
    "title": "Investor meeting",
-   "detail": "Find enclosed communication with respect to the institutional investor meeting to be held on 27th November 2026",
-   "source": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_23112026174359_SEINTIMATIONANALYSTMEETSNOV272026signed.pdf"
+   "detail": "This is to inform you that the management representatives would be meeting the members of the Promoter(s) & Promoter(s) Group on Friday, 27th November 2026, 4.0",
+   "source": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_24112026142403_SEINTIMATIONPROMOTERMEETNOV2026signed.pdf"
   }
  ],
  "default_portfolio": [
@@ -14729,13 +14777,13 @@
   ]
  },
  "llm": {
-  "calls": 2,
+  "calls": 1,
   "cached": 0,
-  "in": 3674,
-  "out": 191,
+  "in": 2039,
+  "out": 212,
   "models": [
    "gemini-3.5-flash-lite"
   ],
-  "remembered": 38
+  "remembered": 39
  }
 }
