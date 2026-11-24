@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T18:21:53",
+ "generated_at": "2026-11-25T02:43:14",
  "window_days": 30,
  "holdings": [
   {
@@ -12607,6 +12607,42 @@
    "label": "M&A"
   },
   {
+   "id": "106869921",
+   "symbol": "HSCL",
+   "company": "Himadri Speciality Chemical Limited",
+   "category": "investor_meetings",
+   "headline": "Schedule of meet",
+   "why": null,
+   "score": 8,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_24112026214810_ScheduleofAnalyst24112026.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "ts": "2026-11-24T21:50:28",
+   "related": [],
+   "tier": "routine",
+   "label": "Investor meet"
+  },
+  {
+   "id": "106869922",
+   "symbol": "HSCL",
+   "company": "Himadri Speciality Chemical Limited",
+   "category": "investor_meetings",
+   "headline": "Schedule of meet",
+   "why": null,
+   "score": 8,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_24112026214924_ScheduleofAnalyst24112026.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "ts": "2026-11-24T21:50:28",
+   "related": [],
+   "tier": "routine",
+   "label": "Investor meet"
+  },
+  {
    "id": "106869755",
    "symbol": "LT",
    "company": "Larsen & Toubro Limited",
@@ -14777,13 +14813,11 @@
   ]
  },
  "llm": {
-  "calls": 1,
+  "calls": 0,
   "cached": 0,
-  "in": 2039,
-  "out": 212,
-  "models": [
-   "gemini-3.5-flash-lite"
-  ],
-  "remembered": 39
+  "in": 0,
+  "out": 0,
+  "models": [],
+  "remembered": 40
  }
 }
