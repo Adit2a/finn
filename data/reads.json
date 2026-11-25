@@ -1210,5 +1210,25 @@
 "people": [],
 "model": "gemini-3.5-flash-lite",
 "ts": "2026-11-25T11:21:42"
+},
+"106870715": {
+"category": "management_change",
+"headline": "Re-appointment of Dr. Harsh Kumar Bhanwala as Independent Director for 5 years",
+"why": null,
+"materiality": 15,
+"amount_cr": null,
+"people": [
+{
+"name": "Dr. Harsh Kumar Bhanwala",
+"role": "Independent Director",
+"change": "re-appointed",
+"effective": "2027-01-25",
+"background": "40 years experience in board governance, finance, rural development, and impact finance. Former Chairman of NABARD and IIFCL. Holds B.Sc. in Dairy Technology, PGDM and Ph.D. in Management.",
+"previous": "Independent Director at HDFC Bank Limited",
+"reason": null
+}
+],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-25T18:01:30"
 }
 }
