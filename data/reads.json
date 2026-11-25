@@ -1200,5 +1200,15 @@
 ],
 "model": "gemini-3.5-flash-lite",
 "ts": "2026-11-24T15:04:54"
+},
+"106870219": {
+"category": "press_release",
+"headline": "L&T wins order to develop 300 MW / 900 MWh BESS in Gujarat",
+"why": "Significant order addition in renewable energy sector involving battery energy storage systems.",
+"materiality": 50,
+"amount_cr": null,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-25T11:21:42"
 }
 }
