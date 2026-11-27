@@ -1230,5 +1230,15 @@
 ],
 "model": "gemini-3.5-flash-lite",
 "ts": "2026-11-25T18:01:30"
+},
+"106872500": {
+"category": "fund_raise",
+"headline": "Mahanadi Coalfields completes IPO of 66.18 crore shares at Rs 136 per share",
+"why": "Coal India reduced its shareholding in Mahanadi Coalfields from 100% to 90%, raising funds through IPO.",
+"materiality": 75,
+"amount_cr": 9001.0,
+"people": [],
+"model": "gemini-3.5-flash-lite",
+"ts": "2026-11-27T11:12:19"
 }
 }

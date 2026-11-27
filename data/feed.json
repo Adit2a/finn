@@ -1,23 +1,13 @@
 {
- "generated_at": "2026-11-27T01:43:00",
+ "generated_at": "2026-11-27T16:47:31",
  "window_days": 30,
  "holdings": [
   {
    "symbol": "RELIANCE",
    "name": "Reliance Industries",
    "sector": "Conglomerate",
-   "mcap_cr": 1891202.0,
+   "mcap_cr": 1866554.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 1296.6,
-     "v": 15631046
-    },
-    {
-     "d": "2026-07-17",
-     "c": 1327.2,
-     "v": 18302218
-    },
     {
      "d": "2026-07-20",
      "c": 1323.1,
@@ -457,6 +447,16 @@
      "d": "2026-11-25",
      "c": 1373.9,
      "v": 18781717
+    },
+    {
+     "d": "2026-11-26",
+     "c": 1396.2,
+     "v": 20028816
+    },
+    {
+     "d": "2026-11-27",
+     "c": 1382.6,
+     "v": 12170985
     }
    ]
   },
@@ -464,18 +464,8 @@
    "symbol": "HDFCBANK",
    "name": "HDFC Bank",
    "sector": "Bank",
-   "mcap_cr": 1333863.0,
+   "mcap_cr": 1315814.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 808.3,
-     "v": 18698186
-    },
-    {
-     "d": "2026-07-17",
-     "c": 819.6,
-     "v": 17415322
-    },
     {
      "d": "2026-07-20",
      "c": 777.6,
@@ -915,6 +905,16 @@
      "d": "2026-11-25",
      "c": 846.2,
      "v": 48187313
+    },
+    {
+     "d": "2026-11-26",
+     "c": 862.0,
+     "v": 70517167
+    },
+    {
+     "d": "2026-11-27",
+     "c": 857.25,
+     "v": 32944475
     }
    ]
   },
@@ -922,18 +922,8 @@
    "symbol": "BAJFINANCE",
    "name": "Bajaj Finance",
    "sector": "NBFC",
-   "mcap_cr": 696880.0,
+   "mcap_cr": 685914.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 1037.6,
-     "v": 9079076
-    },
-    {
-     "d": "2026-07-17",
-     "c": 1056.3,
-     "v": 12882360
-    },
     {
      "d": "2026-07-20",
      "c": 1064.0,
@@ -1373,6 +1363,16 @@
      "d": "2026-11-25",
      "c": 1131.35,
      "v": 10260906
+    },
+    {
+     "d": "2026-11-26",
+     "c": 1097.85,
+     "v": 7790374
+    },
+    {
+     "d": "2026-11-27",
+     "c": 1080.0,
+     "v": 6876207
     }
    ]
   },
@@ -1380,18 +1380,8 @@
    "symbol": "TCS",
    "name": "TCS",
    "sector": "IT services",
-   "mcap_cr": 956157.0,
+   "mcap_cr": 931763.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 2201.0,
-     "v": 5197595
-    },
-    {
-     "d": "2026-07-17",
-     "c": 2269.0,
-     "v": 5615138
-    },
     {
      "d": "2026-07-20",
      "c": 2251.1,
@@ -1831,6 +1821,16 @@
      "d": "2026-11-25",
      "c": 2517.3,
      "v": 5001661
+    },
+    {
+     "d": "2026-11-26",
+     "c": 2640.3,
+     "v": 5534593
+    },
+    {
+     "d": "2026-11-27",
+     "c": 2572.5,
+     "v": 3271968
     }
    ]
   },
@@ -1838,18 +1838,8 @@
    "symbol": "PERSISTENT",
    "name": "Persistent Systems",
    "sector": "IT services",
-   "mcap_cr": 102884.0,
+   "mcap_cr": 105072.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 5059.3,
-     "v": 426991
-    },
-    {
-     "d": "2026-07-17",
-     "c": 5183.9,
-     "v": 532124
-    },
     {
      "d": "2026-07-20",
      "c": 5188.7,
@@ -2289,6 +2279,16 @@
      "d": "2026-11-25",
      "c": 6120.0,
      "v": 476846
+    },
+    {
+     "d": "2026-11-26",
+     "c": 6200.0,
+     "v": 484479
+    },
+    {
+     "d": "2026-11-27",
+     "c": 6320.0,
+     "v": 539292
     }
    ]
   },
@@ -2296,18 +2296,8 @@
    "symbol": "SUNPHARMA",
    "name": "Sun Pharma",
    "sector": "Pharma",
-   "mcap_cr": 460658.0,
+   "mcap_cr": 456757.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 1950.1,
-     "v": 1396189
-    },
-    {
-     "d": "2026-07-17",
-     "c": 1932.6,
-     "v": 2475664
-    },
     {
      "d": "2026-07-20",
      "c": 1956.4,
@@ -2747,6 +2737,16 @@
      "d": "2026-11-25",
      "c": 1901.0,
      "v": 2383981
+    },
+    {
+     "d": "2026-11-26",
+     "c": 1915.7,
+     "v": 2313221
+    },
+    {
+     "d": "2026-11-27",
+     "c": 1899.9,
+     "v": 1653879
     }
    ]
   },
@@ -2754,18 +2754,8 @@
    "symbol": "DIXON",
    "name": "Dixon Technologies",
    "sector": "Electronics mfg",
-   "mcap_cr": 77713.0,
+   "mcap_cr": 80152.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 14507.0,
-     "v": 2267533
-    },
-    {
-     "d": "2026-07-17",
-     "c": 14329.0,
-     "v": 674412
-    },
     {
      "d": "2026-07-20",
      "c": 14589.0,
@@ -3205,6 +3195,16 @@
      "d": "2026-11-25",
      "c": 12978.0,
      "v": 499774
+    },
+    {
+     "d": "2026-11-26",
+     "c": 12718.0,
+     "v": 413125
+    },
+    {
+     "d": "2026-11-27",
+     "c": 13138.0,
+     "v": 412608
     }
    ]
   },
@@ -3212,18 +3212,8 @@
    "symbol": "TITAN",
    "name": "Titan",
    "sector": "Consumer",
-   "mcap_cr": 414045.0,
+   "mcap_cr": 415031.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 4625.8,
-     "v": 1136159
-    },
-    {
-     "d": "2026-07-17",
-     "c": 4638.1,
-     "v": 667212
-    },
     {
      "d": "2026-07-20",
      "c": 4643.4,
@@ -3663,6 +3653,16 @@
      "d": "2026-11-25",
      "c": 4686.6,
      "v": 909507
+    },
+    {
+     "d": "2026-11-26",
+     "c": 4631.1,
+     "v": 914123
+    },
+    {
+     "d": "2026-11-27",
+     "c": 4675.3,
+     "v": 1519538
     }
    ]
   },
@@ -3670,18 +3670,8 @@
    "symbol": "ASIANPAINT",
    "name": "Asian Paints",
    "sector": "Consumer",
-   "mcap_cr": 244110.0,
+   "mcap_cr": 242893.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 2674.7,
-     "v": 455037
-    },
-    {
-     "d": "2026-07-17",
-     "c": 2689.0,
-     "v": 452284
-    },
     {
      "d": "2026-07-20",
      "c": 2691.4,
@@ -4121,6 +4111,16 @@
      "d": "2026-11-25",
      "c": 2621.2,
      "v": 757708
+    },
+    {
+     "d": "2026-11-26",
+     "c": 2543.0,
+     "v": 938757
+    },
+    {
+     "d": "2026-11-27",
+     "c": 2532.6,
+     "v": 523560
     }
    ]
   },
@@ -4128,18 +4128,8 @@
    "symbol": "MARUTI",
    "name": "Maruti Suzuki",
    "sector": "Auto",
-   "mcap_cr": 441503.0,
+   "mcap_cr": 432464.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 13783.0,
-     "v": 356847
-    },
-    {
-     "d": "2026-07-17",
-     "c": 13803.0,
-     "v": 237330
-    },
     {
      "d": "2026-07-20",
      "c": 13514.0,
@@ -4579,6 +4569,16 @@
      "d": "2026-11-25",
      "c": 14200.0,
      "v": 730287
+    },
+    {
+     "d": "2026-11-26",
+     "c": 14015.0,
+     "v": 455910
+    },
+    {
+     "d": "2026-11-27",
+     "c": 13765.0,
+     "v": 392631
     }
    ]
   },
@@ -4586,18 +4586,8 @@
    "symbol": "LT",
    "name": "Larsen & Toubro",
    "sector": "Infra / EPC",
-   "mcap_cr": 570740.0,
+   "mcap_cr": 564458.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 3775.6,
-     "v": 2936753
-    },
-    {
-     "d": "2026-07-17",
-     "c": 3814.5,
-     "v": 1942610
-    },
     {
      "d": "2026-07-20",
      "c": 3838.8,
@@ -5037,6 +5027,16 @@
      "d": "2026-11-25",
      "c": 4156.0,
      "v": 1313101
+    },
+    {
+     "d": "2026-11-26",
+     "c": 4132.1,
+     "v": 1202942
+    },
+    {
+     "d": "2026-11-27",
+     "c": 4108.5,
+     "v": 997930
     }
    ]
   },
@@ -5044,18 +5044,8 @@
    "symbol": "ETERNAL",
    "name": "Eternal (Zomato)",
    "sector": "Internet",
-   "mcap_cr": 355513.0,
+   "mcap_cr": 350070.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 286.45,
-     "v": 31866265
-    },
-    {
-     "d": "2026-07-17",
-     "c": 286.6,
-     "v": 17477557
-    },
     {
      "d": "2026-07-20",
      "c": 286.95,
@@ -5495,6 +5485,16 @@
      "d": "2026-11-25",
      "c": 371.7,
      "v": 29694684
+    },
+    {
+     "d": "2026-11-26",
+     "c": 367.7,
+     "v": 24718884
+    },
+    {
+     "d": "2026-11-27",
+     "c": 363.0,
+     "v": 18957580
     }
    ]
   },
@@ -5502,18 +5502,8 @@
    "symbol": "TRENT",
    "name": "Trent",
    "sector": "Retail",
-   "mcap_cr": 174214.0,
+   "mcap_cr": 174372.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 2860.2,
-     "v": 905518
-    },
-    {
-     "d": "2026-07-17",
-     "c": 2842.4,
-     "v": 791066
-    },
     {
      "d": "2026-07-20",
      "c": 2925.9,
@@ -5953,6 +5943,16 @@
      "d": "2026-11-25",
      "c": 3319.6,
      "v": 1846939
+    },
+    {
+     "d": "2026-11-26",
+     "c": 3262.6,
+     "v": 528469
+    },
+    {
+     "d": "2026-11-27",
+     "c": 3273.0,
+     "v": 579271
     }
    ]
   },
@@ -5960,18 +5960,8 @@
    "symbol": "POLYCAB",
    "name": "Polycab",
    "sector": "Cables",
-   "mcap_cr": 110607.0,
+   "mcap_cr": 111597.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 9215.0,
-     "v": 806800
-    },
-    {
-     "d": "2026-07-17",
-     "c": 8862.0,
-     "v": 727314
-    },
     {
      "d": "2026-07-20",
      "c": 8885.0,
@@ -6411,6 +6401,16 @@
      "d": "2026-11-25",
      "c": 7379.0,
      "v": 573991
+    },
+    {
+     "d": "2026-11-26",
+     "c": 7350.0,
+     "v": 594715
+    },
+    {
+     "d": "2026-11-27",
+     "c": 7429.0,
+     "v": 507139
     }
    ]
   },
@@ -6418,18 +6418,8 @@
    "symbol": "HAL",
    "name": "Hindustan Aeronautics",
    "sector": "Defence PSU",
-   "mcap_cr": 328741.0,
+   "mcap_cr": 339378.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 4433.8,
-     "v": 474213
-    },
-    {
-     "d": "2026-07-17",
-     "c": 4500.7,
-     "v": 658032
-    },
     {
      "d": "2026-07-20",
      "c": 4491.0,
@@ -6869,6 +6859,16 @@
      "d": "2026-11-25",
      "c": 4936.0,
      "v": 980966
+    },
+    {
+     "d": "2026-11-26",
+     "c": 4909.6,
+     "v": 680832
+    },
+    {
+     "d": "2026-11-27",
+     "c": 5074.0,
+     "v": 2411665
     }
    ]
   },
@@ -6876,18 +6876,8 @@
    "symbol": "DEEPAKNTR",
    "name": "Deepak Nitrite",
    "sector": "Chemicals",
-   "mcap_cr": 20763.0,
+   "mcap_cr": 21008.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 1741.8,
-     "v": 387052
-    },
-    {
-     "d": "2026-07-17",
-     "c": 1708.0,
-     "v": 153400
-    },
     {
      "d": "2026-07-20",
      "c": 1689.7,
@@ -7327,6 +7317,16 @@
      "d": "2026-11-25",
      "c": 1494.4,
      "v": 148116
+    },
+    {
+     "d": "2026-11-26",
+     "c": 1521.8,
+     "v": 113633
+    },
+    {
+     "d": "2026-11-27",
+     "c": 1539.0,
+     "v": 158253
     }
    ]
   },
@@ -7334,18 +7334,8 @@
    "symbol": "COALINDIA",
    "name": "Coal India",
    "sector": "Mining PSU",
-   "mcap_cr": 239824.0,
+   "mcap_cr": 239576.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 427.35,
-     "v": 4570655
-    },
-    {
-     "d": "2026-07-17",
-     "c": 427.65,
-     "v": 4142036
-    },
     {
      "d": "2026-07-20",
      "c": 429.4,
@@ -7785,6 +7775,16 @@
      "d": "2026-11-25",
      "c": 385.0,
      "v": 9092786
+    },
+    {
+     "d": "2026-11-26",
+     "c": 388.9,
+     "v": 5689206
+    },
+    {
+     "d": "2026-11-27",
+     "c": 388.85,
+     "v": 7260264
     }
    ]
   },
@@ -7792,18 +7792,8 @@
    "symbol": "TATAPOWER",
    "name": "Tata Power",
    "sector": "Utilities",
-   "mcap_cr": 103433.0,
+   "mcap_cr": 102411.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 377.1,
-     "v": 3391530
-    },
-    {
-     "d": "2026-07-17",
-     "c": 377.25,
-     "v": 2626498
-    },
     {
      "d": "2026-07-20",
      "c": 384.3,
@@ -8243,6 +8233,16 @@
      "d": "2026-11-25",
      "c": 323.0,
      "v": 11373121
+    },
+    {
+     "d": "2026-11-26",
+     "c": 323.5,
+     "v": 5577655
+    },
+    {
+     "d": "2026-11-27",
+     "c": 320.05,
+     "v": 7951212
     }
    ]
   },
@@ -8250,18 +8250,8 @@
    "symbol": "ZYDUSLIFE",
    "name": "Zydus Lifesciences",
    "sector": "",
-   "mcap_cr": 119218.0,
+   "mcap_cr": 115456.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 1153.9,
-     "v": 982363
-    },
-    {
-     "d": "2026-07-17",
-     "c": 1143.7,
-     "v": 1240517
-    },
     {
      "d": "2026-07-20",
      "c": 1149.0,
@@ -8701,6 +8691,16 @@
      "d": "2026-11-25",
      "c": 1236.0,
      "v": 1257014
+    },
+    {
+     "d": "2026-11-26",
+     "c": 1194.2,
+     "v": 2435694
+    },
+    {
+     "d": "2026-11-27",
+     "c": 1156.9,
+     "v": 2546628
     }
    ]
   },
@@ -8708,18 +8708,8 @@
    "symbol": "HSCL",
    "name": "Himadri Speciality Chemical",
    "sector": "",
-   "mcap_cr": 27507.0,
+   "mcap_cr": 27766.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 722.35,
-     "v": 28438175
-    },
-    {
-     "d": "2026-07-17",
-     "c": 741.55,
-     "v": 18316544
-    },
     {
      "d": "2026-07-20",
      "c": 769.9,
@@ -9159,6 +9149,16 @@
      "d": "2026-11-25",
      "c": 543.2,
      "v": 779571
+    },
+    {
+     "d": "2026-11-26",
+     "c": 545.25,
+     "v": 506552
+    },
+    {
+     "d": "2026-11-27",
+     "c": 549.25,
+     "v": 1215082
     }
    ]
   },
@@ -9166,18 +9166,8 @@
    "symbol": "ZEEMEDIA",
    "name": "Zee Media Corporation",
    "sector": "",
-   "mcap_cr": 446.0,
+   "mcap_cr": 451.0,
    "series": [
-    {
-     "d": "2026-07-16",
-     "c": 8.18,
-     "v": 583694
-    },
-    {
-     "d": "2026-07-17",
-     "c": 8.17,
-     "v": 468362
-    },
     {
      "d": "2026-07-20",
      "c": 8.08,
@@ -9617,6 +9607,16 @@
      "d": "2026-11-25",
      "c": 6.87,
      "v": 284066
+    },
+    {
+     "d": "2026-11-26",
+     "c": 6.86,
+     "v": 196005
+    },
+    {
+     "d": "2026-11-27",
+     "c": 6.85,
+     "v": 291560
     }
    ]
   }
@@ -10304,84 +10304,6 @@
    "label": "Results"
   },
   {
-   "id": "106830479",
-   "symbol": "LT",
-   "company": "Larsen & Toubro Limited",
-   "category": "results",
-   "headline": "Q2 FY27: revenue +16% YoY, PAT +27% YoY",
-   "why": null,
-   "score": 89,
-   "reasons": [
-    "PAT +27% YoY"
-   ],
-   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_27102026171156_LTSep2026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Outcome of Board Meeting",
-   "ts": "2026-10-27T22:13:16",
-   "related": [
-    {
-     "id": "106831153",
-     "headline": "Link of Recording",
-     "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-     "pdf": "https://nsearchives.nseindia.in/corporate/PAM_27102026221257_Intimation27102026.pdf",
-     "ts": "2026-10-27T22:13:16",
-     "category": "earnings_call"
-    }
-   ],
-   "results": {
-    "symbol": "LT",
-    "quarter": "Q2 FY27",
-    "quarter_end": "2026-09-30",
-    "basis": "Consolidated",
-    "kind": "corporate",
-    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1747229_27102026081332_WEB.xml",
-    "derived": [],
-    "metrics": [
-     {
-      "key": "revenue",
-      "label": "Revenue",
-      "value": 78749.94,
-      "qoq": 15.9,
-      "yoy": 15.8,
-      "prev_q": 67941.74,
-      "prev_y": 67983.53
-     },
-     {
-      "key": "ebitda",
-      "label": "EBITDA",
-      "value": 9150.91,
-      "qoq": 7.7,
-      "yoy": 11.7,
-      "prev_q": 8493.21,
-      "prev_y": 8190.69
-     },
-     {
-      "key": "pbt",
-      "label": "PBT",
-      "value": 7641.06,
-      "qoq": 10.4,
-      "yoy": 20.6,
-      "prev_q": 6922.26,
-      "prev_y": 6336.11
-     },
-     {
-      "key": "pat",
-      "label": "PAT",
-      "value": 5949.15,
-      "qoq": 19.3,
-      "yoy": 27.2,
-      "prev_q": 4988.03,
-      "prev_y": 4678.01
-     }
-    ],
-    "ebitda_margin": 11.6,
-    "ebitda_margin_bps_yoy": -43
-   },
-   "tier": "act",
-   "label": "Results"
-  },
-  {
    "id": "106854012",
    "symbol": "MARUTI",
    "company": "Maruti Suzuki India Limited",
@@ -10545,129 +10467,24 @@
    "label": "Results"
   },
   {
-   "id": "106830187",
-   "symbol": "MARUTI",
-   "company": "Maruti Suzuki India Limited",
-   "category": "results",
-   "headline": "Q2 FY27: revenue +26% YoY, PAT -26% YoY",
-   "why": null,
-   "score": 88,
-   "reasons": [
-    "PAT -26% YoY"
-   ],
-   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTI_27102026152412_QuickResults_27Oct2026_signed.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Outcome of Board Meeting",
-   "ts": "2026-10-27T20:30:49",
-   "related": [
-    {
-     "id": "106830231",
-     "headline": "Investor Presentation",
-     "subject": "Investor Presentation",
-     "pdf": "https://nsearchives.nseindia.in/corporate/MARUTI_27102026154352_STxIntimation_InvestorPresentation_27Oct2026.pdf",
-     "ts": "2026-10-27T15:44:33",
-     "category": "results"
-    },
-    {
-     "id": "106831073",
-     "headline": "Audio Recording of the investors' call held on 27th October 2026",
-     "subject": "General Updates",
-     "pdf": "https://nsearchives.nseindia.in/corporate/MARUTIASHISH_27102026202705_SubmissionofAudioRecordings.pdf",
-     "ts": "2026-10-27T20:30:49",
-     "category": "earnings_call"
-    }
-   ],
-   "results": {
-    "symbol": "MARUTI",
-    "quarter": "Q2 FY27",
-    "quarter_end": "2026-09-30",
-    "basis": "Consolidated",
-    "kind": "corporate",
-    "source": "https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1747193_27102026073131_WEB.xml",
-    "derived": [],
-    "metrics": [
-     {
-      "key": "revenue",
-      "label": "Revenue",
-      "value": 53355.5,
-      "qoq": 1.7,
-      "yoy": 26.0,
-      "prev_q": 52469.8,
-      "prev_y": 42344.2
-     },
-     {
-      "key": "ebitda",
-      "label": "EBITDA",
-      "value": 5177.7,
-      "qoq": -16.3,
-      "yoy": -14.2,
-      "prev_q": 6187.3,
-      "prev_y": 6032.2
-     },
-     {
-      "key": "pbt",
-      "label": "PBT",
-      "value": 3150.1,
-      "qoq": -27.5,
-      "yoy": -26.3,
-      "prev_q": 4343.5,
-      "prev_y": 4272.0
-     },
-     {
-      "key": "pat",
-      "label": "PAT",
-      "value": 2466.1,
-      "qoq": -28.5,
-      "yoy": -26.4,
-      "prev_q": 3446.9,
-      "prev_y": 3349.0
-     }
-    ],
-    "ebitda_margin": 9.7,
-    "ebitda_margin_bps_yoy": -454
-   },
-   "tier": "act",
-   "label": "Results"
-  },
-  {
-   "id": "106829496",
-   "symbol": "HDFCBANK",
-   "company": "HDFC Bank Limited",
-   "category": "management_change",
-   "headline": "Anup Bagchi assumes charge as MD & CEO succeeding Sashidhar Jagdishan",
-   "why": "Top-level leadership change at the largest private sector bank by assets.",
+   "id": "106872500",
+   "symbol": "COALINDIA",
+   "company": "Coal India Limited",
+   "category": "fund_raise",
+   "headline": "Mahanadi Coalfields completes IPO of 66.18 crore shares at Rs 136 per share",
+   "why": "Coal India reduced its shareholding in Mahanadi Coalfields from 100% to 90%, raising funds through IPO.",
    "score": 87,
    "reasons": [
-    "top-level role"
+    "₹9,001 cr ≈ 3.8% of market cap"
    ],
-   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK_27102026080232_SEIntimation_appt_of_AB.pdf",
-   "people": [
-    {
-     "name": "Anup Bagchi",
-     "role": "Managing Director and Chief Executive Officer",
-     "change": "appointed",
-     "effective": "October 27, 2026",
-     "background": null,
-     "previous": null,
-     "reason": null
-    },
-    {
-     "name": "Sashidhar Jagdishan",
-     "role": "Managing Director and Chief Executive Officer",
-     "change": "retired",
-     "effective": "October 26, 2026",
-     "background": null,
-     "previous": null,
-     "reason": "completion of his tenure"
-    }
-   ],
+   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_27112026111158_mcl-letter_to_stock_exchage.pdf",
+   "people": [],
    "read_by": "gemini-3.5-flash-lite",
    "subject": "General Updates",
-   "ts": "2026-10-27T08:02:54",
+   "ts": "2026-11-27T11:12:19",
    "related": [],
    "tier": "act",
-   "label": "Management"
+   "label": "Fund raise"
   },
   {
    "id": "106856505",
@@ -10745,7 +10562,7 @@
    "why": "Expands renewable energy infrastructure with 1,800 MW capacity addition over 51 months.",
    "score": 84,
    "reasons": [
-    "₹11,871 cr ≈ 11.5% of market cap"
+    "₹11,871 cr ≈ 11.6% of market cap"
    ],
    "pdf": "https://nsearchives.nseindia.in/corporate/VPTPCL_11112026174200_Reg_30_Capacity_Addition_Shirwata.pdf",
    "people": [],
@@ -11855,26 +11672,6 @@
    "label": "Earnings call"
   },
   {
-   "id": "106830405",
-   "symbol": "ETERNAL",
-   "company": "ETERNAL LIMITED",
-   "category": "earnings_call",
-   "headline": "Eternal Limited has filed with exchange transcript of earnings conference call conducted on October 21, 2026",
-   "why": null,
-   "score": 40,
-   "reasons": [
-    "transcript: feeds research"
-   ],
-   "pdf": "https://nsearchives.nseindia.in/corporate/ZOMATO_27102026165119_Transcript_of_the_earnings_conference_call_September_2026signed.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "ts": "2026-10-27T16:52:27",
-   "related": [],
-   "tier": "glance",
-   "label": "Earnings call"
-  },
-  {
    "id": "106870219",
    "symbol": "LT",
    "company": "Larsen & Toubro Limited",
@@ -12319,80 +12116,6 @@
    "label": "Press release"
   },
   {
-   "id": "106830222",
-   "symbol": "MARUTI",
-   "company": "Maruti Suzuki India Limited",
-   "category": "press_release",
-   "headline": "A press release dated October 27, 2026, titled \"Maruti Suzuki India Limited Financial Results Q2 and H1 FY 2026-27",
-   "why": null,
-   "score": 32,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTI_27102026153704_STxIntimation_PR_27Oct2026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Press Release",
-   "ts": "2026-10-27T15:39:59",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
-   "id": "106829888",
-   "symbol": "COALINDIA",
-   "company": "Coal India Limited",
-   "category": "press_release",
-   "headline": "A press release dated October 27, 2026, titled \"Press Release on  Coal India Logs 27% Growth in Capex During H1 FY 27; Achieves 109% of Planned Outlay",
-   "why": null,
-   "score": 32,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_27102026124649_Press_Release_as_on_271026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Press Release",
-   "ts": "2026-10-27T12:46:59",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
-   "id": "106829852",
-   "symbol": "TATAPOWER",
-   "company": "Tata Power Company Limited",
-   "category": "press_release",
-   "headline": "A press release dated October 27, 2026, titled \"Tata Power Signs MoU with BPCL to Develop 110 kV Power Infrastructure for its Landmark PRFCCU Project at Mumbai Refinery",
-   "why": null,
-   "score": 32,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/KSTPCL_27102026121922_PressRelease27102026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Press Release",
-   "ts": "2026-10-27T12:19:46",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
-   "id": "106829683",
-   "symbol": "LT",
-   "company": "Larsen & Toubro Limited",
-   "category": "press_release",
-   "headline": "Bagging/Receiving of orders/contracts",
-   "why": null,
-   "score": 32,
-   "reasons": [
-    "order win, value undisclosed"
-   ],
-   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_27102026101631_PressRelease27102026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Bagging/Receiving of orders/contracts",
-   "ts": "2026-10-27T10:16:48",
-   "related": [],
-   "tier": "routine",
-   "label": "Press release"
-  },
-  {
    "id": "106870715",
    "symbol": "HDFCBANK",
    "company": "HDFC Bank Limited",
@@ -12421,33 +12144,6 @@
    "related": [],
    "tier": "routine",
    "label": "Management"
-  },
-  {
-   "id": "106830931",
-   "symbol": "RELIANCE",
-   "company": "Reliance Industries Limited",
-   "category": "results",
-   "headline": "The meeting of the Board of Directors of the Company is scheduled on October 30, 2026, inter alia, to consider and approve a. the standalone and consolidated unaudited financial results of the Company for the quarter and half year ended September 30, 2026; and b. raising of funds by way of issuance of listed, secured / unsecured, redeemable non-convertible debentures on private placement basis, in one or more tranches. The Company will hold an analyst meet, post the Board Meeting, to discuss the financial results for the quarter and half year ended September 30, 2026",
-   "why": null,
-   "score": 30,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/kavinavora_27102026191700_SE_27102026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "ts": "2026-10-27T22:11:29",
-   "related": [
-    {
-     "id": "106831152",
-     "headline": "Trading in equity shares of Jio Platforms Limited (JPL) will commence from October 28, 2026.Further, a meeting of board of directors of JPL is scheduled to be held on Friday, October 30, 2026, inter alia, to consider and approve the standalone and consolidated unaudited financial results of JPL for the quarter and half year ended September 30, 2026",
-     "subject": "General Updates",
-     "pdf": "https://nsearchives.nseindia.in/corporate/kavinavora_27102026220855_RIL_SELETTER_271026.pdf",
-     "ts": "2026-10-27T22:11:29",
-     "category": "results"
-    }
-   ],
-   "tier": "routine",
-   "label": "Results"
   },
   {
    "id": "106868969",
@@ -12694,25 +12390,40 @@
    "label": "AGM / EGM"
   },
   {
-   "id": "106829976",
-   "symbol": "MARUTI",
-   "company": "Maruti Suzuki India Limited",
-   "category": "M&A",
-   "headline": "Incorporation of wholly owned subsidiary Osamu Suzuki Centre of Excellence (OSCOE) Foundation for INR 100,000",
-   "why": "Subsidiary incorporation under Section 8 for Corporate Social Responsibility activities involving nominal capital outlay.",
-   "score": 12,
-   "reasons": [
-    "new subsidiary set up (housekeeping)",
-    "₹0 cr, small vs size (<0.01% of m-cap)"
-   ],
-   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTI_27102026131704_Letter_to_Exchange.pdf",
+   "id": "106872655",
+   "symbol": "DIXON",
+   "company": "Dixon Technologies (India) Limited",
+   "category": "investor_meetings",
+   "headline": "Analyst/Institutional Investor Meet  Outcome",
+   "why": null,
+   "score": 8,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.in/corporate/DIXON_27112026141544_InvestorMeetOutcome27112026.pdf",
    "people": [],
-   "read_by": "gemini-3.5-flash-lite",
-   "subject": "Acquisition",
-   "ts": "2026-10-27T13:18:06",
+   "read_by": null,
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "ts": "2026-11-27T14:18:49",
    "related": [],
    "tier": "routine",
-   "label": "M&A"
+   "label": "Investor meet"
+  },
+  {
+   "id": "106872611",
+   "symbol": "ASIANPAINT",
+   "company": "Asian Paints Limited",
+   "category": "investor_meetings",
+   "headline": "The Company vide its letter no. APL/SEC/57/2026-27/44 dated 23rd November 2026 had informed that the Company, through its representatives, would be participating in a One - on -One meeting with Capital International, an Institutional Investor, at Mumbai on 27th November 2026, 11.00 a.m. IST onwards. We wish to inform you that the said meeting has been cancelled due to unforeseen exigencies",
+   "why": null,
+   "score": 8,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_27112026130734_SEINTIMATIONANALYSTMEETSNOV2026_-_cancelled.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "ts": "2026-11-27T13:07:45",
+   "related": [],
+   "tier": "routine",
+   "label": "Investor meet"
   },
   {
    "id": "106871807",
@@ -13633,58 +13344,40 @@
    "label": "Investor meet"
   },
   {
-   "id": "106830897",
-   "symbol": "POLYCAB",
-   "company": "Polycab India Limited",
-   "category": "investor_meetings",
-   "headline": "Analyst(s)/Investor(s) meet",
+   "id": "106872810",
+   "symbol": "HDFCBANK",
+   "company": "HDFC Bank Limited",
+   "category": "unclassified",
+   "headline": "Copy of Newspaper Publication",
    "why": null,
-   "score": 8,
+   "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/POLYCAB_27102026190410_Intimationtostockexchange.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/HDFCBANK_27112026160926_SEspecialwindowfortransferAdv27112026.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Copy of Newspaper Publication",
+   "ts": "2026-11-27T16:12:40",
+   "related": [],
+   "tier": "routine",
+   "label": "Routine"
+  },
+  {
+   "id": "106872720",
+   "symbol": "PERSISTENT",
+   "company": "Persistent Systems Limited",
+   "category": "unclassified",
+   "headline": "General Updates",
+   "why": null,
+   "score": 4,
+   "reasons": [],
+   "pdf": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_27112026144800_IntimationofscheduledpurchasefromthesecondarymarketNov2026Sd.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
-   "ts": "2026-10-27T19:04:27",
+   "ts": "2026-11-27T14:48:23",
    "related": [],
    "tier": "routine",
-   "label": "Investor meet"
-  },
-  {
-   "id": "106830809",
-   "symbol": "LT",
-   "company": "Larsen & Toubro Limited",
-   "category": "investor_meetings",
-   "headline": "Analyst Presentation.- Q2 / H1 FY27",
-   "why": null,
-   "score": 8,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_27102026183653_AnalystPresentationSep2026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Updates",
-   "ts": "2026-10-27T18:37:19",
-   "related": [],
-   "tier": "routine",
-   "label": "Investor meet"
-  },
-  {
-   "id": "106830136",
-   "symbol": "TATAPOWER",
-   "company": "Tata Power Company Limited",
-   "category": "investor_meetings",
-   "headline": "Schedule of meet",
-   "why": null,
-   "score": 8,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/KSTPCL_27102026150011_Letter_to_SE_Analyst_Meet_27102026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "ts": "2026-10-27T15:00:42",
-   "related": [],
-   "tier": "routine",
-   "label": "Investor meet"
+   "label": "Routine"
   },
   {
    "id": "106871823",
@@ -14963,107 +14656,9 @@
    "related": [],
    "tier": "routine",
    "label": "Routine"
-  },
-  {
-   "id": "106830830",
-   "symbol": "POLYCAB",
-   "company": "Polycab India Limited",
-   "category": "unclassified",
-   "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/POLYCAB_27102026184209_IntimationtoStockExchange.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-   "ts": "2026-10-27T18:42:35",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106830365",
-   "symbol": "TATAPOWER",
-   "company": "Tata Power Company Limited",
-   "category": "unclassified",
-   "headline": "Copy of Newspaper Publication",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/KSTPCL_27102026164026_Newspaper-Loss_of_Share_certificate.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Copy of Newspaper Publication",
-   "ts": "2026-10-27T16:40:41",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106829991",
-   "symbol": "LT",
-   "company": "Larsen & Toubro Limited",
-   "category": "unclassified",
-   "headline": "Allotment of 21098 securities pursuant to ESOP/ESPS at its meeting held on October 27, 2026",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_27102026132854_ESOPAllotment27102026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Allotment of Securities",
-   "ts": "2026-10-27T13:29:18",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106829935",
-   "symbol": "COALINDIA",
-   "company": "Coal India Limited",
-   "category": "unclassified",
-   "headline": "Copy of Newspaper Publication on  Notice of Board Meeting",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_27102026125915_NP_271026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Copy of Newspaper Publication",
-   "ts": "2026-10-27T12:59:33",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106829925",
-   "symbol": "COALINDIA",
-   "company": "Coal India Limited",
-   "category": "unclassified",
-   "headline": "Copy of Newspaper Publication on  Notice of Board Meeting",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_27102026125541_NP_271026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Copy of Newspaper Publication",
-   "ts": "2026-10-27T12:55:56",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
   }
  ],
  "upcoming": [
-  {
-   "symbol": "ASIANPAINT",
-   "date": "2026-11-27",
-   "kind": "investor_meetings",
-   "title": "Investor meeting",
-   "detail": "This is to inform you that the management representatives would be meeting the members of the Promoter(s) & Promoter(s) Group on Friday, 27th November 2026, 4.0",
-   "source": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_24112026142403_SEINTIMATIONPROMOTERMEETNOV2026signed.pdf"
-  },
   {
    "symbol": "BAJFINANCE",
    "date": "2026-12-07",
@@ -15109,11 +14704,13 @@
   ]
  },
  "llm": {
-  "calls": 0,
+  "calls": 1,
   "cached": 0,
-  "in": 0,
-  "out": 0,
-  "models": [],
-  "remembered": 42
+  "in": 1126,
+  "out": 102,
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "remembered": 40
  }
 }
