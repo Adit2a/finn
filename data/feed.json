@@ -1,18 +1,13 @@
 {
- "generated_at": "2026-11-28T01:28:41",
+ "generated_at": "2026-11-28T16:17:27",
  "window_days": 30,
  "holdings": [
   {
    "symbol": "RELIANCE",
    "name": "Reliance Industries",
    "sector": "Conglomerate",
-   "mcap_cr": 1870071.0,
+   "mcap_cr": 1871008.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 1327.2,
-     "v": 18302218
-    },
     {
      "d": "2026-07-20",
      "c": 1323.1,
@@ -457,6 +452,11 @@
      "d": "2026-11-26",
      "c": 1396.2,
      "v": 20028816
+    },
+    {
+     "d": "2026-11-27",
+     "c": 1382.6,
+     "v": 12173225
     }
    ]
   },
@@ -464,13 +464,8 @@
    "symbol": "HDFCBANK",
    "name": "HDFC Bank",
    "sector": "Bank",
-   "mcap_cr": 1315814.0,
+   "mcap_cr": 1323065.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 819.6,
-     "v": 17415322
-    },
     {
      "d": "2026-07-20",
      "c": 777.6,
@@ -915,6 +910,11 @@
      "d": "2026-11-26",
      "c": 862.0,
      "v": 70517167
+    },
+    {
+     "d": "2026-11-27",
+     "c": 857.25,
+     "v": 32950848
     }
    ]
   },
@@ -922,13 +922,8 @@
    "symbol": "BAJFINANCE",
    "name": "Bajaj Finance",
    "sector": "NBFC",
-   "mcap_cr": 684014.0,
+   "mcap_cr": 684731.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 1056.3,
-     "v": 12882360
-    },
     {
      "d": "2026-07-20",
      "c": 1064.0,
@@ -1373,6 +1368,11 @@
      "d": "2026-11-26",
      "c": 1097.85,
      "v": 7790374
+    },
+    {
+     "d": "2026-11-27",
+     "c": 1080.0,
+     "v": 6877133
     }
    ]
   },
@@ -1380,13 +1380,8 @@
    "symbol": "TCS",
    "name": "TCS",
    "sector": "IT services",
-   "mcap_cr": 930859.0,
+   "mcap_cr": 930753.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 2269.0,
-     "v": 5615138
-    },
     {
      "d": "2026-07-20",
      "c": 2251.1,
@@ -1831,6 +1826,11 @@
      "d": "2026-11-26",
      "c": 2640.3,
      "v": 5534593
+    },
+    {
+     "d": "2026-11-27",
+     "c": 2572.5,
+     "v": 3272501
     }
    ]
   },
@@ -1838,13 +1838,8 @@
    "symbol": "PERSISTENT",
    "name": "Persistent Systems",
    "sector": "IT services",
-   "mcap_cr": 105153.0,
+   "mcap_cr": 104807.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 5183.9,
-     "v": 532124
-    },
     {
      "d": "2026-07-20",
      "c": 5188.7,
@@ -2289,6 +2284,11 @@
      "d": "2026-11-26",
      "c": 6200.0,
      "v": 484479
+    },
+    {
+     "d": "2026-11-27",
+     "c": 6320.0,
+     "v": 539979
     }
    ]
   },
@@ -2296,13 +2296,8 @@
    "symbol": "SUNPHARMA",
    "name": "Sun Pharma",
    "sector": "Pharma",
-   "mcap_cr": 456505.0,
+   "mcap_cr": 455850.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 1932.6,
-     "v": 2475664
-    },
     {
      "d": "2026-07-20",
      "c": 1956.4,
@@ -2747,6 +2742,11 @@
      "d": "2026-11-26",
      "c": 1915.7,
      "v": 2313221
+    },
+    {
+     "d": "2026-11-27",
+     "c": 1899.9,
+     "v": 1653921
     }
    ]
   },
@@ -2754,13 +2754,8 @@
    "symbol": "DIXON",
    "name": "Dixon Technologies",
    "sector": "Electronics mfg",
-   "mcap_cr": 80277.0,
+   "mcap_cr": 80416.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 14329.0,
-     "v": 674412
-    },
     {
      "d": "2026-07-20",
      "c": 14589.0,
@@ -3205,6 +3200,11 @@
      "d": "2026-11-26",
      "c": 12718.0,
      "v": 413125
+    },
+    {
+     "d": "2026-11-27",
+     "c": 13138.0,
+     "v": 412746
     }
    ]
   },
@@ -3212,13 +3212,8 @@
    "symbol": "TITAN",
    "name": "Titan",
    "sector": "Consumer",
-   "mcap_cr": 415076.0,
+   "mcap_cr": 415067.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 4638.1,
-     "v": 667212
-    },
     {
      "d": "2026-07-20",
      "c": 4643.4,
@@ -3663,6 +3658,11 @@
      "d": "2026-11-26",
      "c": 4631.1,
      "v": 914123
+    },
+    {
+     "d": "2026-11-27",
+     "c": 4675.3,
+     "v": 1520101
     }
    ]
   },
@@ -3672,11 +3672,6 @@
    "sector": "Consumer",
    "mcap_cr": 242926.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 2689.0,
-     "v": 452284
-    },
     {
      "d": "2026-07-20",
      "c": 2691.4,
@@ -4121,6 +4116,11 @@
      "d": "2026-11-26",
      "c": 2543.0,
      "v": 938757
+    },
+    {
+     "d": "2026-11-27",
+     "c": 2532.6,
+     "v": 523618
     }
    ]
   },
@@ -4128,13 +4128,8 @@
    "symbol": "MARUTI",
    "name": "Maruti Suzuki",
    "sector": "Auto",
-   "mcap_cr": 432621.0,
+   "mcap_cr": 432775.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 13803.0,
-     "v": 237330
-    },
     {
      "d": "2026-07-20",
      "c": 13514.0,
@@ -4579,6 +4574,11 @@
      "d": "2026-11-26",
      "c": 14015.0,
      "v": 455910
+    },
+    {
+     "d": "2026-11-27",
+     "c": 13765.0,
+     "v": 392664
     }
    ]
   },
@@ -4586,13 +4586,8 @@
    "symbol": "LT",
    "name": "Larsen & Toubro",
    "sector": "Infra / EPC",
-   "mcap_cr": 564080.0,
+   "mcap_cr": 565295.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 3814.5,
-     "v": 1942610
-    },
     {
      "d": "2026-07-20",
      "c": 3838.8,
@@ -5037,6 +5032,11 @@
      "d": "2026-11-26",
      "c": 4132.1,
      "v": 1202942
+    },
+    {
+     "d": "2026-11-27",
+     "c": 4108.5,
+     "v": 998067
     }
    ]
   },
@@ -5044,13 +5044,8 @@
    "symbol": "ETERNAL",
    "name": "Eternal (Zomato)",
    "sector": "Internet",
-   "mcap_cr": 350070.0,
+   "mcap_cr": 350308.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 286.6,
-     "v": 17477557
-    },
     {
      "d": "2026-07-20",
      "c": 286.95,
@@ -5495,6 +5490,11 @@
      "d": "2026-11-26",
      "c": 367.7,
      "v": 24718884
+    },
+    {
+     "d": "2026-11-27",
+     "c": 363.0,
+     "v": 18960033
     }
    ]
   },
@@ -5504,11 +5504,6 @@
    "sector": "Retail",
    "mcap_cr": 174527.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 2842.4,
-     "v": 791066
-    },
     {
      "d": "2026-07-20",
      "c": 2925.9,
@@ -5953,6 +5948,11 @@
      "d": "2026-11-26",
      "c": 3262.6,
      "v": 528469
+    },
+    {
+     "d": "2026-11-27",
+     "c": 3273.0,
+     "v": 579274
     }
    ]
   },
@@ -5960,13 +5960,8 @@
    "symbol": "POLYCAB",
    "name": "Polycab",
    "sector": "Cables",
-   "mcap_cr": 111432.0,
+   "mcap_cr": 111962.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 8862.0,
-     "v": 727314
-    },
     {
      "d": "2026-07-20",
      "c": 8885.0,
@@ -6411,6 +6406,11 @@
      "d": "2026-11-26",
      "c": 7350.0,
      "v": 594715
+    },
+    {
+     "d": "2026-11-27",
+     "c": 7429.0,
+     "v": 507320
     }
    ]
   },
@@ -6418,13 +6418,8 @@
    "symbol": "HAL",
    "name": "Hindustan Aeronautics",
    "sector": "Defence PSU",
-   "mcap_cr": 339378.0,
+   "mcap_cr": 339336.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 4500.7,
-     "v": 658032
-    },
     {
      "d": "2026-07-20",
      "c": 4491.0,
@@ -6869,6 +6864,11 @@
      "d": "2026-11-26",
      "c": 4909.6,
      "v": 680832
+    },
+    {
+     "d": "2026-11-27",
+     "c": 5074.0,
+     "v": 2412050
     }
    ]
   },
@@ -6876,13 +6876,8 @@
    "symbol": "DEEPAKNTR",
    "name": "Deepak Nitrite",
    "sector": "Chemicals",
-   "mcap_cr": 20990.0,
+   "mcap_cr": 20991.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 1708.0,
-     "v": 153400
-    },
     {
      "d": "2026-07-20",
      "c": 1689.7,
@@ -7327,6 +7322,11 @@
      "d": "2026-11-26",
      "c": 1521.8,
      "v": 113633
+    },
+    {
+     "d": "2026-11-27",
+     "c": 1539.0,
+     "v": 158255
     }
    ]
   },
@@ -7334,13 +7334,8 @@
    "symbol": "COALINDIA",
    "name": "Coal India",
    "sector": "Mining PSU",
-   "mcap_cr": 239576.0,
+   "mcap_cr": 239638.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 427.65,
-     "v": 4142036
-    },
     {
      "d": "2026-07-20",
      "c": 429.4,
@@ -7785,6 +7780,11 @@
      "d": "2026-11-26",
      "c": 388.9,
      "v": 5689206
+    },
+    {
+     "d": "2026-11-27",
+     "c": 388.85,
+     "v": 7264118
     }
    ]
   },
@@ -7794,11 +7794,6 @@
    "sector": "Utilities",
    "mcap_cr": 102267.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 377.25,
-     "v": 2626498
-    },
     {
      "d": "2026-07-20",
      "c": 384.3,
@@ -8243,6 +8238,11 @@
      "d": "2026-11-26",
      "c": 323.5,
      "v": 5577655
+    },
+    {
+     "d": "2026-11-27",
+     "c": 320.05,
+     "v": 7955315
     }
    ]
   },
@@ -8250,13 +8250,8 @@
    "symbol": "ZYDUSLIFE",
    "name": "Zydus Lifesciences",
    "sector": "",
-   "mcap_cr": 115566.0,
+   "mcap_cr": 115401.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 1143.7,
-     "v": 1240517
-    },
     {
      "d": "2026-07-20",
      "c": 1149.0,
@@ -8701,6 +8696,11 @@
      "d": "2026-11-26",
      "c": 1194.2,
      "v": 2435694
+    },
+    {
+     "d": "2026-11-27",
+     "c": 1156.9,
+     "v": 2547735
     }
    ]
   },
@@ -8708,13 +8708,8 @@
    "symbol": "HSCL",
    "name": "Himadri Speciality Chemical",
    "sector": "",
-   "mcap_cr": 27683.0,
+   "mcap_cr": 27714.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 741.55,
-     "v": 18316544
-    },
     {
      "d": "2026-07-20",
      "c": 769.9,
@@ -9159,6 +9154,11 @@
      "d": "2026-11-26",
      "c": 545.25,
      "v": 506552
+    },
+    {
+     "d": "2026-11-27",
+     "c": 549.25,
+     "v": 1219564
     }
    ]
   },
@@ -9166,13 +9166,8 @@
    "symbol": "ZEEMEDIA",
    "name": "Zee Media Corporation",
    "sector": "",
-   "mcap_cr": 444.0,
+   "mcap_cr": 449.0,
    "series": [
-    {
-     "d": "2026-07-17",
-     "c": 8.17,
-     "v": 468362
-    },
     {
      "d": "2026-07-20",
      "c": 8.08,
@@ -9617,6 +9612,11 @@
      "d": "2026-11-26",
      "c": 6.86,
      "v": 196005
+    },
+    {
+     "d": "2026-11-27",
+     "c": 6.85,
+     "v": 291560
     }
    ]
   }
@@ -10855,33 +10855,6 @@
    "label": "Management"
   },
   {
-   "id": "106831536",
-   "symbol": "POLYCAB",
-   "company": "Polycab India Limited",
-   "category": "litigation",
-   "headline": "NCLAT directs MSCI not to delist Polycab stock till order pronouncement.",
-   "why": "Prevents potential index delisting of Polycab stock pending NCLAT order pronouncement.",
-   "score": 74,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/POLYCAB_28102026102430_StockExchangeintimation27102026.pdf",
-   "people": [],
-   "read_by": "gemini-3.5-flash-lite",
-   "subject": "Corporate Insolvency Resolution Process",
-   "ts": "2026-10-30T12:20:09",
-   "related": [
-    {
-     "id": "106836029",
-     "headline": "The order passed by NCLAT setting aside the order of NCLT Ahmedabad bench dated October 07, 2026",
-     "subject": "Corporate Insolvency Resolution Process",
-     "pdf": "https://nsearchives.nseindia.in/corporate/POLYCAB_30102026121954_SECIRP30102026.pdf",
-     "ts": "2026-10-30T12:20:09",
-     "category": "litigation"
-    }
-   ],
-   "tier": "act",
-   "label": "Legal / regulatory"
-  },
-  {
    "id": "106836531",
    "symbol": "DIXON",
    "company": "Dixon Technologies (India) Limited",
@@ -11146,6 +11119,26 @@
    "label": "Management"
   },
   {
+   "id": "106836029",
+   "symbol": "POLYCAB",
+   "company": "Polycab India Limited",
+   "category": "litigation",
+   "headline": "The order passed by NCLAT setting aside the order of NCLT Ahmedabad bench dated October 07, 2026",
+   "why": null,
+   "score": 58,
+   "reasons": [
+    "ruling in company's favour"
+   ],
+   "pdf": "https://nsearchives.nseindia.in/corporate/POLYCAB_30102026121954_SECIRP30102026.pdf",
+   "people": [],
+   "read_by": null,
+   "subject": "Corporate Insolvency Resolution Process",
+   "ts": "2026-10-30T12:20:09",
+   "related": [],
+   "tier": "glance",
+   "label": "Legal / regulatory"
+  },
+  {
    "id": "106838526",
    "symbol": "ZYDUSLIFE",
    "company": "Zydus Lifesciences Limited",
@@ -11226,43 +11219,6 @@
    "read_by": "gemini-3.1-flash-lite",
    "subject": "Change in Management",
    "ts": "2026-10-31T22:16:44",
-   "related": [],
-   "tier": "glance",
-   "label": "Management"
-  },
-  {
-   "id": "106832710",
-   "symbol": "HAL",
-   "company": "Hindustan Aeronautics Limited",
-   "category": "management_change",
-   "headline": "Shri P B Rangarao appointed as Director (Operations) effective 28th October, 2026",
-   "why": "New Director (Operations) appointed for a five-year term, and CMD ceases additional charge.",
-   "score": 49,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/HAL_28102026180358_changeinmanagement_Dops_Signed.pdf",
-   "people": [
-    {
-     "name": "Shri P B Rangarao",
-     "role": "Director (Operations)",
-     "change": "appointed",
-     "effective": "28th October, 2026",
-     "background": "Holds a Bachelor's degree in Mechanical Engineering from Regional Engineering College, Warangal, and a Post Graduate Diploma in Business Management from XIME, Bengaluru. Completed a Leadership Development Program from IIM, Ahmedabad. Joined HAL on July 17, 1995, with over three decades of experience.",
-     "previous": "Chief Executive Officer (Helicopter Complex)",
-     "reason": null
-    },
-    {
-     "name": "Shri Kota Ravi",
-     "role": "Director (Operations)",
-     "change": "resigned",
-     "effective": "28th October, 2026",
-     "background": null,
-     "previous": "Chairman and Managing Director holding additional charge of Director (Operations)",
-     "reason": "Appointment of Shri P B Rangarao"
-    }
-   ],
-   "read_by": "gemini-3.5-flash-lite",
-   "subject": "Change in Director(s)",
-   "ts": "2026-10-28T18:04:19",
    "related": [],
    "tier": "glance",
    "label": "Management"
@@ -11650,26 +11606,6 @@
    "related": [],
    "tier": "glance",
    "label": "Results"
-  },
-  {
-   "id": "106832814",
-   "symbol": "HSCL",
-   "company": "Himadri Speciality Chemical Limited",
-   "category": "earnings_call",
-   "headline": "Transcript of Earnings Conference Call for Financial Performance for the 2nd Quarter and Half Year ended 30 September 2026 held on Thursday, 22 October 2026",
-   "why": null,
-   "score": 40,
-   "reasons": [
-    "transcript: feeds research"
-   ],
-   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_28102026182544_HSCLTranscriptQ2FY27.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "ts": "2026-10-28T18:26:16",
-   "related": [],
-   "tier": "glance",
-   "label": "Earnings call"
   },
   {
    "id": "106870219",
@@ -12206,26 +12142,6 @@
    "label": "Credit rating"
   },
   {
-   "id": "106831940",
-   "symbol": "TITAN",
-   "company": "Titan Company Limited",
-   "category": "M&A",
-   "headline": "The Company has incorporated Titan Company Canada Inc. as its wholly owned subsidiary",
-   "why": null,
-   "score": 22,
-   "reasons": [
-    "new subsidiary set up (housekeeping)"
-   ],
-   "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_28102026134838_SEIntimation_-_Canada_Incorporation.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Acquisition",
-   "ts": "2026-10-28T13:49:00",
-   "related": [],
-   "tier": "routine",
-   "label": "M&A"
-  },
-  {
    "id": "106845760",
    "symbol": "RELIANCE",
    "company": "Reliance Industries Limited",
@@ -12367,24 +12283,6 @@
    "read_by": null,
    "subject": "Shareholders meeting",
    "ts": "2026-11-02T19:31:06",
-   "related": [],
-   "tier": "routine",
-   "label": "AGM / EGM"
-  },
-  {
-   "id": "106831984",
-   "symbol": "HSCL",
-   "company": "Himadri Speciality Chemical Limited",
-   "category": "agm_egm",
-   "headline": "Proceedings of Postal Ballot and Voting Results along with Scrutinizer s Report",
-   "why": null,
-   "score": 14,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_28102026141358_StockExoutcome_Postal_Ballot.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Shareholders meeting",
-   "ts": "2026-10-28T14:14:27",
    "related": [],
    "tier": "routine",
    "label": "AGM / EGM"
@@ -13344,22 +13242,22 @@
    "label": "Investor meet"
   },
   {
-   "id": "106832611",
-   "symbol": "POLYCAB",
-   "company": "Polycab India Limited",
-   "category": "investor_meetings",
-   "headline": "Analyst(s)/Investor(s) meet",
+   "id": "106873341",
+   "symbol": "COALINDIA",
+   "company": "Coal India Limited",
+   "category": "unclassified",
+   "headline": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015 - Imposition of fine by BSE and NSE",
    "why": null,
-   "score": 8,
+   "score": 4,
    "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/POLYCAB_28102026174326_Intimationtostockexchange.pdf",
+   "pdf": "https://nsearchives.nseindia.in/corporate/COALINDIA_28112026100606_Fine_Sep_26.pdf",
    "people": [],
    "read_by": null,
    "subject": "General Updates",
-   "ts": "2026-10-28T17:43:39",
+   "ts": "2026-11-28T10:06:22",
    "related": [],
    "tier": "routine",
-   "label": "Investor meet"
+   "label": "Routine"
   },
   {
    "id": "106872810",
@@ -14602,78 +14500,6 @@
    "related": [],
    "tier": "routine",
    "label": "Routine"
-  },
-  {
-   "id": "106833097",
-   "symbol": "LT",
-   "company": "Larsen & Toubro Limited",
-   "category": "unclassified",
-   "headline": "Copy of Newspaper Publication",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/PAM_28102026194657_NewspaperAdvtSep2026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Copy of Newspaper Publication",
-   "ts": "2026-10-28T19:47:25",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106832941",
-   "symbol": "HSCL",
-   "company": "Himadri Speciality Chemical Limited",
-   "category": "unclassified",
-   "headline": "The Amendment to AOA/MOA of the company",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/HSCL_28102026185223_Alteration_of_Memorandum_of_Association.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Amendment to AOA/MOA",
-   "ts": "2026-10-28T18:53:14",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106832541",
-   "symbol": "TITAN",
-   "company": "Titan Company Limited",
-   "category": "unclassified",
-   "headline": "Copy of Newspaper Publication",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/TITAN_28102026172546_SEnewspaperadlossofshares.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Copy of Newspaper Publication",
-   "ts": "2026-10-28T17:26:00",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
-  },
-  {
-   "id": "106831569",
-   "symbol": "MARUTI",
-   "company": "Maruti Suzuki India Limited",
-   "category": "unclassified",
-   "headline": "Copy of Newspaper Publication",
-   "why": null,
-   "score": 4,
-   "reasons": [],
-   "pdf": "https://nsearchives.nseindia.in/corporate/MARUTI_28102026103729_STxIntimation_NP_27Oct2026.pdf",
-   "people": [],
-   "read_by": null,
-   "subject": "Copy of Newspaper Publication",
-   "ts": "2026-10-28T10:38:47",
-   "related": [],
-   "tier": "routine",
-   "label": "Routine"
   }
  ],
  "upcoming": [
@@ -14727,6 +14553,6 @@
   "in": 0,
   "out": 0,
   "models": [],
-  "remembered": 41
+  "remembered": 39
  }
 }
